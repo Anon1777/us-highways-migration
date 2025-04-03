@@ -1,3 +1,3 @@
-<?php include "/static/top.php"; ?>
+<?php include "../static/top.php"; ?>
 
-<?php include "/static/bottom.php"; ?>
+<?php include "../static/bottom.php"; ?>
