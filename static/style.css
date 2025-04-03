@@ -1,0 +1,41 @@
+* {
+    max-width: 1920px;
+    overflow-x: hidden;
+}
+
+.branded-img {
+    height:100px;
+    width:100px;
+}
+
+@font-face {
+    font-family: "RoadGeek 2014 B";
+    src: url("fonts/RG2014B.ttf");
+}
+
+@font-face {
+    font-family: "RoadGeek 2014 C";
+    src: url("fonts/RG2014C.ttf");
+}
+
+@font-face {
+    font-family: "RoadGeek 2014 D";
+    src: url("fonts/RG2014D.ttf");
+}
+
+@font-face {
+    font-family: "RoadGeek 2014 E";
+    src: url("fonts/RG2014E.ttf");
+}
+
+h1 {
+    font-family: "RoadGeek 2014 E";
+}
+
+h3 {
+    font-family: "RoadGeek 2014 C";
+}
+
+.container {
+    margin-top: 100px;
+}
