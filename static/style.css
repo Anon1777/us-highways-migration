@@ -39,3 +39,11 @@ h3 {
 .container {
     margin-top: 100px;
 }
+
+nav {
+    background-color: #232327;
+}
+
+.nav-link {
+    color: white;
+}

@@ -11,7 +11,7 @@
     <div class="nav">
         <nav class="navbar fixed-top navbar-expand-lg">
             <div class="container-fluid">
-                <a class="navbar-brand" href="/pages/index.html"><img class="branded-img" src="/static/img/US_blank.svg.png"></a>
+                <a class="navbar-brand" href="/pages/index.html"><img class="branded-img" src="/static/img/US_blank.svg.png" id="brand-image"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
