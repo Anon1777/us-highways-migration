@@ -119,8 +119,8 @@
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">New Jersey</a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="" class="dropdown-item">Atlantic</a></li>
-                                        <li><a href="" class="dropdown-item">Bergen</a></li>
+                                        <li><a href="/pages/county-roads/nj/at/list.php" class="dropdown-item">Atlantic</a></li>
+                                        <li><a href="/pages/county-roads/nj/be/list.php" class="dropdown-item">Bergen</a></li>
                                         <li><a href="" class="dropdown-item">Burlington</a></li>
                                         <li><a href="" class="dropdown-item">Camden</a></li>
                                         <li><a href="" class="dropdown-item">Cape May</a></li>
@@ -179,5 +179,4 @@
             </div>
         </nav>
     </div>
-    <div class="container row" id="list-redirects">
-        
+    <div class="row" id="list-redirects">

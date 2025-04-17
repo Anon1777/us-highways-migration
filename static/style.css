@@ -33,11 +33,15 @@ h1 {
 }
 
 h3 {
+    font-family: "RoadGeek 2014 D";
+}
+
+h4 {
     font-family: "RoadGeek 2014 C";
 }
 
-.container {
-    margin-top: 100px;
+h6 {
+    font-family: "RoadGeek 2014 B";
 }
 
 nav {
@@ -46,4 +50,16 @@ nav {
 
 .nav-link {
     color: white;
+}
+
+.nav-link:hover{
+    color:#003583;
+}
+
+.row{
+    margin-top: 150px;
+}
+
+a {
+    color: inherit;
 }
