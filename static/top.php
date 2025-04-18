@@ -121,7 +121,7 @@
                                     <ul class="dropdown-menu">
                                         <li><a href="/pages/county-roads/nj/at/list.php" class="dropdown-item">Atlantic</a></li>
                                         <li><a href="/pages/county-roads/nj/be/list.php" class="dropdown-item">Bergen</a></li>
-                                        <li><a href="" class="dropdown-item">Burlington</a></li>
+                                        <li><a href="/pages/county-roads/nj/bu/list.php" class="dropdown-item">Burlington</a></li>
                                         <li><a href="" class="dropdown-item">Camden</a></li>
                                         <li><a href="" class="dropdown-item">Cape May</a></li>
                                         <li><a href="" class="dropdown-item">Cumberland</a></li>
