@@ -56,10 +56,15 @@ nav {
     color:#003583;
 }
 
-.row{
+#list-redirects {
     margin-top: 150px;
 }
 
 a {
     color: inherit;
+}
+
+i {
+    font-family: "RoadGeek 2014 B";
+    font-size: x-large;
 }

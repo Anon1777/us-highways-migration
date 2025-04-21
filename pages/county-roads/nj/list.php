@@ -1,9 +1,40 @@
-<?php include "../../../../static/top.php"; ?>    
+<?php include "../../../static/top.php"; ?>    
         <div class="col col-1 xxl"></div>
         <div class="col col-11 xxl">
             <h6 class="dir"><a href="../../index.php">Home</a> > County Roads in New Jersey</h6>
             <h1 class="header">List of County Roads in New Jersey</h1>
-            <h2 class="subheader">500-Series Roads</h2>
+            <h4 class="content text-dark"><a href="at/list.php">Atlantic County</a></h4>
+            <h4 class="content text-dark"><a href="be/list.php">Bergen County</a></h4>
+            <h4 class="content text-dark"><a href="bu/list.php">Burlington County</a></h4>
+            <h4 class="content text-dark"><a href="ca/list.php">Camden County</a></h4>
+            <h4 class="content text-dark"><a href="cm/list.php">Cape May County</a></h4>
+            <h4 class="content text-dark"><a href="cu/list.php">Cumberland County</a></h4>
+            <h4 class="content text-dark"><a href="es/list.php">Essex County</a></h4>
+            <h4 class="content text-dark"><a href="gl/list.php">Gloucester County</a></h4>
+            <h4 class="content text-dark"><a href="hn/list.php">Hunterdon County</a></h4>
+            <h4 class="content text-dark"><a href="hu/list.php">Hudson County</a></h4>
+            <h4 class="content text-dark"><a href="me/list.php">Mercer County</a></h4>
+            <h4 class="content text-dark"><a href="mi/list.php">Middlesex County</a></h4>
+            <h4 class="content text-dark"><a href="mo/list.php">Monmouth County</a></h4>
+            <h4 class="content text-dark"><a href="mr/list.php">Morris County</a></h4>
+            <h4 class="content text-dark"><a href="oc/list.php">Ocean County</a></h4>
+            <h4 class="content text-dark"><a href="pa/list.php">Passaic County</a></h4>
+            <h4 class="content text-dark"><a href="sa/list.php">Salem County</a></h4>
+            <h4 class="content text-dark"><a href="so/list.php">Somerset County</a></h4>
+            <h4 class="content text-dark"><a href="su/list.php">Sussex County</a></h4>
+            <h4 class="content text-dark"><a href="un/list.php">Union County</a></h4>
+            <h4 class="content text-dark"><a href="wa/list.php">Warren County</a></h4>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col col-12 xxl">
+            <hr>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col col-1 xxl"></div>
+        <div class="col col-11 xxl">
+            <h1 class="subheader">500-Series Roads</h1>
             <h3 class="content text-dark"><a href="501.php">CR-501</a></h3>
             <h3 class="content text-dark"><a href="502.php">CR-502</a></h3>
             <h4 class="content text-secondary"><a href="506t.php">CR-502 Truck</a></h4>
@@ -107,5 +138,4 @@
             <h3 class="content text-dark"><a href="583.php">CR-583</a></h3>
             <h3 class="content text-dark"><a href="585.php">CR-585</a></h3>
         </div>
-        <div class="col col-1 xxl"></div>
-<?php include "../../../../static/bottom.php"; ?>
+<?php include "../../../static/bottom.php"; ?>

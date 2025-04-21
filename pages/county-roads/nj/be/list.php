@@ -150,6 +150,8 @@
             <h3 class="content text-dark"><a href="C-4.php">Bergen CR-C-4 <i class="text-body-tertiary">E Kansas St</i></a></h3>
             <h3 class="content text-dark"><a href="C-21.php">Bergen CR-C-21 <i class="text-body-tertiary">Zabriskiz St</i></a></h3>
             <h3 class="content text-dark"><a href="C-22.php">Bergen CR-C-22 <i class="text-body-tertiary">Jefferson St</i></a></h3>
+            <h2 class="content text-primary"><a href="../at/list.php">Previous Page (Atlantic County)</a></h2>
+            <h2 class="content text-primary"><a href="../bu/list.php">Next Page (Burlington County)</a></h2>
         </div>`
         <div class="col col-1 xxl"></div>
 <?php include "../../../../static/bottom.php"; ?>
