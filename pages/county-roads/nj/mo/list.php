@@ -59,6 +59,8 @@
             <h3 class="content text-dark"><a href="55.php">Monmouth CR-55 <i class="text-body-tertiary">Edinburgh Dr, Halls Mill Rd, Kozloski Rd</i></a></h3>
             <h3 class="content text-dark"><a href="56.php">Monmouth CR-56 <i class="text-body-tertiary">Carr Ave</i></a></h3>
             <h3 class="content text-dark"><a href="57.php">Monmouth CR-57 <i class="text-body-tertiary">Ocean Ave, Ocean Blvd</i></a></h3>
+            <h2 class="content text-primary"><a href="../mi/list.php">Previous Page (Middlesex County)</a></h2>
+            <h2 class="content text-primary"><a href="../mr/list.php">Next Page (Morris County)</a></h2>
         </div>
         <div class="col col-1 xxl"></div>
 <?php include "../../../../static/bottom.php"; ?>
