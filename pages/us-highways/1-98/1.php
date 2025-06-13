@@ -3,21 +3,86 @@
         <div class="col col-11 xxl">
             <h6 class="dir"><a href="../../../index.php">Home</a> > <a href="../list.php">US Highways</a> > US-1</h6>
             <h1 class="header">United States Route 1</h1>
-            <h2 class="content text-dark">United States Route 1 (More commonly known as "U.S. Route 1" or "US-1") is a major North-South interstate route spanning from Florida to Maine. It connects the Florida Keys to mainland Florida and continues further to the Canadian border.</h2>
+            <h2 class="content text-dark">United States Route 1 (US-1) is a major north-south route spanning the east coast of the United States. It is xxxx.xx mi (xxxx.xx km) long. It connects the Florida Keys to mainland Florida and continues further to the Canadian border.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
-            <h3 class="content text-dark"></h3>
-            ||||||~ **Length (mi)** ||||||~ **Length (km)** ||~ **Intersection** ||~ **Route Name Change** ||~ **Notes** ||
-            |||||| 0.00 mi |||||| 0.00 km || FL-5 - Whitehead St, Key West, Florida 33040 || Whitehead St, Key West, Florida 33040 || Start of Route // Start US-1 in Florida // Start Monroe County // Start concurrency with FL-5 ||
-            |||||| 0.41 mi ( + 0.41 mi ) |||||| 0.66 km ( + 0.66 km ) || US-1 - Truman Ave, Key West, Florida 33040 ||  ||  ||
-            |||||| 1.34 mi ( + 0.93 mi ) |||||| 2.15 km ( + 1.49 km ) ||  || N Roosevelt Blvd, Key West, Florida 33040 ||  ||
-            |||||| 1.65 mi ( + 0.31 mi ) |||||| 2.65 km ( + 0.50 km ) || FL-A1A - First St, Key West, Florida 33040 ||  ||  ||
-            |||||| 3.94 mi ( + 2.29 mi ) |||||| 6.34 km ( + 3.69 km ) || FL-A1A - S Roosevelt Blvd, Key West, 33040 || Overseas Hwy, Key West, Florida 33040 || Start concurrency with FL-A1A ||
-            |||||| 10.69 mi ( + 6.75 mi ) |||||| 17.20 km ( + 10.86 km ) || Monroe CR-941 - Boca Chica Rd, Key West, Florida 33040 ||  ||  ||
-            |||||| 16.95 mi ( + 6.26 mi ) |||||| 27.28 km ( + 10.08 km ) || Monroe CR-939 - Sugarloaf Blvd, Sugarloaf Shores, Florida 33042 || Overseas Hwy, Sugarloaf Shores, Florida 33042 ||  ||
-            |||||| 30.49 mi ( + 13.54 mi ) |||||| 49.07 km ( + 21.79 km ) || Monroe CR-940 - Key Deer Blvd, Big Pine Key, Florida 33043 || Overseas Hwy, Big Pine Key, Florida 33043 ||  ||
-            |||||| 30.91 mi ( + 0.42 mi ) |||||| 49.75 km ( + 0.68 km ) || Monroe CR-SRD - County Rd, Big Pine Key, Florida 33043 ||  ||  ||
-            |||||| 106.07 mi ( + 75.16 mi ) |||||| 170.71 km ( + 120.96 km ) || Monroe CR-905 - Key Largo Dr, Key Largo, Florida 33037 || Overseas Hwy, Key Largo, Florida 33037 ||  ||
-            |||||| 112.33 mi ( + 6.26 mi ) |||||| 180.71 km ( + 10.07 km ) ||  || S Dixie Hwy, Key Largo, Florida 33037 || End Monroe County, Start Miami-Dade County ||
+            <?php include "../../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="../../../state-highways/fl/5.php">FL-5 - Whitehead St</a>, Key West, Florida 33040</td>
+                    <td class="content text-dark">Whitehead St, Key West, Florida 33040</td>
+                    <td class="content text-dark">Start of Route <br> Start US-1 in Florida <br> Start Monroe County <br> Start concurrency with FL-5</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.41 mi ( + 0.41 mi )</td>
+                    <td class="content text-dark small">0.66 km ( + 0.66 km )</td>
+                    <td class="content text-dark">US-1 - Truman Ave, Key West, Florida 33040</td>
+                    <td class="content text-dark">Truman Ave, Key West, Florida 33040</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.34 mi ( + 0.93 mi )</td>
+                    <td class="content text-dark small">2.15 km ( + 1.49 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">N Roosevelt Blvd, Key West, Florida 33040</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.65 mi ( + 0.31 mi )</td>
+                    <td class="content text-dark small">2.65 km ( + 0.50 km )</td>
+                    <td class="content text-dark"><a href="../../../state-highways/fl/a1a.php">FL-A1A - First St</a>, Key West, Florida 33040</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.94 mi ( + 2.29 mi )</td>
+                    <td class="content text-dark small">6.34 km ( + 3.69 km )</td>
+                    <td class="content text-dark"><a href="../../../state-highways/fl/a1a.php">FL-A1A - S Roosevelt Blvd</a>, Key West, Florida 33040</td>
+                    <td class="content text-dark">Overseas Hwy, Key West, Florida 33040</td>
+                    <td class="content text-dark">Start concurrency with FL-A1A</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">10.69 mi ( + 6.75 mi )</td>
+                    <td class="content text-dark small">17.20 km ( + 10.86 km )</td>
+                    <td class="content text-dark"><a href="../../../county-roads/fl/mo/941.php">Monroe CR 941 - Boca Chica Rd</a>, Key West, Florida 33040</td>
+                    <td class="content text-dark">Overseas Hwy, Key West, Florida 33040</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">16.95 mi ( + 6.26 mi )</td>
+                    <td class="content text-dark small">27.28 km ( + 10.08 km )</td>
+                    <td class="content text-dark"><a href="../../../county-roads/fl/mo/941.php">Monroe CR 939 - Sugarloaf Blvd</a>, Sugarloaf Shores, Florida 33042</td>
+                    <td class="content text-dark">Overseas Hwy, Sugarloaf Shores, Florida 33042</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">30.49 mi ( + 13.54 mi )</td>
+                    <td class="content text-dark small">49.07 km ( + 21.79 km )</td>
+                    <td class="content text-dark"><a href="../../../county-roads/fl/mo/940.php">Monroe CR 940 - Key Deer Blvd</a>, Big Pine Key, Florida 33043</td>
+                    <td class="content text-dark">Overseas Hwy, Big Pine Key, Florida 33043</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">30.91 mi ( + 0.42 mi )</td>
+                    <td class="content text-dark small">49.75 km ( + 0.68 km )</td>
+                    <td class="content text-dark"><a href="../../../county-roads/fl/mo/SRD.php">Monroe CR SRD - County Rd</a>, Big Pine Key, Florida 33043</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">106.07 mi ( + 75.16 mi )</td>
+                    <td class="content text-dark small">170.71 km ( + 120.96 km )</td>
+                    <td class="content text-dark"><a href="../../../county-roads/fl/mo/905.php">Monroe CR 905 - Key Largo Dr</a>, Key Largo, Florida 33037</td>
+                    <td class="content text-dark">Overseas Hwy, Key Largo, Florida 33037</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">112.33 mi ( + 6.26 mi )</td>
+                    <td class="content text-dark small">180.71 km ( + 10.07 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S Dixie Hwy, Key Largo, Florida 33037</td>
+                    <td class="content text-dark">End Monroe County, Start Miami-Dade County</td>
+                </tr>
             |||||| 126.40 mi ( + 14.07 mi ) |||||| 203.35 km ( + 22.64 km ) || Miami-Dade CR-905A - Card Sound Rd, Florida City, Florida 33034 || S Dixie Hwy, Florida City, Florida 33034 ||  ||
             |||||| 127.25 mi ( + 0.85 mi ) |||||| 204.72 km ( + 1.37 km ) || FL-9336 - W Palm Dr, Florida City, Florida 33034 || NE 1st Ave, Florida City, Florida 33034 ||  ||
             |||||| 127.47 mi ( + 0.22 mi ) |||||| 205.07 km ( + 0.35 km ) || FL-821 - Florida's Tpke Ext, Florida City, Florida 33034 ||  ||  ||

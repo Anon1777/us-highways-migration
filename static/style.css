@@ -1,6 +1,18 @@
-* {
-    max-width: 1920px;
+*{
     overflow-x: hidden;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+body::selection{
+    background-color: #000000;
+    color:white;
+}
+
+:not(.footer){
+    max-width: 1920px;
 }
 
 .branded-img {
@@ -28,15 +40,15 @@
     src: url("fonts/RG2014E.ttf");
 }
 
-h1 {
+h1, th {
     font-family: "RoadGeek 2014 E";
 }
 
-h2, h3 {
+h2, h3, td {
     font-family: "RoadGeek 2014 D";
 }
 
-h4 {
+h4, td.small {
     font-family: "RoadGeek 2014 C";
 }
 
@@ -67,4 +79,29 @@ a {
 i {
     font-family: "RoadGeek 2014 B";
     font-size: x-large;
+}
+
+table{
+    max-width: 1840px !important;
+    width: 100%;
+    margin-bottom: 130px;
+}
+
+td, th{
+    border: 3px solid black;
+    font-size: 150%;
+    padding-left: 10px;
+}
+
+th{
+    background-color: #a8a8a8;
+}
+
+.footer{
+    max-width: 2000px !important;
+    position:fixed;
+    bottom: 0;
+    width:2000px; 
+    background-image: linear-gradient(to bottom, #00000000 0%, #000000 90%);
+    height: 100px;
 }
