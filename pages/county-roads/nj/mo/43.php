@@ -35,3 +35,4 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>
+                <?php include "../../../static/bottom.php"; ?>
