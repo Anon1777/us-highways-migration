@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../state-highways/nj/29.php">NJ-29 (WB)</a> / <a href="295.php">I-295 (NB & SB)</a>, Hamilton Township, New Jersey 08610</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/29.php">NJ-29 (WB)</a> / <a href="295.php">I-295 (NB & SB) - Camden Fwy</a>, Hamilton Township, New Jersey 08610</td>
                     <td class="content text-dark">Central Jersey Expy, Hamilton Township, 08610</td>
                     <td class="content text-dark">Start of Route <br> Start Mercer County</td>
                 </tr>
