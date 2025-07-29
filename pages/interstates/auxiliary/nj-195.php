@@ -151,6 +151,6 @@
                     <td class="content text-dark small">54.86 km ( + 3.15 km )</td>
                     <td class="content text-dark"><a href="../../state-highways/nj/34.php">NJ-34 (NB & SB)</a> / <a href="../../state-highways/nj/138.php">NJ-138 (EB)</a>, Wall Township, New Jersey 07727</td>
                     <td class="content text-dark">Central Jersey Expy, Wall Township, New Jersey 07727</td>
-                    <td class="content text-dark">End of Route</td>
+                    <td class="content text-dark">End of Route / End Monmouth County</td>
                 </tr>
             <?php include "../../../static/bottom.php"; ?>

@@ -1,9 +1,9 @@
 <?php include "../../../static/top.php"; ?>
         <div class="col col-1 xxl"></div>
         <div class="col col-11 xxl">
-            <h6 class="dir"><a href="../../index.php">Home</a> > <a href="list.php">State Highways in New Jersey</a> > New Jersey Route 29</h6>
+            <h6 class="dir"><a href="../../index.php">Home</a> > <a href="list.php">State Highways in New Jersey</a> > New Jersey Route 440</h6>
             <h1 class="header">New Jersey Route 440</h1>
-            <h2 class="content text-dark">New Jersey Route 440 (NJ-440) is a state highway in north New Jersey that connects Bayonne to Staten Island. It is 4.60 mi (7.42 km) long.</h2>
+            <h2 class="content text-dark">New Jersey Route 440 (NJ-440) is a state highway in north New Jersey that connects Bayonne to Staten Island. It is 24.54 mi (40.22 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
             <?php include "../../../static/table.php"; ?>
@@ -162,9 +162,44 @@
                     <td class="content text-dark">End concurrency with Hudson CR 501</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">17.01 mi ( + 0.11 mi )</td>
-                    <td class="content text-dark small">28.10 km ( + 0.17 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/501.php">Hudson CR 501 - John F. Kennedy Blvd</a>, Bayonne, New Jersey, 07002</td>
+                    <td class="content text-dark small">20.33 mi ( + 3.32 mi )</td>
+                    <td class="content text-dark small">33.44 km ( + 5.34 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with Hudson CR 501</td>
+                    <td class="content text-dark">NJ-440, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">20.62 mi ( + 0.29 mi )</td>
+                    <td class="content text-dark small">33.91 km ( + 0.47 km )</td>
+                    <td class="content text-dark"><a href="185.php">NJ-185</a>, Jersey City, New Jersey, 07304</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">20.90 mi ( + 0.28 mi )</td>
+                    <td class="content text-dark small">34.36 km ( + 0.45 km )</td>
+                    <td class="content text-dark"><a href="../../interstates/78.php">I-78 - New Jersey Tpke Newark Bay Ext</a>, Jersey City, New Jersey, 07304</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">21.43 mi ( + 0.53 mi )</td>
+                    <td class="content text-dark small">35.22 km ( + 0.86 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">NJ-440, Bayonne, New Jersey 07002</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">22.46 mi ( + 1.03 mi )</td>
+                    <td class="content text-dark small">36.87 km ( + 1.65 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">NJ-440, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">24.54 mi ( + 2.08 mi )</td>
+                    <td class="content text-dark small">40.22 km ( + 3.35 km )</td>
+                    <td class="content text-dark"><a href="../../us-highways/1-98/1.php">US-1 Byp</a> (concurrent with <a href="../../us-highways/1-98/9.php">US-9 Byp</a>) (WB & NB) / <a href="../../county-roads/nj/hu/612.php">Hudson CR 612 - Communpaw Ave</a>, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Route // End route in New Jersey // End Hudson County</td>
                 </tr>

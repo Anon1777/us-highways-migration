@@ -55,3 +55,73 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">14.29 mi ( + 0.21 mi )</td>
+                    <td class="content text-dark small">22.99 km ( + 0.33 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/de/su/249.php">Sussex CR 249 - Shingle Point Rd</a>, Georgetown, Delaware 19947</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">14.16 mi ( + 0.87 mi )</td>
+                    <td class="content text-dark small">24.39 km ( + 1.40 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Seashore Hwy, Georgetown, Delaware 19947</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">14.59 mi ( + 0.43 mi )</td>
+                    <td class="content text-dark small">25.09 km ( + 1.70 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/de/30.php">DE-30 - Gravel Hill Rd</a> (concurrent with <a href="../../county-roads/de/su/248">Sussex CR 248</a>), Georgetown, Delaware 19947</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">16.42 mi ( + 1.83 mi )</td>
+                    <td class="content text-dark small">28.04 km ( + 2.95 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/de/5.php">DE-5 - Harbeson Rd</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark">Seashore Hwy, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">22.70 mi ( + 6.28 mi )</td>
+                    <td class="content text-dark small">38.15 km ( + 10.11 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/de/5.php">DE-1 - Coastal Hwy</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark">Coastal Hwy, Lewes, Delaware 19958</td>
+                    <td class="content text-dark">End concurrency with DE-404 // Start concurrency with DE-1</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">22.70 mi ( + 6.28 mi )</td>
+                    <td class="content text-dark small">38.15 km ( + 10.11 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/de/5.php">DE-1 - Coastal Hwy (EB & WB)</a> / US-9 Business (NB), Lewes, Delaware 19958</td>
+                    <td class="content text-dark">Coastal Hwy, Lewes, Delaware 19958</td>
+                    <td class="content text-dark">End concurrency with DE-404 // Start concurrency with DE-1</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">23.83 mi ( + 1.13 mi )</td>
+                    <td class="content text-dark small">39.96 km ( + 1.81 km )</td>
+                    <td class="content text-dark">US-9, Lewes, Delaware 19958</td>
+                    <td class="content text-dark">US-9, Lewes, Delaware 19958</td>
+                    <td class="content text-dark">End concurrency with DE-1</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">25.22 mi ( + 1.39 mi )</td>
+                    <td class="content text-dark small">42.20 km ( + 2.24 km )</td>
+                    <td class="content text-dark">US-9, Lewes, Delaware 19958</td>
+                    <td class="content text-dark">Theo C Freeman Memorial Hwy, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">26.85 mi ( + 1.53 mi )</td>
+                    <td class="content text-dark small">44.66 km ( + 2.46 km )</td>
+                    <td class="content text-dark">Cape Henlopen Dr, Lewes, Delaware 19958</td>
+                    <td class="content text-dark">Cape Henlopen Dr, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">27.39 mi ( + 0.54 mi )</td>
+                    <td class="content text-dark small">45.52 km ( + 0.86 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Cape May - Lewes Ferry, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"></td>
+                </tr>
