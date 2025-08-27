@@ -2,7 +2,7 @@
         <div class="col col-1 xxl"></div>
         <div class="col col-11 xxl">
             <h6 class="dir"><a href="../../../index.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 6</h6>
-            <h1 class="header">Monmouth County Route 6</h1>
+            <h1 class="header" id="njmo6n">Monmouth County Route 6</h1>
             <h2 class="content text-dark">New Jersey Monmouth County Route 6 (Monmouth CR 6) is a county road that connects NJ-35 to Monmouth CR 39. It is 2.37 mi (3.80 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
@@ -38,7 +38,7 @@
                 <tr>
                     <td class="content text-dark small">1.92 mi ( + 0.66 mi )</td>
                     <td class="content text-dark small">3.08 km ( + 1.06 km )</td>
-                    <td class="content text-dark">Monmouth CR 6 south - Stone Rd, Keyport, New Jersey 07730</td>
+                    <td class="content text-dark"><a href="#njmo6s">Monmouth CR 6 south - Stone Rd</a>, Keyport, New Jersey 07730</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Route becomes unsigned Monmouth CR 6 north</td>
                 </tr>
@@ -58,7 +58,7 @@
                 </tr>
             </table>
             <hr>
-            <h1 class="header">Monmouth County Route 6 South</h1>
+            <h1 class="header" id="njmo6s">Monmouth County Route 6 South</h1>
             <h2 class="content text-dark">New Jersey Monmouth County Route 6 (Monmouth CR 6) splits into two roads near the Keyport-Union Beach border. It is 2.86 mi (4.60 km) long and connects Monmouth CR 6 to NJ-36.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
@@ -94,7 +94,7 @@
                 <tr>
                     <td class="content text-dark small">1.92 mi ( + 0.66 mi )</td>
                     <td class="content text-dark small">3.08 km ( + 1.06 km )</td>
-                    <td class="content text-dark">Monmouth CR 6 north - First St, Keyport, New Jersey 07730</td>
+                    <td class="content text-dark"><a href="#njmo6n">Monmouth CR 6 north - First St</a>, Keyport, New Jersey 07730</td>
                     <td class="content text-dark">Stone Rd, Keyport, New Jersey 07730</td>
                     <td class="content text-dark">Route becomes unsigned Monmouth CR 6 south</td>
                 </tr>
