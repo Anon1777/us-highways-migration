@@ -1,6 +1,5 @@
 <?php include "../../../static/top.php"; ?>
-        <div class="col col-1 xxl"></div>
-        <div class="col col-11 xxl">
+        
             <h6 class="dir"><a href="../../index.php">Home</a> > <a href="list.php">State Highways in New Jersey</a> > New Jersey Route 138</h6>
             <h1 class="header">New Jersey Route 138</h1>
             <h2 class="content text-dark">New Jersey Route 138 (NJ-138) is a state highway in eastern Monmouth County that finishes the eastern portion of the Central Jersey Expressway. It is 3.75 mi (6.03 km) long.</h2>

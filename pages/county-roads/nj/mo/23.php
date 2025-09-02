@@ -1,6 +1,5 @@
 <?php include "../../../../static/top.php"; ?>
-        <div class="col col-1 xxl"></div>
-        <div class="col col-11 xxl">
+        
             <h6 class="dir"><a href="../../../index.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 23</h6>
             <h1 class="header">Monmouth County Route 23</h1>
             <h2 class="content text-dark">New Jersey Monmouth County Route 23 (Monmouth CR 23) is a county road that bridges the gap between Monmouth and Ocean county, specifically Freehold Township and Jackson Township. It is 4.07 mi (6.53 km) long in Monmouth County before turning into Ocean County Route 638 in Ocean County.</h2>

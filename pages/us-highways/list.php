@@ -8,15 +8,15 @@
             <h3 class="content text-dark"><a href="1-98/4.php">US-4</a></h3>
             <h3 class="content text-dark"><a href="1-98/5.php">US-5</a></h3>
             <h3 class="content text-dark"><a href="1-98/6.php">US-6</a></h3>
-            <h4 class="content text-secondary"><a href="1-98/6N.php">US-6N</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/6.php/#6N">US-6N</a></h4>
             <h3 class="content text-dark"><a href="1-98/7.php">US-7</a></h3>
             <h3 class="content text-dark"><a href="1-98/8.php">US-8</a></h3>
             <h3 class="content text-dark"><a href="1-98/9.php">US-9</a></h3>
-            <h3 class="content text-dark"><a href="1-98/9W.php">US-9W</a></h3>
+            <h4 class="content text-secondary"><a href="1-98/9.php/#9W">US-9W</a></h4>
             <h3 class="content text-dark"><a href="1-98/10.php">US-10</a></h3>
             <h3 class="content text-dark"><a href="1-98/11.php">US-11</a></h3>
-            <h4 class="content text-secondary"><a href="1-98/11E.php">US-11E</a></h4>
-            <h4 class="content text-secondary"><a href="1-98/11W.php">US-11W</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/11.php/#11E">US-11E</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/11.php/#11W">US-11W</a></h4>
             <h3 class="content text-dark"><a href="1-98/12.php">US-12</a></h3>
             <h3 class="content text-dark"><a href="1-98/13.php">US-13</a></h3>
             <h3 class="content text-dark"><a href="1-98/14.php">US-14</a></h3>
@@ -25,23 +25,23 @@
             <h3 class="content text-dark"><a href="1-98/17.php">US-17</a></h3>
             <h3 class="content text-dark"><a href="1-98/18.php">US-18</a></h3>
             <h3 class="content text-dark"><a href="1-98/19.php">US-19</a></h3>
-            <h4 class="content text-secondary"><a href="1-98/19E.php">US-19E</a></h4>
-            <h4 class="content text-secondary"><a href="1-98/19W.php">US-19W</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/19.php/#19E">US-19E</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/19.php/#19W">US-19W</a></h4>
             <h3 class="content text-dark"><a href="1-98/20.php">US-20</a></h3>
             <h3 class="content text-dark"><a href="1-98/21.php">US-21</a></h3>
             <h3 class="content text-dark"><a href="1-98/22.php">US-22</a></h3>
             <h3 class="content text-dark"><a href="1-98/23.php">US-23</a></h3>
             <h3 class="content text-dark"><a href="1-98/24.php">US-24</a></h3>
             <h3 class="content text-dark"><a href="1-98/25.php">US-25</a></h3>
-            <h4 class="content text-secondary"><a href="1-98/25E.php">US-25E</a></h4>
-            <h4 class="content text-secondary"><a href="1-98/25W.php">US-25W</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/25.php/#25E">US-25E</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/25.php/#25W">US-25W</a></h4>
             <h3 class="content text-dark"><a href="1-98/26.php">US-26</a></h3>
             <h3 class="content text-dark"><a href="1-98/27.php">US-27</a></h3>
             <h3 class="content text-dark"><a href="1-98/29.php">US-29</a></h3>
             <h3 class="content text-dark"><a href="1-98/30.php">US-30</a></h3>
             <h3 class="content text-dark"><a href="1-98/31.php">US-31</a></h3>
-            <h4 class="content text-secondary"><a href="1-98/31E.php">US-31E</a></h4>
-            <h4 class="content text-secondary"><a href="1-98/31W.php">US-31W</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/31.php/#31E">US-31E</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/31.php/#31W">US-31W</a></h4>
             <h3 class="content text-dark"><a href="1-98/33.php">US-33</a></h3>
             <h3 class="content text-dark"><a href="1-98/34.php">US-34</a></h3>
             <h3 class="content text-dark"><a href="1-98/35.php">US-35</a></h3>
@@ -52,13 +52,13 @@
             <h3 class="content text-dark"><a href="1-98/43.php">US-43</a></h3>
             <h3 class="content text-dark"><a href="1-98/44.php">US-44</a></h3>
             <h3 class="content text-dark"><a href="1-98/45.php">US-45</a></h3>
-            <h4 class="content text-secondary"><a href="1-98/45E.php">US-45E</a></h4>
-            <h4 class="content text-secondary"><a href="1-98/45W.php">US-45W</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/45.php/#45E">US-45E</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/45.php/#45W">US-45W</a></h4>
             <h3 class="content text-dark"><a href="1-98/46.php">US-46</a></h3>
             <h3 class="content text-dark"><a href="1-98/48.php">US-48</a></h3>
             <h3 class="content text-dark"><a href="1-98/49.php">US-49</a></h3>
-            <h4 class="content text-secondary"><a href="1-98/49E.php">US-49E</a></h4>
-            <h4 class="content text-secondary"><a href="1-98/49W.php">US-49W</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/49.php/#49E">US-49E</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/49.php/#49W">US-49W</a></h4>
             <h3 class="content text-dark"><a href="1-98/50.php">US-50</a></h3>
             <h3 class="content text-dark"><a href="1-98/51.php">US-51</a></h3>
             <h3 class="content text-dark"><a href="1-98/52.php">US-52</a></h3>
@@ -78,8 +78,8 @@
             <h3 class="content text-dark"><a href="1-98/68.php">US-68</a></h3>
             <h3 class="content text-dark"><a href="1-98/69.php">US-69</a></h3>
             <h3 class="content text-dark"><a href="1-98/70.php">US-70</a></h3>
-            <h4 class="content text-secondary"><a href="1-98/70N.php">US-70N</a></h4>
-            <h4 class="content text-secondary"><a href="1-98/70S.php">US-70S</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/70.php/#70N">US-70N</a></h4>
+            <h4 class="content text-secondary"><a href="1-98/70.php/#70S">US-70S</a></h4>
             <h3 class="content text-dark"><a href="1-98/71.php">US-71</a></h3>
             <h3 class="content text-dark"><a href="1-98/72.php">US-72</a></h3>
             <h3 class="content text-dark"><a href="1-98/73.php">US-73</a></h3>
@@ -137,7 +137,7 @@
             <h3 class="content text-dark"><a href="101-290/189.php">US-189</a></h3>
             <h3 class="content text-dark"><a href="101-290/190.php">US-190</a></h3>
             <h3 class="content text-dark"><a href="101-290/191.php">US-191</a></h3>
-            <h4 class="content text-secondary"><a href="101-290/191Y.php">US-191Y</a></h4>
+            <h4 class="content text-secondary"><a href="101-290/191.php/#191Y">US-191Y</a></h4>
             <h3 class="content text-dark"><a href="101-290/192.php">US-192</a></h3>
             <h3 class="content text-dark"><a href="101-290/195.php">US-195</a></h3>
             <h3 class="content text-dark"><a href="101-290/197.php">US-197</a></h3>

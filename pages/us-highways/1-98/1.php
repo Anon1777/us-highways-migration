@@ -1,6 +1,5 @@
 <?php include "../../../static/top.php"; ?>
-        <div class="col col-1 xxl"></div>
-        <div class="col col-11 xxl">
+        
             <h6 class="dir"><a href="../../../index.php">Home</a> > <a href="../list.php">US Highways</a> > US-1</h6>
             <h1 class="header">United States Route 1</h1>
             <h2 class="content text-dark">United States Route 1 (US-1) is a major north-south route spanning the east coast of the United States. It is xxxx.xx mi (xxxx.xx km) long. It connects the Florida Keys to mainland Florida and continues further to the Canadian border.</h2>

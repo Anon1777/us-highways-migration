@@ -1,6 +1,5 @@
 <?php include "../../../static/top.php"; ?>
-        <div class="col col-1 xxl"></div>
-        <div class="col col-11 xxl">
+        
             <h6 class="dir"><a href="../../index.php">Home</a> > <a href="list.php">State Highways in New Jersey</a> > New Jersey Route 29</h6>
             <h1 class="header">New Jersey Route 81</h1>
             <h2 class="content text-dark">New Jersey Route 81 (NJ-81) is a short state highway in north New Jersey that connects I-95 and US-9. It is 1.12 mi (1.80 km) long.</h2>
@@ -21,3 +20,4 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>
+                <?php include "../../../static/bottom.php"; ?>

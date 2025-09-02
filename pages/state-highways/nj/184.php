@@ -1,6 +1,5 @@
 <?php include "../../../static/top.php"; ?>
-        <div class="col col-1 xxl"></div>
-        <div class="col col-11 xxl">
+        
             <h6 class="dir"><a href="../../index.php">Home</a> > <a href="list.php">State Highways in New Jersey</a> > New Jersey Route 440</h6>
             <h1 class="header">New Jersey Route 184</h1>
             <h2 class="content text-dark">New Jersey Route 184 (NJ-184) is a short state highway in north New Jersey that connects CR 501 to NJ-440. It is 24.54 mi (40.22 km) long.</h2>
@@ -56,3 +55,4 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>
+                <?php include "../../../static/bottom.php"; ?>

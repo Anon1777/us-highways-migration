@@ -1,6 +1,5 @@
 <?php include "../../../static/top.php"; ?>
-        <div class="col col-1 xxl"></div>
-        <div class="col col-11 xxl">
+        
             <h6 class="dir"><a href="../../index.php">Home</a> > <a href="list.php">State Highways in New Jersey</a> > New Jersey Route 64</h6>
             <h1 class="header">New Jersey Route 64</h1>
             <h2 class="content text-dark">New Jersey Route 64 (NJ-64) is a very short state highway in west New Jersey that exists to consolidate the roads Mercer CR 571 and Mercer CR 526. It is 0.41 mi (0.65 km) long.</h2>

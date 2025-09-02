@@ -1,6 +1,5 @@
 <?php include "../../../static/top.php"; ?>
-        <div class="col col-1 xxl"></div>
-        <div class="col col-11 xxl">
+        
             <h6 class="dir"><a href="../../index.php">Home</a> > <a href="list.php">State Highways in New Jersey</a> > New Jersey Route 18</h6>
             <h1 class="header">New Jersey Route 18</h1>
             <h2 class="content text-dark">New Jersey Route 18 (NJ-18) is a state highway in New Jersey that connects NJ-138 in Wall Township to I-295 in Piscataway. It is 0.41 mi (0.65 km) long.</h2>

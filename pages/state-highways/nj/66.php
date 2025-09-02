@@ -1,6 +1,5 @@
 <?php include "../../../static/top.php"; ?>
-        <div class="col col-1 xxl"></div>
-        <div class="col col-11 xxl">
+        
             <h6 class="dir"><a href="../../index.php">Home</a> > <a href="list.php">State Highways in New Jersey</a> > New Jersey Route 66</h6>
             <h1 class="header">New Jersey Route 66</h1>
             <h2 class="content text-dark">New Jersey Route 66 (NJ-66) is a state highway in eastern Monmouth County that connects NJ-33 and NJ-35. It is 3.75 mi (6.03 km) long.</h2>

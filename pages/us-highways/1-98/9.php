@@ -1,6 +1,5 @@
 <?php include "../../../static/top.php"; ?>
-        <div class="col col-1 xxl"></div>
-        <div class="col col-11 xxl">
+        
             <h6 class="dir"><a href="../../index.php">Home</a> > <a href="../list.php">US Highways</a> > US-9</h6>
             <h1 class="header" id="us9">United States Route 9</h1>
             <h2 class="content text-dark">United States Route 9 (US-9) is a north-south route covering a little bit of Delaware through the whole of New York. It is xxx.xx mi (xxx.xx km) long.</h2>
@@ -428,13 +427,6 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">81.56 mi ( + 0.65 mi )</td>
-                    <td class="content text-dark small">133.62 km ( + 1.05 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/at/615.php">Atlantic CR 615 - Zion Rd</a>, Northfield, New Jersey 08225</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
-                </tr>
-                <tr>
                     <td class="content text-dark small">81.63 mi ( + 0.07 mi )</td>
                     <td class="content text-dark small">133.73 km ( + 0.11 km )</td>
                     <td class="content text-dark"><a href="../../county-roads/nj/at/615.php">Atlantic CR 615 - Zion Rd</a>, Northfield, New Jersey 08225</td>
@@ -469,12 +461,237 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">83.79 mi ( + 0.86 mi )</td>
+                    <td class="content text-dark small">137.22 km ( + 1.39 km )</td>
+                    <td class="content text-dark"><a href="40.php">US-40 - Black Horse Pk</a> (concurrent with <a href="../301-730/322.php">US-322</a>), Pleasantville, New Jersey 08232</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">84.01 mi ( + 0.22 mi )</td>
+                    <td class="content text-dark small">137.57 km ( + 0.35 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/at/608.php">Atlantic CR 608 - W Washington Ave</a>, Pleasantville, New Jersey 08232</td>
+                    <td class="content text-dark">N New Rd, Pleasantville, New Jersey 08232</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">84.01 mi ( + 0.22 mi )</td>
+                    <td class="content text-dark small">137.57 km ( + 0.35 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/446.php">NJ-446 - Atlantic City Expy</a>, Pleasantville, New Jersey 08232</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">84.47 mi ( + 0.46 mi )</td>
+                    <td class="content text-dark small">138.31 km ( + 0.74 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/at/646.php">Atlantic CR 646 - W Delilah Rd</a>, Pleasantville, New Jersey 08232</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">85.15 mi ( + 0.68 mi )</td>
+                    <td class="content text-dark small">139.41 km ( + 1.10 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/at/663.php">Atlantic CR 663 - California Ave</a>, Absecon, New Jersey 08201</td>
+                    <td class="content text-dark">S New Rd, Absecon, New Jersey 08201</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">86.02 mi ( + 0.87 mi )</td>
+                    <td class="content text-dark small">140.81 km ( + 1.40 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/at/630.php">Atlantic CR 630 - Ohio Ave</a>, Absecon, New Jersey 08201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">86.14 mi ( + 0.12 mi )</td>
+                    <td class="content text-dark small">141.00 km ( + 0.19 km )</td>
+                    <td class="content text-dark"><a href="30.php">US-30 - W Absecon Blvd</a>, Absecon, New Jersey 08201</td>
+                    <td class="content text-dark">New Rd, Absecon, New Jersey 08201</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">86.22 mi ( + 0.08 mi )</td>
+                    <td class="content text-dark small">141.13 km ( + 0.13 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/at/601.php">Atlantic CR 601 - New Jersey Ave</a>, Absecon, New Jersey 08201</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">86.59 mi ( + 0.37 mi )</td>
+                    <td class="content text-dark small">141.73 km ( + 0.60 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/at/634.php">Atlantic CR 634 - Pitney St</a>, Absecon, New Jersey 08201</td>
+                    <td class="content text-dark">E Wyoming Ave, Absecon, New Jersey 08201</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">87.13 mi ( + 0.54 mi )</td>
+                    <td class="content text-dark small">142.60 km ( + 0.87 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/157.php">NJ-157 - N Shore Rd</a>, Absecon, New Jersey 08201</td>
+                    <td class="content text-dark">N Shore Rd, Absecon, New Jersey 08201</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">87.47 mi ( + 0.34 mi )</td>
+                    <td class="content text-dark small">143.15 km ( + 0.55 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">N Shore Rd, Galloway, New Jersey 08205</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">87.61 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">143.37 km ( + 0.22 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S New York Rd, Galloway, New Jersey 08205</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">88.65 mi ( + 1.04 mi )</td>
+                    <td class="content text-dark small">145.14 km ( + 1.67 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/561.php">Atlantic CR 561 - Jimmie Leeds Rd</a>, Galloway, New Jersey 08205</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">90.30 mi ( + 1.65 mi )</td>
+                    <td class="content text-dark small">147.80 km ( + 2.66 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/at/618.php">Atlantic CR 618 - Leeds Point Rd</a>, Galloway, New Jersey 08205</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">91.41 mi ( + 1.11 mi )</td>
+                    <td class="content text-dark small">149.59 km ( + 1.79 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/561.php/#561byp">Atlantic CR 561 Bypass - Smithville Blvd</a>, Galloway, New Jersey 08205</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">91.88 mi ( + 0.47 mi )</td>
+                    <td class="content text-dark small">150.34 km ( + 0.75 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/561.php/#561a">Atlantic CR 561 Alt - E Moss Mill Rd</a>, Galloway, New Jersey 08205</td>
+                    <td class="content text-dark">N New York Rd, Galloway, New Jersey 08205</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">92.03 mi ( + 0.15 mi )</td>
+                    <td class="content text-dark small">150.58 km ( + 0.24 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/at/610.php">Atlantic CR 610 - S Old New York Rd</a>, Galloway, New Jersey 08205</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">93.10 mi ( + 1.07 mi )</td>
+                    <td class="content text-dark small">152.31 km ( + 1.73 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/at/657.php">Atlantic CR 657 - Motts Creek Rd</a>, Galloway, New Jersey 08205</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">94.67 mi ( + 1.57 mi )</td>
+                    <td class="content text-dark small">154.83 km ( + 2.52 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">New York Rd, Port Republic, New Jersey 08241</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">95.36 mi ( + 0.69 mi )</td>
+                    <td class="content text-dark small">155.93 km ( + 1.10 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/575.php">Atlantic CR 575 - Chestnut Neck Rd</a>, Port Republic, New Jersey 08241</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">95.87 mi ( + 0.51 mi )</td>
+                    <td class="content text-dark small">156.75 km ( + 0.82 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/444.php">NJ-444 - Garden State Pkwy</a>, Port Republic, New Jersey 08241</td>
+                    <td class="content text-dark">Garden State Pkwy, Port Republic, New Jersey 08241</td>
+                    <td class="content text-dark">Start concurrency with NJ-444</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">96.42 mi ( + 0.55 mi )</td>
+                    <td class="content text-dark small">157.63 km ( + 0.88 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Garden State Pkwy, Bass River, New Jersey 08087</td>
+                    <td class="content text-dark">End Atlantic County, Start Burlington County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">98.39 mi ( + 1.97 mi )</td>
+                    <td class="content text-dark small">160.80 km ( + 3.17 km )</td>
+                    <td class="content text-dark">US-9, Bass River, New Jersey 08087</td>
+                    <td class="content text-dark">US-9, Bass River, New Jersey 08087</td>
+                    <td class="content text-dark">End concurrency with NJ-444</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">99.42 mi ( + 1.03 mi )</td>
+                    <td class="content text-dark small">162.46 km ( + 1.66 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/542.php">Burlington CR 542 - Hammonton Rd</a>, Bass River, New Jersey 08087</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">99.90 mi ( + 0.48 mi )</td>
+                    <td class="content text-dark small">163.23 km ( + 0.77 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/bu/679.php">Burlington CR 679 - N Maple Ave</a>, Bass River, New Jersey 08087</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">100.29 mi ( + 0.39 mi )</td>
+                    <td class="content text-dark small">163.86 km ( + 0.63 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/444.php">NJ-444 - Garden State Pkwy</a>, Bass River, New Jersey 08087</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">100.68 mi ( + 0.39 mi )</td>
+                    <td class="content text-dark small">164.48 km ( + 0.62 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/bu/654.php">Burlington CR 654 - E Greenbush Rd</a>, Bass River, New Jersey 08087</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">103.23 mi ( + 2.55 mi )</td>
+                    <td class="content text-dark small">168.58 km ( + 4.10 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Little Egg Harbor Township, New Jersey 08087</td>
+                    <td class="content text-dark">End Burlington County, Start Ocean County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">104.48 mi ( + 1.25 mi )</td>
+                    <td class="content text-dark small">170.60 km ( + 2.02 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W Main St, Little Egg Harbor Township, New Jersey 08087</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">105.42 mi ( + 0.94 mi )</td>
+                    <td class="content text-dark small">172.11 km ( + 1.51 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W Main St, Tuckerton, New Jersey 08087</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">105.96 mi ( + 0.54 mi )</td>
+                    <td class="content text-dark small">172.98 km ( + 0.87 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">E Main St, Tuckerton, New Jersey 08087</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">106.03 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">173.09 km ( + 0.11 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/539.php">Ocean CR 539 - N Green St (NB)</a> / <a href="../../county-roads/nj/oc/603.php">Ocean CR 603 - S Green St, Tuckerton, New Jersey 08087</a>, Tuckerton, New Jersey 08087</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
             </table>
             <hr>
             <h1 class="header" id="us9bp">United States Route 9 - Beesley's Point</h1>
-            <h2 class="content text-dark">New Jersey Monmouth County Route 6 (Monmouth CR 6) splits into two roads near the Keyport-Union Beach border. It is 2.86 mi (4.60 km) long and connects Monmouth CR 6 to NJ-36.</h2>
+            <h2 class="content text-dark">US-9 splits off into Beeseley's Point Spur in Upper Township, New Jersey. It ends at a dead end 1.96 mi (3.12 km) later.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
-            <?php include "../../../static/table.php"; ?>
+            <spur>
+                <?php include "../../../static/table.php"; ?>
                 <tr>
                     <td class="content text-dark small">72.18 mi</td>
                     <td class="content text-dark small">118.53 km</td>
@@ -496,3 +713,4 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
+            </spur>

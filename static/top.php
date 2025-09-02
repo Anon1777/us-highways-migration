@@ -190,3 +190,5 @@
         </nav>
     </div>
     <div class="row" id="list-redirects">
+        <div class="col col-1 xxl"></div>
+        <div class="col col-10 xxl">

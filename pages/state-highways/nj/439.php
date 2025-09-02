@@ -1,6 +1,5 @@
 <?php include "../../../static/top.php"; ?>
-        <div class="col col-1 xxl"></div>
-        <div class="col col-11 xxl">
+        
             <h6 class="dir"><a href="../../index.php">Home</a> > <a href="list.php">State Highways in New Jersey</a> > New Jersey Route 29</h6>
             <h1 class="header">New Jersey Route 29</h1>
             <h2 class="content text-dark">New Jersey Route 439 (NJ-439) is a state highway in north New Jersey that wraps around the western side of the Elizabeth. It is 4.10 mi (6.58 km) long.</h2>

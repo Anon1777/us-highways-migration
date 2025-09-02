@@ -1,6 +1,5 @@
 <?php include "../../../static/top.php"; ?>    
-        <div class="col col-1 xxl"></div>
-        <div class="col col-11 xxl">
+        
             <h6 class="dir"><a href="../../index.php">Home</a> > County Roads in New Jersey</h6>
             <h1 class="header">List of County Roads in New Jersey</h1>
             <h4 class="content text-dark"><a href="at/list.php">Atlantic County</a></h4>

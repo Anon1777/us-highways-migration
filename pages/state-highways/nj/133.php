@@ -1,6 +1,5 @@
 <?php include "../../../static/top.php"; ?>
-        <div class="col col-1 xxl"></div>
-        <div class="col col-11 xxl">
+        
             <h6 class="dir"><a href="../../index.php">Home</a> > <a href="list.php">State Highways in New Jersey</a> > New Jersey Route 133</h6>
             <h1 class="header">New Jersey Route 133</h1>
             <h2 class="content text-dark">New Jersey Route 133 (NJ-66) is a state highway in East Windsor that connects NJ-33 and I-95. It continues on after this intersection and ends at County Road 571. It is 4.14 mi (6.66 km) long.</h2>
