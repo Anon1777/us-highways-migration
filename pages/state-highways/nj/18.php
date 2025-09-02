@@ -69,4 +69,31 @@
                     <td class="content text-dark">NJ-18, Eatontown, New Jersey 07724</td>
                     <td class="content text-dark"></td>
                 </tr>
-                
+                <tr>
+                    <td class="content text-dark small">7.93 mi ( + 0.95 mi )</td>
+                    <td class="content text-dark small">12.76 km ( + 1.52 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/547.php">Monmouth CR 547 - Shafto Rd</a>, Eatontown, New Jersey 07724</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">8.38 mi ( + 0.45 mi )</td>
+                    <td class="content text-dark small">13.48 km ( + 0.72 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/547.php">Monmouth CR 547 - Shafto Rd</a>, Eatontown, New Jersey 07724</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">8.62 mi ( + 0.24 mi )</td>
+                    <td class="content text-dark small">13.86 km ( + 0.38 km )</td>
+                    <td class="content text-dark"><a href="36.php">NJ-36</a>, Eatontown, New Jersey 07724</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">8.85 mi ( + 0.23 mi )</td>
+                    <td class="content text-dark small">14.22 km ( + 0.36 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/mo/51">Monmouth CR 51 - Hope Rd</a>, Tinton Falls, New Jersey 07724</td>
+                    <td class="content text-dark">NJ-18, Tinton Falls, New Jersey 07724</td>
+                    <td class="content text-dark"></td>
+                </tr>
