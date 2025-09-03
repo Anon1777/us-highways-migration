@@ -1,5 +1,5 @@
 *{
-    overflow-x: hidden;
+    overflow-x: clip;
 }
 
 body::-webkit-scrollbar{
@@ -18,6 +18,10 @@ body::selection{
 .branded-img {
     height:100px;
     width:100px;
+}
+
+h1, h2, h3, .header {
+  scroll-margin-top: 150px; /* height of your fixed header */
 }
 
 @font-face {

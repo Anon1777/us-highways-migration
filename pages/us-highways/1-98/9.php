@@ -41,16 +41,9 @@
                     <td class="content text-dark">Start concurrency with DE-404</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">12.69 mi ( + 0.75 mi )</td>
-                    <td class="content text-dark small">20.42 km ( + 1.21 km )</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark">Lewes Georgetown Hwy, Georgetown, Delaware 19947</td>
-                    <td class="content text-dark"></td>
-                </tr>
-                <tr>
                     <td class="content text-dark small">14.08 mi ( + 1.39 mi )</td>
                     <td class="content text-dark small">22.66 km ( + 2.24 km )</td>
-                    <td class="content text-dark">US-9 Byp - Park Ave, Georgetown, Delaware 19947</td>
+                    <td class="content text-dark"><a href="#us9byp">US-9 Byp - Park Ave</a>, Georgetown, Delaware 19947</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -368,7 +361,7 @@
                     <td class="content text-dark small">118.53 km ( + 0.34 km )</td>
                     <td class="content text-dark"><a href="../../county-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a> / <a href="#us9bp">US-9 - N Shore Rd (NB)</a>, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Start concurrency with Cape May CR 623 // Route splits into US-9 Beesley's Point Spur</td>
+                    <td class="content text-dark">Start concurrency with Cape May CR 623 // Route splits into <a href="#us9bp">US-9 Beesley's Point Spur</a></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">72.47 mi ( + 0.29 mi )</td>
@@ -685,12 +678,52 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">107.47 mi ( + 1.44 mi )</td>
+                    <td class="content text-dark small">175.40 km ( + 2.31 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Little Egg Harbor Township, New Jersey 08087</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">108.64 mi ( + 1.17 mi )</td>
+                    <td class="content text-dark small">177.29 km ( + 1.89 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, Eagleswood, New Jersey 08092</td>
+                    <td class="content text-dark"></td>
+                </tr>
+            </table>
+            <hr>
+            <h1 class="header" id="us9byp">United States Route 9 Bypass</h1>
+            <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
+            <?php include "../../../static/table.php"; ?>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="../101-290/113.php">US-113 - Dupont Blvd</a>, Georgetown, Delaware 19947</td>
+                    <td class="content text-dark">S Bedford St, Georgetown, Delaware 19947</td>
+                    <td class="content text-dark">Start of Bypass Route</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.72 mi ( + 0.72 mi )</td>
+                    <td class="content text-dark small">1.16 km ( + 1.16 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Park Ave, Georgetown, Delaware 19947</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">4.19 mi ( + 3.47 mi )</td>
+                    <td class="content text-dark small">6.74 km ( + 5.58 km )</td>
+                    <td class="content text-dark"><a href="#us9">US-9 - Lewes Georgetown Hwy</a> (concurrent with <a href="../../state-highways/de/404.php">DE-404</a>), Georgetown, Delaware 19947</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Bypass Route</td>
+                </tr>
             </table>
             <hr>
             <h1 class="header" id="us9bp">United States Route 9 - Beesley's Point</h1>
-            <h2 class="content text-dark">US-9 splits off into Beeseley's Point Spur in Upper Township, New Jersey. It ends at a dead end 1.96 mi (3.12 km) later.</h2>
+            <h2 class="content text-dark">US-9 splits off into Beesley's Point Spur in Upper Township, New Jersey. It ends at a dead end 1.96 mi (3.12 km) later.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
-            <spur>
                 <?php include "../../../static/table.php"; ?>
                 <tr>
                     <td class="content text-dark small">72.18 mi</td>
@@ -713,4 +746,3 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
-            </spur>
