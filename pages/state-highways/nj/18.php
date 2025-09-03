@@ -258,3 +258,45 @@
                     <td class="content text-dark">NJ-18, New Brunswick, New Jersey 08901</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">35.12 mi ( + 0.29 mi )</td>
+                    <td class="content text-dark small">56.54 km ( + 0.47 km )</td>
+                    <td class="content text-dark"><a href="../../us-highways/1-98/1.php">US-1</a>, New Brunswick, New Jersey 08901</td>
+                    <td class="content text-dark">Burnet St, New Brunswick, New Jersey 08901</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">35.94 mi ( + 0.82 mi )</td>
+                    <td class="content text-dark small">57.86 km ( + 1.32 km )</td>
+                    <td class="content text-dark"><a href="172.php">NJ-172 - George St</a> (concurrent with <a href="../../county-roads/nj/527.php">Middlesex CR 527</a>), New Brunswick, New Jersey 08901</td>
+                    <td class="content text-dark">Memorial Pkwy, New Brunswick, New Jersey 08901</td>
+                    <td class="content text-dark">End concurrency with Middlesex CR 527</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">36.80 mi ( + 0.86 mi )</td>
+                    <td class="content text-dark small">59.24 km ( + 1.38 km )</td>
+                    <td class="content text-dark"><a href="27.php">NJ-27 - Albany St (WB) / Raritan Ave (EB)</a>, New Brunswick, New Jersey 08901</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">38.14 mi ( + 1.34 mi )</td>
+                    <td class="content text-dark small">61.40 km ( + 2.16 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Metlars Ln, Piscataway, New Jersey 08854</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">38.36 mi ( + 0.22 mi )</td>
+                    <td class="content text-dark small">61.75 km ( + 0.35 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/mi/622.php">Middlesex CR 622 - River Rd</a>, Piscataway, New Jersey 08854</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">39.22 mi ( + 0.86 mi )</td>
+                    <td class="content text-dark small">63.14 km ( + 1.39 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/mi/609.php">Middlesex CR 609 - Metlars Ln</a>, Piscataway, New Jersey 08854</td>
+                    <td class="content text-dark">E Hoes Ln, Piscataway, New Jersey 08854</td>
+                    <td class="content text-dark"></td>
+                </tr>
