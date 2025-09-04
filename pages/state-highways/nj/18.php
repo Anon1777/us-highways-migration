@@ -2,7 +2,7 @@
         
             <h6 class="dir"><a href="../../index.php">Home</a> > <a href="list.php">State Highways in New Jersey</a> > New Jersey Route 18</h6>
             <h1 class="header">New Jersey Route 18</h1>
-            <h2 class="content text-dark">New Jersey Route 18 (NJ-18) is a state highway in New Jersey that connects NJ-138 in Wall Township to I-295 in Piscataway. It is 0.41 mi (0.65 km) long.</h2>
+            <h2 class="content text-dark">New Jersey Route 18 (NJ-18) is a state highway in New Jersey that connects I-195/NJ-138 in Wall Township to I-295 in Piscataway. It is 42.50 mi (68.40 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
             <?php include "../../../static/table.php"; ?>
@@ -300,3 +300,39 @@
                     <td class="content text-dark">E Hoes Ln, Piscataway, New Jersey 08854</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">40.56 mi ( + 1.34 mi )</td>
+                    <td class="content text-dark small">65.29 km ( + 2.15 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/mi/609.php">Middlesex CR 609 - Metlars Ln</a>, Piscataway, New Jersey 08854</td>
+                    <td class="content text-dark">Hoes Ln, Piscataway, New Jersey 08854</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">41.86 mi ( + 1.30 mi )</td>
+                    <td class="content text-dark small">67.38 km ( + 2.09 km )</td>
+                    <td class="content text-dark">NJ-18 - Centennial Ave, Piscataway, New Jersey 08854</td>
+                    <td class="content text-dark">Centennial Ave, Piscataway, New Jersey 08854</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">42.23 mi ( + 0.37 mi )</td>
+                    <td class="content text-dark small">67.98 km ( + 0.60 km )</td>
+                    <td class="content text-dark">NJ-18 - Possumtown Rd, Piscataway, New Jersey 08854</td>
+                    <td class="content text-dark">Possumtown Rd, Piscataway, New Jersey 08854</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">42.40 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">68.25 km ( + 0.27 km )</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-287.php">I-287 - Middlesex Fwy</a>, Piscataway, New Jersey 08854</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">42.50 mi ( + 0.10 mi )</td>
+                    <td class="content text-dark small">68.40 km ( + 0.15 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Route</td>
+                </tr>
+                <?php include "../../../static/bottom.php"; ?>
