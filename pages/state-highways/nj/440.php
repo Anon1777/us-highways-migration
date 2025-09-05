@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-287.php">I-287 (WB)</a> / <a href="../../interstates/95.php">I-95 - New Jersey Tpke (NB/SB)</a>, Edison, New Jersey 08817</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-287.php">I-287 (WB)</a> / <a href="../../interstates/95.php">I-95 - New Jersey Tpke (NB/SB)</a> (concurrent with <a href="../../state-highways/nj/700.php">NJ-700</a>), Edison, New Jersey 08817</td>
                     <td class="content text-dark">NJ-440, Edison, New Jersey 08817</td>
                     <td class="content text-dark">Start of Route // Start Route in New Jersey // Start Middlesex County</td>
                 </tr>

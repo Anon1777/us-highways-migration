@@ -247,7 +247,7 @@
                 <tr>
                     <td class="content text-dark small">34.49 mi ( + 0.68 mi )</td>
                     <td class="content text-dark small">55.52 km ( + 1.09 km )</td>
-                    <td class="content text-dark"><a href="../../interstates/95.php">I-95 - New Jersey Tpke</a>, East Brunswick, New Jersey 08816</td>
+                    <td class="content text-dark"><a href="../../interstates/95.php">I-95 - New Jersey Tpke</a> (concurrent with <a href="../../state-highways/nj/700.php">NJ-700</a>), East Brunswick, New Jersey 08816</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

@@ -36,7 +36,7 @@
                 <tr>
                     <td class="content text-dark small">6.83 mi ( + 1.25 mi )</td>
                     <td class="content text-dark small">10.98 km ( + 2.01 km )</td>
-                    <td class="content text-dark"><a href="../95.php">I-95 - New Jersey Tpke</a>, Robbinsville Township, New Jersey 08691</td>
+                    <td class="content text-dark"><a href="../95.php">I-95 - New Jersey Tpke</a> (concurrent with <a href="../../state-highways/nj/700.php">NJ-700</a>), Robbinsville Township, New Jersey 08691</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

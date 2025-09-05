@@ -152,3 +152,87 @@
                     <td class="content text-dark">US-206, Springfield, New Jersey 08041</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">26.77 mi ( + 0.49 mi )</td>
+                    <td class="content text-dark small">43.55 km ( + 0.79 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/bu/667.php">Burlington CR 667 - Juliustown Rd</a>, Springfield, New Jersey 08041</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">26.89 mi ( + 0.12 mi )</td>
+                    <td class="content text-dark small">43.74 km ( + 0.19 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/537.php">Burlington CR 537 - Monmouth Rd</a>, Springfield, New Jersey 08041</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">28.39 mi ( + 1.50 mi )</td>
+                    <td class="content text-dark small">46.15 km ( + 2.41 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/bu/670.php">Burlington CR 670 - Jacksonville Jobstown Rd</a>, Springfield, New Jersey 08041</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">29.64 mi ( + 1.25 mi )</td>
+                    <td class="content text-dark small">48.17 km ( + 2.02 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-206, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">30.50 mi ( + 0.86 mi )</td>
+                    <td class="content text-dark small">49.56 km ( + 1.39 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/bu/690.php">Burlington CR 690 - Atlantic Ave</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">30.75 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">49.97 km ( + 0.41 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/543.php">Burlington CR 543 - W Main St</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">31.27 mi ( + 0.52 mi )</td>
+                    <td class="content text-dark small">50.81 km ( + 0.84 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/bu/678.php">Burlington CR 678 - Hedding Rd</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">31.32 mi ( + 0.05 mi )</td>
+                    <td class="content text-dark small">50.89 km ( + 0.08 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/bu/690.php">Burlington CR 690 - New York Ave</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">33.69 mi ( + 2.37 mi )</td>
+                    <td class="content text-dark small">54.71 km ( + 3.82 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/68.php">NJ-68</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">33.90 mi ( + 0.21 mi )</td>
+                    <td class="content text-dark small">55.05 km ( + 0.34 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/bu/660.php">Burlington CR 660 - Old York Rd</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark">US-206, Bordentown, New Jersey 08505</td>
+                    <td class="content text-dark">Start concurrency with Burlington CR 660</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">34.08 mi ( + 0.18 mi )</td>
+                    <td class="content text-dark small">55.34 km ( + 0.29 km )</td>
+                    <td class="content text-dark"><a href="../../interstates/95.php">I-95 - New Jersey Tpke</a> (concurrent with <a href="../../state-highways/nj/700.php">NJ-700</a>), Bordentown, New Jersey 08505</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">34.14 mi ( + 0.06 mi )</td>
+                    <td class="content text-dark small">55.43 km ( + 0.09 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/bu/660.php">Burlington CR 660 - Old York Rd</a>, Bordentown, New Jersey 08505</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with Burlington CR 660</td>
+                </tr>
