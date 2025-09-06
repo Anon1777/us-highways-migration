@@ -692,6 +692,41 @@
                     <td class="content text-dark">Main St, Eagleswood, New Jersey 08092</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">111.69 mi ( + 3.05 mi )</td>
+                    <td class="content text-dark small">182.20 km ( + 4.91 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S Main St, Stafford Township, New Jersey 08092</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">113.80 mi ( + 2.11 mi )</td>
+                    <td class="content text-dark small">185.60 km ( + 3.40 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/72.php">NJ-72 - Barnegat Rd (WB) / E Barnegat Rd (EB)</a>, Stafford Township, New Jersey 08092</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">113.80 mi ( + 2.11 mi )</td>
+                    <td class="content text-dark small">185.60 km ( + 3.40 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/72.php">NJ-72 - Barnegat Rd (WB) / E Barnegat Rd (EB)</a>, Stafford Township, New Jersey 08092</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">113.92 mi ( + 0.12 mi )</td>
+                    <td class="content text-dark small">185.79 km ( + 0.19 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/50.php">Ocean CR 50 - E Bay Ave</a>, Stafford Township, New Jersey 08092</td>
+                    <td class="content text-dark">N Main St, Stafford Township, New Jersey 08092</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">116.75 mi ( + 2.83 mi )</td>
+                    <td class="content text-dark small">190.34 km ( + 4.55 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">N Main St, Barnegat Township, New Jersey 08005</td>
+                    <td class="content text-dark"></td>
+                </tr>
             </table>
             <hr>
             <h1 class="header" id="us9byp">United States Route 9 Bypass</h1>
