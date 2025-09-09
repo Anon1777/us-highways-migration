@@ -1,7 +1,17 @@
 {
-    "name": "us/highways",
-    "description": "A project to manage US highways data",
-    "require": {
-        "monolog/monolog": "^3.9"
-    }
+    "name": "anon1777/us-highways",
+    "description": "\"php to manage us highways\"",
+    "license": "MIT-open-group",
+    "autoload": {
+        "psr-4": {
+            "Anon1777\\UsHighways\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "farrelj5",
+            "email": "farrelj5@tcnj.edu"
+        }
+    ],
+    "require": {}
 }
