@@ -1,4 +1,6 @@
 {
+    "name": "us/highways",
+    "description": "A project to manage US highways data",
     "require": {
         "monolog/monolog": "^3.9"
     }
