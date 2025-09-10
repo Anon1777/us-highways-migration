@@ -2,7 +2,7 @@
         
             <h6 class="dir"><a href="../../../index.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Atlantic County, New Jersey</a> > Atlantic CR 608</h6>
             <h1 class="header">Atlantic County Route 608</h1>
-            <h2 class="content text-dark">New Jersey Atlantic County Route 608 (Atlantic CR 608) is a county road that connects the shore to US-40. It is 2.86 mi (4.58BHJGVF km).</h2>
+            <h2 class="content text-dark">New Jersey Atlantic County Route 608 (Atlantic CR 608) is a county road that connects the shore to US-40. It is 2.86 mi (4.58 km).</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             
             <?php include "../../../../static/table.php"; ?>
