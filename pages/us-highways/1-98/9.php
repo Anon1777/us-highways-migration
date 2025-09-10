@@ -43,7 +43,7 @@
                 <tr>
                     <td class="content text-dark small">14.08 mi ( + 1.39 mi )</td>
                     <td class="content text-dark small">22.66 km ( + 2.24 km )</td>
-                    <td class="content text-dark"><a href="#us9byp">US-9 Byp - Park Ave</a>, Georgetown, Delaware 19947</td>
+                    <td class="content text-dark"><a href="#us9byp">US-9 Bypass - Park Ave</a>, Georgetown, Delaware 19947</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -78,7 +78,7 @@
                 <tr>
                     <td class="content text-dark small">22.70 mi ( + 6.28 mi )</td>
                     <td class="content text-dark small">38.15 km ( + 10.11 km )</td>
-                    <td class="content text-dark"><a href="../../state-highways/de/1.php">DE-1 - Coastal Hwy (EB & WB)</a> / US-9 Business (NB), Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="../../state-highways/de/1.php">DE-1 - Coastal Hwy (EB & WB)</a> / <a href="#us9bus">US-9 Business (NB)</a>, Lewes, Delaware 19958</td>
                     <td class="content text-dark">Coastal Hwy, Lewes, Delaware 19958</td>
                     <td class="content text-dark">End concurrency with DE-404 // Start concurrency with DE-1</td>
                 </tr>
@@ -753,6 +753,67 @@
                     <td class="content text-dark"><a href="#us9">US-9 - Lewes Georgetown Hwy</a> (concurrent with <a href="../../state-highways/de/404.php">DE-404</a>), Georgetown, Delaware 19947</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Bypass Route</td>
+                </tr>
+            </table>
+            <hr>
+            <h1 class="header" id="us9bus">United States Route 9 Business</h1>
+            <h2 class="content text-dark">US-9 starts a business route in Lewes, Delaware. It is 2.64 mi (4.25 km) long.</h2>
+            <?php include "../../../static/table.php"; ?>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us9">US-9 - Coastal Hwy</a> (concurrent with <a href="../../state-highways/de/1.html">DE-1</a>), Lewes, Delaware 19958</td>
+                    <td class="content text-dark">Savannah Rd, Lewes, Delaware 19958</td>
+                    <td class="content text-dark">Start of Business Route</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.64 mi ( + 2.64 mi )</td>
+                    <td class="content text-dark small">4.25 km ( + 4.25 km )</td>
+                    <td class="content text-dark"><a href="#us9kh">US-9 - Kings Hwy</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Business Route</td>
+                </tr>
+            </table>
+            <hr>
+            <h1 class="header" id="us9kh">United States Route 9 Kings Highway Spur</h1>
+            <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
+            <?php include "../../../static/table.php"; ?>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us9">US-9 - Kings Hwy (SB) / Theo C Freeman Memorial Hwy (NB)</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark">Kings Hwy, Lewes, Delaware 19958</td>
+                    <td class="content text-dark">Start of Spur</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.84 mi ( + 0.84 mi )</td>
+                    <td class="content text-dark small">1.35 km ( + 1.35 km )</td>
+                    <td class="content text-dark"><a href="#us9bus">US-9 Business - Savannah Rd</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark">Savannah Rd, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.94 mi ( + 0.10 mi )</td>
+                    <td class="content text-dark small">1.50 km ( + 0.15 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">E Savannah Rd, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.41 mi ( + 0.47 mi )</td>
+                    <td class="content text-dark small">2.26 km ( + 0.76 km )</td>
+                    <td class="content text-dark">US-9 - Cape Henlopen Dr, Lewes, Delaware 19958</td>
+                    <td class="content text-dark">Cape Henlopen Dr, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.73 mi ( + 0.32 mi )</td>
+                    <td class="content text-dark small">2.78 km ( + 0.52 km )</td>
+                    <td class="content text-dark"><a href="#us9">US-9 - Theo C Freeman Memorial Hwy (SB) / Cape Henlopen Dr (NB)</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Spur</td>
                 </tr>
             </table>
             <hr>
