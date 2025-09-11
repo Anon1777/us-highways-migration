@@ -1,6 +1,6 @@
 <?php include "../../../../static/top.php"; ?>
         
-            <h6 class="dir"><a href="../../../index.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Burlington County, New Jersey</a> > Burlington CR 690</h6>
+            <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Burlington County, New Jersey</a> > Burlington CR 690</h6>
             <h1 class="header">Burlington County Route 690</h1>
             <h2 class="content text-dark">New Jersey Burlington County Route 690 (Burlington CR 690) is a very short county road that acts as a thruway through Columbus, an unincorporated community inside Mansfield, Burlington County, New Jersey. It is 0.78 mi (1.26 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>

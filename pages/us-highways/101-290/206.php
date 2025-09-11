@@ -1,6 +1,6 @@
 <?php include "../../../static/top.php"; ?>
         
-            <h6 class="dir"><a href="../../index.php">Home</a> > <a href="../list.php">US Highways</a> > US-206</h6>
+            <h6 class="dir"><a href="../../index-redirect.php">Home</a> > <a href="../list.php">US Highways</a> > US-206</h6>
             <h1 class="header" id="us9">United States Route 206</h1>
             <h2 class="content text-dark">United States Route 206 (US-206) is a north-south route covering a little bit of Delaware through the whole of New York. It is xxx.xx mi (xxx.xx km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>

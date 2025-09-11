@@ -1,6 +1,6 @@
 <?php include "../../../../static/top.php"; ?>
         
-            <h6 class="dir"><a href="../../../index.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 6</h6>
+            <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 6</h6>
             <h1 class="header" id="njmo6n">Monmouth County Route 6</h1>
             <h2 class="content text-dark">New Jersey Monmouth County Route 6 (Monmouth CR 6) is a county road that connects NJ-35 to Monmouth CR 39. It is 2.37 mi (3.80 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>

@@ -1,6 +1,6 @@
 <?php include "../../../../static/top.php"; ?>
         
-            <h6 class="dir"><a href="../../../index.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 35</h6>
+            <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > <a href="list.php">County Roads in Monmouth County, New Jersey</a> > Monmouth CR 35</h6>
             <h1 class="header">Monmouth County Route 35</h1>
             <h2 class="content text-dark">New Jersey Monmouth County Route 35 (Monmouth CR 35) is a county road that connects Monmouth CR 524 and NJ-33. It is 1.79 mi (2.89 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
