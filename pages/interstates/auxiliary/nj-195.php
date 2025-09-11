@@ -1,6 +1,6 @@
 <?php include "../../../static/top.php"; ?>
         
-            <h6 class="dir"><a href="../../../index.php">Home</a> > <a href="../list.php">Interstates</a> > <a href="list.php">Auxiliary Routes</a> > I-195 (NJ)</h6>
+            <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">Interstates</a> > <a href="list.php">Auxiliary Routes</a> > I-195 (NJ)</h6>
             <h1 class="header">Interstate 195 (New Jersey)</h1>
             <h2 class="content text-dark">New Jersey Interstate 195 (I-195) is an east-west auxiliary interstate route covering central New Jersey. It is 34.09 mi (54.86 km) long and is known as the Central Jersey Expressway.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>

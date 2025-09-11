@@ -34,7 +34,7 @@ function executeIncludes($phpFiles)
                 $fullIncludePath = realpath($baseDir . DIRECTORY_SEPARATOR . $includePath);
                 if ($fullIncludePath && file_exists($fullIncludePath)) {
                     echo "Executing include from $phpFile (Line " . ($num + 1) . "): $includePath\n";
-                    include($fullIncludePath);
+                    // include($fullIncludePath);
                 } else {
                     echo "Include file not found: $includePath in $phpFile (Line " . ($num + 1) . ")\n";
                 }
@@ -65,37 +65,38 @@ function deleteHtmlFiles($directoryPath)
     }
 }
 
-
-scanDirectoryRecursive($path, $phpFiles);
-// executeIncludes($phpFiles);
-// deleteHtmlFiles($path);
-
-foreach ($phpFiles as $phpFile) {
-    $htmlFile = preg_replace('/\.php$/', '.html', $phpFile);
-    if ($htmlFile !== $phpFile) {
-        $content = file_get_contents($phpFile);
-        $includePattern = '/<\?php\s+include\s+[\'\"]([^\'\"]+\.php)[\'\"];\s*\?>/i';
-        $processedContent = preg_replace_callback($includePattern, function ($matches) use ($phpFile) {
-            $includePath = $matches[1];
-            $baseDir = dirname($phpFile);
-            $fullIncludePath = realpath($baseDir . DIRECTORY_SEPARATOR . $includePath);
-            if ($fullIncludePath && file_exists($fullIncludePath)) {
-                ob_start();
-                include($fullIncludePath);
-                $output = ob_get_clean();
-                return $output;
+function renderPhpToHtml($phpFiles)
+{
+    foreach ($phpFiles as $phpFile) {
+        $htmlFile = preg_replace('/\.php$/', '.html', $phpFile);
+        if ($htmlFile !== $phpFile) {
+            $content = file_get_contents($phpFile);
+            $includePattern = '/<\?php\s+include\s+[\'\"]([^\'\"]+\.php)[\'\"];\s*\?>/i';
+            $processedContent = preg_replace_callback($includePattern, function ($matches) use ($phpFile) {
+                $includePath = $matches[1];
+                $baseDir = dirname($phpFile);
+                $fullIncludePath = realpath($baseDir . DIRECTORY_SEPARATOR . $includePath);
+                if ($fullIncludePath && file_exists($fullIncludePath)) {
+                    ob_start();
+                    include($fullIncludePath);
+                    $output = ob_get_clean();
+                    return $output;
+                } else {
+                    return "<!-- Include file not found: $includePath -->";
+                }
+            }, $content);
+            // Replace all <a href="...php"> with <a href="...html">
+            $finalContent = preg_replace('/(<a\s+[^>]*href=["\"][^"\']+)\.php(["\'])/i', '$1.html$2', $processedContent);
+            if (file_put_contents($htmlFile, $finalContent) === false) {
+                echo "Failed to write $htmlFile\n";
             } else {
-                return "<!-- Include file not found: $includePath -->";
+                echo "Rendered $phpFile to $htmlFile\n";
             }
-        }, $content);
-        // Replace all <a href="...php"> with <a href="...html">
-        $finalContent = preg_replace('/(<a\s+[^>]*href=["\"][^"\']+)\.php(["\'])/i', '$1.html$2', $processedContent);
-        if (file_put_contents($htmlFile, $finalContent) === false) {
-            echo "Failed to write $htmlFile\n";
-        } else {
-            echo "Rendered $phpFile to $htmlFile\n";
         }
     }
 }
 
-
+scanDirectoryRecursive($path, $phpFiles);
+renderPhpToHtml($phpFiles);
+executeIncludes($phpFiles);
+// deleteHtmlFiles($path);
