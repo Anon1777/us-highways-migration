@@ -334,3 +334,52 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">42.34 mi ( + 0.37 mi )</td>
+                    <td class="content text-dark small">66.52 km ( + 0.60 km )</td>
+                    <td class="content text-dark"><a href="../1-98/1.php">US-1</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">42.61 mi ( + 0.27 mi )</td>
+                    <td class="content text-dark small">66.96 km ( + 0.44 km )</td>
+                    <td class="content text-dark">US-206 (SB) - Lincoln Hwy, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark">Lincoln Hwy, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">43.26 mi ( + 0.65 mi )</td>
+                    <td class="content text-dark small">68.01 km ( + 1.05 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/31.php">NJ-31 - Pennington Ave</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark">Martin Luther King Jr Blvd, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">44.19 mi ( + 0.93 mi )</td>
+                    <td class="content text-dark small">69.51 km ( + 1.50 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/me/653.php">Mercer CR 653 - Calhoun St</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">44.19 mi ( + 0.93 mi )</td>
+                    <td class="content text-dark small">69.51 km ( + 1.50 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/me/653.php">Mercer CR 653 - Calhoun St</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark">Princeton Ave, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">44.45 mi ( + 0.26 mi )</td>
+                    <td class="content text-dark small">69.93 km ( + 0.42 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/me/622.php">Mercer CR 622 - N Olden Ave</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">44.59 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">70.15 km ( + 0.22 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/me/613.php">Mercer CR 613 - Spruce St</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark">Princeton Ave, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"></td>
+                </tr>
