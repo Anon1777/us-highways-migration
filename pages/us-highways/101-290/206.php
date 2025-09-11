@@ -327,3 +327,10 @@
                     <td class="content text-dark">S Broad St, Trenton, New Jersey 08608</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">41.97 mi ( + 1.24 mi )</td>
+                    <td class="content text-dark small">66.52 km ( + 1.99 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/129.php">NJ-129</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
