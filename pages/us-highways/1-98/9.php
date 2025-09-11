@@ -842,3 +842,4 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
+                <?php include "../../../static/bottom.php"; ?>
