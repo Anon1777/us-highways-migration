@@ -724,6 +724,13 @@
                     <td class="content text-dark small">116.75 mi ( + 2.83 mi )</td>
                     <td class="content text-dark small">190.34 km ( + 4.55 km )</td>
                     <td class="content text-dark"></td>
+                    <td class="content text-dark">S Main St, Barnegat Township, New Jersey 08005</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">118.50 mi ( + 1.75 mi )</td>
+                    <td class="content text-dark small">193.16 km ( + 2.82 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/554.php">Ocean CR 554 - W Bay Ave</a>, Barnegat, New Jersey 08005</td>
                     <td class="content text-dark">N Main St, Barnegat Township, New Jersey 08005</td>
                     <td class="content text-dark"></td>
                 </tr>
