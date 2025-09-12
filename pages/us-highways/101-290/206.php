@@ -10,7 +10,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="../1-98/30.php">US-30 - N White Horse Pk (WB / EB)</a> / <a href="../../state-highways/nj/54.php">NJ-54 - Bellevue Ave</a>, Hammonton, New Jersey 08037</td>
                     <td class="content text-dark">Trenton Rd, Hammonton, New Jersey 08037</td>
-                    <td class="content text-dark">Start of Route // Start of Route in New Jersey // Start Atkantic County</td>
+                    <td class="content text-dark">Start of Route // Start of Route in New Jersey // Start Atlantic County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.25 mi ( + 1.25 mi )</td>
@@ -383,3 +383,66 @@
                     <td class="content text-dark">Princeton Ave, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">44.88 mi ( + 0.29 mi )</td>
+                    <td class="content text-dark small">70.62 km ( + 0.47 km )</td>
+                    <td class="content text-dark"><a href="#us206bc">US-206 - Brunswick Cir</a> (concurrent with <a href="../../county-roads/nj/me/645.php">Mercer CR 645</a>), Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+</table>
+<hr>
+            <h1 class="header" id="us206bc">United States Route 206 Brunswick Circle</h1>
+            <h2 class="content text-dark">US-206 splits into two routes in Lawrence Township: Princeton Ave and Brunswick Circle. The circle route is 2.64 mi (4.25 km) long.</h2>
+            <?php include "../../../static/table.php"; ?>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us206">US-206 - Princeton Ave</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark">Brunswick Cir, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark">Start of Spur // Start concurrency with Mercer CR 645</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.23 mi ( + 0.23 mi )</td>
+                    <td class="content text-dark small">0.37 km ( + 0.37 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with Mercer CR 645</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.28 mi ( + 0.05 mi )</td>
+                    <td class="content text-dark small">0.46 km ( + 0.09 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Brunswick Cir, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.31 mi ( + 0.03 mi )</td>
+                    <td class="content text-dark small">0.51 km ( + 0.05 km )</td>
+                    <td class="content text-dark"><a href="1.php/#us1bus">US-1 Business - Strawberry St</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark">Brunswick Cir, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark">Start concurrency with US-1 Business</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.33 mi ( + 0.02 mi )</td>
+                    <td class="content text-dark small">0.54 km ( + 0.03 km )</td>
+                    <td class="content text-dark"><a href="1.php/#us1bus">US-1 Business - Brunswick Ave</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with US-1 Business</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.36 mi ( + 0.03 mi )</td>
+                    <td class="content text-dark small">0.58 km ( + 0.04 km )</td>
+                    <td class="content text-dark">US-206 - Lawrence Rd, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark">Lawrence Rd, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.65 mi ( + 0.29 mi )</td>
+                    <td class="content text-dark small">1.05 km ( + 0.47 km )</td>
+                    <td class="content text-dark"><a href="#us206">US-206 - Princeton Ave (SB) / Lawrence Rd (NB)</a> / <a href="../../county-roads/nj/583.php">Mercer CR 583 - Princeton Pike (NB)</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Spur</td>
+                </tr>
+                <?php include "../../../static/bottom.php"; ?>
