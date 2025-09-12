@@ -738,8 +738,8 @@
             <hr>
             <h1 class="header" id="us9byp">United States Route 9 Bypass</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
-            <?php include "../../../static/table.php"; ?>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../../static/table.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
@@ -765,8 +765,8 @@
             <hr>
             <h1 class="header" id="us9bus">United States Route 9 Business</h1>
             <h2 class="content text-dark">US-9 starts a business route in Lewes, Delaware. It is 2.64 mi (4.25 km) long.</h2>
-            <?php include "../../../static/table.php"; ?>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../../static/table.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
@@ -785,8 +785,8 @@
             <hr>
             <h1 class="header" id="us9kh">United States Route 9 Kings Highway Spur</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
-            <?php include "../../../static/table.php"; ?>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../../static/table.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>

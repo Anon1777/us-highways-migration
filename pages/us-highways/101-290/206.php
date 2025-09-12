@@ -390,12 +390,40 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">45.30 mi ( + 0.42 mi )</td>
+                    <td class="content text-dark small">71.30 km ( + 0.68 km )</td>
+                    <td class="content text-dark"><a href="#us206bc">US-206 - Lawrence Rd (SB)</a> / <a href="../../county-roads/nj/583.php">Mercer CR 583 - Princeton Pike (NB)</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark">Lawrence Rd, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">46.95 mi ( + 1.65 mi )</td>
+                    <td class="content text-dark small">75.95 km ( + 2.65 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Lawrenceville Rd, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">47.95 mi ( + 1.00 mi )</td>
+                    <td class="content text-dark small">77.56 km ( + 1.61 km )</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-295.php">I-295 - Camden Fwy</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">48.26 mi ( + 0.31 mi )</td>
+                    <td class="content text-dark small">78.06 km ( + 0.50 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/546.php">Mercer CR 546 - Lawrenceville-Pennington Rd (WB) / Franklin Corner Rd (EB)</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
 </table>
 <hr>
             <h1 class="header" id="us206bc">United States Route 206 Brunswick Circle</h1>
-            <h2 class="content text-dark">US-206 splits into two routes in Lawrence Township: Princeton Ave and Brunswick Circle. The circle route is 2.64 mi (4.25 km) long.</h2>
-            <?php include "../../../static/table.php"; ?>
+            <h2 class="content text-dark">US-206 splits into two routes in Lawrence Township: Princeton Ave and Brunswick Circle. The circle route is 0.65 mi (1.05 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../../static/table.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
