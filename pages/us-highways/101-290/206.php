@@ -415,7 +415,42 @@
                     <td class="content text-dark small">48.26 mi ( + 0.31 mi )</td>
                     <td class="content text-dark small">78.06 km ( + 0.50 km )</td>
                     <td class="content text-dark"><a href="../../county-roads/nj/546.php">Mercer CR 546 - Lawrenceville-Pennington Rd (WB) / Franklin Corner Rd (EB)</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark">Main St, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">49.47 mi ( + 1.21 mi )</td>
+                    <td class="content text-dark small">80.01 km ( + 1.95 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Lawrenceville Rd, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">50.15 mi ( + 0.68 mi )</td>
+                    <td class="content text-dark small">81.10 km ( + 1.09 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/569.php">Mercer CR 569 - Fackler Rd (SB) / Carter Rd (NB)</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">51.54 mi ( + 1.39 mi )</td>
+                    <td class="content text-dark small">83.34 km ( + 2.24 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Lawrenceville Rd, Princeton, New Jersey 08540</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">52.48 mi ( + 0.94 mi )</td>
+                    <td class="content text-dark small">84.85 km ( + 1.51 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/533.php">Mercer CR 533 - Quaker Rd</a>, Princeton, New Jersey 08540</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with Mercer CR 533</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">53.12 mi ( + 0.64 mi )</td>
+                    <td class="content text-dark small">85.89 km ( + 1.04 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Stockton St, Princeton, New Jersey 08540</td>
                     <td class="content text-dark"></td>
                 </tr>
 </table>
