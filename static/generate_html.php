@@ -1,6 +1,6 @@
 <?php
 
-$path = './pages';
+$path = './us-highways-migration/pages';
 $phpFiles = array();
 
 if ($argc > 1) {
