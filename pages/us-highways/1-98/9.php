@@ -730,8 +730,64 @@
                 <tr>
                     <td class="content text-dark small">118.50 mi ( + 1.75 mi )</td>
                     <td class="content text-dark small">193.16 km ( + 2.82 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/554.php">Ocean CR 554 - W Bay Ave</a>, Barnegat, New Jersey 08005</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/554.php">Ocean CR 554 - W Bay Ave (WB)</a> / <a href="../../county-roads/nj/oc/609.php">Ocean CR 609 - E Bay Ave (EB)</a>, Barnegat, New Jersey 08005</td>
                     <td class="content text-dark">N Main St, Barnegat Township, New Jersey 08005</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">111.65 mi ( + 1.15 mi )</td>
+                    <td class="content text-dark small">195.02 km ( + 1.86 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/609.php">Ocean CR 609 - Bayshore Dr</a>, Barnegat, New Jersey 08005</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">119.99 mi ( + 0.34 mi )</td>
+                    <td class="content text-dark small">195.56 km ( + 0.54 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">N Main St, Ocean Township, New Jersey 08758</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">121.10 mi ( + 1.11 mi )</td>
+                    <td class="content text-dark small">197.34 km ( + 1.78 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/613.php">Ocean CR 613 - Main St</a>, Ocean Township, New Jersey 08758</td>
+                    <td class="content text-dark">US-9, Ocean Township, New Jersey 08758</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">121.55 mi ( + 0.45 mi )</td>
+                    <td class="content text-dark small">198.06 km ( + 0.72 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/532.php">Ocean CR 532 - Wells Mills Rd (WB)</a> / <a href="../../county-roads/nj/oc/612.php">Ocean CR 612 - Bryant Rd</a>, Ocean Township, New Jersey 08758</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">122.43 mi ( + 0.88 mi )</td>
+                    <td class="content text-dark small">199.48 km ( + 1.42 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/613.php">Ocean CR 613 - Main St</a>, Ocean Township, New Jersey 08758</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">122.93 mi ( + 0.50 mi )</td>
+                    <td class="content text-dark small">200.28 km ( + 0.80 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S Main St, Lacey Township, New Jersey 08731</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">125.11 mi ( + 2.18 mi )</td>
+                    <td class="content text-dark small">203.79 km ( + 3.51 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/614.php">Ocean CR 614 - Lacey Rd (WB) / E Lacey Rd (EB)</a>, Lacey Township, New Jersey 08731</td>
+                    <td class="content text-dark">N Main St, Lacey Township, New Jersey 08731</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">127.39 mi ( + 2.28 mi )</td>
+                    <td class="content text-dark small">207.46 km ( + 3.67 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Atlantic City Blvd, Berkeley Township, New Jersey 08721</td>
                     <td class="content text-dark"></td>
                 </tr>
             </table>
