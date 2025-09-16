@@ -790,6 +790,34 @@
                     <td class="content text-dark">Atlantic City Blvd, Berkeley Township, New Jersey 08721</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">129.12 mi ( + 1.73 mi )</td>
+                    <td class="content text-dark small">210.24 km ( + 2.78 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/618.php">Ocean CR 618 - Central Pkwy (WB) / Butler Blvd (EB)</a>, Berkeley Township, New Jersey 08721</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">129.44 mi ( + 0.32 mi )</td>
+                    <td class="content text-dark small">210.76 km ( + 0.52 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/50.php">Ocean CR 50 - Bay Ave</a>, Berkeley Township, New Jersey 08721</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">130.84 mi ( + 1.40 mi )</td>
+                    <td class="content text-dark small">213.02 km ( + 2.26 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/50.php">Ocean CR 625 - Ocean Gate Dr</a>, Berkeley Township, New Jersey 08721</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">132.80 mi ( + 1.96 mi )</td>
+                    <td class="content text-dark small">216.18 km ( + 3.16 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Atlantic City Blvd, Beachwood, New Jersey 08722</td>
+                    <td class="content text-dark"></td>
+                </tr>
             </table>
             <hr>
             <h1 class="header" id="us9byp">United States Route 9 Bypass</h1>
