@@ -1,7 +1,7 @@
 <?php include "../../../static/top.php"; ?>
         
             <h6 class="dir"><a href="../../index-redirect.php">Home</a> > <a href="../list.php">US Highways</a> > US-206</h6>
-            <h1 class="header" id="us9">United States Route 206</h1>
+            <h1 class="header" id="us206">United States Route 206</h1>
             <h2 class="content text-dark">United States Route 206 (US-206) is a north-south route covering a little bit of Delaware through the whole of New York. It is xxx.xx mi (xxx.xx km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../../static/table.php"; ?>
@@ -453,6 +453,125 @@
                     <td class="content text-dark">Stockton St, Princeton, New Jersey 08540</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">53.97 mi ( + 0.85 mi )</td>
+                    <td class="content text-dark small">87.25 km ( + 1.36 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/me/604.php">Mercer CR 604 - Elm Rd</a>, Princeton, New Jersey 08540</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">54.53 mi ( + 0.56 mi )</td>
+                    <td class="content text-dark small">88.14 km ( + 0.89 km )</td>
+                    <td class="content text-dark">US-206 - Bayard Ln (NB) / <a href="../../state-highways/nj/27.php">NJ-27 - Nassau St (NB)</a>, Princeton, New Jersey 08540</td>
+                    <td class="content text-dark">Bayard Ln, Princeton, New Jersey 08540</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">54.53 mi ( + 0.56 mi )</td>
+                    <td class="content text-dark small">88.14 km ( + 0.89 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">State Rd, Princeton, New Jersey 08540</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">57.18 mi ( + 2.65 mi )</td>
+                    <td class="content text-dark small">92.41 km ( + 4.27 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Van Horne Rd, Montgomery, New Jersey 08558</td>
+                    <td class="content text-dark">End Mercer County, Start Somerset County // End concurrency with Mercer CR 533, Start concurrency wtih Somerset CR 533</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">58.05 mi ( + 0.87 mi )</td>
+                    <td class="content text-dark small">93.81 km ( + 1.40 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/518.php">Somerset CR 518 - Georgetown-Franklin Tpke (WB) / Washington St (EB)</a>, Montgomery, New Jersey 08558</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">58.92 mi ( + 0.87 mi )</td>
+                    <td class="content text-dark small">95.21 km ( + 1.40 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/533.php">Somerset CR 533 - Bridgepoint Rd</a> (concurrent with <a href="../../county-roads/nj/so/609.php">Somerset CR 609</a>), Montgomery, New Jersey 08558</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">60.39 mi ( + 1.47 mi )</td>
+                    <td class="content text-dark small">97.58 km ( + 2.37 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/609.php">Somerset CR 609 - Bridgepoint Rd</a>, Montgomery, New Jersey 08558</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">61.16 mi ( + 0.77 mi )</td>
+                    <td class="content text-dark small">98.82 km ( + 1.24 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/604.php">Somerset CR 604 - W Dutchtown Harlingen Rd</a>, Montgomery, New Jersey 08558</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">61.98 mi ( + 0.82 mi )</td>
+                    <td class="content text-dark small">100.14 km ( + 1.32 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/630.php">Somerset CR 630 - Belle Mead-Griggstown Rd</a>, Montgomery, New Jersey 08558</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">62.58 mi ( + 0.60 mi )</td>
+                    <td class="content text-dark small">101.10 km ( + 0.96 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/601.php">Somerset CR 601 - Belle Mead-Blawenburg Rd</a>, Montgomery, New Jersey 08558</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">62.89 mi ( + 0.31 mi )</td>
+                    <td class="content text-dark small">101.60 km ( + 0.50 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">State Rd, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">63.30 mi ( + 0.41 mi )</td>
+                    <td class="content text-dark small">102.27 km ( + 0.67 km )</td>
+                    <td class="content text-dark"><a href="#us206byp">US-206 Bypass - Peter J. Biondi Byp</a>, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">65.27 mi ( + 1.93 mi )</td>
+                    <td class="content text-dark small">105.38 km ( + 3.11 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/514.php">Somerset CR 514 - Amwell Rd</a>, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">66.06 mi ( + 0.79 mi )</td>
+                    <td class="content text-dark small">106.65 km ( + 1.27 km )</td>
+                    <td class="content text-dark"><a href="#us206byp">US-206 Bypass - Peter J. Biondi Byp (SB)</a> / US-206 - State Rd (NB), Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">69.55 mi ( + 3.49 mi )</td>
+                    <td class="content text-dark small">112.26 km ( + 5.61 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/so/608.php">Somerset CR 608 - E Dukes Pkwy</a>, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">69.67 mi ( + 0.12 mi )</td>
+                    <td class="content text-dark small">112.45 km ( + 0.19 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-206, Somerville, New Jersey 08876</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">70.74 mi ( + 1.07 mi )</td>
+                    <td class="content text-dark small">114.17 km ( + 1.72 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/so/626.php">Somerset CR 626 - E Somerset St</a>, Somerville, New Jersey 08876</td>
+                    <td class="content text-dark">US-206, Raritan, New Jersey 08869</td>
+                    <td class="content text-dark"></td>
+                </tr>
 </table>
 <hr>
             <h1 class="header" id="us206bc">United States Route 206 Brunswick Circle</h1>
@@ -507,5 +626,32 @@
                     <td class="content text-dark"><a href="#us206">US-206 - Princeton Ave (SB) / Lawrence Rd (NB)</a> / <a href="../../county-roads/nj/583.php">Mercer CR 583 - Princeton Pike (NB)</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
+                </tr>
+                </table>
+<hr>
+            <h1 class="header" id="us206bc">United States Route 206 Bypass</h1>
+            <h2 class="content text-dark">US-206 splits into two routes in Lawrence Township: Princeton Ave and Brunswick Circle. The circle route is 0.65 mi (1.05 km) long.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us206">US-206 - State Rd</a>, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark">Peter J. Biondi Byp, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark">Start of Bypass Route</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.22 mi ( + 2.22 mi )</td>
+                    <td class="content text-dark small">3.57 km ( + 3.57 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/514.php">Somerset CR 514 - Amwell Rd</a>, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.86 mi ( + 0.64 mi )</td>
+                    <td class="content text-dark small">4.59 km ( + 1.02 km )</td>
+                    <td class="content text-dark"><a href="#us206">US-206 - State Rd</a>, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Bypass Route</td>
                 </tr>
                 <?php include "../../../static/bottom.php"; ?>
