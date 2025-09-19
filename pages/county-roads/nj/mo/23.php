@@ -32,6 +32,6 @@
                     <td class="content text-dark small">6.53 km ( + 2.26 km )</td>
                     <td class="content text-dark"><a href="../oc/638.php">Ocean CR 638 - Jackson Mills Rd</a>, Jackson Township, New Jersey 08527</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route in Monmouth County</td>
+                    <td class="content text-dark">End of Route</td>
                 </tr>
 <?php include "../../../../static/bottom.php"; ?>
