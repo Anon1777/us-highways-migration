@@ -670,6 +670,20 @@
                     <td class="content text-dark">US-206, Bedminster, New Jersey 07921</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">78.85 mi ( + 0.62 mi )</td>
+                    <td class="content text-dark small">127.21 km ( + 1.00 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/523.php">Somerset CR 523 - Lamington Rd</a>, Bedminster, New Jersey 07921</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">80.16 mi ( + 1.31 mi )</td>
+                    <td class="content text-dark small">129.31 km ( + 2.10 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-206, Peapack and Gladstone, New Jersey 07931</td>
+                    <td class="content text-dark"></td>
+                </tr>
 </table>
 <hr>
             <h1 class="header" id="us206bc">United States Route 206 Brunswick Circle</h1>
