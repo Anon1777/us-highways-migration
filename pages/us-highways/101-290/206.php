@@ -765,8 +765,99 @@
                     <td class="content text-dark small">95.13 mi ( + 1.47 mi )</td>
                     <td class="content text-dark small">153.39 km ( + 2.37 km )</td>
                     <td class="content text-dark"><a href="../../interstates/80.php">I-80 - Christopher Columbus Hwy (EB/WB)</a> / <a href="../../state-highways/nj/183.php">NJ-183 (NB)</a>, Roxbury Township, New Jersey 07852</td>
-                    <td class="content text-dark">Christopher Columbus Hwy, Roxbury Township, New jersey 07852</td>
+                    <td class="content text-dark">Christopher Columbus Hwy, Roxbury Township, New Jersey 07852</td>
                     <td class="content text-dark">Start concurrency with I-80</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">95.44 mi ( + 0.31 mi )</td>
+                    <td class="content text-dark small">153.89 km ( + 0.50 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Christopher Columbus Hwy, Mount Olive, New Jersey 07828</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">96.03 mi ( + 0.59 mi )</td>
+                    <td class="content text-dark small">154.84 km ( + 0.95 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Christopher Columbus Hwy, Netcong, New Jersey 07857</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">96.13 mi ( + 0.10 mi )</td>
+                    <td class="content text-dark small">155.01 km ( + 0.17 km )</td>
+                    <td class="content text-dark"><a href="../1-98/46.php">US-46 - Main St</a>, Netcong, New Jersey 07857</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">96.19 mi ( + 0.06 mi )</td>
+                    <td class="content text-dark small">155.10 km ( + 0.09 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Christopher Columbus Hwy, Mount Olive, New Jersey 07857</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">97.30 mi ( + 1.11 mi )</td>
+                    <td class="content text-dark small">156.88 km ( + 1.78 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-206, Mount Olive, New Jersey 07857</td>
+                    <td class="content text-dark">End concurrency with I-80</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">97.64 mi ( + 0.34 mi )</td>
+                    <td class="content text-dark small">156.42 km ( + 0.54 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-206, Stanhope, New Jersey 07874</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">97.95 mi ( + 0.31 mi )</td>
+                    <td class="content text-dark small">157.92 km ( + 0.50 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-206, Stanhope, New Jersey 07874</td>
+                    <td class="content text-dark">End Morris County, Start Sussex County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">98.26 mi ( + 0.31 mi )</td>
+                    <td class="content text-dark small">158.42 km ( + 0.50 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/183.php">NJ-183</a>, Stanhope, New Jersey</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">98.60 mi ( + 0.34 mi )</td>
+                    <td class="content text-dark small">158.96 km ( + 0.54 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-206, Byram Township, New Jersey 07821</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">98.95 mi ( + 0.35 mi )</td>
+                    <td class="content text-dark small">159.53 km ( + 0.57 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/su/604.php">Sussex CR 604 - Waterloo Rd</a>, Byram Township, New Jersey 07821</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">99.43 mi ( + 0.48 mi )</td>
+                    <td class="content text-dark small">160.29 km ( + 0.76 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/su/604.php">Sussex CR 607 - Lackawanna Dr</a>, Byram Township, New Jersey 07821</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">101.03 mi ( + 1.60 mi )</td>
+                    <td class="content text-dark small">162.86 km ( + 2.57 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, Byram Township, New Jersey 07860</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">102.34 mi ( + 1.31 mi )</td>
+                    <td class="content text-dark small">164.96 km ( + 2.10 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, Andover Township, New Jersey 07860</td>
+                    <td class="content text-dark"></td>
                 </tr>
 </table>
 <hr>
