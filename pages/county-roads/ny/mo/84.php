@@ -98,3 +98,25 @@
                     <td class="content text-dark">E River Rd, Rochester, New York 14623</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">10.61 mi ( + 1.37 mi )</td>
+                    <td class="content text-dark small">17.03 km ( + 2.20 km )</td>
+                    <td class="content text-dark"><a href="../../../state-highways/ny/252.php">NY-252 - Jefferson Rd</a>, Rochester, New York 14623</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">11.41 mi ( + 0.80 mi )</td>
+                    <td class="content text-dark small">18.31 km ( + 1.28 km )</td>
+                    <td class="content text-dark"><a href="83.php">Monroe CR 83 - Crittenden Rd</a>, Rochester, New York 14623</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">14.37 mi ( + 2.96 mi )</td>
+                    <td class="content text-dark small">23.08 km ( + 4.77 km )</td>
+                    <td class="content text-dark"><a href="../../../state-highways/ny/15.php">NY-15 - W Henrietta Rd (NB/SB)</a> / <a href="../../../interstates/auxiliary/ny-390.php">I-390</a>, Rochester, New York 14623</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Route</td>
+                </tr>
+                <?php include "../../../../static/bottom.php"; ?>
