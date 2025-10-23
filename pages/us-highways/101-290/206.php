@@ -859,6 +859,34 @@
                     <td class="content text-dark">Main St, Andover Township, New Jersey 07860</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">103.54 mi ( + 1.20 mi )</td>
+                    <td class="content text-dark small">166.89 km ( + 1.93 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/517.php">Sussex CR 517 - Brighton Ave</a>, Andover Township, New Jersey 07860</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with Sussex CR 517</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">103.64 mi ( + 0.10 mi )</td>
+                    <td class="content text-dark small">167.06 km ( + 0.17 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/517.php">Sussex CR 517 - Lenape Rd</a>, Andover Township, New Jersey 07860</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with Sussex CR 517</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">104.26 mi ( + 0.62 mi )</td>
+                    <td class="content text-dark small">168.05 km ( + 0.99 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/su/669.php">Sussex CR 669 - Limecrest Rd</a>, Andover Township, New Jersey 07860</td>
+                    <td class="content text-dark">US-206, Andover Township, New Jersey 07860</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">105.54 mi ( + 1.28 mi )</td>
+                    <td class="content text-dark small">170.11 km ( + 2.06 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/su/603.php">Sussex CR 603 - Brighton Rd</a>, Andover Township, New Jersey 07860</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
 </table>
 <hr>
             <h1 class="header" id="us206bc">United States Route 206 Brunswick Circle</h1>
