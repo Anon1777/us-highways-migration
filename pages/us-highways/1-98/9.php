@@ -730,8 +730,372 @@
                 <tr>
                     <td class="content text-dark small">118.50 mi ( + 1.75 mi )</td>
                     <td class="content text-dark small">193.16 km ( + 2.82 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/554.php">Ocean CR 554 - W Bay Ave</a>, Barnegat, New Jersey 08005</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/554.php">Ocean CR 554 - W Bay Ave (WB)</a> / <a href="../../county-roads/nj/oc/609.php">Ocean CR 609 - E Bay Ave (EB)</a>, Barnegat, New Jersey 08005</td>
                     <td class="content text-dark">N Main St, Barnegat Township, New Jersey 08005</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">111.65 mi ( + 1.15 mi )</td>
+                    <td class="content text-dark small">195.02 km ( + 1.86 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/609.php">Ocean CR 609 - Bayshore Dr</a>, Barnegat, New Jersey 08005</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">119.99 mi ( + 0.34 mi )</td>
+                    <td class="content text-dark small">195.56 km ( + 0.54 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">N Main St, Ocean Township, New Jersey 08758</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">121.10 mi ( + 1.11 mi )</td>
+                    <td class="content text-dark small">197.34 km ( + 1.78 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/613.php">Ocean CR 613 - Main St</a>, Ocean Township, New Jersey 08758</td>
+                    <td class="content text-dark">US-9, Ocean Township, New Jersey 08758</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">121.55 mi ( + 0.45 mi )</td>
+                    <td class="content text-dark small">198.06 km ( + 0.72 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/532.php">Ocean CR 532 - Wells Mills Rd (WB)</a> / <a href="../../county-roads/nj/oc/612.php">Ocean CR 612 - Bryant Rd</a>, Ocean Township, New Jersey 08758</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">122.43 mi ( + 0.88 mi )</td>
+                    <td class="content text-dark small">199.48 km ( + 1.42 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/613.php">Ocean CR 613 - Main St</a>, Ocean Township, New Jersey 08758</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">122.93 mi ( + 0.50 mi )</td>
+                    <td class="content text-dark small">200.28 km ( + 0.80 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S Main St, Lacey Township, New Jersey 08731</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">125.11 mi ( + 2.18 mi )</td>
+                    <td class="content text-dark small">203.79 km ( + 3.51 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/614.php">Ocean CR 614 - Lacey Rd (WB) / E Lacey Rd (EB)</a>, Lacey Township, New Jersey 08731</td>
+                    <td class="content text-dark">N Main St, Lacey Township, New Jersey 08731</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">127.39 mi ( + 2.28 mi )</td>
+                    <td class="content text-dark small">207.46 km ( + 3.67 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Atlantic City Blvd, Berkeley Township, New Jersey 08721</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">129.12 mi ( + 1.73 mi )</td>
+                    <td class="content text-dark small">210.24 km ( + 2.78 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/618.php">Ocean CR 618 - Central Pkwy (WB) / Butler Blvd (EB)</a>, Berkeley Township, New Jersey 08721</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">129.44 mi ( + 0.32 mi )</td>
+                    <td class="content text-dark small">210.76 km ( + 0.52 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/50.php">Ocean CR 50 - Bay Ave</a>, Berkeley Township, New Jersey 08721</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">130.84 mi ( + 1.40 mi )</td>
+                    <td class="content text-dark small">213.02 km ( + 2.26 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/50.php">Ocean CR 625 - Ocean Gate Dr</a>, Berkeley Township, New Jersey 08721</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">132.80 mi ( + 1.96 mi )</td>
+                    <td class="content text-dark small">216.18 km ( + 3.16 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Atlantic City Blvd, Beachwood, New Jersey 08722</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">133.14 mi ( + 0.34 mi )</td>
+                    <td class="content text-dark small">217.73 km ( + 0.55 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/166.php">NJ-166 - Atlantic City Blvd</a>, Beachwood, New Jersey 08722</td>
+                    <td class="content text-dark">US-9, Beachwood, New Jersey 08722</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">133.69 mi ( + 0.55 mi )</td>
+                    <td class="content text-dark small">218.62 km ( + 0.89 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/621.php">Ocean CR 621 - Surf Ave</a>, Beachwood, New Jersey 08722</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">133.73 mi ( + 0.04 mi )</td>
+                    <td class="content text-dark small">218.68 km ( + 0.06 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, South Toms River, New Jersey 08757</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">134.27 mi ( + 0.54 mi )</td>
+                    <td class="content text-dark small">219.54 km ( + 0.86 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/530.php">Ocean CR 530 - Dover Rd</a>, South Toms River, New Jersey 08757</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">134.42 mi ( + 0.15 mi )</td>
+                    <td class="content text-dark small">219.78 km ( + 0.24 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/444.php">NJ-444 - Garden State Pkwy</a>, South Toms River, New Jersey 08757</td>
+                    <td class="content text-dark">Garden State Pkwy, South Toms River, New Jersey 08757</td>
+                    <td class="content text-dark">Start concurrency with NJ-444</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">134.53 mi ( + 0.11 mi )</td>
+                    <td class="content text-dark small">219.96 km ( + 0.18 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Garden State Pkwy, Berkeley Township, New Jersey 08721</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">134.76 mi ( + 0.23 mi )</td>
+                    <td class="content text-dark small">220.34 km ( + 0.37 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Garden State Pkwy, Toms River, New Jersey 08753</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">135.22 mi ( + 0.46 mi )</td>
+                    <td class="content text-dark small">221.08 km ( + 0.74 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/527.php">Ocean CR 527 - Lakehurst Rd</a>, Toms River, New Jersey 08753</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">135.72 mi ( + 0.50 mi )</td>
+                    <td class="content text-dark small">221.89 km ( + 0.81 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/37.php">NJ-37</a>, Toms River, New Jersey 08753</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">137.84 mi ( + 0.40 mi )</td>
+                    <td class="content text-dark small">225.30 km ( + 0.65 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/166.php">NJ-166 - Lakewood Rd (SB)</a> / <a href="../../state-highways/nj/444.php">NJ-444 - Garden State Pkwy (NB/SB)</a>, Toms River, New Jersey 08753</td>
+                    <td class="content text-dark">Lakewood Rd, Toms River, New Jersey 08753</td>
+                    <td class="content text-dark">End concurrency with NJ-444, Start concurrency with NJ-166</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">138.05 mi ( + 0.21 mi )</td>
+                    <td class="content text-dark small">225.63 km ( + 0.33 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with NJ-166</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">138.19 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">225.86 km ( + 0.23 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/571.php">Ocean CR 571 - Indian Head Rd</a>, Toms River, New Jersey 08753</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">139.37 mi ( + 1.18 mi )</td>
+                    <td class="content text-dark small">227.75 km ( + 1.89 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/571.php">Ocean CR 620 - Church Rd</a>, Toms River, New Jersey 08753</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">140.87 mi ( + 1.50 mi )</td>
+                    <td class="content text-dark small">230.16 km ( + 2.41 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/571.php">Ocean CR 542 - Cox Cro Rd</a>, Toms River, New Jersey 08753</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">142.04 mi ( + 1.17 mi )</td>
+                    <td class="content text-dark small">232.04 km ( + 1.88 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/70.php">NJ-70 - John Davis Rockefeller Memorial Hwy</a>, Toms River, New Jersey 08753</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">142.09 mi ( + 0.05 mi )</td>
+                    <td class="content text-dark small">232.12 km ( + 0.08 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">River Ave, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">142.13 mi ( + 0.04 mi )</td>
+                    <td class="content text-dark small">232.18 km ( + 0.06 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/83.php">Ocean CR 83 - Honey Locust Dr</a>, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">142.57 mi ( + 0.44 mi )</td>
+                    <td class="content text-dark small">232.89 km ( + 0.71 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/626.php">Ocean CR 626 - Cross St</a>, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">143.95 mi ( + 1.38 mi )</td>
+                    <td class="content text-dark small">235.12 km ( + 2.23 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/oc/626.php">Ocean CR 628 - Prospect St</a>, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">144.81 mi ( + 0.86 mi )</td>
+                    <td class="content text-dark small">236.50 km ( + 1.38 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/528.php">Ocean CR 528 - Central Ave (WB) / Hurley Ave (EB)</a> / <a href="../../county-roads/nj/547.php">Ocean CR 547 - Central Ave (WB) / Madison Ave (NB)</a>, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark">Madison Ave, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark">Start concurrency with Ocean CR 547</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">145.06 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">236.90 km ( + 0.40 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/88.php">NJ-88 - Main St</a>, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">145.61 mi ( + 0.55 mi )</td>
+                    <td class="content text-dark small">237.78 km ( + 0.88 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/547.php">Ocean CR 547 - Eighth Ave</a>, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with Ocean CR 547</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">146.20 mi ( + 0.59 mi )</td>
+                    <td class="content text-dark small">238.72 km ( + 0.94 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/526.php">Ocean CR 526 - W County Line Rd (WB) / E County Line Rd (EB)</a>, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">146.47 mi ( + 0.27 mi )</td>
+                    <td class="content text-dark small">239.15 km ( + 0.43 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Howell Township, New Jersey 07731</td>
+                    <td class="content text-dark">End Ocean County, Start Monmouth County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">150.38 mi ( + 3.91 mi )</td>
+                    <td class="content text-dark small">245.45 km ( + 6.30 km )</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-195.php">I-195 - Central Jersey Expy</a>, Howell Township, New Jersey 07731</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">154.20 mi ( + 3.82 mi )</td>
+                    <td class="content text-dark small">251.60 km ( + 6.15 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">154.23 mi ( + 0.03 mi )</td>
+                    <td class="content text-dark small">251.64 km ( + 0.04 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/mo/55.php">Monmouth CR 55 - Edinburgh Dr</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">154.68 mi ( + 0.45 mi )</td>
+                    <td class="content text-dark small">252.36 km ( + 0.72 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/524.php">Monmouth CR 524 - Elton-Adelphia Rd</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">156.09 mi ( + 1.41 mi )</td>
+                    <td class="content text-dark small">254.63 km ( + 2.27 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/79.php">NJ-79 - South St</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">156.25 mi ( + 0.16 mi )</td>
+                    <td class="content text-dark small">254.89 km ( + 0.26 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/33.php">NJ-33 - Freehold Byp</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">157.09 mi ( + 0.84 mi )</td>
+                    <td class="content text-dark small">256.25 km ( + 1.36 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/537.php">Monmouth CR 537 - W Main St</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">157.67 mi ( + 0.58 mi )</td>
+                    <td class="content text-dark small">257.18 km ( + 0.93 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/33.php/#nj33bus">NJ-33 Business - Park Ave</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">157.67 mi ( + 0.58 mi )</td>
+                    <td class="content text-dark small">257.18 km ( + 0.93 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/33.php/#nj33bus">NJ-33 Business - Park Ave</a> / <a href="../../county-roads/nj/mo/24.php">Monmouth CR 24 - Manalapan Ave</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">158.23 mi ( + 0.56 mi )</td>
+                    <td class="content text-dark small">258.09 km ( + 0.91 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/522.php">Monmouth CR 522 - Freehold-Englishtown Rd</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">159.67 mi ( + 1.44 mi )</td>
+                    <td class="content text-dark small">260.41 km ( + 2.32 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Manalapan Township, New Jersey 07726</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">161.87 mi ( + 2.20 mi )</td>
+                    <td class="content text-dark small">263.95 km ( + 3.54 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/mo/3.php">Monmouth CR 3 - Tennent Rd</a>, Manalapan Township, New Jersey 07726</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">162.62 mi ( + 0.75 mi )</td>
+                    <td class="content text-dark small">265.15 km ( + 1.20 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Marlboro Township, New Jersey 07746</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">164.31 mi ( + 1.69 mi )</td>
+                    <td class="content text-dark small">267.87 km ( + 2.72 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/520.php">Monmouth CR 520 - Robertsville Rd (WB) / Newman Springs Rd (EB)</a>, Marlboro Township, New Jersey 07746</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">164.95 mi ( + 0.64 mi )</td>
+                    <td class="content text-dark small">268.89 km ( + 1.02 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Old Bridge, New Jersey 08857</td>
+                    <td class="content text-dark">End Monmouth County, Start Middlesex County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">165.08 mi ( + 0.13 mi )</td>
+                    <td class="content text-dark small">269.09 km ( + 0.20 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/mi/690.php">Middlesex CR 690 - Texas Rd</a>, Old Bridge, New Jersey 08857</td>
+                    <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
             </table>
