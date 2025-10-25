@@ -9,14 +9,14 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-278.php">I-278 (EB) - Goethals Brg</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/ny-278.php">I-278 (EB) - Goethals Brg</a>, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark">Bayway, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark">Start of Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.14 mi ( + 0.14 mi )</td>
                     <td class="content text-dark small">0.22 km ( + 0.22 km )</td>
-                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-278.php">I-278 (WB) - Goethals Brg</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/ny-278.php">I-278 (WB) - Goethals Brg</a>, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
