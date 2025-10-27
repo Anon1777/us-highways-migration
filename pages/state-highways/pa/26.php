@@ -24,6 +24,6 @@
                     <td class="content text-dark small">2.96 mi ( + 1.82 mi )</td>
                     <td class="content text-dark small">4.76 km ( + 2.92 km )</td>
                     <td class="content text-dark"><a href="../../county-roads/pa/bf/1003.php">Bedford CR 1003 - Bud Shuster Byp</a> Everett, Pennsylvania 15537</td>
-                    <td class="content text-dark">Raystown Rd, Everett, Pennsylvania 15537</td>
+                    <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
