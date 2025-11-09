@@ -64,7 +64,7 @@
                 <tr>
                     <td class="content text-dark small">30.91 mi ( + 0.42 mi )</td>
                     <td class="content text-dark small">49.75 km ( + 0.68 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/fl/mo/SRD.php">Monroe CR SRD - County Rd</a>, Big Pine Key, Florida 33043</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/mo/srd.php">Monroe CR SRD - County Rd</a>, Big Pine Key, Florida 33043</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -190,7 +190,7 @@
                 <tr>
                     <td class="content text-dark small">142.65 mi ( + 2.24 mi )</td>
                     <td class="content text-dark small">229.52 km ( + 3.61 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/fl/md/992.php">Miami-Dade CR-992 - SW 152nd St</a>, Kendall, Florida 33176</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/md/992.php">Miami-Dade CR 992 - SW 152nd St</a>, Kendall, Florida 33176</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -216,58 +216,51 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">145.46 mi ( + 1.46 mi )</td>
-                    <td class="content text-dark small">234.04 km ( + 2.35 km )</td>
-                    <td class="content text-dark"><a href="../../state-highways/fl/990.php">FL-990 - Killian Dr</a>, Kendall, Florida 33176</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
-                </tr>
-                <tr>
-                    <td class="content text-dark small">146.31 mi ( + 0.86 mi )</td>
+                    <td class="content text-dark small">146.32 mi ( + 0.86 mi )</td>
                     <td class="content text-dark small">235.42 km ( + 1.38 km )</td>
-                    <td class="content text-dark">FL-826 - Palmetto Expy, Kendall, Florida 33176</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/826.php">FL-826 - Palmetto Expy</a>, Kendall, Florida 33176</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>                    
                 </tr>
                 <tr>
-                    <td class="content text-dark small">146.69 mi ( + 0.38 mi )</td>
+                    <td class="content text-dark small">146.70 mi ( + 0.38 mi )</td>
                     <td class="content text-dark small">236.04 km ( + 0.62 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Dixie Hwy, Glenvar Heights, Florida 33143</td>
                     <td class="content text-dark"></td>                    
                 </tr>
                 <tr>
-                    <td class="content text-dark small">146.86 mi ( + 0.17 mi )</td>
-                    <td class="content text-dark small">236.30 km ( + 0.27 km )</td>
-                    <td class="content text-dark">FL-878 - Snapper Creek Expy, Glenvar Heights, Florida 33143</td>
+                    <td class="content text-dark small">146.87 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">236.31 km ( + 0.27 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/878.php">FL-878 - Snapper Creek Expy</a>, Glenvar Heights, Florida 33143</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>                    
                 </tr>
                 <tr>
-                    <td class="content text-dark small">147.19 mi ( + 0.33 mi )</td>
-                    <td class="content text-dark small">236.83 km ( + 0.53 km )</td>
+                    <td class="content text-dark small">147.20 mi ( + 0.33 mi )</td>
+                    <td class="content text-dark small">236.84 km ( + 0.53 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Dixie Hwy, South Miami, Florida 33143</td>
                     <td class="content text-dark"></td>                    
                 </tr>
                 <tr>
-                    <td class="content text-dark small">147.99 mi ( + 0.80 mi )</td>
-                    <td class="content text-dark small">238.11 km ( + 1.28 km )</td>
-                    <td class="content text-dark">FL-986 - Sunset Dr, South Miami, Florida 33143</td>
+                    <td class="content text-dark small">148.00 mi ( + 0.80 mi )</td>
+                    <td class="content text-dark small">238.12 km ( + 1.28 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/986.php">FL-986 - Sunset Dr</a>, South Miami, Florida 33143</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>                    
                 </tr>
                 <tr>
-                    <td class="content text-dark small">148.33 mi ( + 0.34 mi )</td>
-                    <td class="content text-dark small">238.66 km ( + 0.55 km )</td>
-                    <td class="content text-dark">Miami-Dade CR-959 - S Red Rd, South Miami, Florida 33143</td>
+                    <td class="content text-dark small">148.34 mi ( + 0.34 mi )</td>
+                    <td class="content text-dark small">238.67 km ( + 0.55 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/md/959.php">Miami-Dade CR 959 - S Red Rd</a>, South Miami, Florida 33143</td>
                     <td class="content text-dark">S Dixie Hwy, Coral Gables, Florida 33146</td>
                     <td class="content text-dark"></td>                    
                 </tr>
                 <tr>
                     <td class="content text-dark small">150.32 mi ( + 1.99 mi )</td>
                     <td class="content text-dark small">241.86 km ( + 3.20 km )</td>
-                    <td class="content text-dark">FL-953 - SW 42nd Ave, Coral Gables, Florida 33146</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/953.php">FL-953 - SW 42nd Ave</a>, Coral Gables, Florida 33146</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>                    
                 </tr>
@@ -281,70 +274,70 @@
                 <tr>
                     <td class="content text-dark small">151.22 mi ( + 0.43 mi )</td>
                     <td class="content text-dark small">243.31 km ( + 0.69 km )</td>
-                    <td class="content text-dark">FL-976 - Bird Rd, Miami, Florida 33135</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/976.php">FL-976 - Bird Rd</a>, Miami, Florida 33135</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>                    
                 </tr>
                 <tr>
                     <td class="content text-dark small">152.12 mi ( + 0.90 mi )</td>
                     <td class="content text-dark small">244.76 km ( + 1.45 km )</td>
-                    <td class="content text-dark">FL-9 - SW 27th Ave, Miami, Florida 33135</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/9.php">FL-9 - SW 27th Ave</a>, Miami, Florida 33135</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>                    
                 </tr>
                 <tr>
-                    <td class="content text-dark small">153.82 mi ( + 1.71 mi )</td>
+                    <td class="content text-dark small">153.83 mi ( + 1.71 mi )</td>
                     <td class="content text-dark small">247.51 km ( + 2.75 km )</td>
-                    <td class="content text-dark">I-95, Miami, Florida 33135</td>
+                    <td class="content text-dark"><a href="../../interstates/95.php">I-95</a>, Miami, Florida 33135</td>
                     <td class="content text-dark">Federal Hwy, Miami, Florida 33135</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">154.19 mi ( + 0.37 mi )</td>
+                    <td class="content text-dark small">154.20 mi ( + 0.37 mi )</td>
                     <td class="content text-dark small">248.10 km ( + 0.59 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Brickell Ave, Miami, Florida 33135</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">154.36 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">154.37 mi ( + 0.17 mi )</td>
                     <td class="content text-dark small">248.38 km ( + 0.28 km )</td>
-                    <td class="content text-dark">Miami-Dade CR-913 - Rickenbacker Cswy, Miami, Florida 33135</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/md/913">Miami-Dade CR 913 - Rickenbacker Cswy</a>, Miami, Florida 33135</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">155.80 mi ( + 1.44 mi )</td>
+                    <td class="content text-dark small">155.81 mi ( + 1.44 mi )</td>
                     <td class="content text-dark small">250.70 km ( + 2.32 km )</td>
-                    <td class="content text-dark">US-41 & FL-90 - Tamiami Trl, Miami, Florida 33135</td>
+                    <td class="content text-dark"><a href="41.php">US-41 - Tamiami Trl</a> (concurrent with <a href="../../state-highways/fl/90.php">FL-90</a>), Miami, Florida 33135</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">156.13 mi ( + 0.33 mi )</td>
+                    <td class="content text-dark small">156.14 mi ( + 0.33 mi )</td>
                     <td class="content text-dark small">251.24 km ( + 0.54 km )</td>
-                    <td class="content text-dark">FL-968 - SE 1st St, Miami, Florida 33135</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/968.php">FL-968 - SE 1st St</a>, Miami, Florida 33135</td>
                     <td class="content text-dark">Biscayne Blvd, Miami, Florida 33135</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">156.99 mi ( + 0.86 mi )</td>
+                    <td class="content text-dark small">157.00 mi ( + 0.86 mi )</td>
                     <td class="content text-dark small">252.62 km ( + 1.38 km )</td>
-                    <td class="content text-dark">I-395-FL, FL-A1A & FL-836 - MacArthur Cswy, Miami, Florida 33135</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/fl-395.php">I-395 - MacArthur Cswy</a> (concurrent with <a href="../../state-highways/fl/a1a.php">FL-A1A</a> and <a href="../../state-highways/fl/836.php">FL-836</a>), Miami, Florida 33135</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with FL-A1A, Start concurrency with FL-836</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">158.71 mi ( + 1.72 mi )</td>
+                    <td class="content text-dark small">158.72 mi ( + 1.72 mi )</td>
                     <td class="content text-dark small">255.39 km ( + 2.77 km )</td>
-                    <td class="content text-dark">US-27 (to I-195-FL) - NE 36th St, Miami, Florida 33135</td>
+                    <td class="content text-dark"><a href="27.php">US-27 - NE 36th St</a> (to <a href="../../interstates/auxiliary/fl-195.php">I-195</a>), Miami, Florida 33135</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">159.77 mi ( + 1.06 mi )</td>
+                    <td class="content text-dark small">159.78 mi ( + 1.06 mi )</td>
                     <td class="content text-dark small">257.09 km ( + 1.70 km )</td>
-                    <td class="content text-dark">FL-944 - NE 54th St, Miami, Florida 33135</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/944.php">FL-944 - NE 54th St</a>, Miami, Florida 33135</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -421,7 +414,7 @@
                 <tr>
                     <td class="content text-dark small">169.85 mi ( + 0.59 mi )</td>
                     <td class="content text-dark small">273.34 km ( + 0.95 km )</td>
-                    <td class="content text-dark">Miami-Dade CR-854 - Ives Dairy Road, Ojus, Florida 33180</td>
+                    <td class="content text-dark">Miami-Dade CR 854 - Ives Dairy Road, Ojus, Florida 33180</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -435,7 +428,7 @@
                 <tr>
                     <td class="content text-dark small">171.41 mi ( + 0.77 mi )</td>
                     <td class="content text-dark small">275.84 km ( + 1.23 km )</td>
-                    <td class="content text-dark">Broward CR-858 - Hallandale Beach Blvd, Hallandale Beach, Florida 33009</td>
+                    <td class="content text-dark">Broward CR 858 - Hallandale Beach Blvd, Hallandale Beach, Florida 33009</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -456,7 +449,7 @@
                 <tr>
                     <td class="content text-dark small">174.78 mi ( + 1.61 mi )</td>
                     <td class="content text-dark small">281.25 km ( + 2.59 km )</td>
-                    <td class="content text-dark">Broward CR-822 - Sheridan St, Hollywood, Florida 33021</td>
+                    <td class="content text-dark">Broward CR 822 - Sheridan St, Hollywood, Florida 33021</td>
                     <td class="content text-dark">S Federal Hwy, Dania Beach, Florida 33004</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
@@ -464,14 +457,14 @@
                 <tr>
                     <td class="content text-dark small">175.28 mi ( + 0.50 mi )</td>
                     <td class="content text-dark small">282.06 km ( + 0.81 km )</td>
-                    <td class="content text-dark">Broward CR-5A - N Dixie Hwy, Dania Beach, Florida 33004</td>
+                    <td class="content text-dark">Broward CR 5A - N Dixie Hwy, Dania Beach, Florida 33004</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">175.83 mi ( + 0.55 mi )</td>
                     <td class="content text-dark small">282.94 km ( + 0.88 km )</td>
-                    <td class="content text-dark">Broward CR-848 - Stirling Rd, Dania Beach, Florida 33004</td>
+                    <td class="content text-dark">Broward CR 848 - Stirling Rd, Dania Beach, Florida 33004</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -485,7 +478,7 @@
                 <tr>
                     <td class="content text-dark small">176.78 mi ( + 0.71 mi )</td>
                     <td class="content text-dark small">284.48 km ( + 1.15 km )</td>
-                    <td class="content text-dark">Broward CR-818 - Griffin Rd, Dania Beach, Florida 33004</td>
+                    <td class="content text-dark">Broward CR 818 - Griffin Rd, Dania Beach, Florida 33004</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -541,21 +534,21 @@
                 <tr>
                     <td class="content text-dark small">183.17 mi ( + 0.93 mi )</td>
                     <td class="content text-dark small">294.74 km ( + 1.49 km )</td>
-                    <td class="content text-dark">Broward CR-838 - E Sunrise Blvd, Fort Lauderdale, Florida 33304</td>
+                    <td class="content text-dark">Broward CR 838 - E Sunrise Blvd, Fort Lauderdale, Florida 33304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with FL-838</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">185.28 mi ( + 2.11 mi )</td>
                     <td class="content text-dark small">298.14 km ( + 3.40 km )</td>
-                    <td class="content text-dark">Broward CR-816 - E Oakland Park Blvd, Fort Lauderdale, Florida 33304</td>
+                    <td class="content text-dark">Broward CR 816 - E Oakland Park Blvd, Fort Lauderdale, Florida 33304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">186.93 mi ( + 1.65 mi )</td>
                     <td class="content text-dark small">300.79 km ( + 2.65 km )</td>
-                    <td class="content text-dark">Broward CR-870 - E Commercial Blvd, Fort Lauderdale, Florida 33304</td>
+                    <td class="content text-dark">Broward CR 870 - E Commercial Blvd, Fort Lauderdale, Florida 33304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -569,7 +562,7 @@
                 <tr>
                     <td class="content text-dark small">189.96 mi ( + 1.56 mi )</td>
                     <td class="content text-dark small">305.67 km ( + 2.51 km )</td>
-                    <td class="content text-dark">Broward CR-814 - Atlantic Blvd, Pompano Beach, Florida 33060</td>
+                    <td class="content text-dark">Broward CR 814 - Atlantic Blvd, Pompano Beach, Florida 33060</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -583,7 +576,7 @@
                 <tr>
                     <td class="content text-dark small">193.00 mi ( + 1.77 mi )</td>
                     <td class="content text-dark small">310.56 km ( + 2.85 km )</td>
-                    <td class="content text-dark">Broward CR-834 - Sample Rd, Pompano Beach, Florida 33060</td>
+                    <td class="content text-dark">Broward CR 834 - Sample Rd, Pompano Beach, Florida 33060</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -618,14 +611,14 @@
                 <tr>
                     <td class="content text-dark small">199.14 mi ( + 2.64 mi )</td>
                     <td class="content text-dark small">320.45 km ( + 4.25 km )</td>
-                    <td class="content text-dark">Palm Beach CR-808 - Glades Rd, Boca Raton, Florida 33431</td>
+                    <td class="content text-dark">Palm Beach CR 808 - Glades Rd, Boca Raton, Florida 33431</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">201.50 mi ( + 2.36 mi )</td>
                     <td class="content text-dark small">324.25 km ( + 3.80 km )</td>
-                    <td class="content text-dark">Palm Beach CR-794 - Yamato Rd, Boca Raton, Florida 33431</td>
+                    <td class="content text-dark">Palm Beach CR 794 - Yamato Rd, Boca Raton, Florida 33431</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -653,7 +646,7 @@
                 <tr>
                     <td class="content text-dark small">207.09 mi ( + 0.86 mi )</td>
                     <td class="content text-dark small">332.85 km ( + 1.38 km )</td>
-                    <td class="content text-dark">Palm Beach CR-806A - George Bush Blvd, Delray Beach, Florida 33444</td>
+                    <td class="content text-dark">Palm Beach CR 806A - George Bush Blvd, Delray Beach, Florida 33444</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -674,7 +667,7 @@
                 <tr>
                     <td class="content text-dark small">209.95 mi ( + 1.63 mi )</td>
                     <td class="content text-dark small">337.45 km ( + 2.62 km )</td>
-                    <td class="content text-dark">Palm Beach CR-792 - E Woolbright Rd, Boynton Beach, Florida 33426</td>
+                    <td class="content text-dark">Palm Beach CR 792 - E Woolbright Rd, Boynton Beach, Florida 33426</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -702,7 +695,7 @@
                 <tr>
                     <td class="content text-dark small">214.91 mi ( + 0.96 mi )</td>
                     <td class="content text-dark small">345.54 km ( + 1.55 km )</td>
-                    <td class="content text-dark">Palm Beach CR-812 - Lantana Rd, Lantana Florida 33462</td>
+                    <td class="content text-dark">Palm Beach CR 812 - Lantana Rd, Lantana Florida 33462</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -863,7 +856,7 @@
                 <tr>
                     <td class="content text-dark small">240 mi ( + 3.12 mi )</td>
                     <td class="content text-dark small">385.49 km ( + 5.05 km )</td>
-                    <td class="content text-dark">Palm Beach CR-706 - E Indiantown Rd, Jupiter, Florida 33458</td>
+                    <td class="content text-dark">Palm Beach CR 706 - E Indiantown Rd, Jupiter, Florida 33458</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -877,7 +870,7 @@
                 <tr>
                     <td class="content text-dark small">241.30 mi ( + 0.56 mi )</td>
                     <td class="content text-dark small">387.61 km ( + 0.90 km )</td>
-                    <td class="content text-dark">FL-811 & FL-A1A - Old Dixie Hwy & Palm County CR-707 - S Beach Rd, Jupiter, Florida 33458</td>
+                    <td class="content text-dark">FL-811 & FL-A1A - Old Dixie Hwy & Palm County CR 707 - S Beach Rd, Jupiter, Florida 33458</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -905,7 +898,7 @@
                 <tr>
                     <td class="content text-dark small">248.23 mi ( + 0.28 mi )</td>
                     <td class="content text-dark small">398.76 km ( + 0.46 km )</td>
-                    <td class="content text-dark">Martin CR-A1A - SE Dixie Hwy, Hobe Sound, Florida 33455</td>
+                    <td class="content text-dark">Martin CR A1A - SE Dixie Hwy, Hobe Sound, Florida 33455</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with FL-A1A</td>
                 </tr>
@@ -926,7 +919,7 @@
                 <tr>
                     <td class="content text-dark small">260.14 mi ( + 2.05 mi )</td>
                     <td class="content text-dark small">417.92 km ( + 3.30 km )</td>
-                    <td class="content text-dark">Martin CR-714 - SE Monterey Rd, Stuart, Florida 34994</td>
+                    <td class="content text-dark">Martin CR 714 - SE Monterey Rd, Stuart, Florida 34994</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -996,7 +989,7 @@
                 <tr>
                     <td class="content text-dark small">277.75 mi ( + 2.49 mi )</td>
                     <td class="content text-dark small">446.26 km ( + 4.00 km )</td>
-                    <td class="content text-dark">St. Lucie CR-611 - Edwards Rd, Fort Pierce, 34950</td>
+                    <td class="content text-dark">St. Lucie CR 611 - Edwards Rd, Fort Pierce, 34950</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1010,14 +1003,14 @@
                 <tr>
                     <td class="content text-dark small">279.77 mi ( + 0.98 mi )</td>
                     <td class="content text-dark small">449.51 km ( + 1.57 km )</td>
-                    <td class="content text-dark">St. Lucie CR-605 - Sunrise Blvd, Fort Pierce, 34950</td>
+                    <td class="content text-dark">St. Lucie CR 605 - Sunrise Blvd, Fort Pierce, 34950</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Start concurrency with St. Lucie CR-605</td>
+                    <td class="content text-dark">Start concurrency with St. Lucie CR 605</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">280.29 mi ( + 0.52 mi )</td>
                     <td class="content text-dark small">450.35 km ( + 0.84 km )</td>
-                    <td class="content text-dark">St. Lucie CR-68 - Orange Ave, Fort Pierce, Florida 34950</td>
+                    <td class="content text-dark">St. Lucie CR 68 - Orange Ave, Fort Pierce, Florida 34950</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1031,9 +1024,9 @@
                 <tr>
                     <td class="content text-dark small">281.33 mi ( + 0.46 mi )</td>
                     <td class="content text-dark small">452.03 km ( + 0.74 km )</td>
-                    <td class="content text-dark">St. Lucie CR-605  - Old Dixie Hwy, Fort Pierce, Florida 34950</td>
+                    <td class="content text-dark">St. Lucie CR 605  - Old Dixie Hwy, Fort Pierce, Florida 34950</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with St. Lucie CR-605</td>
+                    <td class="content text-dark">End concurrency with St. Lucie CR 605</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">281.97 mi ( + 0.64 mi )</td>
@@ -1045,14 +1038,14 @@
                 <tr>
                     <td class="content text-dark small">284.07 mi ( + 2.10 mi )</td>
                     <td class="content text-dark small">456.48 km ( + 3.38 km )</td>
-                    <td class="content text-dark">St. Lucie CR-615 - N 25th St, Fort Pierce North, Florida 34946</td>
+                    <td class="content text-dark">St. Lucie CR 615 - N 25th St, Fort Pierce North, Florida 34946</td>
                     <td class="content text-dark">US-1, St. Lucie, Florida 34946</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">285.73 mi ( + 1.66 mi )</td>
                     <td class="content text-dark small">459.16 km ( + 2.68 km )</td>
-                    <td class="content text-dark">St. Lucie CR-614 - Indrio Rd, Lakewood Park, Florida 34951</td>
+                    <td class="content text-dark">St. Lucie CR 614 - Indrio Rd, Lakewood Park, Florida 34951</td>
                     <td class="content text-dark">US-1, Lakewood Park, Florida 34951</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1073,7 +1066,7 @@
                 <tr>
                     <td class="content text-dark small">288.52 mi ( + 0.05 mi )</td>
                     <td class="content text-dark small">463.65 km ( + 0.09 km )</td>
-                    <td class="content text-dark">Indian River CR-605 - Old Dixie Hwy, Florida Ridge, Florida 32962</td>
+                    <td class="content text-dark">Indian River CR 605 - Old Dixie Hwy, Florida Ridge, Florida 32962</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1094,14 +1087,14 @@
                 <tr>
                     <td class="content text-dark small">292.15 mi ( + 0.25 mi )</td>
                     <td class="content text-dark small">469.48 km ( + 0.40 km )</td>
-                    <td class="content text-dark">Indian River CR-603 - Indian River Blvd, Vera Beach South, Florida 32960</td>
+                    <td class="content text-dark">Indian River CR 603 - Indian River Blvd, Vera Beach South, Florida 32960</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">292.73 mi ( + 0.58 mi )</td>
                     <td class="content text-dark small">470.41 km ( + 0.93 km )</td>
-                    <td class="content text-dark">Indian River CR-612 - 8th St, Vera Beach South, Florida 32960</td>
+                    <td class="content text-dark">Indian River CR 612 - 8th St, Vera Beach South, Florida 32960</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1143,21 +1136,21 @@
                 <tr>
                     <td class="content text-dark small">296.53 mi ( + 0.21 mi )</td>
                     <td class="content text-dark small">476.53 km ( + 0.34 km )</td>
-                    <td class="content text-dark">Indian River CR-5A - Old Dixie Hwy, Gifford, Florida 32967</td>
+                    <td class="content text-dark">Indian River CR 5A - Old Dixie Hwy, Gifford, Florida 32967</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">296.84 mi ( + 0.31 mi )</td>
                     <td class="content text-dark small">477.03 km ( + 0.50 km )</td>
-                    <td class="content text-dark">Indian River CR-630 - 41st St, Gifford, Florida 32967</td>
+                    <td class="content text-dark">Indian River CR 630 - 41st St, Gifford, Florida 32967</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">298.41 mi ( + 1.57 mi )</td>
                     <td class="content text-dark small">479.56 km ( + 2.53 km )</td>
-                    <td class="content text-dark">Indian River CR-603 - 53rd St, Gifford, Florida 32967</td>
+                    <td class="content text-dark">Indian River CR 603 - 53rd St, Gifford, Florida 32967</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1171,14 +1164,14 @@
                 <tr>
                     <td class="content text-dark small">300 mi ( + 1.33 mi )</td>
                     <td class="content text-dark small">482.09 km ( + 2.18 km )</td>
-                    <td class="content text-dark">Indian River CR-632 - 65th St, Winter Beach, Florida 32967</td>
+                    <td class="content text-dark">Indian River CR 632 - 65th St, Winter Beach, Florida 32967</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">300.50 mi ( + 0.52 mi )</td>
                     <td class="content text-dark small">482.92 km ( + 0.83 km )</td>
-                    <td class="content text-dark">Indian River CR-508 - 69th St, Winter Beach, Florida 32967</td>
+                    <td class="content text-dark">Indian River CR 508 - 69th St, Winter Beach, Florida 32967</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1192,21 +1185,21 @@
                 <tr>
                     <td class="content text-dark small">302.73 mi ( + 1.15 mi )</td>
                     <td class="content text-dark small">486.52 km ( + 1.86 km )</td>
-                    <td class="content text-dark">Indian River CR-510 - 85th St & FL-510 - Bridge Blvd, Wabasso, Florida 32967</td>
+                    <td class="content text-dark">Indian River CR 510 - 85th St & FL-510 - Bridge Blvd, Wabasso, Florida 32967</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">302.88 mi ( + 0.15 mi )</td>
                     <td class="content text-dark small">486.76 km ( + 0.24 km )</td>
-                    <td class="content text-dark">Indian River CR-5A - Old Dixie Hwy, Wabasso, Florida 32967</td>
+                    <td class="content text-dark">Indian River CR 5A - Old Dixie Hwy, Wabasso, Florida 32967</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">303.00 mi ( + 0.12 mi )</td>
                     <td class="content text-dark small">486.95 km ( + 0.19 km )</td>
-                    <td class="content text-dark">Indian River CR-510 - Bridge Blvd, Wabasso, Florida 32967</td>
+                    <td class="content text-dark">Indian River CR 510 - Bridge Blvd, Wabasso, Florida 32967</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1220,14 +1213,14 @@
                 <tr>
                     <td class="content text-dark small">307.33 mi ( + 3.23 mi )</td>
                     <td class="content text-dark small">494.63 km ( + 5.20 km )</td>
-                    <td class="content text-dark">Indian River CR-512 - Sebastian Blvd (EB), Sebastian, Florida 32958</td>
+                    <td class="content text-dark">Indian River CR 512 - Sebastian Blvd (EB), Sebastian, Florida 32958</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">307.58 mi ( + 0.25 mi )</td>
                     <td class="content text-dark small">495.03 km ( + 0.39 km )</td>
-                    <td class="content text-dark">Indian River CR-512 - Sebastian Blvd (WB), Sebastian, Florida 32958</td>
+                    <td class="content text-dark">Indian River CR 512 - Sebastian Blvd (WB), Sebastian, Florida 32958</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1241,7 +1234,7 @@
                 <tr>
                     <td class="content text-dark small">309.92 mi ( + 0.46 mi )</td>
                     <td class="content text-dark small">498.80 km ( + 0.74 km )</td>
-                    <td class="content text-dark">Indian River CR-505 - Roseland Rd, Roseland, Florida 32958</td>
+                    <td class="content text-dark">Indian River CR 505 - Roseland Rd, Roseland, Florida 32958</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1269,7 +1262,7 @@
                 <tr>
                     <td class="content text-dark small">322.28 mi ( + 2.77 mi )</td>
                     <td class="content text-dark small">518.69 km ( + 4.46 km )</td>
-                    <td class="content text-dark">Brevard CR-514 - Malabar Rd, Malabar, Florida 32950</td>
+                    <td class="content text-dark">Brevard CR 514 - Malabar Rd, Malabar, Florida 32950</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1283,7 +1276,7 @@
                 <tr>
                     <td class="content text-dark small">324.81 mi ( + 1.93 mi )</td>
                     <td class="content text-dark small">522.76 km ( + 3.10 km )</td>
-                    <td class="content text-dark">Brevard CR-516 - Palm Bay Rd NE, Palm Bay, Florida 32905</td>
+                    <td class="content text-dark">Brevard CR 516 - Palm Bay Rd NE, Palm Bay, Florida 32905</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1325,7 +1318,7 @@
                 <tr>
                     <td class="content text-dark small">331.64 mi ( + 0.66 mi )</td>
                     <td class="content text-dark small">533.75 km ( + 1.06 km )</td>
-                    <td class="content text-dark">Brevard CR-5054 - Sarno Rd, Melbourne, Florida 32935</td>
+                    <td class="content text-dark">Brevard CR 5054 - Sarno Rd, Melbourne, Florida 32935</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1339,7 +1332,7 @@
                 <tr>
                     <td class="content text-dark small">332.59 mi ( + 0.44 mi )</td>
                     <td class="content text-dark small">535.28 km ( + 0.71 km )</td>
-                    <td class="content text-dark">Brevard CR-511 - Aurora Rd, Melbourne, Florida 32935</td>
+                    <td class="content text-dark">Brevard CR 511 - Aurora Rd, Melbourne, Florida 32935</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1402,7 +1395,7 @@
                 <tr>
                     <td class="content text-dark small">355.82 mi ( + 3.40 mi )</td>
                     <td class="content text-dark small">572.67 km ( + 5.48 km )</td>
-                    <td class="content text-dark">Brevard CR-515 - Indian River Dr, Sharpes, Florida 32926</td>
+                    <td class="content text-dark">Brevard CR 515 - Indian River Dr, Sharpes, Florida 32926</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1444,7 +1437,7 @@
                 <tr>
                     <td class="content text-dark small">361.63 mi ( + 1.11 mi )</td>
                     <td class="content text-dark small">582.02 km ( + 1.78 km )</td>
-                    <td class="content text-dark">Brevard CR-405 - Columbia Blvd (WB) / NASA Cswy (EB), Titusville, Florida 32780</td>
+                    <td class="content text-dark">Brevard CR 405 - Columbia Blvd (WB) / NASA Cswy (EB), Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1472,14 +1465,14 @@
                 <tr>
                     <td class="content text-dark small">367.39 mi ( + 0.35 mi )</td>
                     <td class="content text-dark small">591.29 km ( + 0.56 km )</td>
-                    <td class="content text-dark">Brevard CR-405 - Martin Luther King Jr. Blvd, Titusville, Florida 32780</td>
+                    <td class="content text-dark">Brevard CR 405 - Martin Luther King Jr. Blvd, Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">367.90 mi ( + 0.51 mi )</td>
                     <td class="content text-dark small">592.11 km ( + 0.82 km )</td>
-                    <td class="content text-dark">Brevard CR-406 - A. Max Brewer Memorial Pkwy (EB) / Garden St (WB), Titusville, Florida 32780</td>
+                    <td class="content text-dark">Brevard CR 406 - A. Max Brewer Memorial Pkwy (EB) / Garden St (WB), Titusville, Florida 32780</td>
                     <td class="content text-dark">N Hopkins Ave (SB) / N Washington Ave (NB), Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1521,7 +1514,7 @@
                 <tr>
                     <td class="content text-dark small">380.70 mi ( + 3.50 mi )</td>
                     <td class="content text-dark small">612.71 km ( + 5.63 km )</td>
-                    <td class="content text-dark">Brevard CR-5A - Deering Pkwy, Scottsmoor, Florida 32754</td>
+                    <td class="content text-dark">Brevard CR 5A - Deering Pkwy, Scottsmoor, Florida 32754</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1535,7 +1528,7 @@
                 <tr>
                     <td class="content text-dark small">385.37 mi ( + 3.96 mi )</td>
                     <td class="content text-dark small">620.22 km ( + 6.37 km )</td>
-                    <td class="content text-dark">Volusia CR-3 - Kennedy Pkwy, Oak Hill, Florida 32759</td>
+                    <td class="content text-dark">Volusia CR 3 - Kennedy Pkwy, Oak Hill, Florida 32759</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1549,7 +1542,7 @@
                 <tr>
                     <td class="content text-dark small">387.57 mi ( + 0.92 mi )</td>
                     <td class="content text-dark small">623.76 km ( + 1.48 km )</td>
-                    <td class="content text-dark">Volusia CR-4164 - W Halifax Ave (WB) / E Halifax Ave (EB), Oak Hill, Florida 32759</td>
+                    <td class="content text-dark">Volusia CR 4164 - W Halifax Ave (WB) / E Halifax Ave (EB), Oak Hill, Florida 32759</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1563,14 +1556,14 @@
                 <tr>
                     <td class="content text-dark small">393.32 mi ( + 3.10 mi )</td>
                     <td class="content text-dark small">633.02 km ( + 4.98 km )</td>
-                    <td class="content text-dark">Volusia CR-4147 - Volco Rd, Edgewater, Florida 32141</td>
+                    <td class="content text-dark">Volusia CR 4147 - Volco Rd, Edgewater, Florida 32141</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">395.07 mi ( + 1.75 mi )</td>
                     <td class="content text-dark small">635.83 km ( + 2.81 km )</td>
-                    <td class="content text-dark">Volusia CR-4135 - S Riverside Dr, Edgewater, Florida 32141</td>
+                    <td class="content text-dark">Volusia CR 4135 - S Riverside Dr, Edgewater, Florida 32141</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1584,7 +1577,7 @@
                 <tr>
                     <td class="content text-dark small">397.09 mi ( + 1.49 mi )</td>
                     <td class="content text-dark small">639.09 km ( + 2.40 km )</td>
-                    <td class="content text-dark">Volusia CR-4136 - Park Ave, Edgewater, Florida 32141</td>
+                    <td class="content text-dark">Volusia CR 4136 - Park Ave, Edgewater, Florida 32141</td>
                     <td class="content text-dark">N Ridgewood Ave, Edgewater, Florida 32141</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1598,9 +1591,9 @@
                 <tr>
                     <td class="content text-dark small">399.42 mi ( + 0.95 mi )</td>
                     <td class="content text-dark small">642.83 km ( + 1.52 km )</td>
-                    <td class="content text-dark">(to FL-44 & Volusia CR-A1A) - Lytle Ave, New Smyrna Beach, 32168</td>
+                    <td class="content text-dark">(to FL-44 & Volusia CR A1A) - Lytle Ave, New Smyrna Beach, 32168</td>
                     <td class="content text-dark">A1A Jimmy Buffett Memorial Hwy, New Smyrna Beach, 32168</td>
-                    <td class="content text-dark">Start concurrency with Volusia CR-A1A</td>
+                    <td class="content text-dark">Start concurrency with Volusia CR A1A</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">399.61 mi ( + 0.19 mi )</td>
@@ -1612,7 +1605,7 @@
                 <tr>
                     <td class="content text-dark small">400.95 mi ( + 1.34 mi )</td>
                     <td class="content text-dark small">645.30 km ( + 2.16 km )</td>
-                    <td class="content text-dark">Volusia CR-4093 - Turnbull Bay Rd, New Smyrna Beach, Florida 32168</td>
+                    <td class="content text-dark">Volusia CR 4093 - Turnbull Bay Rd, New Smyrna Beach, Florida 32168</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1640,9 +1633,9 @@
                 <tr>
                     <td class="content text-dark small">408.96 mi ( + 2.55 mi )</td>
                     <td class="content text-dark small">658.19 km ( + 4.11 km )</td>
-                    <td class="content text-dark">Volusia CR-421 - Dunlawton Ave, Port Orange, Florida 32127</td>
+                    <td class="content text-dark">Volusia CR 421 - Dunlawton Ave, Port Orange, Florida 32127</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with Volusia CR-A1A</td>
+                    <td class="content text-dark">End concurrency with Volusia CR A1A</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">409.52 mi ( + 0.56 mi )</td>
@@ -1654,14 +1647,14 @@
                 <tr>
                     <td class="content text-dark small">410.19 mi ( + 0.67 mi )</td>
                     <td class="content text-dark small">660.17 km ( + 1.07 km )</td>
-                    <td class="content text-dark">Volusia CR-4079 - Reed Canal Rd, South Daytona, Florida 32119</td>
+                    <td class="content text-dark">Volusia CR 4079 - Reed Canal Rd, South Daytona, Florida 32119</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">411.37 mi ( + 1.18 mi )</td>
                     <td class="content text-dark small">662.07 km ( + 1.89 km )</td>
-                    <td class="content text-dark">Volusia CR-4072 - Big Tree Rd, South Daytona, Florida 32119</td>
+                    <td class="content text-dark">Volusia CR 4072 - Big Tree Rd, South Daytona, Florida 32119</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1675,14 +1668,14 @@
                 <tr>
                     <td class="content text-dark small">413.14 mi ( + 1.04 mi )</td>
                     <td class="content text-dark small">664.91 km ( + 1.67 km )</td>
-                    <td class="content text-dark">Volusia CR-4068 - Bellevue Ave, Daytona Beach, Florida 32114</td>
+                    <td class="content text-dark">Volusia CR 4068 - Bellevue Ave, Daytona Beach, Florida 32114</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">413.87 mi ( + 0.73 mi )</td>
                     <td class="content text-dark small">666.09 km ( + 1.18 km )</td>
-                    <td class="content text-dark">Volusia CR-4050 - Orange Ave, Daytona Beach, Florida 32114</td>
+                    <td class="content text-dark">Volusia CR 4050 - Orange Ave, Daytona Beach, Florida 32114</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1696,21 +1689,21 @@
                 <tr>
                     <td class="content text-dark small">414.82 mi ( + 0.66 mi )</td>
                     <td class="content text-dark small">667.62 km ( + 1.07 km )</td>
-                    <td class="content text-dark">Volusia CR-4040 - George W Engram Blvd (WB) / Fairview Ave (EB), Daytona Beach, Florida 32114</td>
+                    <td class="content text-dark">Volusia CR 4040 - George W Engram Blvd (WB) / Fairview Ave (EB), Daytona Beach, Florida 32114</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">415.35 mi ( + 0.53 mi )</td>
                     <td class="content text-dark small">668.47 km ( + 0.86 km )</td>
-                    <td class="content text-dark">Volusia CR-430 - Mason Ave, Daytona Beach, Florida 32114</td>
+                    <td class="content text-dark">Volusia CR 430 - Mason Ave, Daytona Beach, Florida 32114</td>
                     <td class="content text-dark">Ridgewood Ave, Holly Hill, Florida 32117</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">416.83 mi ( + 1.48 mi )</td>
                     <td class="content text-dark small">670.85 km ( + 2.38 km )</td>
-                    <td class="content text-dark">Volusia CR-4019 - LPGA Blvd, Holly Hill 32117</td>
+                    <td class="content text-dark">Volusia CR 4019 - LPGA Blvd, Holly Hill 32117</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1745,14 +1738,14 @@
                 <tr>
                     <td class="content text-dark small">422.70 mi ( + 1.13 mi )</td>
                     <td class="content text-dark small">680.30 km ( + 1.82 km )</td>
-                    <td class="content text-dark">Volusia CR-2813 - Airport Rd, Ormond Beach, Florida 32174</td>
+                    <td class="content text-dark">Volusia CR 2813 - Airport Rd, Ormond Beach, Florida 32174</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">424.55 mi ( + 1.85 mi )</td>
                     <td class="content text-dark small">683.28 km ( + 2.97 km )</td>
-                    <td class="content text-dark">Volusia CR-2820 - Pine Tree Dr, Ormond Beach, Florida 32174</td>
+                    <td class="content text-dark">Volusia CR 2820 - Pine Tree Dr, Ormond Beach, Florida 32174</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1773,35 +1766,35 @@
                 <tr>
                     <td class="content text-dark small">428.86 mi ( + 1.73 mi )</td>
                     <td class="content text-dark small">690.21 km ( + 2.78 km )</td>
-                    <td class="content text-dark">Flagler CR-200, Bunnell, Florida 32110</td>
+                    <td class="content text-dark">Flagler CR 200, Bunnell, Florida 32110</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">429.09 mi ( + 0.23 mi )</td>
                     <td class="content text-dark small">690.58 km ( + 0.37 km )</td>
-                    <td class="content text-dark">Flagler CR-202 & Flagler CR-203, Bunnell, Florida 32110</td>
+                    <td class="content text-dark">Flagler CR 202 & Flagler CR 203, Bunnell, Florida 32110</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">431.78 mi ( + 2.69 mi )</td>
                     <td class="content text-dark small">694.91 km ( + 4.33 km )</td>
-                    <td class="content text-dark">Flagler CR-2002 - S Old Dixie Hwy & Marco Polo Blvd, Bunnell, Florida 32110</td>
+                    <td class="content text-dark">Flagler CR 2002 - S Old Dixie Hwy & Marco Polo Blvd, Bunnell, Florida 32110</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">431.80 mi ( + 0.02 mi )</td>
                     <td class="content text-dark small">694.95 km ( + 0.04 km )</td>
-                    <td class="content text-dark">Flagler CR-325, Bunnell, Florida 32110</td>
+                    <td class="content text-dark">Flagler CR 325, Bunnell, Florida 32110</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">433.96 mi ( + 2.16 mi )</td>
                     <td class="content text-dark small">698.42 km ( + 3.48 km )</td>
-                    <td class="content text-dark">Flagler CR-304 - DuPont Rd, Bunnell, Florida 32110</td>
+                    <td class="content text-dark">Flagler CR 304 - DuPont Rd, Bunnell, Florida 32110</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1829,35 +1822,35 @@
                 <tr>
                     <td class="content text-dark small">438.74 mi ( + 0.93 mi )</td>
                     <td class="content text-dark small">706.11 km ( + 1.49 km )</td>
-                    <td class="content text-dark">Flagler CR-13, Bunnell, Florida 32110</td>
+                    <td class="content text-dark">Flagler CR 13, Bunnell, Florida 32110</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">440.78 mi ( + 2.04 mi )</td>
                     <td class="content text-dark small">709.40 km ( + 3.28 km )</td>
-                    <td class="content text-dark">Flagler CR-1422 - Otis Stone Hunter Rd, Palm Coast, Florida 32137</td>
+                    <td class="content text-dark">Flagler CR 1422 - Otis Stone Hunter Rd, Palm Coast, Florida 32137</td>
                     <td class="content text-dark">US-1, Palm Coast, Florida 32137</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">443.73 mi ( + 2.95 mi )</td>
                     <td class="content text-dark small">714.14 km ( + 4.74 km )</td>
-                    <td class="content text-dark">Flagler CR-1424 - SW Palm Coast Pkwy (EB) / NW Palm Coast Pkwy (WB), Palm Coast, Florida 32137</td>
+                    <td class="content text-dark">Flagler CR 1424 - SW Palm Coast Pkwy (EB) / NW Palm Coast Pkwy (WB), Palm Coast, Florida 32137</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">443.99 mi ( + 0.26 mi )</td>
                     <td class="content text-dark small">714.56 km ( + 0.41 km )</td>
-                    <td class="content text-dark">Flagler CR-1421 - Hargrove Grde, Palm Coast, Florida 32137</td>
+                    <td class="content text-dark">Flagler CR 1421 - Hargrove Grde, Palm Coast, Florida 32137</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">450.02 mi ( + 6.03 mi )</td>
                     <td class="content text-dark small">724.27 km ( + 9.71 km )</td>
-                    <td class="content text-dark">Flagler CR-1421 - Hargrove Grde, Palm Coast, Florida 32137</td>
+                    <td class="content text-dark">Flagler CR 1421 - Hargrove Grde, Palm Coast, Florida 32137</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1878,7 +1871,7 @@
                 <tr>
                     <td class="content text-dark small">451.31 mi ( + 0.52 mi )</td>
                     <td class="content text-dark small">726.34 km ( + 0.84 km )</td>
-                    <td class="content text-dark">St. Johns CR-204, St Augustine, Florida 32086</td>
+                    <td class="content text-dark">St. Johns CR 204, St Augustine, Florida 32086</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1899,7 +1892,7 @@
                 <tr>
                     <td class="content text-dark small">463.36 mi ( + 5.10 mi )</td>
                     <td class="content text-dark small">745.74 km ( + 8.21 km )</td>
-                    <td class="content text-dark">St. Johns CR-5A - Old Moultrie Rd, St Augustine, Florida 32086</td>
+                    <td class="content text-dark">St. Johns CR 5A - Old Moultrie Rd, St Augustine, Florida 32086</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1927,7 +1920,7 @@
                 <tr>
                     <td class="content text-dark small">467.64 mi ( + 0.70 mi )</td>
                     <td class="content text-dark small">752.62 km ( + 1.13 km )</td>
-                    <td class="content text-dark">St. Johns CR-214 (to US-1 Business) - W King St, St Augustine, Florida 32084</td>
+                    <td class="content text-dark">St. Johns CR 214 (to US-1 Business) - W King St, St Augustine, Florida 32084</td>
                     <td class="content text-dark">N Ponce De Leon Blvd, St Augustine, 32084</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1948,42 +1941,42 @@
                 <tr>
                     <td class="content text-dark small">469.39 mi ( + 0.76 mi )</td>
                     <td class="content text-dark small">755.44 km ( + 1.23 km )</td>
-                    <td class="content text-dark">St. Johns CR-16A - Lewis Spdwy, St Augustine, Florida 32084</td>
+                    <td class="content text-dark">St. Johns CR 16A - Lewis Spdwy, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">472.92 mi ( + 3.53 mi )</td>
                     <td class="content text-dark small">761.12 km ( + 5.68 km )</td>
-                    <td class="content text-dark">St. Johns CR-312, St Augustine, Florida 32084</td>
+                    <td class="content text-dark">St. Johns CR 312, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">481.27 mi ( + 8.35 mi )</td>
                     <td class="content text-dark small">774.56 km ( + 13.44 km )</td>
-                    <td class="content text-dark">St. Johns CR-210 Alternate, St Augustine, Florida 32084</td>
+                    <td class="content text-dark">St. Johns CR 210 Alternate, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">482.14 mi ( + 0.87 mi )</td>
                     <td class="content text-dark small">775.96 km ( + 1.40 km )</td>
-                    <td class="content text-dark">St. Johns CR-210, St Augustine, Florida 32084</td>
+                    <td class="content text-dark">St. Johns CR 210, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">482.70 mi ( + 0.56 mi )</td>
                     <td class="content text-dark small">776.86 km ( + 0.91 km )</td>
-                    <td class="content text-dark">St. Johns CR-210 - Nocatee Pkwy (EB), St Augustine, Florida 32084</td>
+                    <td class="content text-dark">St. Johns CR 210 - Nocatee Pkwy (EB), St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">483.50 mi ( + 0.80 mi )</td>
                     <td class="content text-dark small">778.15 km ( + 1.28 km )</td>
-                    <td class="content text-dark">St. Johns CR-210 - Nocatee Pkwy (EB) / Race Track Road (WB), St Augustine, Florida 32084</td>
+                    <td class="content text-dark">St. Johns CR 210 - Nocatee Pkwy (EB) / Race Track Road (WB), St Augustine, Florida 32084</td>
                     <td class="content text-dark">Phillips Hwy, Jacksonville, Florida 32208</td>
                     <td class="content text-dark">End St. Johns County, Begin Duval County</td>
                 </tr>
@@ -2039,7 +2032,7 @@
                 <tr>
                     <td class="content text-dark small">492.63 mi ( + 1.74 mi )</td>
                     <td class="content text-dark small">792.84 km ( + 2.79 km )</td>
-                    <td class="content text-dark">Duval CR-116 - Sunbeam Rd, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark">Duval CR 116 - Sunbeam Rd, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2171,7 +2164,7 @@
                 <tr>
                     <td class="content text-dark small">505.97 mi ( + 0.27 mi )</td>
                     <td class="content text-dark small">814.31 km ( + 0.43 km )</td>
-                    <td class="content text-dark">Duval CR-21D - Moncrief Rd, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark">Duval CR 21D - Moncrief Rd, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2185,14 +2178,14 @@
                 <tr>
                     <td class="content text-dark small">510.68 mi ( + 2.40 mi )</td>
                     <td class="content text-dark small">821.89 km ( + 3.86 km )</td>
-                    <td class="content text-dark">Duval CR-115A - Soutel Dr, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark">Duval CR 115A - Soutel Dr, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">511.27 mi ( + 0.59 mi )</td>
                     <td class="content text-dark small">822.84 km ( + 0.94 km )</td>
-                    <td class="content text-dark">Duval CR-21D - W Moncrief Rd, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark">Duval CR 21D - W Moncrief Rd, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2206,7 +2199,7 @@
                 <tr>
                     <td class="content text-dark small">512.92 mi ( + 0.29 mi )</td>
                     <td class="content text-dark small">825.49 km ( + 0.47 km )</td>
-                    <td class="content text-dark">Duval CR-117 - Trout River Blvd, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark">Duval CR 117 - Trout River Blvd, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2241,7 +2234,7 @@
                 <tr>
                     <td class="content text-dark small">523.59 mi ( + 0.90 mi )</td>
                     <td class="content text-dark small">842.67 km ( + 1.45 km )</td>
-                    <td class="content text-dark">Nassau CR-15A - S Mickler St, Callahan, Florida 32011</td>
+                    <td class="content text-dark">Nassau CR 15A - S Mickler St, Callahan, Florida 32011</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2262,7 +2255,7 @@
                 <tr>
                     <td class="content text-dark small">524.92 mi ( + 0.64 mi )</td>
                     <td class="content text-dark small">844.81 km ( + 1.02 km )</td>
-                    <td class="content text-dark">Nassau CR-115 - Kings Rd, Callahan, Florida 32011</td>
+                    <td class="content text-dark">Nassau CR 115 - Kings Rd, Callahan, Florida 32011</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2283,7 +2276,7 @@
                 <tr>
                     <td class="content text-dark small">535.18 mi ( + 1.28 mi )</td>
                     <td class="content text-dark small">861.32 km ( + 2.06 km )</td>
-                    <td class="content text-dark">Nassau CR-108, Hilliard, Florida 32046</td>
+                    <td class="content text-dark">Nassau CR 108, Hilliard, Florida 32046</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2297,7 +2290,7 @@
                 <tr>
                     <td class="content text-dark small">542 mi ( + 6.26 mi )</td>
                     <td class="content text-dark small">872.26 km ( + 10.12 km )</td>
-                    <td class="content text-dark">Nassau CR-121, Hilliard, Florida 32046 |  |</td>
+                    <td class="content text-dark">Nassau CR 121, Hilliard, Florida 32046 |  |</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">542.15 mi ( + 0.17 mi )</td>
@@ -2368,7 +2361,7 @@
                 <tr>
                     <td class="content text-dark small">566.61 mi ( + 4.92 mi )</td>
                     <td class="content text-dark small">911.90 km ( + 7.91 km )</td>
-                    <td class="content text-dark">Ware CR-42 - Fort Mudge Rd, Waycross, Georgia 3503</td>
+                    <td class="content text-dark">Ware CR 42 - Fort Mudge Rd, Waycross, Georgia 3503</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"> |
                 </tr>
@@ -2613,7 +2606,7 @@
                 <tr>
                     <td class="content text-dark small">660.41 mi ( + 3.00 mi )</td>
                     <td class="content text-dark small">1062.86 km ( + 4.84 km )</td>
-                    <td class="content text-dark">GA-130 (WB) / Toombs CR-334 - Resmando Rd (EB), Lyons, Georgia 30436</td>
+                    <td class="content text-dark">GA-130 (WB) / Toombs CR 334 - Resmando Rd (EB), Lyons, Georgia 30436</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2627,7 +2620,7 @@
                 <tr>
                     <td class="content text-dark small">667.99 mi ( + 4.01 mi )</td>
                     <td class="content text-dark small">1075.06 km ( + 6.46 km )</td>
-                    <td class="content text-dark">(to Emanuel CR-256) Bluebird Ln, Oak Park, Georgia 30471</td>
+                    <td class="content text-dark">(to Emanuel CR 256) Bluebird Ln, Oak Park, Georgia 30471</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2669,7 +2662,7 @@
                 <tr>
                     <td class="content text-dark small">678.61 mi ( + 3.65 mi )</td>
                     <td class="content text-dark small">1092.15 km ( + 5.88 km )</td>
-                    <td class="content text-dark">Emanuel CR-204 - Wesley Rd, Oak Park, Georgia 30471</td>
+                    <td class="content text-dark">Emanuel CR 204 - Wesley Rd, Oak Park, Georgia 30471</td>
                     <td class="content text-dark">US-1, Swainsboro, Georgia 30401</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2746,14 +2739,14 @@
                 <tr>
                     <td class="content text-dark small">713.34 mi ( + 0.86 mi )</td>
                     <td class="content text-dark small">1148.04 km ( + 1.38 km )</td>
-                    <td class="content text-dark">Jefferson CR-248 - Walden Brett Rd, Louisville, Georgia 30434</td>
+                    <td class="content text-dark">Jefferson CR 248 - Walden Brett Rd, Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">714.49 mi ( + 1.15 mi )</td>
                     <td class="content text-dark small">1149.89 km ( + 1.85 km )</td>
-                    <td class="content text-dark">Jefferson CR-274 - River Rd, Louisville, Georgia 30434</td>
+                    <td class="content text-dark">Jefferson CR 274 - River Rd, Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2788,7 +2781,7 @@
                 <tr>
                     <td class="content text-dark small">720.94 mi ( + 2.66 mi )</td>
                     <td class="content text-dark small">1160.27 km ( + 4.27 km )</td>
-                    <td class="content text-dark">Jefferson CR-142 - Wilcher Rd (WB), Louisville, Georgia 30434</td>
+                    <td class="content text-dark">Jefferson CR 142 - Wilcher Rd (WB), Louisville, Georgia 30434</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">722.03 mi ( + 1.09 mi )</td>
@@ -2800,42 +2793,42 @@
                 <tr>
                     <td class="content text-dark small">725.67 mi ( + 3.64 mi )</td>
                     <td class="content text-dark small">1167.88 km ( + 5.86 km )</td>
-                    <td class="content text-dark">Jefferson CR-126 - Lake Williams Rd, Wrens, Georgia 30833</td>
+                    <td class="content text-dark">Jefferson CR 126 - Lake Williams Rd, Wrens, Georgia 30833</td>
                     <td class="content text-dark">US-1, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">726.16 mi ( + 0.49 mi )</td>
                     <td class="content text-dark small">1168.67 km ( + 0.79 km )</td>
-                    <td class="content text-dark">Jefferson CR-127 - Nelson Rd, Wrens, Georgia 30833</td>
+                    <td class="content text-dark">Jefferson CR 127 - Nelson Rd, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">726.80 mi ( + 0.64 mi )</td>
                     <td class="content text-dark small">1169.70 km ( + 1.02 km )</td>
-                    <td class="content text-dark">Jefferson CR-116 - Sand Valley Rd, Wrens, Georgia 30833</td>
+                    <td class="content text-dark">Jefferson CR 116 - Sand Valley Rd, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">728.08 mi ( + 1.28 mi )</td>
                     <td class="content text-dark small">1171.76 km ( + 2.06 km )</td>
-                    <td class="content text-dark">Jefferson CR-134 - Twin Oaks Rd, Wrens, Georgia 30833</td>
+                    <td class="content text-dark">Jefferson CR 134 - Twin Oaks Rd, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">730.10 mi ( + 2.02 mi )</td>
                     <td class="content text-dark small">1175.01 km ( + 3.25 km )</td>
-                    <td class="content text-dark">Jefferson CR-129 - Hoyt Braswell Rd, Wrens, Georgia 30833</td>
+                    <td class="content text-dark">Jefferson CR 129 - Hoyt Braswell Rd, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">730.82 mi ( + 0.72 mi )</td>
                     <td class="content text-dark small">1176.17 km ( + 1.16 km )</td>
-                    <td class="content text-dark">Jefferson CR-129 - Hoyt Braswell Rd, Wrens, Georgia 30833</td>
+                    <td class="content text-dark">Jefferson CR 129 - Hoyt Braswell Rd, Wrens, Georgia 30833</td>
                     <td class="content text-dark">S Main St, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2870,42 +2863,42 @@
                 <tr>
                     <td class="content text-dark small">733.87 mi ( + 0.43 mi )</td>
                     <td class="content text-dark small">1181.08 km ( + 0.69 km )</td>
-                    <td class="content text-dark">Jefferson CR-43 - Farm Lane Rd, Wrens, Georgia 30833</td>
+                    <td class="content text-dark">Jefferson CR 43 - Farm Lane Rd, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">734.97 mi ( + 1.10 mi )</td>
                     <td class="content text-dark small">1182.85 km ( + 1.77 km )</td>
-                    <td class="content text-dark">Jefferson CR-40 - Bob Arrington Rd (EB), Wrens, Georgia 30833</td>
+                    <td class="content text-dark">Jefferson CR 40 - Bob Arrington Rd (EB), Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">736.77 mi ( + 1.80 mi )</td>
                     <td class="content text-dark small">1185.75 km ( + 2.90 km )</td>
-                    <td class="content text-dark">Jefferson CR-38, Wrens, Georgia 30833</td>
+                    <td class="content text-dark">Jefferson CR 38, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">737.59 mi ( + 0.82 mi )</td>
                     <td class="content text-dark small">1187.07 km ( + 1.32 km )</td>
-                    <td class="content text-dark">Jefferson CR-32, Wrens, Georgia 30833</td>
+                    <td class="content text-dark">Jefferson CR 32, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">738.70 mi ( + 1.11 mi )</td>
                     <td class="content text-dark small">1188.85 km ( + 1.79 km )</td>
-                    <td class="content text-dark">Jefferson CR-329 - Campground Rd (EB), Wrens, Georgia 30833</td>
+                    <td class="content text-dark">Jefferson CR 329 - Campground Rd (EB), Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">739.00 mi ( + 0.30 mi )</td>
                     <td class="content text-dark small">1189.33 km ( + 0.48 km )</td>
-                    <td class="content text-dark">Jefferson CR-29 - Old Warrenton Rd, Wrens, Georgia 30833</td>
+                    <td class="content text-dark">Jefferson CR 29 - Old Warrenton Rd, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2926,7 +2919,7 @@
                 <tr>
                     <td class="content text-dark small">744.31 mi ( + 0.13 mi )</td>
                     <td class="content text-dark small">1197.88 km ( + 0.21 km )</td>
-                    <td class="content text-dark">Richmond CR-85 - Church St, Blythe, Georgia 30805</td>
+                    <td class="content text-dark">Richmond CR 85 - Church St, Blythe, Georgia 30805</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3122,28 +3115,28 @@
                 <tr>
                     <td class="content text-dark small">784.36 mi ( + 1.44 mi )</td>
                     <td class="content text-dark small">1262.33 km ( + 2.32 km )</td>
-                    <td class="content text-dark">Aiken CR-283 - Gun Range Rd, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Aiken CR 283 - Gun Range Rd, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">785.26 mi ( + 0.90 mi )</td>
                     <td class="content text-dark small">1263.78 km ( + 1.45 km )</td>
-                    <td class="content text-dark">Aiken CR-2190 - Millrace Cir, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Aiken CR 2190 - Millrace Cir, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">785.38 mi ( + 0.12 mi )</td>
                     <td class="content text-dark small">1263.98 km ( + 0.20 km )</td>
-                    <td class="content text-dark">Aiken CR-2190 - Millrace Cir, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Aiken CR 2190 - Millrace Cir, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">786.16 mi ( + 0.78 mi )</td>
                     <td class="content text-dark small">1265.23 km ( + 1.26 km )</td>
-                    <td class="content text-dark">Aiken CR-566 - Pearlship St, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Aiken CR 566 - Pearlship St, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3164,14 +3157,14 @@
                 <tr>
                     <td class="content text-dark small">788.14 mi ( + 0.55 mi )</td>
                     <td class="content text-dark small">1268.42 km ( + 0.88 km )</td>
-                    <td class="content text-dark">Aiken CR-553 - Windham Way, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Aiken CR 553 - Windham Way, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">788.23 mi ( + 0.09 mi )</td>
                     <td class="content text-dark small">1268.56 km ( + 0.15 km )</td>
-                    <td class="content text-dark">Aiken CR-555 - Old Kimbill Trl, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Aiken CR 555 - Old Kimbill Trl, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3192,49 +3185,49 @@
                 <tr>
                     <td class="content text-dark small">789.44 mi ( + 0.10 mi )</td>
                     <td class="content text-dark small">1270.51 km ( + 0.16 km )</td>
-                    <td class="content text-dark">Aiken CR-438 - Mack Donald Ln, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Aiken CR 438 - Mack Donald Ln, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">789.54 mi ( + 0.10 mi )</td>
                     <td class="content text-dark small">1270.67 km ( + 0.16 km )</td>
-                    <td class="content text-dark">Aiken CR-439 - Starling Ct, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Aiken CR 439 - Starling Ct, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">790.57 mi ( + 1.03 mi )</td>
                     <td class="content text-dark small">1272.33 km ( + 1.65 km )</td>
-                    <td class="content text-dark">Aiken CR-548 - Horned Owl Rd, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Aiken CR 548 - Horned Owl Rd, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">791.68 mi ( + 1.11 mi )</td>
                     <td class="content text-dark small">1274.11 km ( + 1.79 km )</td>
-                    <td class="content text-dark">Aiken CR-533 - Bridge Creek Rd, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Aiken CR 533 - Bridge Creek Rd, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">792.26 mi ( + 0.58 mi )</td>
                     <td class="content text-dark small">1275.05 km ( + 0.94 km )</td>
-                    <td class="content text-dark">Aiken CR-524 - Bogeyville Rd, Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">Aiken CR 524 - Bogeyville Rd, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">793.60 mi ( + 1.34 mi )</td>
                     <td class="content text-dark small">1277.20 km ( + 2.16 km )</td>
-                    <td class="content text-dark">SC-1725 - Old 4 Notch Rd (WB) / Aiken CR-549 - Cumbee Trl Rd (EB), Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">SC-1725 - Old 4 Notch Rd (WB) / Aiken CR 549 - Cumbee Trl Rd (EB), Aiken, South Carolina 29801</td>
                     <td class="content text-dark">N Columbia Hwy, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">794.89 mi ( + 1.29 mi )</td>
                     <td class="content text-dark small">1279.28 km ( + 2.07 km )</td>
-                    <td class="content text-dark">Aiken CR-540 - Keys Pond Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">Aiken CR 540 - Keys Pond Rd, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3248,14 +3241,14 @@
                 <tr>
                     <td class="content text-dark small">796.52 mi ( + 0.35 mi )</td>
                     <td class="content text-dark small">1281.90 km ( + 0.56 km )</td>
-                    <td class="content text-dark">Aiken CR-530 - Winding Trail Lp, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">Aiken CR 530 - Winding Trail Lp, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">796.71 mi ( + 0.19 mi )</td>
                     <td class="content text-dark small">1282.21 km ( + 0.30 km )</td>
-                    <td class="content text-dark">Aiken CR-529 - Kenner Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">Aiken CR 529 - Kenner Rd, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3269,14 +3262,14 @@
                 <tr>
                     <td class="content text-dark small">797.85 mi ( + 0.78 mi )</td>
                     <td class="content text-dark small">1284.04 km ( + 1.26 km )</td>
-                    <td class="content text-dark">Aiken CR-521 - Dusk Trail Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">Aiken CR 521 - Dusk Trail Rd, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">797.89 mi ( + 0.04 mi )</td>
                     <td class="content text-dark small">1284.11 km ( + 0.06 km )</td>
-                    <td class="content text-dark">Aiken CR-521 - Dusk Trail Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">Aiken CR 521 - Dusk Trail Rd, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3290,7 +3283,7 @@
                 <tr>
                     <td class="content text-dark small">799.31 mi ( + 0.83 mi )</td>
                     <td class="content text-dark small">1286.39 km ( + 1.33 km )</td>
-                    <td class="content text-dark">Aiken CR-513 - Vanest Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">Aiken CR 513 - Vanest Rd, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3304,7 +3297,7 @@
                 <tr>
                     <td class="content text-dark small">801.52 mi ( + 1.70 mi )</td>
                     <td class="content text-dark small">1289.95 km ( + 2.74 km )</td>
-                    <td class="content text-dark">Aiken CR-589 - Cromer Rd, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">Aiken CR 589 - Cromer Rd, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3318,7 +3311,7 @@
                 <tr>
                     <td class="content text-dark small">802.68 mi ( + 0.43 mi )</td>
                     <td class="content text-dark small">1291.82 km ( + 0.69 km )</td>
-                    <td class="content text-dark">Aiken CR-587 - Cato St, Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">Aiken CR 587 - Cato St, Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3332,7 +3325,7 @@
                 <tr>
                     <td class="content text-dark small">804.15 mi ( + 0.57 mi )</td>
                     <td class="content text-dark small">1294.18 km ( + 0.92 km )</td>
-                    <td class="content text-dark">Aiken CR-585 - Peach Orchard Rd (EB) / Bethel Rd (WB), Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">Aiken CR 585 - Peach Orchard Rd (EB) / Bethel Rd (WB), Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3760,42 +3753,42 @@
                 <tr>
                     <td class="content text-dark small">927.62 mi ( + 1.12 mi )</td>
                     <td class="content text-dark small">1492.89 km ( + 1.80 km )</td>
-                    <td class="content text-dark">US-1, Wallace, South Carolina 29596 (NB) / Marlboro CR-36 - Community Rd (SB), Wallace, South Carolina 29596</td>
+                    <td class="content text-dark">US-1, Wallace, South Carolina 29596 (NB) / Marlboro CR 36 - Community Rd (SB), Wallace, South Carolina 29596</td>
                     <td class="content text-dark">US-1, Wallace, South Carolina 29596</td>
                     <td class="content text-dark">End concurrency with SC-9</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">927.71 mi ( + 0.09 mi )</td>
                     <td class="content text-dark small">1493.03 km ( + 0.15 km )</td>
-                    <td class="content text-dark">Marlboro CR-133 - Wallace Dr, Wallace, South Carolina 29596</td>
+                    <td class="content text-dark">Marlboro CR 133 - Wallace Dr, Wallace, South Carolina 29596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">928.05 mi ( + 0.34 mi )</td>
                     <td class="content text-dark small">1493.58 km ( + 0.55 km )</td>
-                    <td class="content text-dark">Marlboro CR-262 - Delta Height Rd, Wallace, South Carolina 29596</td>
+                    <td class="content text-dark">Marlboro CR 262 - Delta Height Rd, Wallace, South Carolina 29596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">928.36 mi ( + 0.31 mi )</td>
                     <td class="content text-dark small">1494.08 km ( + 0.49 km )</td>
-                    <td class="content text-dark">Marlboro CR-312 - Rocky Ridge Rd, Wallace, South Carolina 29596</td>
+                    <td class="content text-dark">Marlboro CR 312 - Rocky Ridge Rd, Wallace, South Carolina 29596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">928.68 mi ( + 0.32 mi )</td>
                     <td class="content text-dark small">1494.59 km ( + 0.51 km )</td>
-                    <td class="content text-dark">Marlboro CR-97 & Marlboro CR-113 - Billy Wallace Rd, Wallace, South Carolina 29596</td>
+                    <td class="content text-dark">Marlboro CR 97 & Marlboro CR 113 - Billy Wallace Rd, Wallace, South Carolina 29596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">933.55 mi ( + 4.87 mi )</td>
                     <td class="content text-dark small">1502.43 km ( + 7.84 km )</td>
-                    <td class="content text-dark">Marlboro CR-113 - Kimrey Rd, Wallace, South Carolina 29596</td>
+                    <td class="content text-dark">Marlboro CR 113 - Kimrey Rd, Wallace, South Carolina 29596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3809,35 +3802,35 @@
                 <tr>
                     <td class="content text-dark small">935.88 mi ( + 1.72 mi )</td>
                     <td class="content text-dark small">1506.18 km ( + 2.76 km )</td>
-                    <td class="content text-dark">Richmond CR-1100 - Grenaco Village Rd, Hamlet, North Carolina 28345</td>
+                    <td class="content text-dark">Richmond CR 1100 - Grenaco Village Rd, Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">937.71 mi ( + 1.83 mi )</td>
                     <td class="content text-dark small">1509.13 km ( + 2.95 km )</td>
-                    <td class="content text-dark">Richmond CR-1103 - Old Cheraw Hwy, Hamlet, North Carolina 28345</td>
+                    <td class="content text-dark">Richmond CR 1103 - Old Cheraw Hwy, Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">939.39 mi ( + 1.68 mi )</td>
                     <td class="content text-dark small">1511.83 km ( + 2.71 km )</td>
-                    <td class="content text-dark">Richmond CR-1104 - Osborne Rd, Hamlet, North Carolina 28345</td>
+                    <td class="content text-dark">Richmond CR 1104 - Osborne Rd, Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">942.19 mi ( + 2.80 mi )</td>
                     <td class="content text-dark small">1516.34 km ( + 4.51 km )</td>
-                    <td class="content text-dark">Richmond CR-1106 - Osborne Rd, Hamlet, North Carolina 28345</td>
+                    <td class="content text-dark">Richmond CR 1106 - Osborne Rd, Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">942.93 mi ( + 0.74 mi )</td>
                     <td class="content text-dark small">1517.53 km ( + 1.20 km )</td>
-                    <td class="content text-dark">Richmond CR-1108 - Rosalyn Rd (WB) / Mizpah Rd (EB), Hamlet, North Carolina 28345</td>
+                    <td class="content text-dark">Richmond CR 1108 - Rosalyn Rd (WB) / Mizpah Rd (EB), Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3872,7 +3865,7 @@
                 <tr>
                     <td class="content text-dark small">944.74 mi ( + 0.08 mi )</td>
                     <td class="content text-dark small">1520.44 km ( + 0.13 km )</td>
-                    <td class="content text-dark">Richmond CR-1974 - Forrest St, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">Richmond CR 1974 - Forrest St, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">S Hancock St, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3886,14 +3879,14 @@
                 <tr>
                     <td class="content text-dark small">945.29 mi ( + 0.37 mi )</td>
                     <td class="content text-dark small">1521.33 km ( + 0.60 km )</td>
-                    <td class="content text-dark">Richmond CR-1966 - S Caroline St (NB) / Airport Rd (SB), Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">Richmond CR 1966 - S Caroline St (NB) / Airport Rd (SB), Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">945.50 mi ( + 0.21 mi )</td>
                     <td class="content text-dark small">1521.66 km ( + 0.34 km )</td>
-                    <td class="content text-dark">Richmond CR-1903 - Mill Rd, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">Richmond CR 1903 - Mill Rd, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3921,119 +3914,119 @@
                 <tr>
                     <td class="content text-dark small">946.20 mi ( + 0.14 mi )</td>
                     <td class="content text-dark small">1522.79 km ( + 0.22 km )</td>
-                    <td class="content text-dark">US-1 & Richmond CR-1643 - E Washington St, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">US-1 & Richmond CR 1643 - E Washington St, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">947.09 mi ( + 0.89 mi )</td>
                     <td class="content text-dark small">1524.22 km ( + 1.44 km )</td>
-                    <td class="content text-dark">Richmond CR-1423 - Richmond Rd (NB) / NC-1646 - N Long St (SB), Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">Richmond CR 1423 - Richmond Rd (NB) / NC-1646 - N Long St (SB), Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">947.61 mi ( + 0.52 mi )</td>
                     <td class="content text-dark small">1525.06 km ( + 0.84 km )</td>
-                    <td class="content text-dark">Richmond CR-1424 - Roberdel Rd, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">Richmond CR 1424 - Roberdel Rd, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">948.18 mi ( + 0.57 mi )</td>
                     <td class="content text-dark small">1525.98 km ( + 0.92 km )</td>
-                    <td class="content text-dark">Richmond CR-1426 - Old Aberdeen Rd, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">Richmond CR 1426 - Old Aberdeen Rd, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">948.74 mi ( + 0.56 mi )</td>
                     <td class="content text-dark small">1526.88 km ( + 0.90 km )</td>
-                    <td class="content text-dark">Richmond CR-1503 - Philadelphia Dr, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">Richmond CR 1503 - Philadelphia Dr, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">US-1, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">948.96 mi ( + 0.22 mi )</td>
                     <td class="content text-dark small">1527.23 km ( + 0.35 km )</td>
-                    <td class="content text-dark">Richmond CR-1504 - Philadelphia Dr, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">Richmond CR 1504 - Philadelphia Dr, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">950.18 mi ( + 1.22 mi )</td>
                     <td class="content text-dark small">1529.19 km ( + 1.96 km )</td>
-                    <td class="content text-dark">Richmond CR-1442 - Wiregrass Rd, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">Richmond CR 1442 - Wiregrass Rd, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">951.01 mi ( + 0.83 mi )</td>
                     <td class="content text-dark small">1530.53 km ( + 1.33 km )</td>
-                    <td class="content text-dark">Richmond CR-1696 - Fairway Dr, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">Richmond CR 1696 - Fairway Dr, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">951.24 mi ( + 0.23 mi )</td>
                     <td class="content text-dark small">1530.90 km ( + 0.37 km )</td>
-                    <td class="content text-dark">Richmond CR-1475 - McDonald Church Rd, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">Richmond CR 1475 - McDonald Church Rd, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">US-1, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">954.03 mi ( + 2.79 mi )</td>
                     <td class="content text-dark small">1535.39 km ( + 4.48 km )</td>
-                    <td class="content text-dark">Richmond CR-177, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">Richmond CR 177, Rockingham, North Carolina 28379</td>
                     <td class="content text-dark">US-1, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">955.14 mi ( + 1.11 mi )</td>
                     <td class="content text-dark small">1537.18 km ( + 1.79 km )</td>
-                    <td class="content text-dark">Richmond CR-1001 - Marston Rd, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark">Richmond CR 1001 - Marston Rd, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">955.53 mi ( + 0.39 mi )</td>
                     <td class="content text-dark small">1537.80 km ( + 0.63 km )</td>
-                    <td class="content text-dark">Richmond CR-1484 - Powers St, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark">Richmond CR 1484 - Powers St, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">957.34 mi ( + 1.81 mi )</td>
                     <td class="content text-dark small">1540.72 km ( + 2.91 km )</td>
-                    <td class="content text-dark">Richmond CR-1479 - James G Watson Rd, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark">Richmond CR 1479 - James G Watson Rd, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">958.40 mi ( + 1.06 mi )</td>
                     <td class="content text-dark small">1542.42 km ( + 1.71 km )</td>
-                    <td class="content text-dark">Richmond CR-1475 - Caddell Rd, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark">Richmond CR 1475 - Caddell Rd, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark">Main St, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">959.40 mi ( + 1.00 mi )</td>
                     <td class="content text-dark small">1544.03 km ( + 1.61 km )</td>
-                    <td class="content text-dark">Richmond CR-1004 - Little Rd, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark">Richmond CR 1004 - Little Rd, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">960.27 mi ( + 0.87 mi )</td>
                     <td class="content text-dark small">1545.43 km ( + 1.40 km )</td>
-                    <td class="content text-dark">Richmond CR-1528 - Vincent-Gibson Ave, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark">Richmond CR 1528 - Vincent-Gibson Ave, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark">US-1, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">960.55 mi ( + 0.28 mi )</td>
                     <td class="content text-dark small">1545.88 km ( + 0.45 km )</td>
-                    <td class="content text-dark">Richmond CR-1600 - Rushing Rd, Hoffman, North Carolina 28347</td>
+                    <td class="content text-dark">Richmond CR 1600 - Rushing Rd, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark">US-1, Hoffman, North Carolina 28347</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4047,7 +4040,7 @@
                 <tr>
                     <td class="content text-dark small">964.96 mi ( + 2.03 mi )</td>
                     <td class="content text-dark small">1552.98 km ( + 3.27 km )</td>
-                    <td class="content text-dark">Moore CR-1102 - Thunder Rd (WB) / Addor Rd (EB), Pinebluff, North Carolina 28373</td>
+                    <td class="content text-dark">Moore CR 1102 - Thunder Rd (WB) / Addor Rd (EB), Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4068,14 +4061,14 @@
                 <tr>
                     <td class="content text-dark small">966.65 mi ( + 0.11 mi )</td>
                     <td class="content text-dark small">1555.70 km ( + 0.18 km )</td>
-                    <td class="content text-dark">Moore CR-1156 - W Baltimore Ave (WB) / E Baltimore Ave (EB), Pinebluff, North Carolina 28373</td>
+                    <td class="content text-dark">Moore CR 1156 - W Baltimore Ave (WB) / E Baltimore Ave (EB), Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">967.26 mi ( + 0.61 mi )</td>
                     <td class="content text-dark small">1556.68 km ( + 0.98 km )</td>
-                    <td class="content text-dark">Moore CR-2118 - N Currant St, Pinebluff, North Carolina 28373</td>
+                    <td class="content text-dark">Moore CR 2118 - N Currant St, Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4096,7 +4089,7 @@
                 <tr>
                     <td class="content text-dark small">969.20 mi ( + 0.95 mi )</td>
                     <td class="content text-dark small">1559.80 km ( + 1.52 km )</td>
-                    <td class="content text-dark">Moore CR-1112 - Roseland Rd, Aberdeen, North Carolina 28315</td>
+                    <td class="content text-dark">Moore CR 1112 - Roseland Rd, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark">S Sandhills Blvd, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4131,21 +4124,21 @@
                 <tr>
                     <td class="content text-dark small">971.69 mi ( + 0.44 mi )</td>
                     <td class="content text-dark small">1563.81 km ( + 0.71 km )</td>
-                    <td class="content text-dark">Moore CR-2055 - N Poplar St, Aberdeen, North Carolina 28315</td>
+                    <td class="content text-dark">Moore CR 2055 - N Poplar St, Aberdeen, North Carolina 28315</td>
                     <td class="content text-dark">US-1, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">972.00 mi ( + 0.31 mi )</td>
                     <td class="content text-dark small">1564.31 km ( + 0.50 km )</td>
-                    <td class="content text-dark">Moore CR-2053 - Saunders Blvd, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">Moore CR 2053 - Saunders Blvd, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">972.59 mi ( + 0.59 mi )</td>
                     <td class="content text-dark small">1565.26 km ( + 0.94 km )</td>
-                    <td class="content text-dark">Moore CR-1205 - W Morganton Rd, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">Moore CR 1205 - W Morganton Rd, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4159,7 +4152,7 @@
                 <tr>
                     <td class="content text-dark small">973.42 mi ( + 0.20 mi )</td>
                     <td class="content text-dark small">1566.60 km ( + 0.32 km )</td>
-                    <td class="content text-dark">Moore CR-1848 - W Pennsylvania Ave, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">Moore CR 1848 - W Pennsylvania Ave, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4173,14 +4166,14 @@
                 <tr>
                     <td class="content text-dark small">975.14 mi ( + 0.61 mi )</td>
                     <td class="content text-dark small">1569.36 km ( + 0.98 km )</td>
-                    <td class="content text-dark">Moore CR-2164 - Air Tool Dr, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">Moore CR 2164 - Air Tool Dr, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">976.00 mi ( + 0.86 mi )</td>
                     <td class="content text-dark small">1570.75 km ( + 1.39 km )</td>
-                    <td class="content text-dark">Moore CR-2088 - Brothers Rd (SB) / NC-1870 - Westover Rd, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">Moore CR 2088 - Brothers Rd (SB) / NC-1870 - Westover Rd, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4194,21 +4187,21 @@
                 <tr>
                     <td class="content text-dark small">977.04 mi ( + 0.79 mi )</td>
                     <td class="content text-dark small">1572.42 km ( + 1.27 km )</td>
-                    <td class="content text-dark">Moore CR-2080 - N May St, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">Moore CR 2080 - N May St, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">977.32 mi ( + 0.28 mi )</td>
                     <td class="content text-dark small">1572.87 km ( + 0.45 km )</td>
-                    <td class="content text-dark">Moore CR-2124 - Equestrian Rd, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">Moore CR 2124 - Equestrian Rd, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">977.91 mi ( + 0.59 mi )</td>
                     <td class="content text-dark small">1573.82 km ( + 0.96 km )</td>
-                    <td class="content text-dark">Moore CR-2026 - Youngs Rd, Southern Pines, North Carolina 28387</td>
+                    <td class="content text-dark">Moore CR 2026 - Youngs Rd, Southern Pines, North Carolina 28387</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4222,7 +4215,7 @@
                 <tr>
                     <td class="content text-dark small">979.59 mi ( + 0.60 mi )</td>
                     <td class="content text-dark small">1576.53 km ( + 0.97 km )</td>
-                    <td class="content text-dark">Moore CR-1853 - Aiken Rd (SB) / Camp Easter Rd (NB), Vass, North Carolina, 28394</td>
+                    <td class="content text-dark">Moore CR 1853 - Aiken Rd (SB) / Camp Easter Rd (NB), Vass, North Carolina, 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4236,42 +4229,42 @@
                 <tr>
                     <td class="content text-dark small">980.93 mi ( + 0.59 mi )</td>
                     <td class="content text-dark small">1578.68 km ( + 0.95 km )</td>
-                    <td class="content text-dark">Moore CR-1864 - James St, Vass, North Carolina 28394</td>
+                    <td class="content text-dark">Moore CR 1864 - James St, Vass, North Carolina 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">981.38 mi ( + 0.45 mi )</td>
                     <td class="content text-dark small">1579.41 km ( + 0.72 km )</td>
-                    <td class="content text-dark">NC-690 & Moore CR-1001 - Main St, Vass, North Carolina 28394</td>
+                    <td class="content text-dark">NC-690 & Moore CR 1001 - Main St, Vass, North Carolina 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">982.07 mi ( + 0.69 mi )</td>
                     <td class="content text-dark small">1580.52 km ( + 1.11 km )</td>
-                    <td class="content text-dark">Moore CR-2005 - N Alma St, Vass, North Carolina 28394</td>
+                    <td class="content text-dark">Moore CR 2005 - N Alma St, Vass, North Carolina 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">984.25 mi ( + 2.18 mi )</td>
                     <td class="content text-dark small">1584.03 km ( + 3.52 km )</td>
-                    <td class="content text-dark">Moore CR-1825 - Cranes Creek Rd, Vass, North Carolina 28394</td>
+                    <td class="content text-dark">Moore CR 1825 - Cranes Creek Rd, Vass, North Carolina 28394</td>
                     <td class="content text-dark">US-1, Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">985.37 mi ( + 1.12 mi )</td>
                     <td class="content text-dark small">1585.83 km ( + 1.80 km )</td>
-                    <td class="content text-dark">Moore CR-2099 - Pineywood Church Rd, Cameron, North Carolina 28326</td>
+                    <td class="content text-dark">Moore CR 2099 - Pineywood Church Rd, Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">986.30 mi ( + 0.93 mi )</td>
                     <td class="content text-dark small">1587.32 km ( + 1.50 km )</td>
-                    <td class="content text-dark">Moore CR-2005 - Atkins Rd, Cameron, North Carolina 28326</td>
+                    <td class="content text-dark">Moore CR 2005 - Atkins Rd, Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4292,7 +4285,7 @@
                 <tr>
                     <td class="content text-dark small">987.49 mi ( + 0.66 mi )</td>
                     <td class="content text-dark small">1589.24 km ( + 1.06 km )</td>
-                    <td class="content text-dark">Moore CR-2000 - Page Store Rd, Cameron, North Carolina 28326</td>
+                    <td class="content text-dark">Moore CR 2000 - Page Store Rd, Cameron, North Carolina 28326</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4306,7 +4299,7 @@
                 <tr>
                     <td class="content text-dark small">989.69 mi ( + 1.67 mi )</td>
                     <td class="content text-dark small">1592.78 km ( + 2.68 km )</td>
-                    <td class="content text-dark">US-1 Business & Lee CR-1182 - Cedar Lane Rd  (WB) / NC-1182 - Pine Forrest Rd (EB), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">US-1 Business & Lee CR 1182 - Cedar Lane Rd  (WB) / NC-1182 - Pine Forrest Rd (EB), Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4320,21 +4313,21 @@
                 <tr>
                     <td class="content text-dark small">994.14 mi ( + 1.23 mi )</td>
                     <td class="content text-dark small">1599.94 km ( + 1.97 km )</td>
-                    <td class="content text-dark">Lee CR-1300 - Chris Cole Rd, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">Lee CR 1300 - Chris Cole Rd, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">995.35 mi ( + 1.21 mi )</td>
                     <td class="content text-dark small">1601.89 km ( + 1.94 km )</td>
-                    <td class="content text-dark">Lee CR-1303 - Center Church Rd (WB) / NC-78 - Tramway Rd (EB), Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">Lee CR 1303 - Center Church Rd (WB) / NC-78 - Tramway Rd (EB), Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">995.88 mi ( + 0.53 mi )</td>
                     <td class="content text-dark small">1602.74 km ( + 0.85 km )</td>
-                    <td class="content text-dark">Lee CR-1237 - Carthage St, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">Lee CR 1237 - Carthage St, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4355,7 +4348,7 @@
                 <tr>
                     <td class="content text-dark small">998.58 mi ( + 0.83 mi )</td>
                     <td class="content text-dark small">1607.09 km ( + 1.33 km )</td>
-                    <td class="content text-dark">Lee CR-1009 - Carbonton Rd, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">Lee CR 1009 - Carbonton Rd, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4383,21 +4376,21 @@
                 <tr>
                     <td class="content text-dark small">1004.86 mi ( + 3.16 mi )</td>
                     <td class="content text-dark small">1617.19 km ( + 5.09 km )</td>
-                    <td class="content text-dark">Lee CR-1415 - Colon Rd, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">Lee CR 1415 - Colon Rd, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1007.41 mi ( + 2.55 mi )</td>
                     <td class="content text-dark small">1621.30 km ( + 4.10 km )</td>
-                    <td class="content text-dark">Lee CR-1423 - Farrell Rd, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">Lee CR 1423 - Farrell Rd, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1009.76 mi ( + 2.35 mi )</td>
                     <td class="content text-dark small">1625.08 km ( + 3.78 km )</td>
-                    <td class="content text-dark">Lee CR-1466 - Deep River Rd, Sanford, North Carolina 27330</td>
+                    <td class="content text-dark">Lee CR 1466 - Deep River Rd, Sanford, North Carolina 27330</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4411,14 +4404,14 @@
                 <tr>
                     <td class="content text-dark small">1010.60 mi ( + 0.50 mi )</td>
                     <td class="content text-dark small">1626.43 km ( + 0.80 km )</td>
-                    <td class="content text-dark">Chatham CR-1012 - Moncure Pittsboro Rd, Moncure, North Carolina 27559</td>
+                    <td class="content text-dark">Chatham CR 1012 - Moncure Pittsboro Rd, Moncure, North Carolina 27559</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1015.61 mi ( + 5.01 mi )</td>
                     <td class="content text-dark small">1634.49 km ( + 8.07 km )</td>
-                    <td class="content text-dark">Chatham CR-1011 - Old US 1 Hwy, Moncure, North Carolina 27559</td>
+                    <td class="content text-dark">Chatham CR 1011 - Old US 1 Hwy, Moncure, North Carolina 27559</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4432,7 +4425,7 @@
                 <tr>
                     <td class="content text-dark small">1020.15 mi ( + 3.42 mi )</td>
                     <td class="content text-dark small">1641.80 km ( + 5.50 km )</td>
-                    <td class="content text-dark">Wake CR-1127 - New Hill Holleman Rd, Apex, North Carolina 27502</td>
+                    <td class="content text-dark">Wake CR 1127 - New Hill Holleman Rd, Apex, North Carolina 27502</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4460,7 +4453,7 @@
                 <tr>
                     <td class="content text-dark small">1029.27 mi ( + 1.39 mi )</td>
                     <td class="content text-dark small">1656.48 km ( + 2.23 km )</td>
-                    <td class="content text-dark">US-64 (WB) / (to Wake CR-1009) Tryon Rd (EB), Cary, North Carolina 27511</td>
+                    <td class="content text-dark">US-64 (WB) / (to Wake CR 1009) Tryon Rd (EB), Cary, North Carolina 27511</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-64</td>
                 </tr>
@@ -4509,7 +4502,7 @@
                 <tr>
                     <td class="content text-dark small">1050.28 mi ( + 1.56 mi )</td>
                     <td class="content text-dark small">1690.29 km ( + 2.51 km )</td>
-                    <td class="content text-dark">Wake CR-2006 - Perry Creek Rd (EB) / Durant Rd (WB), Raleigh, North Carolina 27608</td>
+                    <td class="content text-dark">Wake CR 2006 - Perry Creek Rd (EB) / Durant Rd (WB), Raleigh, North Carolina 27608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4523,14 +4516,14 @@
                 <tr>
                     <td class="content text-dark small">1052.56 mi ( + 1.14 mi )</td>
                     <td class="content text-dark small">1693.96 km ( + 1.84 km )</td>
-                    <td class="content text-dark">Wake CR-2045 - Burlington Mills Rd, Wake Forest, North Carolina 27587</td>
+                    <td class="content text-dark">Wake CR 2045 - Burlington Mills Rd, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1053.91 mi ( + 1.35 mi )</td>
                     <td class="content text-dark small">1696.13 km ( + 2.18 km )</td>
-                    <td class="content text-dark">Wake CR-2182, Wake Forest, North Carolina 27587</td>
+                    <td class="content text-dark">Wake CR 2182, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4558,14 +4551,14 @@
                 <tr>
                     <td class="content text-dark small">1057.42 mi ( + 0.57 mi )</td>
                     <td class="content text-dark small">1701.78 km ( + 0.92 km )</td>
-                    <td class="content text-dark">Wake CR-1929 - Wake Union Church Rd, Wake Forest, North Carolina 27587</td>
+                    <td class="content text-dark">Wake CR 1929 - Wake Union Church Rd, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1058.95 mi ( + 1.53 mi )</td>
                     <td class="content text-dark small">1704.24 km ( + 2.46 km )</td>
-                    <td class="content text-dark">Wake CR-1909 - Purnell Rd (WB) / Wake CR-1931 - Harris Rd, Wake Forest, North Carolina 27587</td>
+                    <td class="content text-dark">Wake CR 1909 - Purnell Rd (WB) / Wake CR 1931 - Harris Rd, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4579,21 +4572,21 @@
                 <tr>
                     <td class="content text-dark small">1059.60 mi ( + 0.12 mi )</td>
                     <td class="content text-dark small">1705.29 km ( + 0.20 km )</td>
-                    <td class="content text-dark">Franklin CR-1135 - Wall Rd, Wake Forest, North Carolina 27587</td>
+                    <td class="content text-dark">Franklin CR 1135 - Wall Rd, Wake Forest, North Carolina 27587</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1060.50 mi ( + 0.90 mi )</td>
                     <td class="content text-dark small">1706.74 km ( + 1.45 km )</td>
-                    <td class="content text-dark">Franklin CR-1147 - Holden Rd, Youngsville, North Carolina 27596</td>
+                    <td class="content text-dark">Franklin CR 1147 - Holden Rd, Youngsville, North Carolina 27596</td>
                     <td class="content text-dark">US-1, Youngsville, North Carolina 27596</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1061.40 mi ( + 0.90 mi )</td>
                     <td class="content text-dark small">1708.19 km ( + 1.45 km )</td>
-                    <td class="content text-dark">Franklin CR-1138 - Green Rd (WB) / Mosswood Blvd (EB), Youngsville, North Carolina 27596</td>
+                    <td class="content text-dark">Franklin CR 1138 - Green Rd (WB) / Mosswood Blvd (EB), Youngsville, North Carolina 27596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4614,7 +4607,7 @@
                 <tr>
                     <td class="content text-dark small">1063.35 mi ( + 0.34 mi )</td>
                     <td class="content text-dark small">1711.32 km ( + 0.55 km )</td>
-                    <td class="content text-dark">Franklin CR-1133 - Bert Winston Rd, Youngsville, North Carolina 27596</td>
+                    <td class="content text-dark">Franklin CR 1133 - Bert Winston Rd, Youngsville, North Carolina 27596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4628,7 +4621,7 @@
                 <tr>
                     <td class="content text-dark small">1066.13 mi ( + 0.84 mi )</td>
                     <td class="content text-dark small">1715.80 km ( + 1.36 km )</td>
-                    <td class="content text-dark">Franklin CR-1127 - Pocomoke Rd (WB), S Cheatham St (EB), Franklinton, North Carolina 27525</td>
+                    <td class="content text-dark">Franklin CR 1127 - Pocomoke Rd (WB), S Cheatham St (EB), Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4642,35 +4635,35 @@
                 <tr>
                     <td class="content text-dark small">1066.74 mi ( + 0.11 mi )</td>
                     <td class="content text-dark small">1716.78 km ( + 0.18 km )</td>
-                    <td class="content text-dark">Franklin CR-1206 - Mason St, Franklinton, North Carolina 27525</td>
+                    <td class="content text-dark">Franklin CR 1206 - Mason St, Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1066.80 mi ( + 0.06 mi )</td>
                     <td class="content text-dark small">1716.88 km ( + 0.09 km )</td>
-                    <td class="content text-dark">Franklin CR-1263 - American Legion Rd, Franklinton, North Carolina 27525</td>
+                    <td class="content text-dark">Franklin CR 1263 - American Legion Rd, Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1067.30 mi ( + 0.50 mi )</td>
                     <td class="content text-dark small">1717.68 km ( + 0.80 km )</td>
-                    <td class="content text-dark">Franklin CR-1127 - N Cheatham St, Franklinton, North Carolina 27525</td>
+                    <td class="content text-dark">Franklin CR 1127 - N Cheatham St, Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1067.65 mi ( + 0.35 mi )</td>
                     <td class="content text-dark small">1718.24 km ( + 0.56 km )</td>
-                    <td class="content text-dark">Franklin CR-1204 - Mann St, Franklinton, North Carolina 27525</td>
+                    <td class="content text-dark">Franklin CR 1204 - Mann St, Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1070.10 mi ( + 2.45 mi )</td>
                     <td class="content text-dark small">1722.19 km ( + 3.95 km )</td>
-                    <td class="content text-dark">Franklin CR-1207 - Winston St, Franklinton, North Carolina 27525</td>
+                    <td class="content text-dark">Franklin CR 1207 - Winston St, Franklinton, North Carolina 27525</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4691,7 +4684,7 @@
                 <tr>
                     <td class="content text-dark small">1077.18 mi ( + 0.66 mi )</td>
                     <td class="content text-dark small">1733.58 km ( + 1.06 km )</td>
-                    <td class="content text-dark">Vance CR-1107 (EB) / Vance CR-1113 - S Lake Lodge Rd, Kittrell, North Carolina 27544</td>
+                    <td class="content text-dark">Vance CR 1107 (EB) / Vance CR 1113 - S Lake Lodge Rd, Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4705,14 +4698,14 @@
                 <tr>
                     <td class="content text-dark small">1079.92 mi ( + 0.55 mi )</td>
                     <td class="content text-dark small">1737.99 km ( + 0.88 km )</td>
-                    <td class="content text-dark">Vance CR-1115 - Bear Pond Rd, Kittrell, North Carolina 27544</td>
+                    <td class="content text-dark">Vance CR 1115 - Bear Pond Rd, Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1081.61 mi ( + 1.69 mi )</td>
                     <td class="content text-dark small">1740.71 km ( + 2.72 km )</td>
-                    <td class="content text-dark">Vance CR-1148 - Epsom Rd (WB) / Vanco Mill Rd (EB), Kittrell, North Carolina 27544</td>
+                    <td class="content text-dark">Vance CR 1148 - Epsom Rd (WB) / Vanco Mill Rd (EB), Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4733,14 +4726,14 @@
                 <tr>
                     <td class="content text-dark small">1083.76 mi ( + 0.68 mi )</td>
                     <td class="content text-dark small">1744.17 km ( + 1.10 km )</td>
-                    <td class="content text-dark">Vance CR-1518 - Water St (WB) / Newton Dairy Rd (EB), Henderson, North Carolina 27536</td>
+                    <td class="content text-dark">Vance CR 1518 - Water St (WB) / Newton Dairy Rd (EB), Henderson, North Carolina 27536</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1085.44 mi ( + 1.68 mi )</td>
                     <td class="content text-dark small">1746.87 km ( + 2.70 km )</td>
-                    <td class="content text-dark">Vance CR-1001 - Warrenton Rd, Henderson, North Carolina 27536</td>
+                    <td class="content text-dark">Vance CR 1001 - Warrenton Rd, Henderson, North Carolina 27536</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4754,7 +4747,7 @@
                 <tr>
                     <td class="content text-dark small">1087.72 mi ( + 1.18 mi )</td>
                     <td class="content text-dark small">1750.54 km ( + 1.90 km )</td>
-                    <td class="content text-dark">Vance CR-1507 - Brookston Rd, Henderson, North Carolina 27536</td>
+                    <td class="content text-dark">Vance CR 1507 - Brookston Rd, Henderson, North Carolina 27536</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4775,7 +4768,7 @@
                 <tr>
                     <td class="content text-dark small">1089.70 mi ( + 0.34 mi )</td>
                     <td class="content text-dark small">1753.73 km ( + 0.55 km )</td>
-                    <td class="content text-dark">Vance CR-1501 - N Carroll St, Middleburg, North Carolina 27537</td>
+                    <td class="content text-dark">Vance CR 1501 - N Carroll St, Middleburg, North Carolina 27537</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4796,7 +4789,7 @@
                 <tr>
                     <td class="content text-dark small">1091.41 mi ( + 1.06 mi )</td>
                     <td class="content text-dark small">1756.48 km ( + 1.71 km )</td>
-                    <td class="content text-dark">Vance CR-1376 - John H. Bullock Rd, Middleburg, North Carolina 27537</td>
+                    <td class="content text-dark">Vance CR 1376 - John H. Bullock Rd, Middleburg, North Carolina 27537</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4810,7 +4803,7 @@
                 <tr>
                     <td class="content text-dark small">1095.39 mi ( + 3.84 mi )</td>
                     <td class="content text-dark small">1762.89 km ( + 6.18 km )</td>
-                    <td class="content text-dark">Warren CR-1233 - Wycoff Rd, Norlina, North Carolina 27563</td>
+                    <td class="content text-dark">Warren CR 1233 - Wycoff Rd, Norlina, North Carolina 27563</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4824,7 +4817,7 @@
                 <tr>
                     <td class="content text-dark small">1101.15 mi ( + 3.48 mi )</td>
                     <td class="content text-dark small">1772.16 km ( + 5.60 km )</td>
-                    <td class="content text-dark">Warren CR-1213 - Michael's Quarry Rd, Norlina, North Carolina 27563</td>
+                    <td class="content text-dark">Warren CR 1213 - Michael's Quarry Rd, Norlina, North Carolina 27563</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4838,7 +4831,7 @@
                 <tr>
                     <td class="content text-dark small">1101.84 mi ( + 0.14 mi )</td>
                     <td class="content text-dark small">1773.27 km ( + 0.22 km )</td>
-                    <td class="content text-dark">Warren CR-1372 - Old Wise School Rd, Norlina, North Carolina 27563</td>
+                    <td class="content text-dark">Warren CR 1372 - Old Wise School Rd, Norlina, North Carolina 27563</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4859,7 +4852,7 @@
                 <tr>
                     <td class="content text-dark small">1110.64 mi ( + 5.18 mi )</td>
                     <td class="content text-dark small">1787.43 km ( + 8.33 km )</td>
-                    <td class="content text-dark">Mecklenburg CR-615 - Redlawn Rd, Boydton, Virginia 23917</td>
+                    <td class="content text-dark">Mecklenburg CR 615 - Redlawn Rd, Boydton, Virginia 23917</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4873,23 +4866,23 @@
                 <tr>
                     <td class="content text-dark small">1117.91 mi ( + 3.46 mi )</td>
                     <td class="content text-dark small">1799.13 km ( + 5.56 km )</td>
-                    <td class="content text-dark">Mecklenburg CR-780 - Theater Rd</td>
+                    <td class="content text-dark">Mecklenburg CR 780 - Theater Rd</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with US-58, Start concurrency with Mecklenburg CR-780</td>
+                    <td class="content text-dark">End concurrency with US-58, Start concurrency with Mecklenburg CR 780</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1118.11 mi ( + 0.20 mi )</td>
                     <td class="content text-dark small">1799.45 km ( + 0.32 km )</td>
                     <td class="content text-dark">US-1 - W Danville Rd, South Hill, Virginia 23970</td>
                     <td class="content text-dark">W Danville Rd, South Hill, Virginia 23970</td>
-                    <td class="content text-dark">End concurrency with Mecklenburg CR-780</td>
+                    <td class="content text-dark">End concurrency with Mecklenburg CR 780</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1120.70 mi ( + 2.59 mi )</td>
                     <td class="content text-dark small">1803.62 km ( + 4.16 km )</td>
-                    <td class="content text-dark">Mecklenburg CR-637 - S Mecklenburg Ave, South Hill, Virginia 23970</td>
+                    <td class="content text-dark">Mecklenburg CR 637 - S Mecklenburg Ave, South Hill, Virginia 23970</td>
                     <td class="content text-dark">S Mecklenburg Ave, South Hill, Virginia 23970</td>
-                    <td class="content text-dark">Start concurrency with Mecklenburg CR-637</td>
+                    <td class="content text-dark">Start concurrency with Mecklenburg CR 637</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1120.86 mi ( + 0.16 mi )</td>
@@ -4903,7 +4896,7 @@
                     <td class="content text-dark small">1804.46 km ( + 0.58 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with Mecklenburg CR-637</td>
+                    <td class="content text-dark">End concurrency with Mecklenburg CR 637</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1123.08 mi ( + 1.86 mi )</td>
@@ -4936,35 +4929,35 @@
                 <tr>
                     <td class="content text-dark small">1127.91 mi ( + 0.38 mi )</td>
                     <td class="content text-dark small">1815.22 km ( + 0.61 km )</td>
-                    <td class="content text-dark">Brunswick CR-657 - Tanner Town Rd, Brodnax, Virginia 23920</td>
+                    <td class="content text-dark">Brunswick CR 657 - Tanner Town Rd, Brodnax, Virginia 23920</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1129.45 mi ( + 1.54 mi )</td>
                     <td class="content text-dark small">1817.70 km ( + 2.48 km )</td>
-                    <td class="content text-dark">Brunswick CR-637 - Old Indian Rd, Brodnax, Virginia 23920</td>
+                    <td class="content text-dark">Brunswick CR 637 - Old Indian Rd, Brodnax, Virginia 23920</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1132.23 mi ( + 2.78 mi )</td>
                     <td class="content text-dark small">1822.18 km ( + 4.48 km )</td>
-                    <td class="content text-dark">Brunswick CR-644 - Brunswick Dr (NB) / Grandy Rd (SB), Brodnax, Virginia 23920</td>
+                    <td class="content text-dark">Brunswick CR 644 - Brunswick Dr (NB) / Grandy Rd (SB), Brodnax, Virginia 23920</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1133.47 mi ( + 1.24 mi )</td>
                     <td class="content text-dark small">1824.17 km ( + 1.99 km )</td>
-                    <td class="content text-dark">Brunswick CR-762 - Tower Rd, Brodnax, Virginia 23920</td>
+                    <td class="content text-dark">Brunswick CR 762 - Tower Rd, Brodnax, Virginia 23920</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1133.57 mi ( + 0.10 mi )</td>
                     <td class="content text-dark small">1824.33 km ( + 0.16 km )</td>
-                    <td class="content text-dark">Brunswick CR-763 - Millville Rd, Brodnax, Virginia 23920</td>
+                    <td class="content text-dark">Brunswick CR 763 - Millville Rd, Brodnax, Virginia 23920</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4985,21 +4978,21 @@
                 <tr>
                     <td class="content text-dark small">1135.70 mi ( + 0.25 mi )</td>
                     <td class="content text-dark small">1827.76 km ( + 0.40 km )</td>
-                    <td class="content text-dark">Brunswick CR-758 - Little Doe Rd, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 758 - Little Doe Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1136.57 mi ( + 0.87 mi )</td>
                     <td class="content text-dark small">1829.16 km ( + 1.40 km )</td>
-                    <td class="content text-dark">Brunswick CR-F-077 - Colonial Downs Pl, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR F-077 - Colonial Downs Pl, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1136.61 mi ( + 0.04 mi )</td>
                     <td class="content text-dark small">1829.22 km ( + 0.06 km )</td>
-                    <td class="content text-dark">Brunswick CR-634 - Liberty Rd, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 634 - Liberty Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5013,147 +5006,147 @@
                 <tr>
                     <td class="content text-dark small">1137.15 mi ( + 0.27 mi )</td>
                     <td class="content text-dark small">1830.09 km ( + 0.43 km )</td>
-                    <td class="content text-dark">Brunswick CR-F078 - Rosebud Ln, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR F078 - Rosebud Ln, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1137.36 mi ( + 0.21 mi )</td>
                     <td class="content text-dark small">1830.43 km ( + 0.34 km )</td>
-                    <td class="content text-dark">Brunswick CR-1401 - Main St, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 1401 - Main St, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1137.70 mi ( + 0.34 mi )</td>
                     <td class="content text-dark small">1830.98 km ( + 0.55 km )</td>
-                    <td class="content text-dark">Brunswick CR-1416 - Connelly St, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 1416 - Connelly St, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1137.81 mi ( + 0.11 mi )</td>
                     <td class="content text-dark small">1831.16 km ( + 0.17 km )</td>
-                    <td class="content text-dark">Brunswick CR-1407 - Center St, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 1407 - Center St, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1138.14 mi ( + 0.33 mi )</td>
                     <td class="content text-dark small">1831.69 km ( + 0.54 km )</td>
-                    <td class="content text-dark">Brunswick CR-1406 - Selma St (NB) / Prestwood Rd (SB), Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 1406 - Selma St (NB) / Prestwood Rd (SB), Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1138.26 mi ( + 0.12 mi )</td>
                     <td class="content text-dark small">1831.88 km ( + 0.19 km )</td>
-                    <td class="content text-dark">Brunswick CR-1403 - 2nd Ave, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 1403 - 2nd Ave, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1138.64 mi ( + 0.38 mi )</td>
                     <td class="content text-dark small">1832.49 km ( + 0.61 km )</td>
-                    <td class="content text-dark">Brunswick CR-606 - Virginia Ave, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 606 - Virginia Ave, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1139.02 mi ( + 0.38 mi )</td>
                     <td class="content text-dark small">1833.10 km ( + 0.62 km )</td>
-                    <td class="content text-dark">Brunswick CR-614 - Beaver Dam Rd, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 614 - Beaver Dam Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Start concurrency with Brunswick CR-614</td>
+                    <td class="content text-dark">Start concurrency with Brunswick CR 614</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1139.04 mi ( + 0.02 mi )</td>
                     <td class="content text-dark small">1833.13 km ( + 0.04 km )</td>
-                    <td class="content text-dark">Brunswick CR-614 - Pitch Kettle Rd, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 614 - Pitch Kettle Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with Brunswick CR-614</td>
+                    <td class="content text-dark">End concurrency with Brunswick CR 614</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1140.11 mi ( + 1.07 mi )</td>
                     <td class="content text-dark small">1834.86 km ( + 1.72 km )</td>
-                    <td class="content text-dark">Brunswick CR-726 - Chestnut Rd, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 726 - Chestnut Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1140.88 mi ( + 0.77 mi )</td>
                     <td class="content text-dark small">1836.10 km ( + 1.23 km )</td>
-                    <td class="content text-dark">Brunswick CR-642 - Poor House Rd, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 642 - Poor House Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Start concurrency with Brunswick CR-642</td>
+                    <td class="content text-dark">Start concurrency with Brunswick CR 642</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1141.22 mi ( + 0.34 mi )</td>
                     <td class="content text-dark small">1836.64 km ( + 0.55 km )</td>
-                    <td class="content text-dark">Brunswick CR-642 - Zero Rd, Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 642 - Zero Rd, Alberta, Virginia 23821</td>
                     <td class="content text-dark">Boydton Plank Rd, Warfield, Virginia 23889</td>
-                    <td class="content text-dark">End concurrency with Brunswick CR-642</td>
+                    <td class="content text-dark">End concurrency with Brunswick CR 642</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1141.56 mi ( + 0.34 mi )</td>
                     <td class="content text-dark small">1837.19 km ( + 0.55 km )</td>
-                    <td class="content text-dark">Brunswick CR-642 - Zero Rd, Warfield, Virginia 23889</td>
+                    <td class="content text-dark">Brunswick CR 642 - Zero Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark">Boydton Plank Rd, Warfield, Virginia 23889</td>
-                    <td class="content text-dark">End concurrency with Brunswick CR-642</td>
+                    <td class="content text-dark">End concurrency with Brunswick CR 642</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1142.57 mi ( + 1.01 mi )</td>
                     <td class="content text-dark small">1838.82 km ( + 1.63 km )</td>
-                    <td class="content text-dark">Brunswick CR-643 - Flat Rock Rd, Warfield, Virginia 23889</td>
+                    <td class="content text-dark">Brunswick CR 643 - Flat Rock Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1143.11 mi ( + 0.54 mi )</td>
                     <td class="content text-dark small">1839.68 km ( + 0.88 km )</td>
-                    <td class="content text-dark">Brunswick CR-630 - Sturgeon Rd, Warfield, Virginia 23889</td>
+                    <td class="content text-dark">Brunswick CR 630 - Sturgeon Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Start concurrency with Brunswick CR-630</td>
+                    <td class="content text-dark">Start concurrency with Brunswick CR 630</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1143.18 mi ( + 0.07 mi )</td>
                     <td class="content text-dark small">1839.80 km ( + 0.12 km )</td>
-                    <td class="content text-dark">Brunswick CR-630 - Waqua Creek Rd, Warfield, Virginia 23889</td>
+                    <td class="content text-dark">Brunswick CR 630 - Waqua Creek Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with Brunswick CR-630</td>
+                    <td class="content text-dark">End concurrency with Brunswick CR 630</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1145.85 mi ( + 2.67 mi )</td>
                     <td class="content text-dark small">1844.09 km ( + 4.29 km )</td>
-                    <td class="content text-dark">Brunswick CR-765 - Shady Pl, Warfield, Virginia 23889</td>
+                    <td class="content text-dark">Brunswick CR 765 - Shady Pl, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1146.00 mi ( + 0.15 mi )</td>
                     <td class="content text-dark small">1844.34 km ( + 0.24 km )</td>
-                    <td class="content text-dark">Brunswick CR-764 - Wynn Creek Rd, Warfield, Virginia 23889</td>
+                    <td class="content text-dark">Brunswick CR 764 - Wynn Creek Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1147.06 mi ( + 1.06 mi )</td>
                     <td class="content text-dark small">1846.04 km ( + 1.71 km )</td>
-                    <td class="content text-dark">Brunswick CR-1110 - King Ave, Warfield, Virginia 23889</td>
+                    <td class="content text-dark">Brunswick CR 1110 - King Ave, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1147.19 mi ( + 0.13 mi )</td>
                     <td class="content text-dark small">1846.25 km ( + 1.71 km )</td>
-                    <td class="content text-dark">Brunswick CR-629 - Rawlings Rd, Warfield, Virginia 23889</td>
+                    <td class="content text-dark">Brunswick CR 629 - Rawlings Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1148.21 mi ( + 1.02 mi )</td>
                     <td class="content text-dark small">1847.89 km ( + 1.64 km )</td>
-                    <td class="content text-dark">Brunswick CR-712 - Old Stage Rd, Warfield, Virginia 23889</td>
+                    <td class="content text-dark">Brunswick CR 712 - Old Stage Rd, Warfield, Virginia 23889</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5174,28 +5167,28 @@
                 <tr>
                     <td class="content text-dark small">1156.57 mi ( + 5.39 mi )</td>
                     <td class="content text-dark small">1861.35 km ( + 8.67 km )</td>
-                    <td class="content text-dark">Dinwiddie CR-650 - Lew Jones Rd, McKenney, Virginia 23872</td>
+                    <td class="content text-dark">Dinwiddie CR 650 - Lew Jones Rd, McKenney, Virginia 23872</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Start concurrency with Dinwiddie CR-650</td>
+                    <td class="content text-dark">Start concurrency with Dinwiddie CR 650</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1156.88 mi ( + 0.31 mi )</td>
                     <td class="content text-dark small">1861.85 km ( + 0.50 km )</td>
-                    <td class="content text-dark">Dinwiddie CR-650 - First St, McKenney, Virginia 23872</td>
+                    <td class="content text-dark">Dinwiddie CR 650 - First St, McKenney, Virginia 23872</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with Dinwiddie CR-650</td>
+                    <td class="content text-dark">End concurrency with Dinwiddie CR 650</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1157.06 mi ( + 0.18 mi )</td>
                     <td class="content text-dark small">1862.14 km ( + 0.29 km )</td>
-                    <td class="content text-dark">Dinwiddie CR-646 - Glebe Rd, McKenney, Virginia 23872</td>
+                    <td class="content text-dark">Dinwiddie CR 646 - Glebe Rd, McKenney, Virginia 23872</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1158.67 mi ( + 1.61 mi )</td>
                     <td class="content text-dark small">1864.73 km ( + 2.59 km )</td>
-                    <td class="content text-dark">Dinwiddie CR-F-855 - Blessings Ln, McKenney, Virginia 23872</td>
+                    <td class="content text-dark">Dinwiddie CR F-855 - Blessings Ln, McKenney, Virginia 23872</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5209,42 +5202,42 @@
                 <tr>
                     <td class="content text-dark small">1160.68 mi ( + 0.80 mi )</td>
                     <td class="content text-dark small">1867.96 km ( + 1.29 km )</td>
-                    <td class="content text-dark">Dinwiddie CR-647 - Nash Rd, Dinwiddie, Virginia 23841</td>
+                    <td class="content text-dark">Dinwiddie CR 647 - Nash Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1161.21 mi ( + 0.53 mi )</td>
                     <td class="content text-dark small">1868.81 km ( + 0.86 km )</td>
-                    <td class="content text-dark">Dinwiddie CR-627 - Courthouse Rd, Dinwiddie, Virginia 23841</td>
+                    <td class="content text-dark">Dinwiddie CR 627 - Courthouse Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1161.43 mi ( + 0.22 mi )</td>
                     <td class="content text-dark small">1869.17 km ( + 0.35 km )</td>
-                    <td class="content text-dark">Dinwiddie CR-703 - Carson Rd, Dinwiddie, Virginia 23841</td>
+                    <td class="content text-dark">Dinwiddie CR 703 - Carson Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1166.41 mi ( + 4.98 mi )</td>
                     <td class="content text-dark small">1877.18 km ( + 8.01 km )</td>
-                    <td class="content text-dark">Dinwiddie CR-660 - Quaker Rd, Dinwiddie, Virginia 23841</td>
+                    <td class="content text-dark">Dinwiddie CR 660 - Quaker Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1167.30 mi ( + 0.89 mi )</td>
                     <td class="content text-dark small">1878.61 km ( + 1.43 km )</td>
-                    <td class="content text-dark">Dinwiddie CR-613 - White Oak Rd, Dinwiddie, Virginia 23841</td>
+                    <td class="content text-dark">Dinwiddie CR 613 - White Oak Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1169.96 mi ( + 2.66 mi )</td>
                     <td class="content text-dark small">1882.90 km ( + 4.28 km )</td>
-                    <td class="content text-dark">Dinwiddie CR-F-082 - Plane Rd, Dinwiddie, Virginia 23841</td>
+                    <td class="content text-dark">Dinwiddie CR F-082 - Plane Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5258,7 +5251,7 @@
                 <tr>
                     <td class="content text-dark small">1170.06 mi ( + 0.06 mi )</td>
                     <td class="content text-dark small">1883.06 km ( + 0.10 km )</td>
-                    <td class="content text-dark">Dinwiddie CR-F-081 - Frontage Rd, Dinwiddie, Virginia 23841</td>
+                    <td class="content text-dark">Dinwiddie CR F-081 - Frontage Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5272,7 +5265,7 @@
                 <tr>
                     <td class="content text-dark small">1171.16 mi ( + 0.78 mi )</td>
                     <td class="content text-dark small">1884.83 km ( + 1.25 km )</td>
-                    <td class="content text-dark">Dinwiddie CR-670 - Duncan Rd, Dinwiddie, Virginia 23841</td>
+                    <td class="content text-dark">Dinwiddie CR 670 - Duncan Rd, Dinwiddie, Virginia 23841</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5356,7 +5349,7 @@
                 <tr>
                     <td class="content text-dark small">1179.41 mi ( + 0.74 mi )</td>
                     <td class="content text-dark small">1898.10 km ( + 1.19 km )</td>
-                    <td class="content text-dark">Colonial Heights CR-626 - Temple Ave. Colonial Heights, Virginia 23834</td>
+                    <td class="content text-dark">Colonial Heights CR 626 - Temple Ave. Colonial Heights, Virginia 23834</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with VA-144</td>
                 </tr>
@@ -5377,14 +5370,14 @@
                 <tr>
                     <td class="content text-dark small">1181.94 mi ( + 1.33 mi )</td>
                     <td class="content text-dark small">1902.18 km ( + 2.14 km )</td>
-                    <td class="content text-dark">Chesterfield CR-620 - Woods Edge Rd, Chester, Virginia 23831</td>
+                    <td class="content text-dark">Chesterfield CR 620 - Woods Edge Rd, Chester, Virginia 23831</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1182.48 mi ( + 0.54 mi )</td>
                     <td class="content text-dark small">1903.04 km ( + 0.88 km )</td>
-                    <td class="content text-dark">Chesterfield CR-746 - Ruffin Mill Rd, Chester, Virginia 23831</td>
+                    <td class="content text-dark">Chesterfield CR 746 - Ruffin Mill Rd, Chester, Virginia 23831</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5440,7 +5433,7 @@
                 <tr>
                     <td class="content text-dark small">1192.99 mi ( + 0.05 mi )</td>
                     <td class="content text-dark small">1919.96 km ( + 0.08 km )</td>
-                    <td class="content text-dark">Richmond CR-647 - Walmsley Blvd, Richmond, Virginia 23234</td>
+                    <td class="content text-dark">Richmond CR 647 - Walmsley Blvd, Richmond, Virginia 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -5452,7 +5445,7 @@
                 <tr>
                     <td class="content text-dark small">1195.95 mi ( + 2.13 mi )</td>
                     <td class="content text-dark small">1924.72 km ( + 3.44 km )</td>
-                    <td class="content text-dark">Richmond CR-637 - N Hopkins Rd, Richmond, Virginia 23234</td>
+                    <td class="content text-dark">Richmond CR 637 - N Hopkins Rd, Richmond, Virginia 23234</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -5598,21 +5591,21 @@
                 <tr>
                     <td class="content text-dark small">1207.57 mi ( + 0.46 mi )</td>
                     <td class="content text-dark small">1943.42 km ( + 0.74 km )</td>
-                    <td class="content text-dark">Hanover CR-656 - Sliding Hill Rd, Ashland, Virginia 23005</td>
+                    <td class="content text-dark">Hanover CR 656 - Sliding Hill Rd, Ashland, Virginia 23005</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1207.84 mi ( + 0.27 mi )</td>
                     <td class="content text-dark small">1943.86 km ( + 0.43 km )</td>
-                    <td class="content text-dark">Hanover CR-623 - Cedar Ln, Ashland, Virginia 23005</td>
+                    <td class="content text-dark">Hanover CR 623 - Cedar Ln, Ashland, Virginia 23005</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1211.71 mi ( + 3.87 mi )</td>
                     <td class="content text-dark small">1950.09 km ( + 6.22 km )</td>
-                    <td class="content text-dark">Hanover CR-657 - Ashcake Rd, Ashland, Virginia 23005</td>
+                    <td class="content text-dark">Hanover CR 657 - Ashcake Rd, Ashland, Virginia 23005</td>
                     <td class="content text-dark">S Washington Hwy, Ashland, Virginia 23005</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5633,7 +5626,7 @@
                 <tr>
                     <td class="content text-dark small">1216.92 mi ( + 2.64 mi )</td>
                     <td class="content text-dark small">1958.47 km ( + 4.24 km )</td>
-                    <td class="content text-dark">Hanover CR-738 - Old Ridge Rd, Ashland, Virginia 23005</td>
+                    <td class="content text-dark">Hanover CR 738 - Old Ridge Rd, Ashland, Virginia 23005</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5654,7 +5647,7 @@
                 <tr>
                     <td class="content text-dark small">1220.17 mi ( + 1.37 mi )</td>
                     <td class="content text-dark small">1963.70 km ( + 2.21 km )</td>
-                    <td class="content text-dark">Hanover CR-684 - Verdon Rd, Doswell, Virginia 23047</td>
+                    <td class="content text-dark">Hanover CR 684 - Verdon Rd, Doswell, Virginia 23047</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5668,28 +5661,28 @@
                 <tr>
                     <td class="content text-dark small">1224.83 mi ( + 3.01 mi )</td>
                     <td class="content text-dark small">1971.20 km ( + 4.84 km )</td>
-                    <td class="content text-dark">Caroline CR-658 - Jericho Rd (WB) / VA-207 - Rogers Clark Blvd (EB), Lake Caroline, Virginia 22546</td>
+                    <td class="content text-dark">Caroline CR 658 - Jericho Rd (WB) / VA-207 - Rogers Clark Blvd (EB), Lake Caroline, Virginia 22546</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1228.48 mi ( + 3.65 mi )</td>
                     <td class="content text-dark small">1977.07 km ( + 5.87 km )</td>
-                    <td class="content text-dark">Caroline CR-601 - Golansville Rd, Lake Caroline, Virginia 22546</td>
+                    <td class="content text-dark">Caroline CR 601 - Golansville Rd, Lake Caroline, Virginia 22546</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1231.11 mi ( + 2.63 mi )</td>
                     <td class="content text-dark small">1981.31 km ( + 4.23 km )</td>
-                    <td class="content text-dark">Caroline CR-639 - Ladysmith Rd, Lake Caroline, Virginia 22546</td>
+                    <td class="content text-dark">Caroline CR 639 - Ladysmith Rd, Lake Caroline, Virginia 22546</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1236.18 mi ( + 5.07 mi )</td>
                     <td class="content text-dark small">1989.47 km ( + 8.15 km )</td>
-                    <td class="content text-dark">Caroline CR-605 - Paige Rd, Lake Caroline, Virginia 22546</td>
+                    <td class="content text-dark">Caroline CR 605 - Paige Rd, Lake Caroline, Virginia 22546</td>
                     <td class="content text-dark">Patriot Hwy, Lake Caroline, Virginia 22546</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5703,35 +5696,35 @@
                 <tr>
                     <td class="content text-dark small">1239.31 mi ( + 2.56 mi )</td>
                     <td class="content text-dark small">1994.50 km ( + 4.12 km )</td>
-                    <td class="content text-dark">Spotsylvania CR-606 - Morris Rd (WB) / Mudd Tavern Rd (EB), Spotsylvania Courthouse, Virginia 22553</td>
+                    <td class="content text-dark">Spotsylvania CR 606 - Morris Rd (WB) / Mudd Tavern Rd (EB), Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1241.25 mi ( + 1.94 mi )</td>
                     <td class="content text-dark small">1997.63 km ( + 3.12 km )</td>
-                    <td class="content text-dark">Spotsylvania CR-632 - N Roxbury Mill Rd, Spotsylvania Courthouse, Virginia 22553</td>
+                    <td class="content text-dark">Spotsylvania CR 632 - N Roxbury Mill Rd, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Start concurrency with Spotsylvania CR-632</td>
+                    <td class="content text-dark">Start concurrency with Spotsylvania CR 632</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1241.78 mi ( + 0.53 mi )</td>
                     <td class="content text-dark small">1998.48 km ( + 0.86 km )</td>
-                    <td class="content text-dark">Spotsylvania CR-632 - Hickory Ridge Rd, Spotsylvania Courthouse, Virginia 22553</td>
+                    <td class="content text-dark">Spotsylvania CR 632 - Hickory Ridge Rd, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with Spotsylvania CR-632</td>
+                    <td class="content text-dark">End concurrency with Spotsylvania CR 632</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1243.56 mi ( + 1.78 mi )</td>
                     <td class="content text-dark small">2001.34 km ( + 2.87 km )</td>
-                    <td class="content text-dark">Spotsylvania CR-608 - Massaponax Church Rd, Spotsylvania Courthouse, Virginia 22553</td>
+                    <td class="content text-dark">Spotsylvania CR 608 - Massaponax Church Rd, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1244.94 mi ( + 1.38 mi )</td>
                     <td class="content text-dark small">2003.56 km ( + 2.22 km )</td>
-                    <td class="content text-dark">Spotsylvania CR-749 - Old Telegraph Rd, Spotsylvania Courthouse, Virginia 22553</td>
+                    <td class="content text-dark">Spotsylvania CR 749 - Old Telegraph Rd, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5759,7 +5752,7 @@
                 <tr>
                     <td class="content text-dark small">1247.56 mi ( + 0.75 mi )</td>
                     <td class="content text-dark small">2007.78 km ( + 1.20 km )</td>
-                    <td class="content text-dark">Spotsylvania CR-636 - Mine Rd (SB) / Hood Dr (NB), Spotsylvania Courthouse, Virginia 22553</td>
+                    <td class="content text-dark">Spotsylvania CR 636 - Mine Rd (SB) / Hood Dr (NB), Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5773,7 +5766,7 @@
                 <tr>
                     <td class="content text-dark small">1248.58 mi ( + 0.61 mi )</td>
                     <td class="content text-dark small">2009.42 km ( + 0.98 km )</td>
-                    <td class="content text-dark">Spotsylvania CR-620 - Harrison Rd, Spotsylvania Courthouse, Virginia 22553</td>
+                    <td class="content text-dark">Spotsylvania CR 620 - Harrison Rd, Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5794,7 +5787,7 @@
                 <tr>
                     <td class="content text-dark small">1252.22 mi ( + 1.39 mi )</td>
                     <td class="content text-dark small">2015.28 km ( + 2.24 km )</td>
-                    <td class="content text-dark">Fredericksburg CR-639 - Fall Hill Ave, Fredericksburg, 22401</td>
+                    <td class="content text-dark">Fredericksburg CR 639 - Fall Hill Ave, Fredericksburg, 22401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5815,42 +5808,42 @@
                 <tr>
                     <td class="content text-dark small">1253 mi ( + 0.33 mi )</td>
                     <td class="content text-dark small">2016.50 km ( + 0.56 km )</td>
-                    <td class="content text-dark">US-17 Business - Warrenton Rd (WB) / Stafford CR-664 - Butler Rd (EB), Falmouth, Virginia 22405</td>
+                    <td class="content text-dark">US-17 Business - Warrenton Rd (WB) / Stafford CR 664 - Butler Rd (EB), Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-17 Business</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1253.30 mi ( + 0.32 mi )</td>
                     <td class="content text-dark small">2017.02 km ( + 0.51 km )</td>
-                    <td class="content text-dark">Stafford CR-652 - Truslow Rd, Falmouth, Virginia 22405</td>
+                    <td class="content text-dark">Stafford CR 652 - Truslow Rd, Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1254.96 mi ( + 1.66 mi )</td>
                     <td class="content text-dark small">2019.69 km ( + 2.66 km )</td>
-                    <td class="content text-dark">Stafford CR-624 - Layhill Rd, Falmouth, Virginia 22405</td>
+                    <td class="content text-dark">Stafford CR 624 - Layhill Rd, Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1255.86 mi ( + 0.90 mi )</td>
                     <td class="content text-dark small">2021.14 km ( + 1.45 km )</td>
-                    <td class="content text-dark">Stafford CR-753 - Enon Rd (WB) / Stafford CR-676 - Cranes Corner Rd, Falmouth, Virginia 22405</td>
+                    <td class="content text-dark">Stafford CR 753 - Enon Rd (WB) / Stafford CR 676 - Cranes Corner Rd, Falmouth, Virginia 22405</td>
                     <td class="content text-dark">Richmond Hwy, Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1257.27 mi ( + 1.41 mi )</td>
                     <td class="content text-dark small">2023.41 km ( + 2.27 km )</td>
-                    <td class="content text-dark">Stafford CR-761 - Potomac Creek Dr, Falmouth, Virginia 22405</td>
+                    <td class="content text-dark">Stafford CR 761 - Potomac Creek Dr, Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1258.55 mi ( + 1.28 mi )</td>
                     <td class="content text-dark small">2025.47 km ( + 2.06 km )</td>
-                    <td class="content text-dark">Stafford CR-628 - American Legion Rd (WB) / Eskimo Hill Rd (EB), Falmouth, Virginia 22405</td>
+                    <td class="content text-dark">Stafford CR 628 - American Legion Rd (WB) / Eskimo Hill Rd (EB), Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5864,35 +5857,35 @@
                 <tr>
                     <td class="content text-dark small">1260.76 mi ( + 1.55 mi )</td>
                     <td class="content text-dark small">2029.02 km ( + 2.50 km )</td>
-                    <td class="content text-dark">Stafford CR-630 - Courthouse Rd, Stafford, Virginia 22554</td>
+                    <td class="content text-dark">Stafford CR 630 - Courthouse Rd, Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1261.00 mi ( + 0.24 mi )</td>
                     <td class="content text-dark small">2029.41 km ( + 0.38 km )</td>
-                    <td class="content text-dark">Stafford CR-631 - Bells Hill Rd (WB) / Stafford CR-687 - Hope Rd (EB), Stafford, Virginia 22554</td>
+                    <td class="content text-dark">Stafford CR 631 - Bells Hill Rd (WB) / Stafford CR 687 - Hope Rd (EB), Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1262.45 mi ( + 1.45 mi )</td>
                     <td class="content text-dark small">2031.74 km ( + 2.33 km )</td>
-                    <td class="content text-dark">Stafford CR-631 - Bells Hill Rd (WB) / Coal Landing Rd (EB), Stafford, Virginia 22554</td>
+                    <td class="content text-dark">Stafford CR 631 - Bells Hill Rd (WB) / Coal Landing Rd (EB), Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1263.44 mi ( + 0.99 mi )</td>
                     <td class="content text-dark small">2033.34 km ( + 1.60 km )</td>
-                    <td class="content text-dark">Stafford CR-697 - Derrick Ln, Stafford, Virginia 22554</td>
+                    <td class="content text-dark">Stafford CR 697 - Derrick Ln, Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1263.77 mi ( + 0.33 mi )</td>
                     <td class="content text-dark small">2033.87 km ( + 0.54 km )</td>
-                    <td class="content text-dark">Stafford CR-610 - Garrisonville Rd, Stafford, Virginia 22554</td>
+                    <td class="content text-dark">Stafford CR 610 - Garrisonville Rd, Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5906,28 +5899,28 @@
                 <tr>
                     <td class="content text-dark small">1264.79 mi ( + 0.84 mi )</td>
                     <td class="content text-dark small">2035.51 km ( + 1.36 km )</td>
-                    <td class="content text-dark">Stafford CR-637 - Telegraph Rd, Stafford, Virginia 22554</td>
+                    <td class="content text-dark">Stafford CR 637 - Telegraph Rd, Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1265.23 mi ( + 0.44 mi )</td>
                     <td class="content text-dark small">2036.22 km ( + 0.71 km )</td>
-                    <td class="content text-dark">Stafford CR-639 - Woodstock Ln, Stafford, Virginia 22554</td>
+                    <td class="content text-dark">Stafford CR 639 - Woodstock Ln, Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1266.17 mi ( + 0.94 mi )</td>
                     <td class="content text-dark small">2037.73 km ( + 1.52 km )</td>
-                    <td class="content text-dark">Stafford CR-638 - Little Forest Church Rd, Boswell's Corner, Virginia 22554</td>
+                    <td class="content text-dark">Stafford CR 638 - Little Forest Church Rd, Boswell's Corner, Virginia 22554</td>
                     <td class="content text-dark">Richmond Hwy, Boswell's Corner, Virginia 22554</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1267.39 mi ( + 1.22 mi )</td>
                     <td class="content text-dark small">2039.69 km ( + 1.97 km )</td>
-                    <td class="content text-dark">Stafford CR-637 - Telegraph Rd, Boswell's Corner, Virginia 22554</td>
+                    <td class="content text-dark">Stafford CR 637 - Telegraph Rd, Boswell's Corner, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5941,7 +5934,7 @@
                 <tr>
                     <td class="content text-dark small">1270.67 mi ( + 2.22 mi )</td>
                     <td class="content text-dark small">2044.97 km ( + 3.57 km )</td>
-                    <td class="content text-dark">Prince William CR-619 - Joplin Rd (WB) / Fuller Rd (EB), Quantico, Virginia 22134</td>
+                    <td class="content text-dark">Prince William CR 619 - Joplin Rd (WB) / Fuller Rd (EB), Quantico, Virginia 22134</td>
                     <td class="content text-dark">Richmond Hwy, Triangle, Virginia 22172</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5969,7 +5962,7 @@
                 <tr>
                     <td class="content text-dark small">1277.81 mi ( + 3.06 mi )</td>
                     <td class="content text-dark small">2056.46 km ( + 4.93 km )</td>
-                    <td class="content text-dark">Prince William CR-642 - Opitz Blvd, Leesylvania, Virginia 22191</td>
+                    <td class="content text-dark">Prince William CR 642 - Opitz Blvd, Leesylvania, Virginia 22191</td>
                     <td class="content text-dark">Richmond Hwy, Woodbridge, Virginia 22191</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -6004,21 +5997,21 @@
                 <tr>
                     <td class="content text-dark small">1284.01 mi ( + 2.74 mi )</td>
                     <td class="content text-dark small">2066.44 km ( + 4.41 km )</td>
-                    <td class="content text-dark">Fairfax CR-642 - Lorton Rd, Lorton, Virginia 22079</td>
+                    <td class="content text-dark">Fairfax CR 642 - Lorton Rd, Lorton, Virginia 22079</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1284.55 mi ( + 0.54 mi )</td>
                     <td class="content text-dark small">2067.31 km ( + 0.87 km )</td>
-                    <td class="content text-dark">Fairfax CR-638 - Pohick Rd, Lorton, Virginia 22079</td>
+                    <td class="content text-dark">Fairfax CR 638 - Pohick Rd, Lorton, Virginia 22079</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1284.77 mi ( + 0.22 mi )</td>
                     <td class="content text-dark small">2067.66 km ( + 0.36 km )</td>
-                    <td class="content text-dark">Fairfax CR-611 - Telegraph Rd, Lorton, Virginia 22079</td>
+                    <td class="content text-dark">Fairfax CR 611 - Telegraph Rd, Lorton, Virginia 22079</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -6067,7 +6060,7 @@
                 <tr>
                     <td class="content text-dark small">1291.25 mi ( + 0.21 mi )</td>
                     <td class="content text-dark small">2078.09 km ( + 0.35 km )</td>
-                    <td class="content text-dark">Halifax CR-626 - Sherwood Hall Ln, Hybla Valley, Virginia 22309</td>
+                    <td class="content text-dark">Halifax CR 626 - Sherwood Hall Ln, Hybla Valley, Virginia 22309</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -6081,7 +6074,7 @@
                 <tr>
                     <td class="content text-dark small">1294.06 mi ( + 1.58 mi )</td>
                     <td class="content text-dark small">2082.61 km ( + 2.55 km )</td>
-                    <td class="content text-dark">Halifax CR-633 - S Kings Hwy, Groveton, Virginia 22306</td>
+                    <td class="content text-dark">Halifax CR 633 - S Kings Hwy, Groveton, Virginia 22306</td>
                     <td class="content text-dark">Richmond Hwy, Huntington, Virginia 22303</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -6095,7 +6088,7 @@
                 <tr>
                     <td class="content text-dark small">1295.25 mi ( + 1.07 mi )</td>
                     <td class="content text-dark small">2084.53 km ( + 1.73 km )</td>
-                    <td class="content text-dark">Halifax CR-629 - Fort Hunt Rd, Huntington, Virginia 22303</td>
+                    <td class="content text-dark">Halifax CR 629 - Fort Hunt Rd, Huntington, Virginia 22303</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

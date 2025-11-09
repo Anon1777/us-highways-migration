@@ -2,7 +2,7 @@
         
             <h6 class="dir"><a href="../../../index-redirect.php">Home</a> > <a href="../list.php">County Roads in New Jersey</a> > County Roads in Camden County, New Jersey</h6>
             <h1 class="header">List of County Roads in Camden County, New Jersey</h1>
-            <h3 class="content text-dark"><a href="600.php">Camden CR-600 <i class="text-body-tertiary">Old Marlton Pk</i></a></h3>
+            <h3 class="content text-dark"><a href="600.php">Camden CR 600 <i class="text-body-tertiary">Old Marlton Pk</i></a></h3>
             <h3 class="content text-dark"><a href="601.php">Camden CR 601 <i class="text-body-tertiary">State St, Marlton Pk</i></a></h3>
             <h3 class="content text-dark"><a href="603.php">Camden CR 603 <i class="text-body-tertiary">Ferry Ave, Dwight Ave</i></a></h3>
             <h3 class="content text-dark"><a href="604.php">Camden CR 604 <i class="text-body-tertiary">Newton Ave</i></a></h3>
