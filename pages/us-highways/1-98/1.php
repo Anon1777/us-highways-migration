@@ -671,16 +671,16 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">210.94 mi ( + 0.99 mi )</td>
+                    <td class="content text-dark small">210.95 mi ( + 0.99 mi )</td>
                     <td class="content text-dark small">339.05 km ( + 1.60 km )</td>
                     <td class="content text-dark">FL-804, E Boynton Beach Blvd, Boynton Beach, Florida 33426</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">212.64 mi ( + 1.70 mi )</td>
+                    <td class="content text-dark small">212.65 mi ( + 1.70 mi )</td>
                     <td class="content text-dark small">341.89 km ( + 2.84 km )</td>
-                    <td class="content text-dark">FL-804, E Boynton Beach Blvd, Boynton Beach, Florida 33426</td>
+                    <td class="content text-dark"></td>
                     <td class="content text-dark">S Federal Hwy, Hypoluxo, Florida 33462</td>
                     <td class="content text-dark"></td>
                 </tr>
