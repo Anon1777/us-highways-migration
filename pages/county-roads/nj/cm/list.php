@@ -21,7 +21,7 @@
             <h3 class="content text-dark"><a href="617.php">Cape May CR 617 <i class="text-body-tertiary">Woodbine Rd</i></a></h3>
             <h3 class="content text-dark"><a href="618.php">Cape May CR 618 <i class="text-body-tertiary">Indian Trail Rd</i></a></h3>
             <h3 class="content text-dark"><a href="619.php">Cape May CR 619 <i class="text-body-tertiary">Ocean Dr, Third Ave, Landis Ave, Commonwealth Ave, Bay Ave, Fifty-Fifth St, West Ave</i></a></h3>
-            <h3 class="content text-dark"><a href="619s.php">Cape May CR 619 Spur <i class="text-body-tertiary">Fifty-Fifth St</i></a></h3>
+            <h3 class="content text-dark"><a href="619.php/#njcmcr619spur">Cape May CR 619 Spur <i class="text-body-tertiary">Fifty-Fifth St</i></a></h3>
             <h3 class="content text-dark"><a href="620.php">Cape May CR 620 <i class="text-body-tertiary">Shunpike St</i></a></h3>
             <h3 class="content text-dark"><a href="621.php">Cape May CR 621 <i class="text-body-tertiary">Ocean Dr, Pacific Ave, Rambler Rd, New Jersey Ave</i></a></h3>
             <h3 class="content text-dark"><a href="622.php">Cape May CR 622 <i class="text-body-tertiary">Pittsburgh Ave, Texas Ave</i></a></h3>

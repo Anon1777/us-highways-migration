@@ -74,8 +74,8 @@
             <h3 class="content text-dark"><a href="671.php">Gloucester CR 671 <i class="text-body-tertiary">Locke Ave, Oak Grove Rd</i></a></h3>
             <h3 class="content text-dark"><a href="672.php">Gloucester CR 672 <i class="text-body-tertiary">Pancoast Rd</i></a></h3>
             <h3 class="content text-dark"><a href="673.php">Gloucester CR 673 <i class="text-body-tertiary">Cedar Rd, Democrat Rd</i></a></h3>
-            <h3 class="content text-dark"><a href="676a.php">Gloucester CR 676-1 <i class="text-body-tertiary">Mantua Blvd</i></a></h3>
-            <h3 class="content text-dark"><a href="676b.php">Gloucester CR 676-2 <i class="text-body-tertiary">Church Rd</i></a></h3>
+            <h3 class="content text-secondary"><a href="676.php/#njglcr6761">Gloucester CR 676-1 <i class="text-body-tertiary">Mantua Blvd</i></a></h3>
+            <h3 class="content text-secondary"><a href="676.php/#njglcr6762">Gloucester CR 676-2 <i class="text-body-tertiary">Church Rd</i></a></h3>
             <h3 class="content text-dark"><a href="678.php">Gloucester CR 678 <i class="text-body-tertiary">Berkley Rd, Mantua Paulsboro Rd, Harrison Ave, Mount Royal Rd</i></a></h3>
             <h3 class="content text-dark"><a href="680.php">Gloucester CR 680 <i class="text-body-tertiary">Harmony Rd</i></a></h3>
             <h3 class="content text-dark"><a href="681.php">Gloucester CR 681 <i class="text-body-tertiary">Good Intent Rd</i></a></h3>

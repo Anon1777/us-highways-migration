@@ -55,3 +55,4 @@
                     <td class="content text-dark">Coastal Hwy, Fenwick Island, Delaware 19944</td>
                     <td class="content text-dark">End of Route</td>
                 </tr>
+                <?php include "../../../static/bottom.php"; ?>
