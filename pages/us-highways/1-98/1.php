@@ -743,7 +743,7 @@
                 <tr>
                     <td class="content text-dark small">223.21 mi ( + 1.09 mi )</td>
                     <td class="content text-dark small">358.90 km ( + 1.75 km )</td>
-                    <td class="content text-dark"><a href="../../state-highways/fl/704.php">FL-704 - Lakeview Ave (WB) / Okeechobee Blvd (EB)</a> & <a href="../../state-highways/fl/5.php">FL-5 - S Dixie Hwy (SB)</a>, West Palm Beach, Florida 33401</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/704.php">FL-704 - Lakeview Ave (WB) / Okeechobee Blvd (EB)</a> / <a href="../../state-highways/fl/5.php">FL-5 - S Dixie Hwy (SB)</a>, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark">Lakeview Ave, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark">End concurrency with FL-5, Start concurrency with FL-704</td>
                 </tr>
@@ -764,7 +764,7 @@
                 <tr>
                     <td class="content text-dark small">224.38 mi ( + 0.42 mi )</td>
                     <td class="content text-dark small">360.79 km ( + 0.68 km )</td>
-                    <td class="content text-dark"><a href="../../state-highways/fl/5.php">FL-5 - N Dixie Hwy</a> & <a href="../../state-highways/fl/a1a.php">FL-A1A - N Quadrille Blvd</a>, West Palm Peach, Florida 33401</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/5.php">FL-5 - N Dixie Hwy</a> / <a href="../../state-highways/fl/a1a.php">FL-A1A - N Quadrille Blvd</a>, West Palm Peach, Florida 33401</td>
                     <td class="content text-dark">N Dixie Hwy, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark">Start concurrency with FL-A1A</td>
                 </tr>
@@ -811,191 +811,191 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">230.76 mi ( + 0.23 mi )</td>
+                    <td class="content text-dark small">230.75 mi ( + 0.23 mi )</td>
                     <td class="content text-dark small">371.01 km ( + 0.37 km )</td>
-                    <td class="content text-dark">FL-850 & FL-A1A - Northlake Blvd, North Palm Beach, Florida 33408</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/850.php">FL-850 - Northlake Blvd</a> (concurrent with <a href="../../state-highways/fl/a1a.php">FL-A1A</a>), North Palm Beach, Florida 33408</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with FL-A1A</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">233.18 mi ( + 2.42 mi )</td>
+                    <td class="content text-dark small">233.17 mi ( + 2.42 mi )</td>
                     <td class="content text-dark small">374.91 km ( + 3.90 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Palm Beach Gardens, Florida 33418</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">233.36 mi ( + 0.18 mi )</td>
+                    <td class="content text-dark small">233.35 mi ( + 0.18 mi )</td>
                     <td class="content text-dark small">375.20 km ( + 0.29 km )</td>
-                    <td class="content text-dark">FL-786 & FL-A1A - PGA Blvd, Palm Beach Gardens, Florida 33418</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/786.php">FL-786 - PGA Blvd</a> (concurrent with <a href="../../state-highways/fl/a1a.php">FL-A1A</a>), Palm Beach Gardens, Florida 33418</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with FL-A1A</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">233.85 mi ( + 0.49 mi )</td>
+                    <td class="content text-dark small">233.84 mi ( + 0.49 mi )</td>
                     <td class="content text-dark small">375.99 km ( + 0.79 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Juno Beach, Florida 33408</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">234.57 mi ( + 0.72 mi )</td>
-                    <td class="content text-dark small">376.78 km ( + 0.79 km )</td>
-                    <td class="content text-dark">FL-A1A - Ocean Dr, Juno Beach, Florida 33408</td>
+                    <td class="content text-dark small">234.56 mi ( + 0.72 mi )</td>
+                    <td class="content text-dark small">377.15 km ( + 1.16 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/a1a.php">FL-A1A - Ocean Dr</a>, Juno Beach, Florida 33408</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with FL-A1A</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">236.84 mi ( + 2.27 mi )</td>
-                    <td class="content text-dark small">380.44 km ( + 3.66 km )</td>
+                    <td class="content text-dark small">236.83 mi ( + 2.27 mi )</td>
+                    <td class="content text-dark small">380.81 km ( + 3.66 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Jupiter, Florida 33458</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">240 mi ( + 3.12 mi )</td>
-                    <td class="content text-dark small">385.49 km ( + 5.05 km )</td>
-                    <td class="content text-dark">Palm Beach CR 706 - E Indiantown Rd, Jupiter, Florida 33458</td>
+                    <td class="content text-dark small">239.95 mi ( + 3.12 mi )</td>
+                    <td class="content text-dark small">385.86 km ( + 5.05 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/pb/706.php">Palm Beach CR 706 - E Indiantown Rd</a>, Jupiter, Florida 33458</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">240.74 mi ( + 0.76 mi )</td>
-                    <td class="content text-dark small">386.71 km ( + 1.22 km )</td>
-                    <td class="content text-dark">FL-A1A - FL-A1A, Jupiter, Florida 33458</td>
+                    <td class="content text-dark small">240.71 mi ( + 0.76 mi )</td>
+                    <td class="content text-dark small">387.08 km ( + 1.22 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/a1a.php">FL-A1A</a>, Jupiter, Florida 33458</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with FL-A1A</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">241.30 mi ( + 0.56 mi )</td>
-                    <td class="content text-dark small">387.61 km ( + 0.90 km )</td>
-                    <td class="content text-dark">FL-811 & FL-A1A - Old Dixie Hwy & Palm County CR 707 - S Beach Rd, Jupiter, Florida 33458</td>
+                    <td class="content text-dark small">241.27 mi ( + 0.56 mi )</td>
+                    <td class="content text-dark small">387.98 km ( + 0.90 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/811.php">FL-811 - Old Dixie Hwy</a> (concurrent with <a href="../../state-highways/fl/a1a.php">FL-A1A</a>) / <a href="../../county-roads/fl/pb/707.php">Palm Beach CR 707 - S Beach Rd</a>, Jupiter, Florida 33458</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">241.55 mi ( + 0.25 mi )</td>
-                    <td class="content text-dark small">388.01 km ( + 0.40 km )</td>
+                    <td class="content text-dark small">241.52 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">388.38 km ( + 0.40 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Tequesta, Florida 33469</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">242.59 mi ( + 1.04 mi )</td>
-                    <td class="content text-dark small">389.68 km ( + 1.67 km )</td>
+                    <td class="content text-dark small">242.56 mi ( + 1.04 mi )</td>
+                    <td class="content text-dark small">390.05 km ( + 1.67 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">SE Federal Hwy, Martin, Florida 33469</td>
-                    <td class="content text-dark">End Palm Beach County, Start Martin County</td>
+                    <td class="content text-dark">End Palm Beach County, Start Martin County // End concurrency with FL-A1A, Start concurrency with Martin CR A1A</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">247.95 mi ( + 5.36 mi )</td>
-                    <td class="content text-dark small">398.30 km ( + 8.62 km )</td>
+                    <td class="content text-dark small">247.92 mi ( + 5.36 mi )</td>
+                    <td class="content text-dark small">398.67 km ( + 8.62 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">SE Federal Hwy, Hobe Sound, Florida 33455</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">248.23 mi ( + 0.28 mi )</td>
-                    <td class="content text-dark small">398.76 km ( + 0.46 km )</td>
-                    <td class="content text-dark">Martin CR A1A - SE Dixie Hwy, Hobe Sound, Florida 33455</td>
+                    <td class="content text-dark small">248.20 mi ( + 0.28 mi )</td>
+                    <td class="content text-dark small">399.13 km ( + 0.46 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/ma/a1a.php">Martin CR A1A - SE Dixie Hwy</a>, Hobe Sound, Florida 33455</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with FL-A1A</td>
+                    <td class="content text-dark">End concurrency with Martin CR A1A</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">255.51 mi ( + 7.28 mi )</td>
-                    <td class="content text-dark small">410.47 km ( + 11.71 km )</td>
+                    <td class="content text-dark small">255.48 mi ( + 7.28 mi )</td>
+                    <td class="content text-dark small">410.84 km ( + 11.71 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">SE Federal Hwy, Port Salerno, Florida 34997</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">258.09 mi ( + 2.58 mi )</td>
-                    <td class="content text-dark small">414.62 km ( + 4.15 km )</td>
+                    <td class="content text-dark small">258.06 mi ( + 2.58 mi )</td>
+                    <td class="content text-dark small">414.97 km ( + 4.15 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">SE Federal Hwy, Stuart, Florida 34994</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">260.14 mi ( + 2.05 mi )</td>
-                    <td class="content text-dark small">417.92 km ( + 3.30 km )</td>
-                    <td class="content text-dark">Martin CR 714 - SE Monterey Rd, Stuart, Florida 34994</td>
+                    <td class="content text-dark small">260.11 mi ( + 2.05 mi )</td>
+                    <td class="content text-dark small">418.27 km ( + 3.30 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/ma/714.php">Martin CR 714 - SE Monterey Rd</a>, Stuart, Florida 34994</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">261.51 mi ( + 1.37 mi )</td>
-                    <td class="content text-dark small">420.13 km ( + 2.21 km )</td>
-                    <td class="content text-dark">FL-76 - S Colorado Ave, Stuart, Florida 34994</td>
+                    <td class="content text-dark small">261.48 mi ( + 1.37 mi )</td>
+                    <td class="content text-dark small">420.48 km ( + 2.21 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/76.php">FL-76 - S Colorado Ave</a>, Stuart, Florida 34994</td>
                     <td class="content text-dark">SW Federal Hwy, Stuart, Florida 34994</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">262.42 mi ( + 0.91 mi )</td>
-                    <td class="content text-dark small">421.60 km ( + 1.47 km )</td>
+                    <td class="content text-dark small">262.39 mi ( + 0.91 mi )</td>
+                    <td class="content text-dark small">421.95 km ( + 1.47 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">NW Federal Hwy, Stuart, Florida 34994</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">265.55 mi ( + 3.13 mi )</td>
-                    <td class="content text-dark small">426.63 km ( + 5.03 km )</td>
+                    <td class="content text-dark small">265.52 mi ( + 3.13 mi )</td>
+                    <td class="content text-dark small">426.98 km ( + 5.03 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">NW Federal Hwy, Jensen Beach, Florida 34957</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">267.01 mi ( + 1.46 mi )</td>
-                    <td class="content text-dark small">428.98 km ( + 2.35 km )</td>
+                    <td class="content text-dark small">266.98 mi ( + 1.46 mi )</td>
+                    <td class="content text-dark small">429.33 km ( + 2.35 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">NW Federal Hwy, Port St. Lucie, Florida 34952</td>
                     <td class="content text-dark">End Martin County, Start St. Lucie County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">267.60 mi ( + 0.59 mi )</td>
-                    <td class="content text-dark small">429.93 km ( + 0.95 km )</td>
-                    <td class="content text-dark">FL-716 - SE Port St. Lucie Blvd, Port St. Lucie, Florida 34952</td>
+                    <td class="content text-dark small">267.57 mi ( + 0.59 mi )</td>
+                    <td class="content text-dark small">429.28 km ( + 0.95 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/716.php">FL-716 - SE Port St. Lucie Blvd</a>, Port St. Lucie, Florida 34952</td>
                     <td class="content text-dark">S Federal Hwy, Port St. Lucie, Florida 34952</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">270.69 mi ( + 3.09 mi )</td>
-                    <td class="content text-dark small">434.90 km ( + 4.97 km )</td>
+                    <td class="content text-dark small">270.66 mi ( + 3.09 mi )</td>
+                    <td class="content text-dark small">434.25 km ( + 4.97 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Federal Hwy, River Park, Florida 34983</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">272.76 mi ( + 2.07 mi )</td>
-                    <td class="content text-dark small">438.23 km ( + 3.33 km )</td>
+                    <td class="content text-dark small">272.73 mi ( + 2.07 mi )</td>
+                    <td class="content text-dark small">437.58 km ( + 3.33 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S US-1, River Park, Florida 34983</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">273.75 mi ( + 0.99 mi )</td>
-                    <td class="content text-dark small">439.83 km ( + 1.60 km )</td>
+                    <td class="content text-dark small">273.72 mi ( + 0.99 mi )</td>
+                    <td class="content text-dark small">439.18 km ( + 1.60 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S US-1, White City, Florida 34981</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">275.26 mi ( + 1.51 mi )</td>
-                    <td class="content text-dark small">442.26 km ( + 2.43 km )</td>
+                    <td class="content text-dark small">275.23 mi ( + 1.51 mi )</td>
+                    <td class="content text-dark small">441.61 km ( + 2.43 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S US-1, Fort Pierce, Florida 34950</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">277.75 mi ( + 2.49 mi )</td>
-                    <td class="content text-dark small">446.26 km ( + 4.00 km )</td>
-                    <td class="content text-dark">St. Lucie CR 611 - Edwards Rd, Fort Pierce, 34950</td>
+                    <td class="content text-dark small">277.72 mi ( + 2.49 mi )</td>
+                    <td class="content text-dark small">445.61 km ( + 4.00 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/sl/611.php">St. Lucie CR 611 - Edwards Rd</a>, Fort Pierce, 34950</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">278.79 mi ( + 1.04 mi )</td>
-                    <td class="content text-dark small">447.94 km ( + 1.68 km )</td>
-                    <td class="content text-dark">FL-70 - Virginia Ave, Fort Pierce, 34950</td>
+                    <td class="content text-dark small">278.76 mi ( + 1.04 mi )</td>
+                    <td class="content text-dark small">447.29 km ( + 1.68 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/70.php">FL-70 - Virginia Ave</a>, Fort Pierce, 34950</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
