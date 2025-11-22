@@ -632,7 +632,7 @@
                     <td class="content text-dark small">205.05 mi ( + 1.62 mi )</td>
                     <td class="content text-dark small">329.55 km ( + 2.61 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">SE 6th Ave (US-1 NB) / SE 5th Ave (US-1 SB), Delray Beach, Florida 33444</td>
+                    <td class="content text-dark">SE 5th Ave (SB) / SE 6th Ave (NB), Delray Beach, Florida 33444</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -673,7 +673,7 @@
                 <tr>
                     <td class="content text-dark small">210.95 mi ( + 0.99 mi )</td>
                     <td class="content text-dark small">339.05 km ( + 1.60 km )</td>
-                    <td class="content text-dark">FL-804, E Boynton Beach Blvd, Boynton Beach, Florida 33426</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/804.php">FL-804 - E Boynton Beach Blvd</a>, Boynton Beach, Florida 33426</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -706,105 +706,105 @@
                     <td class="content text-dark">End concurrency with FL-5 // Start concurrency with FL-805</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">217.01 mi ( + 1.72 mi )</td>
+                    <td class="content text-dark small">217.02 mi ( + 1.72 mi )</td>
                     <td class="content text-dark small">348.92 km ( + 2.77 km )</td>
-                    <td class="content text-dark">FL-802 - Lake Ave (FL-802 EB) / Lucerne Ave (FL-802 WB), Lake Worth Beach, Florida 33462</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/802.php">FL-802 - Lucerne Ave (EB) / Lake Ave (WB)</a>, Lake Worth Beach, Florida 33462</td>
                     <td class="content text-dark">N Dixie Hwy, Lake Worth Beach, Florida 33460</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">219 mi ( + 1.95 mi )</td>
+                    <td class="content text-dark small">218.97 mi ( + 1.95 mi )</td>
                     <td class="content text-dark small">352.09 km ( + 3.17 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Dixie Hwy, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">219.69 mi ( + 0.71 mi )</td>
+                    <td class="content text-dark small">219.68 mi ( + 0.71 mi )</td>
                     <td class="content text-dark small">353.23 km ( + 1.14 km )</td>
-                    <td class="content text-dark">FL-882 - Forest Hill Blvd, West Palm Beach, Florida 33401</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/882.php">FL-882 - Forest Hill Blvd</a>, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">221.12 mi ( + 1.43 mi )</td>
+                    <td class="content text-dark small">221.11 mi ( + 1.43 mi )</td>
                     <td class="content text-dark small">355.52 km ( + 2.29 km )</td>
-                    <td class="content text-dark">US-98 & FL-80 - Southern Blvd, West Palm Beach, Florida 33401</td>
+                    <td class="content text-dark"><a href="98.php">US-98 - Southern Blvd</a> (concurrent with <a href="../../state-highways/fl/80.php">FL-80</a>), West Palm Beach, Florida 33401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">222.13 mi ( + 1.01 mi )</td>
+                    <td class="content text-dark small">222.12 mi ( + 1.01 mi )</td>
                     <td class="content text-dark small">357.15 km ( + 1.63 km )</td>
-                    <td class="content text-dark">FL-5 - Belvedere Rd, West Palm Beach, Florida 33401</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/5.php">FL-5 - Belvedere Rd</a>, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with FL-805, Start concurrency with FL-5</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">223.22 mi ( + 1.09 mi )</td>
+                    <td class="content text-dark small">223.21 mi ( + 1.09 mi )</td>
                     <td class="content text-dark small">358.90 km ( + 1.75 km )</td>
-                    <td class="content text-dark">FL-704 - Okeechobee Blvd (FL-704 EB) / Lakeview Ave (FL-704 WB) & FL-5 - S Dixie Hwy (SB), West Palm Beach, Florida 33401</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/704.php">FL-704 - Lakeview Ave (WB) / Okeechobee Blvd (EB)</a> & <a href="../../state-highways/fl/5.php">FL-5 - S Dixie Hwy (SB)</a>, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark">Lakeview Ave, West Palm Beach, Florida 33401</td>
-                    <td class="content text-dark">Start concurrency with FL-704</td>
+                    <td class="content text-dark">End concurrency with FL-5, Start concurrency with FL-704</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">223.30 mi ( + 0.08 mi )</td>
+                    <td class="content text-dark small">223.29 mi ( + 0.08 mi )</td>
                     <td class="content text-dark small">359.03 km ( + 0.13 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Quadrille Blvd, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark">End concurrency with FL-704</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">223.97 mi ( + 0.67 mi )</td>
+                    <td class="content text-dark small">223.96 mi ( + 0.67 mi )</td>
                     <td class="content text-dark small">360.11 km ( + 1.08 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Quadrille Blvd, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">224.39 mi ( + 0.42 mi )</td>
+                    <td class="content text-dark small">224.38 mi ( + 0.42 mi )</td>
                     <td class="content text-dark small">360.79 km ( + 0.68 km )</td>
-                    <td class="content text-dark">FL-5 - N Dixie Hwy & FL-A1A - N Quadrille Blvd, West Palm Peach, Florida 33401</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/5.php">FL-5 - N Dixie Hwy</a> & <a href="../../state-highways/fl/a1a.php">FL-A1A - N Quadrille Blvd</a>, West Palm Peach, Florida 33401</td>
                     <td class="content text-dark">N Dixie Hwy, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark">Start concurrency with FL-A1A</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">225.62 mi ( + 1.23 mi )</td>
+                    <td class="content text-dark small">225.61 mi ( + 1.23 mi )</td>
                     <td class="content text-dark small">362.77 km ( + 1.98 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">25th St, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">225.87 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">225.86 mi ( + 0.25 mi )</td>
                     <td class="content text-dark small">363.14 km ( + 0.37 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Broadway, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">227.74 mi ( + 1.87 mi )</td>
+                    <td class="content text-dark small">227.73 mi ( + 1.87 mi )</td>
                     <td class="content text-dark small">366.15 km ( + 3.01 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Broadway, Riviera Beach, Florida 33404</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">229.11 mi ( + 1.37 mi )</td>
+                    <td class="content text-dark small">229.10 mi ( + 1.37 mi )</td>
                     <td class="content text-dark small">368.36 km ( + 2.21 km )</td>
-                    <td class="content text-dark">FL-708, FL-710, & FL-A1A - Blue Heron Blvd, Riviera Beach, Florida 33404</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/708.php">FL-708 - Blue Heron Blvd</a> (concurrent with <a href="../../state-highways/fl/710.php">FL-710</a> and <a href="../../state-highways/fl/a1a.php">FL-A1A</a>), Riviera Beach, Florida 33404</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">229.74 mi ( + 0.63 mi )</td>
+                    <td class="content text-dark small">229.73 mi ( + 0.63 mi )</td>
                     <td class="content text-dark small">369.37 km ( + 1.01 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Federal Hwy, Lake Park, Florida 33403</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">230.53 mi ( + 0.79 mi )</td>
+                    <td class="content text-dark small">230.52 mi ( + 0.79 mi )</td>
                     <td class="content text-dark small">370.64 km ( + 1.27 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, North Palm Beach, Florida 33408</td>
