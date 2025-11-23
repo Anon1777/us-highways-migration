@@ -5,6 +5,8 @@ Lines of code (finished pages): 5342
 Static Pages:
 
 * index-redirect.php
+* index.html
+* generate_html.php
 
 Lists:
 
