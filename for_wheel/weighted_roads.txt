@@ -1,0 +1,523 @@
+1,Atlantic 601
+1,Atlantic 602
+1,Atlantic 603
+1,Atlantic 604
+1,Atlantic 605
+1,Atlantic 606
+1,Atlantic 608
+1,Atlantic 610
+1,Atlantic 615
+1,Atlantic 618
+2,Atlantic 621
+1,Atlantic 630
+1,Atlantic 634
+1,Atlantic 644
+1,Atlantic 646
+1,Atlantic 657
+1,Atlantic 662
+1,Atlantic 663
+1,Atlantic 687
+2,Bergen 21
+1,Bergen 62
+1,Bergen 75
+1,Bergen CR 62
+1,Bergen CR 75
+1,Blair 4015
+1,Blair CR 4015
+1,Broome 53
+1,Broome CR 53
+1,Burlington 616
+2,Burlington 621
+1,Burlington 622
+1,Burlington 642
+1,Burlington 648
+1,Burlington 660
+1,Burlington 662
+1,Burlington 667
+1,Burlington 670
+1,Burlington 678
+1,Burlington 679
+1,Burlington 681
+1,Burlington 690
+2,CT-343
+2,CT-4
+2,Camden 621
+1,Camden 756
+1,Camden CR 756
+1,Cape May 601
+1,Cape May 602
+1,Cape May 603
+1,Cape May 609
+1,Cape May 612
+1,Cape May 613
+1,Cape May 615
+2,Cape May 621
+1,Cape May 623
+1,Cape May 625
+1,Cape May 628
+1,Cape May 631
+1,Cape May 634
+1,Cape May 637
+1,Cape May 644
+1,Cape May 646
+1,Cape May 647
+1,Cape May 652
+1,Cape May 657
+1,Cape May 658
+1,Cape May 662
+1,Cape May 667
+1,Centre 793
+1,Centre CR 793
+2,Cumberland 621
+2,DE-1
+2,DE-2
+1,DE-20
+5,DE-273
+4,DE-279
+1,DE-30
+4,DE-4
+1,DE-404
+1,DE-5
+4,DE-72
+5,DE-896
+1,Dauphin 3032
+1,Dauphin CR 3032
+1,Essex 603
+1,Essex 605
+1,Essex 618
+1,Essex 620
+1,Essex 630
+1,Essex 636
+1,Essex 638
+1,Essex 642
+1,Essex 655
+1,Essex CR 603
+1,Essex CR 605
+1,Essex CR 620
+1,Essex CR 630
+1,Essex CR 638
+1,FL-5
+1,FL-821
+1,FL-9336
+1,FL-973
+1,FL-989
+1,FL-990
+1,FL-994
+1,FL-998
+1,FL-a1a
+4,Gloucester 603
+3,Gloucester 621
+4,Gloucester 663
+1,Gloucester 676
+1,Gloucester CR 603
+1,Gloucester CR 621
+1,Gloucester CR 663
+1,Gloucester CR 676
+1,Hudson 612
+2,Hudson 621
+1,Hudson 670
+1,Hudson 673
+1,Hudson 677
+1,Hudson 679
+1,Hudson 681
+1,Hudson 700
+1,Hudson 701
+1,Hudson 702
+1,Hudson 732
+1,Hudson 735
+1,Hudson CR 670
+1,Hudson CR 673
+1,Hudson CR 677
+1,Hudson CR 679
+1,Hudson CR 681
+1,Hudson CR 732
+2,Hunterdon 619
+2,Hunterdon 621
+2,Hunterdon 627
+1,Hunterdon 651
+4,I-180
+2,I-195
+2,I-280
+4,I-287
+2,I-290
+5,I-295
+2,I-376
+2,I-476
+2,I-490
+2,I-495
+6,I-676
+2,I-690
+5,I-76
+4,I-78
+2,I-787
+3,I-80
+3,I-81
+2,I-83
+2,I-84
+2,I-86
+2,I-87
+2,I-89
+2,I-895
+3,I-90
+2,I-91
+2,I-93
+3,I-95
+3,I-99
+1,Lehigh 2044
+1,Lehigh CR 2044
+1,Livingston 26
+1,Luzerne 1049
+1,Luzerne 18
+1,Luzerne 3034
+1,Luzerne 38
+1,Luzerne CR 1049
+1,Luzerne CR 18
+1,Luzerne CR 3034
+1,Luzerne CR 38
+2,MA-12
+2,MD-193
+2,MD-212
+2,MD-279
+1,Mercer 3012
+1,Mercer 604
+1,Mercer 613
+1,Mercer 616
+1,Mercer 618
+2,Mercer 621
+1,Mercer 622
+1,Mercer 626
+1,Mercer 630
+2,Mercer 636
+1,Mercer 637
+1,Mercer 643
+1,Mercer 645
+1,Mercer 648
+1,Mercer 649
+1,Mercer 650
+1,Mercer 653
+1,Mercer CR 3012
+1,Mercer CR 616
+1,Mercer CR 618
+1,Mercer CR 636
+1,Mercer CR 649
+1,Miami-dade 992
+1,Middlesex 606
+1,Middlesex 609
+1,Middlesex 611
+1,Middlesex 613
+1,Middlesex 616
+1,Middlesex 617
+2,Middlesex 621
+2,Middlesex 622
+1,Middlesex 653
+1,Middlesex 655
+1,Middlesex 656
+1,Middlesex 700
+1,Middlesex 701
+1,Middlesex CR 617
+1,Middlesex CR 622
+2,Monmouth 1
+1,Monmouth 10
+1,Monmouth 11
+1,Monmouth 12
+1,Monmouth 13
+1,Monmouth 15
+1,Monmouth 16
+1,Monmouth 17
+2,Monmouth 18
+1,Monmouth 20
+2,Monmouth 21
+1,Monmouth 25
+1,Monmouth 27
+1,Monmouth 28
+1,Monmouth 29
+2,Monmouth 3
+2,Monmouth 30
+1,Monmouth 32
+1,Monmouth 33
+1,Monmouth 34
+1,Monmouth 36
+2,Monmouth 40a
+1,Monmouth 45
+1,Monmouth 47
+1,Monmouth 48
+1,Monmouth 49
+1,Monmouth 5
+2,Monmouth 50
+1,Monmouth 51
+1,Monmouth 52
+2,Monmouth 54
+1,Monmouth 56
+2,Monmouth 57
+1,Monmouth 7
+1,Monmouth 8
+1,Monmouth CR 18
+1,Monmouth CR 50
+1,Monmouth CR 54
+1,Monmouth CR 57
+1,Monroe 266
+1,Monroe 63
+1,Monroe 65
+1,Monroe 67
+1,Monroe 75
+1,Monroe 77
+1,Monroe 79
+2,Monroe 81
+1,Monroe 82
+1,Monroe 83
+1,Monroe 85
+1,Monroe 86
+1,Monroe 905
+1,Monroe 939
+1,Monroe 940
+1,Monroe 941
+1,Monroe CR 266
+1,Monroe CR 81
+1,Monroe CR 85
+1,Monroe srd
+1,Montgomery 2017
+1,Montgomery CR 2017
+1,Morris 601
+1,Morris 612
+1,Morris 613
+1,Morris 617
+2,Morris 621
+1,Morris 625
+1,Morris 631
+1,Morris 670
+1,Morris CR 601
+1,Morris CR 617
+1,Morris CR 631
+1,Morris CR 670
+2,NH-10
+2,NH-101
+2,NH-12
+2,NH-123
+2,NH-28
+2,NH-31
+2,NH-9
+2,NJ-10
+2,NJ-12
+2,NJ-122
+2,NJ-124
+2,NJ-138
+2,NJ-15
+2,NJ-17
+2,NJ-182
+2,NJ-21
+4,NJ-3
+5,NJ-31
+2,NJ-32
+5,NJ-33
+2,NJ-34
+4,NJ-35
+4,NJ-36
+2,NJ-37
+1,NJ-38
+2,NJ-4
+2,NJ-42
+2,NJ-439
+5,NJ-444
+2,NJ-445
+2,NJ-446
+4,NJ-47
+2,NJ-495
+4,NJ-55
+2,NJ-57
+2,NJ-70
+4,NJ-700
+2,NJ-71
+2,NJ-79
+2,NJ-82
+1,NJ-94
+2,NY-15A
+2,NY-17
+2,NY-201
+2,NY-22
+2,NY-242
+1,NY-251
+4,NY-252
+1,NY-253
+2,NY-259
+2,NY-26
+2,NY-263
+2,NY-298
+2,NY-32
+2,NY-33A
+2,NY-343
+2,NY-417
+2,NY-434
+2,NY-52
+2,NY-55
+2,NY-7
+2,NY-79
+2,NY-82
+2,NY-96B
+2,NY-9G
+1,Ocean 50
+1,Ocean 603
+2,Ocean 621
+1,Ocean 623
+2,Ocean 638
+1,Ocean 641
+1,Ocean CR 638
+2,PA-118
+2,PA-145
+2,PA-148
+2,PA-15
+2,PA-153
+2,PA-183
+2,PA-2014
+2,PA-230
+2,PA-233
+3,PA-255
+2,PA-29
+2,PA-290
+3,PA-3
+2,PA-309
+2,PA-32
+2,PA-34
+2,PA-347
+2,PA-352
+2,PA-378
+2,PA-39
+2,PA-401
+2,PA-430
+2,PA-441
+3,PA-443
+2,PA-452
+2,PA-51
+2,PA-518
+2,PA-54
+3,PA-61
+3,PA-611
+2,PA-63
+2,PA-642
+2,PA-662
+2,PA-718
+2,PA-74
+2,PA-760
+2,PA-770
+2,PA-780
+2,PA-895
+2,PA-901
+2,PA-93
+2,PA-970
+2,PA-997
+2,Passaic 621
+1,Philadelphia 3003
+1,Philadelphia 3005
+1,Philadelphia CR 3003
+1,Philadelphia CR 3005
+1,Pike 2013
+2,Salem 621
+1,Schuylkill 682
+1,Schuylkill 690
+1,Schuylkill 691
+1,Schuylkill 692
+1,Schuylkill 988
+1,Schuylkill CR 682
+1,Schuylkill CR 690
+1,Schuylkill CR 691
+1,Schuylkill CR 692
+1,Schuylkill CR 988
+1,Somerset 601
+1,Somerset 604
+1,Somerset 608
+1,Somerset 609
+1,Somerset 620
+2,Somerset 621
+1,Somerset 626
+1,Somerset 630
+1,Somerset 639
+1,Somerset 652
+1,Somerset 661
+1,Somerset 665
+1,Somerset CR 665
+1,Sussex 248
+1,Sussex 249
+1,Sussex 603
+1,Sussex 604
+1,Sussex 607
+1,Sussex 611
+1,Sussex 618
+2,Sussex 621
+1,Sussex 626
+1,Sussex 630
+1,Sussex 633
+1,Sussex 636
+1,Sussex 645
+1,Sussex 650
+1,Sussex 652
+1,Sussex 653
+1,Sussex 654
+1,Sussex 656
+1,Sussex 669
+1,Sussex 675
+1,US-10
+3,US-11
+1,US-113
+2,US-119
+3,US-13
+2,US-130
+2,US-15
+1,US-2
+4,US-202
+3,US-209
+3,US-219
+2,US-22
+3,US-220
+3,US-222
+2,US-3
+4,US-30
+6,US-322
+3,US-40
+2,US-422
+2,US-44
+4,US-46
+2,US-5
+1,US-50
+2,US-522
+2,US-6
+2,US-62
+2,US-7
+1,Union 610
+1,Union 612
+2,Union 618
+2,Union 621
+1,Union 623
+1,Union 630
+1,Union 638
+1,Union CR 618
+1,Union CR 630
+2,VT-100
+2,VT-279
+2,VT-9
+1,Warren 621
+1,Warren 627
+1,Warren 678
+2,cr 506
+3,cr 508
+5,cr 510
+2,cr 513
+2,cr 514
+2,cr 517
+2,cr 519
+5,cr 520
+2,cr 522
+2,cr 524
+4,cr 526
+6,cr 527
+2,cr 528
+2,cr 530
+2,cr 533
+4,cr 535
+2,cr 536
+6,cr 537
+2,cr 539
+2,cr 547
+2,cr 551
+4,cr 553
+2,cr 561
+2,cr 577
+2,cr 583

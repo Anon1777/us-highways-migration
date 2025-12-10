@@ -1,0 +1,859 @@
+NJ-31
+Mercer 636
+NY-252
+Monroe 81
+Monroe 266
+US-322
+NJ-47
+cr 553
+DE-2
+DE-4
+DE-72
+DE-273
+DE-896
+I-676
+US-30
+cr 537
+cr 551
+cr 561
+Camden 756
+cr 508
+cr 510
+cr 514
+cr 527
+NJ-33
+NJ-35
+NJ-36
+NJ-79
+Monmouth 18
+Monmouth 50
+Monmouth 54
+Monmouth 57
+cr 520
+cr 537
+I-76
+I-78
+I-81
+I-83
+I-90
+I-99
+I-180
+I-376
+US-11
+US-15
+US-62
+US-119
+US-202
+US-219
+US-220
+US-222
+US-322
+US-422
+PA-15
+PA-29
+PA-34
+PA-39
+PA-51
+PA-61
+PA-63
+PA-74
+PA-93
+PA-118
+PA-148
+PA-183
+PA-230
+PA-233
+PA-255
+PA-290
+PA-309
+PA-347
+PA-352
+PA-378
+PA-401
+PA-430
+PA-441
+PA-443
+PA-452
+PA-518
+PA-611
+PA-718
+PA-760
+PA-780
+PA-997
+PA-2014
+Blair 4015
+Dauphin 3032
+Lehigh 2044
+Luzerne 18
+Luzerne 38
+Luzerne 1049
+Luzerne 3034
+Mercer 3012
+Montgomery 2017
+Schuylkill 682
+Schuylkill 690
+Schuylkill 691
+Schuylkill 692
+Schuylkill 988
+NJ-47
+NJ-55
+cr 553
+Gloucester 603
+Gloucester 621
+Gloucester 663
+Gloucester 676
+Hudson 670
+Hudson 673
+Hudson 677
+Hudson 679
+Hudson 681
+Hudson 732
+cr 508
+cr 510
+I-76
+I-676
+US-13
+PA-3
+Philadelphia 3003
+Philadelphia 3005
+cr 510
+Essex 605
+Essex 638
+I-295
+I-76
+I-78
+I-80
+I-81
+I-84
+I-86
+I-87
+I-89
+I-90
+I-91
+I-93
+I-95
+I-99
+I-195
+I-287
+I-290
+I-295
+I-476
+I-490
+I-495
+I-676
+I-690
+I-787
+I-895
+US-3
+US-5
+US-6
+US-7
+US-11
+US-22
+US-30
+US-40
+US-44
+US-46
+US-202
+US-209
+US-219
+US-220
+US-222
+US-322
+CT-4
+CT-343
+DE-273
+DE-279
+DE-896
+MA-12
+MD-193
+MD-212
+MD-279
+NH-9
+NH-10
+NH-12
+NH-28
+NH-31
+NH-101
+NH-123
+NJ-3
+NJ-10
+NJ-17
+NJ-21
+NJ-31
+NJ-33
+NJ-42
+NJ-47
+NJ-55
+NJ-57
+NJ-82
+NJ-124
+NJ-138
+NJ-182
+NJ-439
+NJ-444
+NJ-700
+NY-7
+NY-9G
+NY-15A
+NY-17
+NY-22
+NY-26
+NY-32
+NY-33A
+NY-52
+NY-55
+NY-79
+NY-82
+NY-96B
+NY-201
+NY-242
+NY-252
+NY-259
+NY-263
+NY-298
+NY-343
+NY-417
+NY-434
+PA-3
+PA-54
+PA-61
+PA-145
+PA-153
+PA-255
+PA-443
+PA-611
+PA-642
+PA-662
+PA-770
+PA-895
+PA-901
+PA-970
+VT-9
+VT-100
+VT-279
+Bergen 62
+Bergen 75
+Broome 53
+Centre 793
+cr 506
+cr 510
+cr 577
+Essex 603
+Essex 620
+Essex 630
+cr 536
+cr 553
+Gloucester 603
+Gloucester 663
+cr 535
+cr 583
+Mercer 616
+Mercer 618
+Mercer 636
+Mercer 649
+Middlesex 617
+Middlesex 622
+cr 520
+cr 526
+cr 547
+Monroe 85
+Morris 601
+Morris 617
+Morris 631
+Morris 670
+cr 527
+Ocean 638
+Somerset 665
+Union 618
+Union 630
+cr 517
+I-180
+I-280
+I-287
+I-295
+I-676
+US-46
+US-130
+US-322
+US-522
+DE-1
+DE-4
+DE-72
+DE-273
+DE-279
+DE-896
+NJ-3
+NJ-4
+NJ-12
+NJ-15
+NJ-31
+NJ-32
+NJ-33
+NJ-34
+NJ-35
+NJ-36
+NJ-37
+NJ-70
+NJ-71
+NJ-122
+NJ-444
+NJ-444
+NJ-445
+NJ-446
+NJ-495
+NJ-700
+PA-32
+cr 513
+cr 519
+cr 520
+cr 522
+cr 524
+cr 526
+cr 527
+cr 528
+cr 530
+cr 533
+cr 535
+cr 537
+cr 539
+Atlantic 621
+Bergen 21
+Burlington 621
+Camden 621
+Cape May 621
+Cumberland 621
+Gloucester 603
+Gloucester 621
+Gloucester 663
+Hunterdon 619
+Hunterdon 621
+Hunterdon 627
+Hudson 621
+Mercer 621
+Middlesex 621
+Monmouth 1
+Monmouth 3
+Monmouth 21
+Monmouth 30
+Monmouth 40a
+Morris 621
+Ocean 621
+Passaic 621
+Salem 621
+Somerset 621
+Sussex 621
+Union 621
+Warren 621
+Bergen CR 62
+Bergen CR 75
+Blair CR 4015
+Broome CR 53
+CT-343
+CT-4
+cr 537
+cr 551
+cr 561
+Camden CR 756
+Centre CR 793
+DE-2
+DE-273
+DE-279
+DE-4
+DE-72
+DE-896
+Dauphin CR 3032
+cr 506
+cr 508
+cr 510
+cr 577
+Essex CR 603
+Essex CR 605
+Essex CR 620
+Essex CR 630
+Essex CR 638
+cr 536
+cr 553
+Gloucester CR 603
+Gloucester CR 621
+Gloucester CR 663
+Gloucester CR 676
+Hudson CR 670
+Hudson CR 673
+Hudson CR 677
+Hudson CR 679
+Hudson CR 681
+Hudson CR 732
+I-180
+I-195
+I-287
+I-290
+I-295
+I-376
+I-476
+I-490
+I-495
+I-676
+I-690
+I-76
+I-78
+I-787
+I-80
+I-81
+I-83
+I-84
+I-86
+I-87
+I-89
+I-895
+I-90
+I-91
+I-93
+I-95
+I-99
+Lehigh CR 2044
+Luzerne CR 1049
+Luzerne CR 18
+Luzerne CR 3034
+Luzerne CR 38
+MA-12
+MD-193
+MD-212
+MD-279
+Mercer CR 3012
+cr 535
+cr 583
+Mercer CR 616
+Mercer CR 618
+Mercer CR 636
+Mercer CR 649
+cr 514
+cr 527
+Middlesex CR 617
+Middlesex CR 622
+Monmouth CR 18
+Monmouth CR 50
+cr 520
+cr 526
+cr 537
+Monmouth CR 54
+cr 547
+Monmouth CR 57
+Monroe CR 266
+Monroe CR 81
+Monroe CR 85
+Montgomery CR 2017
+Morris CR 601
+Morris CR 617
+Morris CR 631
+Morris CR 670
+NH-10
+NH-101
+NH-12
+NH-123
+NH-28
+NH-31
+NH-9
+NJ-10
+NJ-124
+NJ-138
+NJ-17
+NJ-182
+NJ-21
+NJ-3
+NJ-31
+NJ-33
+NJ-35
+NJ-36
+NJ-42
+NJ-439
+NJ-444
+NJ-47
+NJ-55
+NJ-57
+NJ-700
+NJ-79
+NJ-82
+NY-15A
+NY-17
+NY-201
+NY-22
+NY-242
+NY-252
+NY-259
+NY-26
+NY-263
+NY-298
+NY-32
+NY-33A
+NY-343
+NY-417
+NY-434
+NY-52
+NY-55
+NY-7
+NY-79
+NY-82
+NY-96B
+NY-9G
+cr 527
+Ocean CR 638
+PA-118
+PA-145
+PA-148
+PA-15
+PA-153
+PA-183
+PA-2014
+PA-230
+PA-233
+PA-255
+PA-29
+PA-290
+PA-3
+PA-309
+PA-34
+PA-347
+PA-352
+PA-378
+PA-39
+PA-401
+PA-430
+PA-441
+PA-443
+PA-452
+PA-51
+PA-518
+PA-54
+PA-61
+PA-611
+PA-63
+PA-642
+PA-662
+PA-718
+PA-74
+PA-760
+PA-770
+PA-780
+PA-895
+PA-901
+PA-93
+PA-970
+PA-997
+Philadelphia CR 3003
+Philadelphia CR 3005
+Schuylkill CR 682
+Schuylkill CR 690
+Schuylkill CR 691
+Schuylkill CR 692
+Schuylkill CR 988
+Somerset CR 665
+US-11
+US-119
+US-13
+US-15
+US-202
+US-209
+US-219
+US-22
+US-220
+US-222
+US-3
+US-30
+US-322
+US-40
+US-422
+US-44
+US-46
+US-5
+US-6
+US-62
+US-7
+Union CR 618
+Union CR 630
+VT-100
+VT-279
+VT-9
+cr 517
+cr 513
+cr 519
+cr 520
+cr 522
+cr 524
+cr 526
+cr 527
+cr 528
+cr 530
+cr 533
+cr 535
+cr 537
+cr 539
+Sussex 248
+Sussex 249
+DE-1
+DE-20
+DE-273
+DE-279
+DE-30
+DE-4
+DE-404
+DE-5
+DE-72
+DE-896
+Miami-dade 992
+Monroe 905
+Monroe 939
+Monroe 940
+Monroe 941
+Monroe srd
+FL-5
+FL-821
+FL-9336
+FL-973
+FL-989
+FL-990
+FL-994
+FL-998
+FL-a1a
+I-180
+I-280
+I-287
+I-295
+I-676
+I-76
+I-78
+I-80
+I-95
+Atlantic 601
+Atlantic 602
+Atlantic 603
+Atlantic 604
+Atlantic 605
+Atlantic 606
+Atlantic 608
+Atlantic 610
+Atlantic 615
+Atlantic 618
+Atlantic 630
+Atlantic 634
+Atlantic 644
+Atlantic 646
+Atlantic 657
+Atlantic 662
+Atlantic 663
+Atlantic 687
+Atlantic 621
+Bergen 21
+Burlington 616
+Burlington 622
+Burlington 642
+Burlington 648
+Burlington 660
+Burlington 662
+Burlington 667
+Burlington 670
+Burlington 678
+Burlington 679
+Burlington 681
+Burlington 690
+Burlington 621
+Camden 621
+Cape May 601
+Cape May 602
+Cape May 603
+Cape May 609
+Cape May 612
+Cape May 613
+Cape May 615
+Cape May 623
+Cape May 625
+Cape May 628
+Cape May 631
+Cape May 634
+Cape May 637
+Cape May 644
+Cape May 646
+Cape May 647
+Cape May 652
+Cape May 657
+Cape May 658
+Cape May 662
+Cape May 667
+Cape May 621
+Cumberland 621
+Essex 618
+Essex 636
+Essex 642
+Essex 655
+Gloucester 603
+Gloucester 621
+Gloucester 663
+Hudson 612
+Hudson 700
+Hudson 701
+Hudson 702
+Hudson 735
+Hudson 621
+Hunterdon 651
+Hunterdon 619
+Hunterdon 621
+Hunterdon 627
+Mercer 604
+Mercer 613
+Mercer 622
+Mercer 626
+Mercer 630
+Mercer 637
+Mercer 643
+Mercer 645
+Mercer 648
+Mercer 650
+Mercer 653
+Mercer 621
+Middlesex 606
+Middlesex 609
+Middlesex 611
+Middlesex 613
+Middlesex 616
+Middlesex 622
+Middlesex 653
+Middlesex 655
+Middlesex 656
+Middlesex 700
+Middlesex 701
+Middlesex 621
+Monmouth 10
+Monmouth 11
+Monmouth 12
+Monmouth 13
+Monmouth 15
+Monmouth 16
+Monmouth 17
+Monmouth 18
+Monmouth 20
+Monmouth 25
+Monmouth 27
+Monmouth 28
+Monmouth 29
+Monmouth 32
+Monmouth 33
+Monmouth 34
+Monmouth 36
+Monmouth 45
+Monmouth 47
+Monmouth 48
+Monmouth 49
+Monmouth 5
+Monmouth 50
+Monmouth 51
+Monmouth 52
+Monmouth 54
+Monmouth 56
+Monmouth 57
+Monmouth 7
+Monmouth 8
+Monmouth 1
+Monmouth 3 
+Monmouth 21
+Monmouth 30
+Monmouth 40a
+Morris 612
+Morris 613
+Morris 625
+Morris 621
+Ocean 50
+Ocean 603
+Ocean 623
+Ocean 638
+Ocean 641
+Ocean 621
+Passaic 621
+Salem 621
+Somerset 601
+Somerset 604
+Somerset 608
+Somerset 609
+Somerset 620
+Somerset 626
+Somerset 630
+Somerset 639
+Somerset 652
+Somerset 661
+Somerset 621
+Sussex 603
+Sussex 604
+Sussex 607
+Sussex 611
+Sussex 618
+Sussex 626
+Sussex 630
+Sussex 633
+Sussex 636
+Sussex 645
+Sussex 650
+Sussex 652
+Sussex 653
+Sussex 654
+Sussex 656
+Sussex 669
+Sussex 675
+Sussex 621
+Union 610
+Union 612
+Union 618
+Union 623
+Union 638
+Union 621
+Warren 627
+Warren 678
+NJ-12
+NJ-122
+NJ-15
+NJ-3
+NJ-31
+NJ-32
+NJ-33
+NJ-34
+NJ-35
+NJ-36
+NJ-37
+NJ-38
+NJ-4
+NJ-444
+NJ-445
+NJ-446
+NJ-495
+NJ-55
+NJ-70
+NJ-700
+NJ-71
+NJ-94
+Livingston 26
+Monroe 63
+Monroe 65
+Monroe 67
+Monroe 75
+Monroe 77
+Monroe 79
+Monroe 81
+Monroe 82
+Monroe 83
+Monroe 86
+NY-251
+NY-252
+NY-253
+Pike 2013
+PA-32
+US-10
+US-113
+US-13
+US-130
+US-2
+US-202
+US-209
+US-30
+US-322
+US-40
+US-46
+US-50
+US-522
