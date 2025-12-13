@@ -345,45 +345,45 @@ Somerset 621
 Sussex 621
 Union 621
 Warren 621
-Bergen CR 62
-Bergen CR 75
-Blair CR 4015
-Broome CR 53
+Bergen 62
+Bergen 75
+Blair 4015
+Broome 53
 CT-343
 CT-4
 cr 537
 cr 551
 cr 561
-Camden CR 756
-Centre CR 793
+Camden 756
+Centre 793
 DE-2
 DE-273
 DE-279
 DE-4
 DE-72
 DE-896
-Dauphin CR 3032
+Dauphin 3032
 cr 506
 cr 508
 cr 510
 cr 577
-Essex CR 603
-Essex CR 605
-Essex CR 620
-Essex CR 630
-Essex CR 638
+Essex 603
+Essex 605
+Essex 620
+Essex 630
+Essex 638
 cr 536
 cr 553
-Gloucester CR 603
-Gloucester CR 621
-Gloucester CR 663
-Gloucester CR 676
-Hudson CR 670
-Hudson CR 673
-Hudson CR 677
-Hudson CR 679
-Hudson CR 681
-Hudson CR 732
+Gloucester 603
+Gloucester 621
+Gloucester 663
+Gloucester 676
+Hudson 670
+Hudson 673
+Hudson 677
+Hudson 679
+Hudson 681
+Hudson 732
 I-180
 I-195
 I-287
@@ -411,42 +411,42 @@ I-91
 I-93
 I-95
 I-99
-Lehigh CR 2044
-Luzerne CR 1049
-Luzerne CR 18
-Luzerne CR 3034
-Luzerne CR 38
+Lehigh 2044
+Luzerne 1049
+Luzerne 18
+Luzerne 3034
+Luzerne 38
 MA-12
 MD-193
 MD-212
 MD-279
-Mercer CR 3012
+Mercer 3012
 cr 535
 cr 583
-Mercer CR 616
-Mercer CR 618
-Mercer CR 636
-Mercer CR 649
+Mercer 616
+Mercer 618
+Mercer 636
+Mercer 649
 cr 514
 cr 527
-Middlesex CR 617
-Middlesex CR 622
-Monmouth CR 18
-Monmouth CR 50
+Middlesex 617
+Middlesex 622
+Monmouth 18
+Monmouth 50
 cr 520
 cr 526
 cr 537
-Monmouth CR 54
+Monmouth 54
 cr 547
-Monmouth CR 57
-Monroe CR 266
-Monroe CR 81
-Monroe CR 85
-Montgomery CR 2017
-Morris CR 601
-Morris CR 617
-Morris CR 631
-Morris CR 670
+Monmouth 57
+Monroe 266
+Monroe 81
+Monroe 85
+Montgomery 2017
+Morris 601
+Morris 617
+Morris 631
+Morris 670
 NH-10
 NH-101
 NH-12
@@ -497,7 +497,7 @@ NY-82
 NY-96B
 NY-9G
 cr 527
-Ocean CR 638
+Ocean 638
 PA-118
 PA-145
 PA-148
@@ -540,14 +540,14 @@ PA-901
 PA-93
 PA-970
 PA-997
-Philadelphia CR 3003
-Philadelphia CR 3005
-Schuylkill CR 682
-Schuylkill CR 690
-Schuylkill CR 691
-Schuylkill CR 692
-Schuylkill CR 988
-Somerset CR 665
+Philadelphia 3003
+Philadelphia 3005
+Schuylkill 682
+Schuylkill 690
+Schuylkill 691
+Schuylkill 692
+Schuylkill 988
+Somerset 665
 US-11
 US-119
 US-13
@@ -569,8 +569,8 @@ US-5
 US-6
 US-62
 US-7
-Union CR 618
-Union CR 630
+Union 618
+Union 630
 VT-100
 VT-279
 VT-9

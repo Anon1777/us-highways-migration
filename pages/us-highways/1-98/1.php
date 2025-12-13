@@ -1329,435 +1329,435 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">332.59 mi ( + 0.44 mi )</td>
-                    <td class="content text-dark small">535.28 km ( + 0.71 km )</td>
-                    <td class="content text-dark">Brevard CR 511 - Aurora Rd, Melbourne, Florida 32935</td>
+                    <td class="content text-dark small">332.52 mi ( + 0.44 mi )</td>
+                    <td class="content text-dark small">533.88 km ( + 0.71 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/bv/511.php">Brevard CR 511 - Aurora Rd</a>, Melbourne, Florida 32935</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">335.34 mi ( + 2.75 mi )</td>
-                    <td class="content text-dark small">539.71 km ( + 4.43 km )</td>
+                    <td class="content text-dark small">335.27 mi ( + 2.75 mi )</td>
+                    <td class="content text-dark small">538.31 km ( + 4.43 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Harbor City Blvd, Palm Shores, Florida 32935</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">337.77 mi ( + 2.43 mi )</td>
-                    <td class="content text-dark small">543.62 km ( + 3.91 km )</td>
-                    <td class="content text-dark">FL-404 - Pineda Cswy, Palm Shores, Florida 32935</td>
+                    <td class="content text-dark small">337.70 mi ( + 2.43 mi )</td>
+                    <td class="content text-dark small">542.22 km ( + 3.91 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/404.php">FL-404 - Pineda Cswy</a>, Palm Shores, Florida 32935</td>
                     <td class="content text-dark">US-1, Viera, Florida 32940</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">345.02 mi ( + 7.25 mi )</td>
-                    <td class="content text-dark small">555.29 km ( + 11.67 km )</td>
+                    <td class="content text-dark small">344.95 mi ( + 7.25 mi )</td>
+                    <td class="content text-dark small">553.89 km ( + 11.67 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Rockledge Blvd, Rockledge, Florida 32955</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">348.60 mi ( + 3.58 mi )</td>
-                    <td class="content text-dark small">561.05 km ( + 5.77 km )</td>
+                    <td class="content text-dark small">348.53 mi ( + 3.58 mi )</td>
+                    <td class="content text-dark small">559.66 km ( + 5.77 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Cocoa Blvd, Cocoa, Florida 32922</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">349.05 mi ( + 0.45 mi )</td>
-                    <td class="content text-dark small">561.77 km ( + 0.73 km )</td>
-                    <td class="content text-dark">FL-520 - W King St (WB) / King St (EB), Cocoa, Florida 32922</td>
+                    <td class="content text-dark small">348.98 mi ( + 0.45 mi )</td>
+                    <td class="content text-dark small">560.39 km ( + 0.73 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/520.php">FL-520 - W King St (WB) / King St (EB)</a>, Cocoa, Florida 32922</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">349.19 mi ( + 0.14 mi )</td>
-                    <td class="content text-dark small">562.00 km ( + 0.23 km )</td>
+                    <td class="content text-dark small">349.12 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">560.62 km ( + 0.23 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Cocoa Blvd, Cocoa, Florida 32922</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">350.67 mi ( + 1.48 mi )</td>
-                    <td class="content text-dark small">564.38 km ( + 2.38 km )</td>
-                    <td class="content text-dark">FL-503 - Dixon Blvd, Cocoa, Florida 32922</td>
+                    <td class="content text-dark small">350.60 mi ( + 1.48 mi )</td>
+                    <td class="content text-dark small">563.00 km ( + 2.38 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/503.php">FL-503 - Dixon Blvd</a>, Cocoa, Florida 32922</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">352.42 mi ( + 1.75 mi )</td>
-                    <td class="content text-dark small">567.20 km ( + 2.82 km )</td>
-                    <td class="content text-dark">FL-528 - Martin Andersen Beachline Expy, Cocoa, Florida 32922</td>
+                    <td class="content text-dark small">352.35 mi ( + 1.75 mi )</td>
+                    <td class="content text-dark small">565.82 km ( + 2.82 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/528.php">FL-528 - Martin Andersen Beachline Expy</a>, Cocoa, Florida 32922</td>
                     <td class="content text-dark">N Cocoa Blvd, Sharpes, 32926</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">355.82 mi ( + 3.40 mi )</td>
-                    <td class="content text-dark small">572.67 km ( + 5.48 km )</td>
-                    <td class="content text-dark">Brevard CR 515 - Indian River Dr, Sharpes, Florida 32926</td>
+                    <td class="content text-dark small">355.75 mi ( + 3.40 mi )</td>
+                    <td class="content text-dark small">571.30 km ( + 5.48 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/bv/515.php">Brevard CR 515 - Indian River Dr</a>, Sharpes, Florida 32926</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">357.33 mi ( + 1.51 mi )</td>
-                    <td class="content text-dark small">575.10 km ( + 2.44 km )</td>
+                    <td class="content text-dark small">357.26 mi ( + 1.51 mi )</td>
+                    <td class="content text-dark small">573.74 km ( + 2.44 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Cocoa Blvd, Port St John, Florida 32927</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">358.71 mi ( + 1.38 mi )</td>
-                    <td class="content text-dark small">577.32 km ( + 2.22 km )</td>
+                    <td class="content text-dark small">358.64 mi ( + 1.38 mi )</td>
+                    <td class="content text-dark small">575.96 km ( + 2.22 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Port St John, Florida 32927</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">358.89 mi ( + 0.18 mi )</td>
-                    <td class="content text-dark small">577.61 km ( + 0.29 km )</td>
+                    <td class="content text-dark small">358.82 mi ( + 0.18 mi )</td>
+                    <td class="content text-dark small">576.25 km ( + 0.29 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S US-1, Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">360.29 mi ( + 1.40 mi )</td>
-                    <td class="content text-dark small">579.86 km ( + 2.26 km )</td>
+                    <td class="content text-dark small">360.22 mi ( + 1.40 mi )</td>
+                    <td class="content text-dark small">578.51 km ( + 2.26 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">360.52 mi ( + 0.23 mi )</td>
-                    <td class="content text-dark small">580.23 km ( + 0.36 km )</td>
+                    <td class="content text-dark small">360.45 mi ( + 0.23 mi )</td>
+                    <td class="content text-dark small">578.87 km ( + 0.36 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Washington Ave, Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">361.63 mi ( + 1.11 mi )</td>
-                    <td class="content text-dark small">582.02 km ( + 1.78 km )</td>
-                    <td class="content text-dark">Brevard CR 405 - Columbia Blvd (WB) / NASA Cswy (EB), Titusville, Florida 32780</td>
+                    <td class="content text-dark small">361.56 mi ( + 1.11 mi )</td>
+                    <td class="content text-dark small">580.65 km ( + 1.78 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/bv/405.php">Brevard CR 405 - Columbia Blvd (WB) / NASA Cswy (EB)</a>, Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">363.73 mi ( + 2.10 mi )</td>
-                    <td class="content text-dark small">585.40 km ( + 3.38 km )</td>
-                    <td class="content text-dark">FL-50 - Cheney Hwy, Titusville, Florida 32780</td>
+                    <td class="content text-dark small">363.66 mi ( + 2.10 mi )</td>
+                    <td class="content text-dark small">584.03 km ( + 3.38 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/50.php">FL-50 - Cheney Hwy</a>, Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">366.74 mi ( + 3.01 mi )</td>
-                    <td class="content text-dark small">590.24 km ( + 4.84 km )</td>
+                    <td class="content text-dark small">366.67 mi ( + 3.01 mi )</td>
+                    <td class="content text-dark small">588.87 km ( + 4.84 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Edison Ave (SB) / S Washington Ave (NB), Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">367.04 mi ( + 0.30 mi )</td>
-                    <td class="content text-dark small">590.72 km ( + 0.48 km )</td>
+                    <td class="content text-dark small">366.97 mi ( + 0.30 mi )</td>
+                    <td class="content text-dark small">589.35 km ( + 0.48 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Hopkins Ave (SB) / S Washington Ave (NB), Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">367.39 mi ( + 0.35 mi )</td>
-                    <td class="content text-dark small">591.29 km ( + 0.56 km )</td>
-                    <td class="content text-dark">Brevard CR 405 - Martin Luther King Jr. Blvd, Titusville, Florida 32780</td>
+                    <td class="content text-dark small">367.32 mi ( + 0.35 mi )</td>
+                    <td class="content text-dark small">589.91 km ( + 0.56 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/bv/405.php">Brevard CR 405 - Martin Luther King Jr. Blvd</a>, Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">367.90 mi ( + 0.51 mi )</td>
-                    <td class="content text-dark small">592.11 km ( + 0.82 km )</td>
-                    <td class="content text-dark">Brevard CR 406 - A. Max Brewer Memorial Pkwy (EB) / Garden St (WB), Titusville, Florida 32780</td>
+                    <td class="content text-dark small">367.83 mi ( + 0.51 mi )</td>
+                    <td class="content text-dark small">590.73 km ( + 0.82 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/bv/406.php">Brevard CR 406 - A. Max Brewer Memorial Pkwy (EB) / Garden St (WB)</a>, Titusville, Florida 32780</td>
                     <td class="content text-dark">N Hopkins Ave (SB) / N Washington Ave (NB), Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">368.11 mi ( + 0.21 mi )</td>
-                    <td class="content text-dark small">592.45 km ( + 0.34 km )</td>
+                    <td class="content text-dark small">368.04 mi ( + 0.21 mi )</td>
+                    <td class="content text-dark small">591.07 km ( + 0.34 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Washington Ave, Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">370.17 mi ( + 2.06 mi )</td>
-                    <td class="content text-dark small">595.76 km ( + 3.32 km )</td>
+                    <td class="content text-dark small">370.10 mi ( + 2.06 mi )</td>
+                    <td class="content text-dark small">594.39 km ( + 3.32 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Washington Ave, Mims, Florida 32754</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">371.31 mi ( + 1.14 mi )</td>
-                    <td class="content text-dark small">597.60 km ( + 1.83 km )</td>
+                    <td class="content text-dark small">371.24 mi ( + 1.14 mi )</td>
+                    <td class="content text-dark small">596.22 km ( + 1.83 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Trooper Halley Strickland Memorial Hwy, Mims, Florida 32754</td>
-                    <td class="content text-dark"></td>
+                    <td class="contqent text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">372.33 mi ( + 1.02 mi )</td>
-                    <td class="content text-dark small">599.24 km ( + 1.65 km )</td>
-                    <td class="content text-dark">FL-46 - W Main St, Mims, Florida 32754</td>
+                    <td class="content text-dark small">372.26 mi ( + 1.02 mi )</td>
+                    <td class="content text-dark small">597.87 km ( + 1.65 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/46.php">FL-46 - W Main St</a>, Mims, Florida 32754</td>
                     <td class="content text-dark">US-1, Mims, Florida 32754</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">377.20 mi ( + 4.87 mi )</td>
-                    <td class="content text-dark small">607.08 km ( + 7.83 km )</td>
+                    <td class="content text-dark small">377.13 mi ( + 4.87 mi )</td>
+                    <td class="content text-dark small">605.70 km ( + 7.83 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Scottsmoor, Florida 32754</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">380.70 mi ( + 3.50 mi )</td>
-                    <td class="content text-dark small">612.71 km ( + 5.63 km )</td>
-                    <td class="content text-dark">Brevard CR 5A - Deering Pkwy, Scottsmoor, Florida 32754</td>
+                    <td class="content text-dark small">380.63 mi ( + 3.50 mi )</td>
+                    <td class="content text-dark small">611.33 km ( + 5.63 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/bv/5a.php">Brevard CR 5A - Deering Pkwy</a>, Scottsmoor, Florida 32754</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">381.41 mi ( + 0.71 mi )</td>
-                    <td class="content text-dark small">613.85 km ( + 1.15 km )</td>
+                    <td class="content text-dark small">381.34 mi ( + 0.71 mi )</td>
+                    <td class="content text-dark small">612.48 km ( + 1.15 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Oak Hill, Florida 32759</td>
                     <td class="content text-dark">End Brevard County, Start Volusia County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">385.37 mi ( + 3.96 mi )</td>
-                    <td class="content text-dark small">620.22 km ( + 6.37 km )</td>
-                    <td class="content text-dark">Volusia CR 3 - Kennedy Pkwy, Oak Hill, Florida 32759</td>
+                    <td class="content text-dark small">385.30 mi ( + 3.96 mi )</td>
+                    <td class="content text-dark small">618.85 km ( + 6.37 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/3.php">Volusia CR 3 - Kennedy Pkwy</a>, Oak Hill, Florida 32759</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">386.65 mi ( + 1.28 mi )</td>
-                    <td class="content text-dark small">622.28 km ( + 2.07 km )</td>
+                    <td class="content text-dark small">386.58 mi ( + 1.28 mi )</td>
+                    <td class="content text-dark small">620.92 km ( + 2.07 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Ridgewood Ave, Oak Hill, Florida 32759</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">387.57 mi ( + 0.92 mi )</td>
+                    <td class="content text-dark small">387.50 mi ( + 0.92 mi )</td>
                     <td class="content text-dark small">623.76 km ( + 1.48 km )</td>
                     <td class="content text-dark">Volusia CR 4164 - W Halifax Ave (WB) / E Halifax Ave (EB), Oak Hill, Florida 32759</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">390.22 mi ( + 2.65 mi )</td>
-                    <td class="content text-dark small">628.03 km ( + 4.27 km )</td>
+                    <td class="content text-dark small">390.15 mi ( + 2.65 mi )</td>
+                    <td class="content text-dark small">626.67 km ( + 4.27 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Ridgewood Ave, Edgewater, Florida 32141</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">393.32 mi ( + 3.10 mi )</td>
-                    <td class="content text-dark small">633.02 km ( + 4.98 km )</td>
-                    <td class="content text-dark">Volusia CR 4147 - Volco Rd, Edgewater, Florida 32141</td>
+                    <td class="content text-dark small">393.25 mi ( + 3.10 mi )</td>
+                    <td class="content text-dark small">631.65 km ( + 4.98 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/4147.php">Volusia CR 4147 - Volco Rd</a>, Edgewater, Florida 32141</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">395.07 mi ( + 1.75 mi )</td>
-                    <td class="content text-dark small">635.83 km ( + 2.81 km )</td>
-                    <td class="content text-dark">Volusia CR 4135 - S Riverside Dr, Edgewater, Florida 32141</td>
+                    <td class="content text-dark small">395.00 mi ( + 1.75 mi )</td>
+                    <td class="content text-dark small">634.46 km ( + 2.81 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/4135.php">Volusia CR 4135 - S Riverside Dr</a>, Edgewater, Florida 32141</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">395.60 mi ( + 0.53 mi )</td>
-                    <td class="content text-dark small">636.69 km ( + 0.85 km )</td>
-                    <td class="content text-dark">FL-442 - W Indian River Blvd (WB) / E Indian River Blvd (EB), Edgewater, Florida 32141</td>
+                    <td class="content text-dark small">395.53 mi ( + 0.53 mi )</td>
+                    <td class="content text-dark small">635.31 km ( + 0.85 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/442.php">FL-442 - W Indian River Blvd (WB) / E Indian River Blvd (EB)</a>, Edgewater, Florida 32141</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">397.09 mi ( + 1.49 mi )</td>
-                    <td class="content text-dark small">639.09 km ( + 2.40 km )</td>
-                    <td class="content text-dark">Volusia CR 4136 - Park Ave, Edgewater, Florida 32141</td>
+                    <td class="content text-dark small">397.02 mi ( + 1.49 mi )</td>
+                    <td class="content text-dark small">637.71 km ( + 2.40 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/4136.php">Volusia CR 4136 - Park Ave</a>, Edgewater, Florida 32141</td>
                     <td class="content text-dark">N Ridgewood Ave, Edgewater, Florida 32141</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">398.47 mi ( + 1.38 mi )</td>
-                    <td class="content text-dark small">641.31 km ( + 2.23 km )</td>
+                    <td class="content text-dark small">398.40 mi ( + 1.38 mi )</td>
+                    <td class="content text-dark small">639.94 km ( + 2.23 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Dixie Fwy, New Smyrna Beach, 32168</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">399.42 mi ( + 0.95 mi )</td>
-                    <td class="content text-dark small">642.83 km ( + 1.52 km )</td>
-                    <td class="content text-dark">(to FL-44 & Volusia CR A1A) - Lytle Ave, New Smyrna Beach, 32168</td>
+                    <td class="content text-dark small">399.35 mi ( + 0.95 mi )</td>
+                    <td class="content text-dark small">641.46 km ( + 1.52 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/44.php">(to FL-44) - Lytle Ave</a> (concurrent with <a href="../../county-roads/fl/vo/a1a.php">Volusia CR A1A</a>), New Smyrna Beach, 32168</td>
                     <td class="content text-dark">A1A Jimmy Buffett Memorial Hwy, New Smyrna Beach, 32168</td>
                     <td class="content text-dark">Start concurrency with Volusia CR A1A</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">399.61 mi ( + 0.19 mi )</td>
-                    <td class="content text-dark small">643.14 km ( + 0.31 km )</td>
-                    <td class="content text-dark">US-44 Business - Canal St, New Smyrna Beach, 32168</td>
+                    <td class="content text-dark small">399.54 mi ( + 0.19 mi )</td>
+                    <td class="content text-dark small">641.77 km ( + 0.31 km )</td>
+                    <td class="content text-dark"><a href="44.php/#us44bus">US-44 Business - Canal St</a>, New Smyrna Beach, 32168</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">400.95 mi ( + 1.34 mi )</td>
-                    <td class="content text-dark small">645.30 km ( + 2.16 km )</td>
-                    <td class="content text-dark">Volusia CR 4093 - Turnbull Bay Rd, New Smyrna Beach, Florida 32168</td>
+                    <td class="content text-dark small">400.88 mi ( + 1.34 mi )</td>
+                    <td class="content text-dark small">643.93 km ( + 2.16 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/4093.php">Volusia CR 4093 - Turnbull Bay Rd</a>, New Smyrna Beach, Florida 32168</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">403.67 mi ( + 2.72 mi )</td>
-                    <td class="content text-dark small">649.67 km ( + 4.38 km )</td>
+                    <td class="content text-dark small">403.60 mi ( + 2.72 mi )</td>
+                    <td class="content text-dark small">648.31 km ( + 4.38 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Ridgewood Ave & N Dixie Fwy, New Smyrna Beach, Florida 32168</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">406.16 mi ( + 2.49 mi )</td>
-                    <td class="content text-dark small">653.68 km ( + 4.00 km )</td>
+                    <td class="content text-dark small">406.09 mi ( + 2.49 mi )</td>
+                    <td class="content text-dark small">652.31 km ( + 4.00 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Ridgewood Ave & N Dixie Fwy, Port Orange, Florida 32127</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">406.41 mi ( + 0.25 mi )</td>
-                    <td class="content text-dark small">654.08 km ( + 0.41 km )</td>
-                    <td class="content text-dark">FL-5A - S Nova Rd, Port Orange, Florida 32127</td>
+                    <td class="content text-dark small">406.34 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">652.72 km ( + 0.41 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/5a.php">FL-5A - S Nova Rd</a>, Port Orange, Florida 32127</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">408.96 mi ( + 2.55 mi )</td>
-                    <td class="content text-dark small">658.19 km ( + 4.11 km )</td>
-                    <td class="content text-dark">Volusia CR 421 - Dunlawton Ave, Port Orange, Florida 32127</td>
+                    <td class="content text-dark small">408.89 mi ( + 2.55 mi )</td>
+                    <td class="content text-dark small">656.83 km ( + 4.11 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/421.php">Volusia CR 421 - Dunlawton Ave</a>, Port Orange, Florida 32127</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Volusia CR A1A</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">409.52 mi ( + 0.56 mi )</td>
-                    <td class="content text-dark small">659.09 km ( + 0.90 km )</td>
+                    <td class="content text-dark small">409.45 mi ( + 0.56 mi )</td>
+                    <td class="content text-dark small">657.73 km ( + 0.90 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Ridgewood Ave, South Daytona, Florida 32119</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">410.19 mi ( + 0.67 mi )</td>
-                    <td class="content text-dark small">660.17 km ( + 1.07 km )</td>
-                    <td class="content text-dark">Volusia CR 4079 - Reed Canal Rd, South Daytona, Florida 32119</td>
+                    <td class="content text-dark small">410.12 mi ( + 0.67 mi )</td>
+                    <td class="content text-dark small">658.80 km ( + 1.07 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/4079.php">Volusia CR 4079 - Reed Canal Rd</a>, South Daytona, Florida 32119</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">411.37 mi ( + 1.18 mi )</td>
-                    <td class="content text-dark small">662.07 km ( + 1.89 km )</td>
-                    <td class="content text-dark">Volusia CR 4072 - Big Tree Rd, South Daytona, Florida 32119</td>
+                    <td class="content text-dark small">411.30 mi ( + 1.18 mi )</td>
+                    <td class="content text-dark small">660.69 km ( + 1.89 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/4072.php">Volusia CR 4072 - Big Tree Rd</a>, South Daytona, Florida 32119</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">412.10 mi ( + 0.73 mi )</td>
-                    <td class="content text-dark small">663.24 km ( + 1.17 km )</td>
-                    <td class="content text-dark">FL-400 (to I-4) - Beville Rd, South Daytona, Florida 32119</td>
+                    <td class="content text-dark small">412.03 mi ( + 0.73 mi )</td>
+                    <td class="content text-dark small">661.86 km ( + 1.17 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/400.php">FL-400 - Beville Rd</a> (to <a href="../../interstates/4.php">I-4</a>), South Daytona, Florida 32119</td>
                     <td class="content text-dark">S Ridgewood Ave, Daytona Beach, Florida 32114</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">413.14 mi ( + 1.04 mi )</td>
-                    <td class="content text-dark small">664.91 km ( + 1.67 km )</td>
-                    <td class="content text-dark">Volusia CR 4068 - Bellevue Ave, Daytona Beach, Florida 32114</td>
+                    <td class="content text-dark small">413.07 mi ( + 1.04 mi )</td>
+                    <td class="content text-dark small">663.53 km ( + 1.67 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/4068.php">Volusia CR 4068 - Bellevue Ave</a>, Daytona Beach, Florida 32114</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">413.87 mi ( + 0.73 mi )</td>
-                    <td class="content text-dark small">666.09 km ( + 1.18 km )</td>
-                    <td class="content text-dark">Volusia CR 4050 - Orange Ave, Daytona Beach, Florida 32114</td>
+                    <td class="content text-dark small">413.80 mi ( + 0.73 mi )</td>
+                    <td class="content text-dark small">664.71 km ( + 1.18 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/4050.php">Volusia CR 4050 - Orange Ave</a>, Daytona Beach, Florida 32114</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">414.16 mi ( + 0.29 mi )</td>
-                    <td class="content text-dark small">666.56 km ( + 0.47 km )</td>
-                    <td class="content text-dark">US-92 (to FL-600) - W International Speedway Blvd, Daytona Beach, Florida 32114</td>
+                    <td class="content text-dark small">414.09 mi ( + 0.29 mi )</td>
+                    <td class="content text-dark small">665.18 km ( + 0.47 km )</td>
+                    <td class="content text-dark"><a href="92.php">US-92 - W International Speedway Blvd</a> (to <a href="../../state-highways/fl/600.php">FL-600</a>), Daytona Beach, Florida 32114</td>
                     <td class="content text-dark">N Ridgewood Ave, Daytona Beach, Florida 32114</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">414.82 mi ( + 0.66 mi )</td>
-                    <td class="content text-dark small">667.62 km ( + 1.07 km )</td>
-                    <td class="content text-dark">Volusia CR 4040 - George W Engram Blvd (WB) / Fairview Ave (EB), Daytona Beach, Florida 32114</td>
+                    <td class="content text-dark small">414.75 mi ( + 0.66 mi )</td>
+                    <td class="content text-dark small">666.25 km ( + 1.07 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/4040.php">Volusia CR 4040 - George W Engram Blvd (WB) / Fairview Ave (EB)</a>, Daytona Beach, Florida 32114</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">415.35 mi ( + 0.53 mi )</td>
-                    <td class="content text-dark small">668.47 km ( + 0.86 km )</td>
-                    <td class="content text-dark">Volusia CR 430 - Mason Ave, Daytona Beach, Florida 32114</td>
+                    <td class="content text-dark small">415.28 mi ( + 0.53 mi )</td>
+                    <td class="content text-dark small">667.11 km ( + 0.86 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/430.php">Volusia CR 430 - Mason Ave</a>, Daytona Beach, Florida 32114</td>
                     <td class="content text-dark">Ridgewood Ave, Holly Hill, Florida 32117</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">416.83 mi ( + 1.48 mi )</td>
+                    <td class="content text-dark small">416.76 mi ( + 1.48 mi )</td>
                     <td class="content text-dark small">670.85 km ( + 2.38 km )</td>
-                    <td class="content text-dark">Volusia CR 4019 - LPGA Blvd, Holly Hill 32117</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/4019.php">Volusia CR 4019 - LPGA Blvd</a>, Holly Hill, Florida 32117</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">418.09 mi ( + 1.26 mi )</td>
-                    <td class="content text-dark small">672.88 km ( + 2.03 km )</td>
+                    <td class="content text-dark small">418.02 mi ( + 1.26 mi )</td>
+                    <td class="content text-dark small">671.52 km ( + 2.03 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Yonge St, Ormond Beach, Florida 32174</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">419.76 mi ( + 1.67 mi )</td>
-                    <td class="content text-dark small">675.57 km ( + 2.68 km )</td>
-                    <td class="content text-dark">FL-40 - W Granada Blvd, Ormond Beach, Florida 32174</td>
+                    <td class="content text-dark small">419.69 mi ( + 1.67 mi )</td>
+                    <td class="content text-dark small">674.20 km ( + 2.68 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/40.php">FL-40 - W Granada Blvd</a>, Ormond Beach, Florida 32174</td>
                     <td class="content text-dark">N Yonge St, Ormond Beach, Florida 32174</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">420.20 mi ( + 0.44 mi )</td>
-                    <td class="content text-dark small">676.28 km ( + 0.70 km )</td>
+                    <td class="content text-dark small">420.13 mi ( + 0.44 mi )</td>
+                    <td class="content text-dark small">674.90 km ( + 0.70 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Ormond Beach, Florida 32174</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">421.57 mi ( + 1.37 mi )</td>
-                    <td class="content text-dark small">678.48 km ( + 2.22 km )</td>
-                    <td class="content text-dark">FL-5A - N Nova Rd, Ormond Beach, Florida 32174</td>
+                    <td class="content text-dark small">421.50 mi ( + 1.37 mi )</td>
+                    <td class="content text-dark small">677.12 km ( + 2.22 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/5a.php">FL-5A - N Nova Rd</a>, Ormond Beach, Florida 32174</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">422.70 mi ( + 1.13 mi )</td>
-                    <td class="content text-dark small">680.30 km ( + 1.82 km )</td>
-                    <td class="content text-dark">Volusia CR 2813 - Airport Rd, Ormond Beach, Florida 32174</td>
+                    <td class="content text-dark small">422.63 mi ( + 1.13 mi )</td>
+                    <td class="content text-dark small">678.94 km ( + 1.82 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/2813.php">Volusia CR 2813 - Airport Rd</a>, Ormond Beach, Florida 32174</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">424.55 mi ( + 1.85 mi )</td>
-                    <td class="content text-dark small">683.28 km ( + 2.97 km )</td>
-                    <td class="content text-dark">Volusia CR 2820 - Pine Tree Dr, Ormond Beach, Florida 32174</td>
+                    <td class="content text-dark small">424.48 mi ( + 1.85 mi )</td>
+                    <td class="content text-dark small">681.91 km ( + 2.97 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/vo/2820.php">Volusia CR 2820 - Pine Tree Dr</a>, Ormond Beach, Florida 32174</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">425.37 mi ( + 0.82 mi )</td>
-                    <td class="content text-dark small">684.60 km ( + 1.32 km )</td>
-                    <td class="content text-dark">I-95, Ormond Beach, Florida 32174</td>
+                    <td class="content text-dark small">425.30 mi ( + 0.82 mi )</td>
+                    <td class="content text-dark small">683.23 km ( + 1.32 km )</td>
+                    <td class="content text-dark"><a href="../../interstates/95.php">I-95</a>, Ormond Beach, Florida 32174</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">427.13 mi ( + 1.76 mi )</td>
-                    <td class="content text-dark small">687.43 km ( + 2.83 km )</td>
+                    <td class="content text-dark small">427.06 mi ( + 1.76 mi )</td>
+                    <td class="content text-dark small">686.06 km ( + 2.83 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Bunnell, Florida 32110</td>
                     <td class="content text-dark">End Volusia County, Start Flagler County</td>
@@ -2289,26 +2289,30 @@
                 <tr>
                     <td class="content text-dark small">542 mi ( + 6.26 mi )</td>
                     <td class="content text-dark small">872.26 km ( + 10.12 km )</td>
-                    <td class="content text-dark">Nassau CR 121, Hilliard, Florida 32046 |  |</td>
+                    <td class="content text-dark">Nassau CR 121, Hilliard, Florida 32046</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">542.15 mi ( + 0.17 mi )</td>
                     <td class="content text-dark small">872.54 km ( + 0.28 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Folkston, Georgia 31536</td>
-                    <td class="content text-dark">EndUS- i Florida, Start US-1 in Georgia // End Nassau County, Start Charlton County // End concurrency with FL-15, Start concurrency with GA-4 & GA-15</td>
+                    <td class="content text-dark">End US-1 Florida, Start US-1 in Georgia // End Nassau County, Start Charlton County // End concurrency with FL-15, Start concurrency with GA-4 & GA-15</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">544.83 mi ( + 2.68 mi )</td>
                     <td class="content text-dark small">876.85 km ( + 4.31 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Second St, Folkston, Georgia 3153</td>
+                    <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">546.00 mi ( + 1.17 mi )</td>
                     <td class="content text-dark small">878.73 km ( + 1.88 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N 2nd St, Folkston, Georgia 31536</td>
+                    <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">546.43 mi ( + 0.43 mi )</td>
@@ -2343,26 +2347,28 @@
                     <td class="content text-dark small">883.50 km ( + 0.41 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Homeland, Georgia 31537</td>
-                    <td class="content text-dark">End concurency with US-1 & GA-23</td>
+                    <td class="content text-dark">End concurrency with US-1 & GA-23</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">560.84 mi ( + 11.88 mi )</td>
                     <td class="content text-dark small">902.61 km ( + 19.12 km )</td>
                     <td class="content text-dark">GA-15 & GA-121, Homeland, Georgia 31537</td>
-                    <td class="content text-dark"> | End concurrey with GA-15  GA-121</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with GA-15 &amp; GA-121</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">561.69 mi ( + 0.85 mi )</td>
                     <td class="content text-dark small">903.98 km ( + 1.37 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Jacksonville Hwy, Waycross, Georgia 31503 | End Charltonounty, Start Ware County</td>
+                    <td class="content text-dark">Jacksonville Hwy, Waycross, Georgia 31503</td>
+                    <td class="content text-dark">End Charlton County, Start Ware County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">566.61 mi ( + 4.92 mi )</td>
                     <td class="content text-dark small">911.90 km ( + 7.91 km )</td>
                     <td class="content text-dark">Ware CR 42 - Fort Mudge Rd, Waycross, Georgia 3503</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"> |
+                    <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">573.10 mi ( + 6.49 mi )</td>
