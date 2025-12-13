@@ -139,16 +139,44 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
-                <!-- <tr>
-                    <td class="content text-dark small">0.00 mi ( + 0.00 mi )</td>
-                    <td class="content text-dark small">0.00 km ( + 0.00 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/1-98/30.php/#us30bus">US-30 Business - W Main St (WB) / E Main St (EB)</a>, Everett, Pennsylvania 15537</td>
-                    <td class="content text-dark">N Spring St, Everett, Pennsylvania 15537</td>
+                <tr>
+                    <td class="content text-dark small">24.42 mi ( + 0.47 mi )</td>
+                    <td class="content text-dark small">38.57 km ( + 0.33 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">E 4th St, Everett, Pennsylvania 15537</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1.14 mi ( + 1.14 mi )</td>
-                    <td class="content text-dark small">1.84 km ( + 1.84 km )</td>
+                    <td class="content text-dark small">24.71 mi ( + 0.29 mi )</td>
+                    <td class="content text-dark small">39.04 km ( + 0.47 km )</td>
+                    <td class="content text-dark">PA-26 - State St</td>
+                    <td class="content text-dark">State St, Everett, Pennsylvania 15537</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">25.01 mi ( + 0.30 mi )</td>
+                    <td class="content text-dark small">39.53 km ( + 0.49 km )</td>
+                    <td class="content text-dark">PA-26 - State St</td>
+                    <td class="content text-dark">S Hopewell St, Everett, Pennsylvania 15537</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">25.12 mi ( + 0.11 mi )</td>
+                    <td class="content text-dark small">39.70 km ( + 0.17 km )</td>
+                    <td class="content text-dark"><a href="../../us-highways/1-98/30.php/#us30bus">US-30 Business - E Main St</a></td>
+                    <td class="content text-dark">E Main St, Everett, Pennsylvania 15537</td>
+                    <td class="content text-dark">Start concurrency with US-30 Business</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">25.28 mi ( + 0.16 mi )</td>
+                    <td class="content text-dark small">39.96 km ( + 0.26 km )</td>
+                    <td class="content text-dark">PA-26 - N Spring St, Everett, Pennsylvania 15537</td>
+                    <td class="content text-dark">N Spring St, Everett, Pennsylvania 15537</td>
+                    <td class="content text-dark">End concurrency with US-30 Business</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">26.42 mi ( + 1.14 mi )</td>
+                    <td class="content text-dark small">41.80 km ( + 1.84 km )</td>
                     <td class="content text-dark"><a href="../../us-highways/1-98/30.php/#us30">US-30 - Lincoln Hwy</a>, Everett, Pennsylvania 15537</td>
                     <td class="content text-dark">Raystown Rd, Everett, Pennsylvania 15537</td>
                     <td class="content text-dark"></td>
@@ -159,4 +187,4 @@
                     <td class="content text-dark"><a href="../../county-roads/pa/bf/1003.php">Bedford CR 1003 - Bud Shuster Byp</a> Everett, Pennsylvania 15537</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
-                </tr> -->
+                </tr>
