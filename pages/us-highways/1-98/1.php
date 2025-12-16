@@ -1861,79 +1861,86 @@
                     <td class="content text-dark">End Flagler County, Start St. Johns County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">451.31 mi ( + 0.52 mi )</td>
-                    <td class="content text-dark small">726.34 km ( + 0.84 km )</td>
-                    <td class="content text-dark">St. Johns CR 204, St Augustine, Florida 32086</td>
+                    <td class="content text-dark small">451.24 mi ( + 0.52 mi )</td>
+                    <td class="content text-dark small">724.93 km ( + 0.84 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/sj/204.php">St. Johns CR 204</a>, St Augustine, Florida 32086</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">451.43 mi ( + 0.12 mi )</td>
-                    <td class="content text-dark small">726.54 km ( + 0.19 km )</td>
-                    <td class="content text-dark">I-95, St Augustine, Florida 32086</td>
+                    <td class="content text-dark small">451.36 mi ( + 0.12 mi )</td>
+                    <td class="content text-dark small">725.12 km ( + 0.19 km )</td>
+                    <td class="content text-dark"><a href="../../interstates/95.php">I-95</a>, St Augustine, Florida 32086</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">458.26 mi ( + 6.83 mi )</td>
-                    <td class="content text-dark small">737.53 km ( + 10.99 km )</td>
-                    <td class="content text-dark">FL-206, St Augustine, Florida 32086</td>
+                    <td class="content text-dark small">458.19 mi ( + 6.83 mi )</td>
+                    <td class="content text-dark small">736.11 km ( + 10.99 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/206.php">FL-206</a>, St Augustine, Florida 32086</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">463.36 mi ( + 5.10 mi )</td>
-                    <td class="content text-dark small">745.74 km ( + 8.21 km )</td>
-                    <td class="content text-dark">St. Johns CR 5A - Old Moultrie Rd, St Augustine, Florida 32086</td>
+                    <td class="content text-dark small">463.29 mi ( + 5.10 mi )</td>
+                    <td class="content text-dark small">744.32 km ( + 8.21 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/sj/5a.php">St. Johns CR 5A - Old Moultrie Rd</a>, St Augustine, Florida 32086</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">465.93 mi ( + 2.57 mi )</td>
-                    <td class="content text-dark small">749.87 km ( + 4.14 km )</td>
-                    <td class="content text-dark">FL-312, St Augustine, Florida 32086</td>
+                    <td class="content text-dark small">465.86 mi ( + 2.57 mi )</td>
+                    <td class="content text-dark small">748.46 km ( + 4.14 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/312.php">FL-312</a>, St Augustine, Florida 32086</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">466.77 mi ( + 0.84 mi )</td>
-                    <td class="content text-dark small">751.22 km ( + 1.36 km )</td>
+                    <td class="content text-dark small">466.70 mi ( + 0.84 mi )</td>
+                    <td class="content text-dark small">749.82 km ( + 1.36 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Ponce De Leon Blvd, St Augustine, 32084</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">466.94 mi ( + 0.17 mi )</td>
-                    <td class="content text-dark small">751.50 km ( + 0.27 km )</td>
-                    <td class="content text-dark">FL-207, St Augustine, Florida 32084</td>
+                    <td class="content text-dark small">466.87 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">750.09 km ( + 0.27 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/207.php">FL-207</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">467.64 mi ( + 0.70 mi )</td>
-                    <td class="content text-dark small">752.62 km ( + 1.13 km )</td>
-                    <td class="content text-dark">St. Johns CR 214 (to US-1 Business) - W King St, St Augustine, Florida 32084</td>
-                    <td class="content text-dark">N Ponce De Leon Blvd, St Augustine, 32084</td>
+                    <td class="content text-dark small">467.57 mi ( + 0.70 mi )</td>
+                    <td class="content text-dark small">751.22 km ( + 1.13 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/sj/214.php">St. Johns CR 214 - W King St</a> (to <a href="#us1bus">US-1 Business</a>), St Augustine, Florida 32084</td>
+                    <td class="content text-dark">US-1, St Augustine, 32084</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">468.00 mi ( + 0.36 mi )</td>
-                    <td class="content text-dark small">753.20 km ( + 0.57 km )</td>
-                    <td class="content text-dark">US-1 Business - San Marco Ave, St Augustine, Florida 32084</td>
+                    <td class="content text-dark small">469.50 mi ( + 1.93 mi )</td>
+                    <td class="content text-dark small">754.33 km ( + 3.11 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/16.php">FL-16 - Charles Usinas Memorial Hwy</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">468.63 mi ( + 0.63 mi )</td>
-                    <td class="content text-dark small">754.22 km ( + 1.02 km )</td>
+                    <td class="content text-dark small">470.03 mi ( + 0.53 mi )</td>
+                    <td class="content text-dark small">755.18 km ( + 0.85 km )</td>
+                    <td class="content text-dark"><a href="#us1bus">US-1 Business - San Marco Ave</a>, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">470.66 mi ( + 0.63 mi )</td>
+                    <td class="content text-dark small">756.20 km ( + 1.02 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Dixie Hwy, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">469.39 mi ( + 0.76 mi )</td>
-                    <td class="content text-dark small">755.44 km ( + 1.23 km )</td>
-                    <td class="content text-dark">St. Johns CR 16A - Lewis Spdwy, St Augustine, Florida 32084</td>
+                    <td class="content text-dark small">471.42 mi ( + 0.76 mi )</td>
+                    <td class="content text-dark small">757.43 km ( + 1.23 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/sj/16a.php">St. Johns CR 16A - Lewis Spdwy</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
