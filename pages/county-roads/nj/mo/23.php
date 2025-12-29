@@ -9,28 +9,28 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../../us-highways/1-98/9.php">US-9</a>, Freehold Township, New Jersey 07728</td>
-                    <td class="content text-dark">Jackson Mills Rd, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"><a href="../oc/638.php">Ocean CR 638 - Jackson Mills Rd</a>, Jackson Township, New Jersey 08527</td>
+                    <td class="content text-dark"></td>
                     <td class="content text-dark">Start of Route</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">0.13 mi ( + 0.13 mi )</td>
-                    <td class="content text-dark small">0.21 km ( + 0.21 km )</td>
-                    <td class="content text-dark"><a href="../524.php">Monmouth CR 524 - Elton Adelphia Rd</a>, Freehold Township, New Jersey 07728</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
-                </tr>
-                <tr>
-                    <td class="content text-dark small">2.66 mi ( + 2.53 mi )</td>
-                    <td class="content text-dark small">4.27 km ( + 4.06 km )</td>
+                    <td class="content text-dark small">1.41 mi ( + 1.41 mi )</td>
+                    <td class="content text-dark small">2.26 km ( + 2.26 km )</td>
                     <td class="content text-dark"><a href="53.php">Monmouth CR 53 - Georgia Rd</a>, Freehold Township, New Jersey 07728</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">4.07 mi ( + 1.41 mi )</td>
-                    <td class="content text-dark small">6.53 km ( + 2.26 km )</td>
-                    <td class="content text-dark"><a href="../oc/638.php">Ocean CR 638 - Jackson Mills Rd</a>, Jackson Township, New Jersey 08527</td>
+                    <td class="content text-dark small">3.94 mi ( + 2.53 mi )</td>
+                    <td class="content text-dark small">6.32 km ( + 4.06 km )</td>
+                    <td class="content text-dark"><a href="../524.php">Monmouth CR 524 - Elton Adelphia Rd</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">4.07 mi ( + 0.13 mi )</td>
+                    <td class="content text-dark small">6.53 km ( + 0.21 km )</td>
+                    <td class="content text-dark"><a href="../../../us-highways/1-98/9.php">US-9</a>, Freehold Township, New Jersey 07728</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>

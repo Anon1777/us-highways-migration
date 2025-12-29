@@ -1,6 +1,6 @@
 # completion progress
 
-Lines of code (finished pages): 5464
+Lines of code (finished pages): 5436
 
 Static Pages:
 

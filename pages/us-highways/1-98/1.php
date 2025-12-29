@@ -1945,49 +1945,49 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">472.92 mi ( + 3.53 mi )</td>
+                    <td class="content text-dark small">474.95 mi ( + 3.53 mi )</td>
                     <td class="content text-dark small">761.12 km ( + 5.68 km )</td>
-                    <td class="content text-dark">St. Johns CR 312, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/sj/312.php">St. Johns CR 312</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">481.27 mi ( + 8.35 mi )</td>
-                    <td class="content text-dark small">774.56 km ( + 13.44 km )</td>
-                    <td class="content text-dark">St. Johns CR 210 Alternate, St Augustine, Florida 32084</td>
+                    <td class="content text-dark small">483.34 mi ( + 8.35 mi )</td>
+                    <td class="content text-dark small">776.55 km ( + 13.44 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/sj/210.php/#flsj210alt">St. Johns CR 210 Alternate</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">482.14 mi ( + 0.87 mi )</td>
-                    <td class="content text-dark small">775.96 km ( + 1.40 km )</td>
-                    <td class="content text-dark">St. Johns CR 210, St Augustine, Florida 32084</td>
+                    <td class="content text-dark small">484.21 mi ( + 0.87 mi )</td>
+                    <td class="content text-dark small">777.95 km ( + 1.40 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/sj/210.php">St. Johns CR 210</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">482.70 mi ( + 0.56 mi )</td>
-                    <td class="content text-dark small">776.86 km ( + 0.91 km )</td>
-                    <td class="content text-dark">St. Johns CR 210 - Nocatee Pkwy (EB), St Augustine, Florida 32084</td>
+                    <td class="content text-dark small">484.77 mi ( + 0.56 mi )</td>
+                    <td class="content text-dark small">778.86 km ( + 0.91 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/sj/210.php">St. Johns CR 210 - Nocatee Pkwy (EB)</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">483.50 mi ( + 0.80 mi )</td>
-                    <td class="content text-dark small">778.15 km ( + 1.28 km )</td>
-                    <td class="content text-dark">St. Johns CR 210 - Nocatee Pkwy (EB) / Race Track Road (WB), St Augustine, Florida 32084</td>
+                    <td class="content text-dark small">485.57 mi ( + 0.80 mi )</td>
+                    <td class="content text-dark small">780.14 km ( + 1.28 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/fl/sj/210.php">St. Johns CR 210 - Nocatee Pkwy (EB) / Race Track Road (WB)</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark">Phillips Hwy, Jacksonville, Florida 32208</td>
                     <td class="content text-dark">End St. Johns County, Begin Duval County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">486.14 mi ( + 2.64 mi )</td>
-                    <td class="content text-dark small">782.40 km ( + 4.25 km )</td>
-                    <td class="content text-dark">FL-9B (NB), Jacksonville, Florida 32208</td>
+                    <td class="content text-dark small">488.21 mi ( + 2.64 mi )</td>
+                    <td class="content text-dark small">784.39 km ( + 4.25 km )</td>
+                    <td class="content text-dark"><a href="../../state-highways/fl/9/#fl9b">FL-9B (NB)</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">486.47 mi ( + 0.33 mi )</td>
+                    <td class="content text-dark small">488.54 mi ( + 0.33 mi )</td>
                     <td class="content text-dark small">782.93 km ( + 0.52 km )</td>
                     <td class="content text-dark">FL-9B (SB), Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
