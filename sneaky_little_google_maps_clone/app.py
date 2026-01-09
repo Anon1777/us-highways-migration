@@ -28,7 +28,69 @@ def haversine(a, b):
 
 def haversine_matrix(coords):
     n = len(coords)
-    return [[haversine(coords[i], coords[j]) for j in range(n)] for i in range(n)]
+    matrix = [[0]*n for _ in range(n)]
+
+    for i in range(n):
+        for j in range(n):
+            if i == j:
+                matrix[i][j] = 0
+            else:
+                d = haversine(coords[i], coords[j])
+                matrix[i][j] = int(d)
+    return matrix
+
+MAX_METERS = 500_000
+
+def preflighted_distance_matrix(coords, cache=route_cache):
+    """
+    coords = [(lat, lon), ...]
+    returns NxN distance matrix in meters, preflighted with OSRM.
+    If OSRM cannot route an edge, marks it as MAX_METERS.
+    Preserves asymmetry.
+    """
+    n = len(coords)
+    matrix = [[MAX_METERS for _ in range(n)] for _ in range(n)]
+
+    for i in range(n):
+        for j in range(n):
+            if i == j:
+                matrix[i][j] = 0
+                continue
+
+            a, b = coords[i], coords[j]
+            key = f"{round(a[0],6)}-{round(a[1],6)}-{round(b[0],6)}-{round(b[1],6)}"
+
+            # Check cache first
+            if key in cache:
+                try:
+                    # distance along cached path
+                    path = cache[key]
+                    # sum haversine along segments if path has >2 points
+                    # (2-point paths are just straight haversine lines, not real routes)
+                    if len(path) <= 2:
+                        dist = haversine(a, b)
+                    else:
+                        dist = sum(haversine(path[k], path[k+1]) for k in range(len(path)-1))
+                    matrix[i][j] = int(dist)
+                    continue
+                except Exception:
+                    # fallback to BIG
+                    matrix[i][j] = MAX_METERS
+                    continue
+
+            # Try OSRM
+            try:
+                path = osrm_route_geometry_safe(a, b)
+                # compute length along real roads
+                dist = sum(haversine(path[k], path[k+1]) for k in range(len(path)-1))
+                matrix[i][j] = int(dist)
+                # store in cache
+                cache[key] = path
+            except Exception:
+                # OSRM failed → mark as BIG
+                matrix[i][j] = MAX_METERS
+
+    return matrix
 
 def osrm_distance_matrix(coords):
     """
@@ -89,8 +151,30 @@ def osrm_distance_matrix(coords):
             # write submatrix into full matrix
             for ii, row in enumerate(sub):
                 for jj, val in enumerate(row):
-                    matrix[i_start + ii][j_start + jj] = val
+                    if val is None or val > MAX_METERS:
+                        matrix[i_start + ii][j_start + jj] = OSRM_CUTOFF_METERS
+                    else:
+                        matrix[i_start + ii][j_start + jj] = int(val)
 
+
+    return matrix
+
+OSRM_CUTOFF_METERS = math.pow(2, 31) - 1
+
+def preflight_osrm_matrix(coords):
+    n = len(coords)
+    matrix = [[0]*n for _ in range(n)]
+    for i in range(n):
+        for j in range(n):
+            if i == j:
+                matrix[i][j] = 0
+                continue
+            try:
+                path = osrm_route_geometry_safe(coords[i], coords[j])
+                dist = sum(haversine(path[k], path[k+1]) for k in range(len(path)-1))
+                matrix[i][j] = int(dist)
+            except RuntimeError:
+                matrix[i][j] = OSRM_CUTOFF_METERS
     return matrix
 
 def osrm_route_geometry(a, b, cache=route_cache):
@@ -98,7 +182,7 @@ def osrm_route_geometry(a, b, cache=route_cache):
     a, b = (lat, lon)
     returns list of (lat, lon) following real roads
     """
-    key = f"{a}-{b}"
+    key = f"{round(a[0], 6)}-{round(a[1], 6)}-{round(b[0], 6)}-{round(b[1], 6)}"
 
     if key in cache:
         return cache[key]
@@ -113,9 +197,10 @@ def osrm_route_geometry(a, b, cache=route_cache):
     )
     print("Routing: ", a, "->", b)
     r = requests.get(url, timeout=10)
-    if r.status_code != 200:
-        print("OSRM error:", r.status_code, r.text)
-        return [a, b]
+    if r.status_code != 200 or not r.json().get("routes"):
+        # print("OSRM error:", r.status_code, r.text)
+        # return [a, b]
+        raise RuntimeError(f"OSRM failed on edge {a} -> {b}")
 
     coords = r.json()["routes"][0]["geometry"]["coordinates"]
     path = [(lat, lon) for lon, lat in coords]
@@ -123,6 +208,46 @@ def osrm_route_geometry(a, b, cache=route_cache):
     cache[key] = path
 
     rev_key = f"{b}-{a}"
+    cache[rev_key] = list(reversed(path))
+
+    return path
+
+def osrm_route_geometry_safe(a, b, cache=route_cache):
+    """
+    a, b = (lat, lon)
+    Returns list of (lat, lon) along real roads.
+    Raises RuntimeError if OSRM cannot route.
+    NEVER returns a straight line for failed edges.
+    """
+    key = f"{round(a[0], 6)}-{round(a[1], 6)}-{round(b[0], 6)}-{round(b[1], 6)}"
+    if key in cache:
+        return cache[key]
+
+    lon1, lat1 = a[1], a[0]
+    lon2, lat2 = b[1], b[0]
+
+    url = (
+        f"https://router.project-osrm.org/route/v1/driving/"
+        f"{lon1},{lat1};{lon2},{lat2}"
+        f"?overview=full&geometries=geojson"
+    )
+    r = requests.get(url, timeout=10)
+    if r.status_code != 200:
+        raise RuntimeError(f"OSRM failed for {a} -> {b} with status {r.status_code}")
+
+    routes = r.json().get("routes")
+    if not routes or len(routes) == 0:
+        raise RuntimeError(f"OSRM returned no routes for {a} -> {b}")
+
+    coords = routes[0]["geometry"]["coordinates"]
+    if not coords or len(coords) < 2:
+        raise RuntimeError(f"OSRM returned invalid geometry for {a} -> {b}")
+
+    path = [(lat, lon) for lon, lat in coords]
+    cache[key] = path
+
+    # also store reversed path for efficiency
+    rev_key = f"{round(b[0], 6)}-{round(b[1], 6)}-{round(a[0], 6)}-{round(a[1], 6)}"
     cache[rev_key] = list(reversed(path))
 
     return path
@@ -140,7 +265,7 @@ coords_locations = list(locations.keys())
 names_locations = list(locations.values())
 
 # locations2 as accepted schools
-locations2 = dict(list(locations.items())[:18])
+locations2 = dict(list(locations.items())[:20])
 coords_locations2 = list(locations2.keys())
 names_locations2 = list(locations2.values())
 
@@ -222,8 +347,16 @@ full_road_path2 = []
 for i in range(len(route2) - 1):
     a = coords_locations2[route2[i]]
     b = coords_locations2[route2[i + 1]]
-    segment = osrm_route_geometry(a, b)
-    full_road_path2.extend(segment if i == 0 else segment[1:])
+    try:
+        segment = osrm_route_geometry(a, b)
+        # Only use the segment if it's a real route (more than 2 points)
+        if len(segment) <= 2:
+            print(f"WARNING: Edge {a} -> {b} is a haversine line, skipping")
+            segment = []
+    except RuntimeError:
+        print(f"WARNING: OSRM routing failed for {a} -> {b}")
+        segment = []
+    full_road_path2.extend(segment if i == 0 else segment[1:] if segment else [])
 
 _tick("constructed full_road_path2 (second route)")
 
@@ -261,8 +394,16 @@ full_road_path3 = []
 for i in range(len(route3) - 1):
     a = coords_locations3[route3[i]]
     b = coords_locations3[route3[i + 1]]
-    segment = osrm_route_geometry(a, b)
-    full_road_path3.extend(segment if i == 0 else segment[1:])
+    try:
+        segment = osrm_route_geometry(a, b)
+        # Only use the segment if it's a real route (more than 2 points)
+        if len(segment) <= 2:
+            print(f"WARNING: Edge {a} -> {b} is a haversine line, skipping")
+            segment = []
+    except RuntimeError:
+        print(f"WARNING: OSRM routing failed for {a} -> {b}")
+        segment = []
+    full_road_path3.extend(segment if i == 0 else segment[1:] if segment else [])
 
 _tick("constructed full_road_path3 (third route)")
 
