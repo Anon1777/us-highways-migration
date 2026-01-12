@@ -1038,13 +1038,6 @@
                 <tr>
                     <td class="content text-dark small">157.67 mi ( + 0.58 mi )</td>
                     <td class="content text-dark small">257.18 km ( + 0.93 km )</td>
-                    <td class="content text-dark"><a href="../../state-highways/nj/33.php/#nj33bus">NJ-33 Business - Park Ave</a>, Freehold Township, New Jersey 07728</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
-                </tr>
-                <tr>
-                    <td class="content text-dark small">157.67 mi ( + 0.58 mi )</td>
-                    <td class="content text-dark small">257.18 km ( + 0.93 km )</td>
                     <td class="content text-dark"><a href="../../state-highways/nj/33.php/#nj33bus">NJ-33 Business - Park Ave</a> / <a href="../../county-roads/nj/mo/24.php">Monmouth CR 24 - Manalapan Ave</a>, Freehold Township, New Jersey 07728</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>

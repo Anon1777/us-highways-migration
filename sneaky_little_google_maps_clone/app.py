@@ -265,12 +265,12 @@ coords_locations = list(locations.keys())
 names_locations = list(locations.values())
 
 # locations2 as accepted schools
-locations2 = dict(list(locations.items())[:20])
+locations2 = dict(list(locations.items())[:22])
 coords_locations2 = list(locations2.keys())
 names_locations2 = list(locations2.values())
 
 # locations3 as declined schools
-locations3 = dict(list(locations.items())[len(locations)-2:])
+locations3 = dict(list(locations.items())[len(locations)-5:])
 coords_locations3 = list(locations3.keys())
 names_locations3 = list(locations3.values())
 
