@@ -15,14 +15,14 @@
                 <tr>
                     <td class="content text-dark small">0.93 mi ( + 0.93 mi )</td>
                     <td class="content text-dark small">1.49 km ( + 1.41 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/101-290/206.php">US-206 - Bordentown Rd</a>, Hamilton Township, New Jersey 08610</td>
+                    <td class="content text-dark"><a href="../../us-highways/206.php">US-206 - Bordentown Rd</a>, Hamilton Township, New Jersey 08610</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">4.90 mi ( + 3.97 mi )</td>
                     <td class="content text-dark small">7.88 km ( + 6.39 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/101-290/130.php">US-130 - Robbinsville Rd</a>, Hamilton Township, New Jersey 08610</td>
+                    <td class="content text-dark"><a href="../../us-highways/130.php">US-130 - Robbinsville Rd</a>, Hamilton Township, New Jersey 08610</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

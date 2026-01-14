@@ -8,7 +8,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../us-highways/101-290/130.php">US-130</a>, Hamilton Township, New Jersey 08620</td>
+                    <td class="content text-dark"><a href="../../us-highways/130.php">US-130</a>, Hamilton Township, New Jersey 08620</td>
                     <td class="content text-dark">NJ-156, Hamilton Township, New Jersey 08620</td>
                     <td class="content text-dark">Start of Route</td>
                 </tr>
@@ -36,7 +36,7 @@
                 <tr>
                     <td class="content text-dark small">1.31 mi ( + 0.72 mi )</td>
                     <td class="content text-dark small">2.11 km ( + 1.16 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/101-290/130.php">US-130</a>, Hamilton Township, New Jersey 08620</td>
+                    <td class="content text-dark"><a href="../../us-highways/130.php">US-130</a>, Hamilton Township, New Jersey 08620</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>

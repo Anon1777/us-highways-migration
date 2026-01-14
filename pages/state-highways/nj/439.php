@@ -30,7 +30,7 @@
                 <tr>
                     <td class="content text-dark small">0.81 mi ( + 0.33 mi )</td>
                     <td class="content text-dark small">1.30 km ( + 0.54 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/1-98/1.php">US-1</a> (concurrent with <a href="../../us-highways/1-98/9.php">US-9</a>), Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="../../us-highways/1.php">US-1</a> (concurrent with <a href="../../us-highways/9.php">US-9</a>), Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

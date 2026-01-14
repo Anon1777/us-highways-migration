@@ -37,7 +37,7 @@
                 <tr>
                     <td class="content text-dark small">2.51 mi ( + 0.45 mi )</td>
                     <td class="content text-dark small">4.04 km ( + 0.72 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/101-290/130.php">US-130</a>, East Windsor, New Jersey 08520</td>
+                    <td class="content text-dark"><a href="../../us-highways/130.php">US-130</a>, East Windsor, New Jersey 08520</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

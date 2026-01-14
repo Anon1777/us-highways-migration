@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../../us-highways/1-98/9.php">US-9</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"><a href="../../../us-highways/9.php">US-9</a>, Freehold Township, New Jersey 07728</td>
                     <td class="content text-dark">Manalapan Ave, Freehold Township, New Jersey 07728</td>
                     <td class="content text-dark">Start of Route</td>
                 </tr>

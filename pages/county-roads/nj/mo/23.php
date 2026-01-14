@@ -30,7 +30,7 @@
                 <tr>
                     <td class="content text-dark small">4.07 mi ( + 0.13 mi )</td>
                     <td class="content text-dark small">6.53 km ( + 0.21 km )</td>
-                    <td class="content text-dark"><a href="../../../us-highways/1-98/9.php">US-9</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"><a href="../../../us-highways/9.php">US-9</a>, Freehold Township, New Jersey 07728</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>

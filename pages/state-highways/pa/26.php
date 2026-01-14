@@ -163,7 +163,7 @@
                 <tr>
                     <td class="content text-dark small">25.12 mi ( + 0.11 mi )</td>
                     <td class="content text-dark small">39.70 km ( + 0.17 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/1-98/30.php/#us30bus">US-30 Business - E Main St</a></td>
+                    <td class="content text-dark"><a href="../../us-highways/30.php/#us30bus">US-30 Business - E Main St</a></td>
                     <td class="content text-dark">E Main St, Everett, Pennsylvania 15537</td>
                     <td class="content text-dark">Start concurrency with US-30 Business</td>
                 </tr>
@@ -177,7 +177,7 @@
                 <tr>
                     <td class="content text-dark small">26.42 mi ( + 1.14 mi )</td>
                     <td class="content text-dark small">41.80 km ( + 1.84 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/1-98/30.php/#us30">US-30 - Lincoln Hwy</a>, Everett, Pennsylvania 15537</td>
+                    <td class="content text-dark"><a href="../../us-highways/30.php/#us30">US-30 - Lincoln Hwy</a>, Everett, Pennsylvania 15537</td>
                     <td class="content text-dark">Raystown Rd, Everett, Pennsylvania 15537</td>
                     <td class="content text-dark"></td>
                 </tr>

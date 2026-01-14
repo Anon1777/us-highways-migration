@@ -1,4 +1,4 @@
-<?php include "../../static/top.php"; ?>    
+<?php include "../static/top.php"; ?>    
         <div class="col col-2 xxl"></div>
         <div class="col col-8 xxl">
             <h1 class="header">List of US Highways</h1>
@@ -210,4 +210,4 @@
             <h3 class="content text-dark"><a href="301-730/730.php">US-730</a></h3>
         </div>
         <div class="col col-2 xxl"></div>
-<?php include "../../static/bottom.php"; ?>
+<?php include "../static/bottom.php"; ?>

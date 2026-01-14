@@ -30,7 +30,7 @@
                 <tr>
                     <td class="content text-dark small">0.34 mi ( + 0.12 mi )</td>
                     <td class="content text-dark small">0.54 km ( + 0.19 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/1-98/9.php">US-9</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"><a href="../../us-highways/9.php">US-9</a>, Woodbridge Township, New Jersey 07095</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

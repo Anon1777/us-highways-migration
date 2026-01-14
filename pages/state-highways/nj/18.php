@@ -184,7 +184,7 @@
                 <tr>
                     <td class="content text-dark small">25.26 mi ( + 0.33 mi )</td>
                     <td class="content text-dark small">40.64 km ( + 0.53 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/1-98/9.php">US-9</a>, Old Bridge, New Jersey 08857</td>
+                    <td class="content text-dark"><a href="../../us-highways/9.php">US-9</a>, Old Bridge, New Jersey 08857</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -261,7 +261,7 @@
                 <tr>
                     <td class="content text-dark small">35.12 mi ( + 0.29 mi )</td>
                     <td class="content text-dark small">56.54 km ( + 0.47 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/1-98/1.php">US-1</a>, New Brunswick, New Jersey 08901</td>
+                    <td class="content text-dark"><a href="../../us-highways/1.php">US-1</a>, New Brunswick, New Jersey 08901</td>
                     <td class="content text-dark">Burnet St, New Brunswick, New Jersey 08901</td>
                     <td class="content text-dark"></td>
                 </tr>

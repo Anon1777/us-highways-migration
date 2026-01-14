@@ -29,7 +29,7 @@
                 <tr>
                     <td class="content text-dark small">1.53 mi ( + 0.80 mi )</td>
                     <td class="content text-dark small">2.45 km ( + 1.28 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/101-290/206.php">US-206 - S Broad St</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"><a href="../../us-highways/206.php">US-206 - S Broad St</a>, Trenton, New Jersey 08608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -43,7 +43,7 @@
                 <tr>
                     <td class="content text-dark small">2.08 mi ( + 0.28 mi )</td>
                     <td class="content text-dark small">3.34 km ( + 0.45 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/1-98/1.php">US-1</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"><a href="../../us-highways/1.php">US-1</a>, Trenton, New Jersey 08608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>

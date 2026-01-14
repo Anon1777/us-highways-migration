@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../us-highways/1-98/50.php">US-50 - Ocean Gtwy</a>, Ocean City, Maryland 21842</td>
+                    <td class="content text-dark"><a href="../../us-highways/50.php">US-50 - Ocean Gtwy</a>, Ocean City, Maryland 21842</td>
                     <td class="content text-dark">Baltimore Ave (NB) / Philadelphia Ave (SB), Ocean City, Maryland 21842</td>
                     <td class="content text-dark">Start of Route // Start concurrency with MD-378</td>
                 </tr>

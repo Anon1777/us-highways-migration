@@ -16,7 +16,7 @@
                 <tr>
                     <td class="content text-dark small">0.31 mi ( + 0.31 mi )</td>
                     <td class="content text-dark small">0.49 km ( + 0.49 km )</td>
-                    <td class="content text-dark"><a href="../../../us-highways/1-98/40.php">US-40 - Black Horse Pk</a> (concurrent with <a href="../../../us-highways/301-730/322.php">US-322</a>), Egg Harbor Township, New Jersey 08234</td>
+                    <td class="content text-dark"><a href="../../../us-highways/40.php">US-40 - Black Horse Pk</a> (concurrent with <a href="../../../us-highways/322.php">US-322</a>), Egg Harbor Township, New Jersey 08234</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -51,7 +51,7 @@
                 <tr>
                     <td class="content text-dark small">2.31 mi ( + 0.44 mi )</td>
                     <td class="content text-dark small">3.70 km ( + 0.71 km )</td>
-                    <td class="content text-dark"><a href="../../../us-highways/1-98/9.php">US-9 - S New Rd</a>, Pleasantville, New Jersey 08232</td>
+                    <td class="content text-dark"><a href="../../../us-highways/9.php">US-9 - S New Rd</a>, Pleasantville, New Jersey 08232</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

@@ -9,7 +9,7 @@
             <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../../us-highways/101-290/206.php">US-206 - Princeton Ave</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="../../../us-highways/206.php">US-206 - Princeton Ave</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark">Brunswick Cir, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark">Start of Route // Start concurrency with US-206</td>
                 </tr>

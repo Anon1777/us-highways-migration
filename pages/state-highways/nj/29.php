@@ -198,7 +198,7 @@
                 <tr>
                     <td class="content text-dark small">20.02 mi ( + 0.07 mi )</td>
                     <td class="content text-dark small">32.25 km ( + 0.11 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/101-290/202.php">US-202</a>, Delaware Township, New Jersey 08559</td>
+                    <td class="content text-dark"><a href="../../us-highways/202.php">US-202</a>, Delaware Township, New Jersey 08559</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

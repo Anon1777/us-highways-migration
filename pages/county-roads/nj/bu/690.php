@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../../us-highways/101-290/206.php">US-206</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"><a href="../../../us-highways/206.php">US-206</a>, Mansfield, New Jersey 08022</td>
                     <td class="content text-dark">Atlantic Ave, Mansfield, New Jersey 08022</td>
                     <td class="content text-dark">Start of Route</td>
                 </tr>
@@ -23,7 +23,7 @@
                 <tr>
                     <td class="content text-dark small">0.78 mi ( + 0.54 mi )</td>
                     <td class="content text-dark small">1.26 km ( + 0.87 km )</td>
-                    <td class="content text-dark"><a href="../../../us-highways/101-290/206.php">US-206</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"><a href="../../../us-highways/206.php">US-206</a>, Mansfield, New Jersey 08022</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>
