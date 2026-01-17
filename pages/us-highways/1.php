@@ -1,10 +1,11 @@
 <?php include "../../static/top.php"; ?>
         
             <h6 class="dir"><a href="../../index-redirect.php">Home</a> > <a href="../list.php">US Highways</a> > US-1</h6>
-            <h1 class="header">United States Route 1</h1>
+            <h1 class="header" id="us1">United States Route 1</h1>
             <h2 class="content text-dark">United States Route 1 (US-1) is a major north-south route spanning the east coast of the United States. It is xxxx.xx mi (xxxx.xx km) long. It connects the Florida Keys to mainland Florida and continues further to the Canadian border.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
+            <section id="flus1">
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
@@ -703,7 +704,7 @@
                     <td class="content text-dark small">346.15 km ( + 0.61 km )</td>
                     <td class="content text-dark"><a href="../state-highways/fl/5.php">FL-5 - Federal Hwy</a>, Lake Worth Beach, Florida 33462</td>
                     <td class="content text-dark">S Dixie Hwy, Lake Worth Beach, Florida 33460</td>
-                    <td class="content text-dark">End concurrency with FL-5 // Start concurrency with FL-805</td>
+                    <td class="content text-dark">End concurrency with FL-5 <br> Start concurrency with FL-805</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">217.02 mi ( + 1.72 mi )</td>
@@ -745,7 +746,7 @@
                     <td class="content text-dark small">358.90 km ( + 1.75 km )</td>
                     <td class="content text-dark"><a href="../state-highways/fl/704.php">FL-704 - Lakeview Ave (WB) / Okeechobee Blvd (EB)</a> / <a href="../state-highways/fl/5.php">FL-5 - S Dixie Hwy (SB)</a>, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark">Lakeview Ave, West Palm Beach, Florida 33401</td>
-                    <td class="content text-dark">End concurrency with FL-5, Start concurrency with FL-704</td>
+                    <td class="content text-dark">Start concurrency with FL-704</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">223.29 mi ( + 0.08 mi )</td>
@@ -885,7 +886,7 @@
                     <td class="content text-dark small">390.05 km ( + 1.67 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">SE Federal Hwy, Martin, Florida 33469</td>
-                    <td class="content text-dark">End Palm Beach County, Start Martin County // End concurrency with FL-A1A, Start concurrency with Martin CR A1A</td>
+                    <td class="content text-dark">End Palm Beach County, Start Martin County <br> End concurrency with FL-A1A, Start concurrency with Martin CR A1A</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">247.92 mi ( + 5.36 mi )</td>
@@ -1289,7 +1290,7 @@
                 <tr>
                     <td class="content text-dark small">328.12 mi ( + 1.20 mi )</td>
                     <td class="content text-dark small">526.74 km ( + 1.92 km )</td>
-                    <td class="content text-dark"><a href="../101-290/192.php">US-192 - E Strawbridge Ave</a>, Melbourne, Florida 32935</td>
+                    <td class="content text-dark"><a href="../192.php">US-192 - E Strawbridge Ave</a>, Melbourne, Florida 32935</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1912,7 +1913,7 @@
                 <tr>
                     <td class="content text-dark small">467.57 mi ( + 0.70 mi )</td>
                     <td class="content text-dark small">751.22 km ( + 1.13 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/fl/sj/214.php">St. Johns CR 214 - W King St</a> (to <a href="#us1bus">US-1 Business</a>), St Augustine, Florida 32084</td>
+                    <td class="content text-dark"><a href="../county-roads/fl/sj/214.php">St. Johns CR 214 - W King St</a> (to <a href="#flus1bus">US-1 Business</a>), St Augustine, Florida 32084</td>
                     <td class="content text-dark">US-1, St Augustine, 32084</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1926,7 +1927,7 @@
                 <tr>
                     <td class="content text-dark small">470.03 mi ( + 0.53 mi )</td>
                     <td class="content text-dark small">755.18 km ( + 0.85 km )</td>
-                    <td class="content text-dark"><a href="#us1bus">US-1 Business - San Marco Ave</a>, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"><a href="#flus1bus">US-1 Business - San Marco Ave</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2030,83 +2031,98 @@
                 </tr>
                 <tr>
                     <td class="content text-dark small">494.70 mi ( + 1.74 mi )</td>
-                    <td class="content text-dark small">792.84 km ( + 2.79 km )</td>
-                    <td class="content text-dark">Duval CR 116 - Sunbeam Rd, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark small">794.84 km ( + 2.79 km )</td>
+                    <td class="content text-dark"><a href="../county-roads/fl/du/116.php">Duval CR 116 - Sunbeam Rd</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">493.76 mi ( + 1.13 mi )</td>
-                    <td class="content text-dark small">794.66 km ( + 1.81 km )</td>
-                    <td class="content text-dark">FL-152 - Baymeadows Rd, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark small">494.83 mi ( + 1.13 mi )</td>
+                    <td class="content text-dark small">796.65 km ( + 1.81 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/152.php">FL-152 - Baymeadows Rd</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">495.59 mi ( + 1.83 mi )</td>
-                    <td class="content text-dark small">797.60 km ( + 2.95 km )</td>
-                    <td class="content text-dark">FL-202 - J Turner Butler Blvd, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark small">496.66 mi ( + 1.83 mi )</td>
+                    <td class="content text-dark small">799.60 km ( + 2.95 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/202.php">FL-202 - J Turner Butler Blvd</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">497.46 mi ( + 1.87 mi )</td>
-                    <td class="content text-dark small">800.61 km ( + 3.01 km )</td>
-                    <td class="content text-dark">FL-109 - W University Blvd, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark small">498.53 mi ( + 1.87 mi )</td>
+                    <td class="content text-dark small">802.61 km ( + 3.01 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/109.php">FL-109 - W University Blvd</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">499.20 mi ( + 1.74 mi )</td>
-                    <td class="content text-dark small">803.41 km ( + 2.79 km )</td>
-                    <td class="content text-dark">FL-126 & US-1 Alternate - Emerson St, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark small">500.27 mi ( + 1.74 mi )</td>
+                    <td class="content text-dark small">805.40 km ( + 2.79 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/126.php">FL-126 - Emerson St (WB)</a> / <a href="#flus1alt">US-1 Alternate - Emerson St (WB)</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">500.64 mi ( + 1.44 mi )</td>
-                    <td class="content text-dark small">805.73 km ( + 2.31 km )</td>
-                    <td class="content text-dark">US-90 - Atlantic Blvd, Jacksonville, Florida 32208</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark">Start concurrency with FL-9</td>
-                </tr>
-                <tr>
-                    <td class="content text-dark small">500.82 mi ( + 0.18 mi )</td>
-                    <td class="content text-dark small">806.02 km ( + 2.31 km )</td>
-                    <td class="content text-dark">I-95, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark small">501.71 mi ( + 1.27 mi )</td>
+                    <td class="content text-dark small">807.71 km ( + 2.03 km )</td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark">Kings Ave, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">501.71 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">807.71 km ( + 0.28 km )</td>
+                    <td class="content text-dark"><a href="90.php">US-90 - Atlantic Blvd</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with FL-5</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">501.89 mi ( + 0.18 mi )</td>
+                    <td class="content text-dark small">810.02 km ( + 2.31 km )</td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-90 & FL-10</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">501.62 mi ( + 0.80 mi )</td>
-                    <td class="content text-dark small">807.31 km ( + 1.28 km )</td>
+                    <td class="content text-dark small">502.69 mi ( + 0.80 mi )</td>
+                    <td class="content text-dark small">811.31 km ( + 1.28 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Prudential Dr, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">501.67 mi ( + 0.05 mi )</td>
-                    <td class="content text-dark small">807.39 km ( + 0.08 km )</td>
-                    <td class="content text-dark">FL-13 - Hendricks Ave (SB) / Riverplace Blvd (NB), Jacksonville, Florida 32208</td>
+                    <td class="content text-dark small">502.74 mi ( + 0.05 mi )</td>
+                    <td class="content text-dark small">811.39 km ( + 0.08 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/13.php">FL-13 - Hendricks Ave (SB) / Riverplace Blvd (NB)</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with FL-13</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">501.92 mi ( + 0.25 mi )</td>
-                    <td class="content text-dark small">807.79 km ( + 0.40 km )</td>
-                    <td class="content text-dark">FL-10 - S Main St, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark small">502.99 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">811.79 km ( + 0.40 km )</td>
+                    <td class="content text-dark"><a href="90.php">US-90 - S Main St</a> (concurrent with <a href="../state-highways/fl/10.php">FL-10</a>), Jacksonville, Florida 32208</td>
                     <td class="content text-dark">S Main St, Jacksonville, Florida 32208</td>
-                    <td class="content text-dark">End concurrency with FL-13 & FL-9</td>
+                    <td class="content text-dark">End concurrency with FL-13</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">502.07 mi ( + 0.15 mi )</td>
-                    <td class="content text-dark small">808.03 km ( + 0.24 km )</td>
-                    <td class="content text-dark">FL-13 - Riverplace Blvd, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark small">503.14 mi ( + 0.15 mi )</td>
+                    <td class="content text-dark small">812.03 km ( + 0.24 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/13.php">FL-13 - Riverplace Blvd</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">502.48 mi ( + 0.41 mi )</td>
-                    <td class="content text-dark small">808.69 km ( + 0.66 km )</td>
+                    <td class="content text-dark small">503.22 mi ( + 0.08 mi )</td>
+                    <td class="content text-dark small">812.16 km ( + 0.13 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with US-90 & FL-10</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">503.55 mi ( + 0.33 mi )</td>
+                    <td class="content text-dark small">812.69 km ( + 0.53 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Ocean St (NB) / N Main St (SB)</td>
                     <td class="content text-dark"></td>
@@ -2293,12 +2309,14 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                </section>
+                <section id="gaus1">
                 <tr>
                     <td class="content text-dark small">542.15 mi ( + 0.17 mi )</td>
                     <td class="content text-dark small">872.54 km ( + 0.28 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Folkston, Georgia 31536</td>
-                    <td class="content text-dark">End US-1 Florida, Start US-1 in Georgia // End Nassau County, Start Charlton County // End concurrency with FL-15, Start concurrency with GA-4 & GA-15</td>
+                    <td class="content text-dark">End US-1 Florida, Start US-1 in Georgia <br> End Nassau County, Start Charlton County <br> End concurrency with FL-15, Start concurrency with GA-4 & GA-15</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">544.83 mi ( + 2.68 mi )</td>
@@ -2996,8 +3014,10 @@
                     <td class="content text-dark small">1231.23 km ( + 0.41 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Gordon Hwy & Jefferson Davis Hwy, North Augusta, South Carolina 29841</td>
-                    <td class="content text-dark">End US-1 in Georgia, Start US-1 in South Carolina // End Richmond County, Start Aiken County</td>
+                    <td class="content text-dark">End US-1 in Georgia, Start US-1 in South Carolina <br> End Richmond County, Start Aiken County</td>
                 </tr>
+                </section>
+                <section id="scus1">
                 <tr>
                     <td class="content text-dark small">765.72 mi ( + 0.69 mi )</td>
                     <td class="content text-dark small">1232.34 km ( + 1.12 km )</td>
@@ -3797,12 +3817,14 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                </section>
+                <section id="ncus1">
                 <tr>
                     <td class="content text-dark small">934.16 mi ( + 0.61 mi )</td>
                     <td class="content text-dark small">1503.41 km ( + 0.99 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Hamlet, North Carolina 28345</td>
-                    <td class="content text-dark">End US-1 in South Carolina, Start US-1 in North Carolina // End Marlboro County, Start Richmond County</td>
+                    <td class="content text-dark">End US-1 in South Carolina, Start US-1 in North Carolina <br> End Marlboro County, Start Richmond County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">935.88 mi ( + 1.72 mi )</td>
@@ -4847,12 +4869,14 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-401</td>
                 </tr>
+                </section>
+                <section id="vaus1">
                 <tr>
                     <td class="content text-dark small">1105.46 mi ( + 0.74 mi )</td>
                     <td class="content text-dark small">1779.09 km ( + 1.19 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Boydton, Virginia 23917</td>
-                    <td class="content text-dark">End US-1 in North Carolina, Start US-1 in Virginia // End Warren County, Start Mecklenburg County</td>
+                    <td class="content text-dark">End US-1 in North Carolina, Start US-1 in Virginia <br> End Warren County, Start Mecklenburg County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1110.64 mi ( + 5.18 mi )</td>
@@ -6160,12 +6184,14 @@
                     <td class="content text-dark">Henry G. Shirley Memorial Hwy, Arlington, Virginia 22202</td>
                     <td class="content text-dark">Start concurrency of I-395</td>
                 </tr>
+                </section>
+                <section id="dcus1">
                 <tr>
                     <td class="content text-dark small">1301.37 mi ( + 0.79 mi )</td>
                     <td class="content text-dark small">2094.38 km ( + 1.27 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Arland D. Williams Jr. Memorial Hwy, Washington, District of Columbia 20505</td>
-                    <td class="content text-dark">End US-1 in Virginia, Start US-1 in District of Columbia // End Arlington County</td>
+                    <td class="content text-dark">End US-1 in Virginia, Start US-1 in District of Columbia <br> End Arlington County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1302.16 mi ( + 0.79 mi )</td>
@@ -6209,12 +6235,14 @@
                     <td class="content text-dark">NW Rhode Island Ave, Washington, District of Columbia 20505</td>
                     <td class="content text-dark"></td>
                 </tr>
+                </section>
+                <section id="mdus1">
                 <tr>
                     <td class="content text-dark small">1308.57 mi ( + 3.41 mi )</td>
                     <td class="content text-dark small">2105.97 km ( + 5.48 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Rhode Island Ave, Mt Ranier, Maryland 20712</td>
-                    <td class="content text-dark">End US-1 in District of Columbia, Start US-1 in Maryland // Start Prince George's County</td>
+                    <td class="content text-dark">End US-1 in District of Columbia, Start US-1 in Maryland <br> Start Prince George's County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1309 mi ( + 0.39 mi )</td>
@@ -6362,5 +6390,157 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Washington Blvd, Savage, Maryland 20763</td>
                     <td class="content text-dark"></td>
+                </tr>
+            </table>
+            <hr>
+            <h1 class="header" id="flus1bus">United States Route 9 Bypass</h1>
+            <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - S Ponce De Leon Blvd</a>, St Augustine, Florida 32084</td>
+                    <td class="content text-dark">W King St, St Augustine, Florida 32084</td>
+                    <td class="content text-dark">Start of Business Route</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.15 mi ( + 0.15 mi )</td>
+                    <td class="content text-dark small">0.23 km ( + 0.23 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">King St, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.66 mi ( + 0.51 mi )</td>
+                    <td class="content text-dark small">1.05 km ( + 0.82 km )</td>
+                    <td class="content text-dark">US-1 Business (SB) - Cordova St, St Augustine, Florida 32084</td>
+                    <td class="content text-dark">King St (NB) / Cathedral Pl (SB), St Augustine, Florida 32084</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.84 mi ( + 0.18 mi )</td>
+                    <td class="content text-dark small">1.34 km ( + 0.29 km )</td>
+                    <td class="content text-dark">US-1 Business - Menendez Ave, St Augustine, Florida 32084</td>
+                    <td class="content text-dark">Menendez Ave, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.88 mi ( + 0.04 mi )</td>
+                    <td class="content text-dark small">1.40 km ( + 0.06 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/a1a.php">FL-A1A - Jimmy Buffett Memorial Hwy</a>, St Augustine, Florida 32084</td>
+                    <td class="content text-dark">Jimmy Buffett Memorial Hwy, St Augustine, Florida 32084</td>
+                    <td class="content text-dark">Start concurrency with FL-A1A</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.15 mi ( + 0.27 mi )</td>
+                    <td class="content text-dark small">1.83 km ( + 0.43 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S Castillo Dr, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.43 mi ( + 0.28 mi )</td>
+                    <td class="content text-dark small">2.28 km ( + 0.45 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">San Marco Ave, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.17 mi ( + 0.74 mi )</td>
+                    <td class="content text-dark small">3.48 km ( + 1.20 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/a1a.php">FL-A1A - May St</a>, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with FL-A1A</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.27 mi ( + 1.10 mi )</td>
+                    <td class="content text-dark small">5.26 km ( + 1.78 km )</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - N Ponce De Leon Blvd</a>, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Business Route</td>
+                </tr>
+            </table>
+            <hr>
+            <h1 class="header" id="flus1alt">United States Route 9 Bypass</h1>
+            <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Philips Hwy</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark">Emerson St, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark">Start of Alternate Route</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.30 mi ( + 0.30 mi )</td>
+                    <td class="content text-dark small">0.49 km ( + 0.49 km )</td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.02 mi ( + 0.72 mi )</td>
+                    <td class="content text-dark small">1.65 km ( + 1.16 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Hart Expy, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.47 mi ( + 0.45 mi )</td>
+                    <td class="content text-dark small">2.38 km ( + 0.73 km )</td>
+                    <td class="content text-dark"><a href="90.php">US-90 - Beach Blvd</a> (concurrent with <a href="../state-highways/fl/212.php">FL-212</a>), Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.27 mi ( + 0.80 mi )</td>
+                    <td class="content text-dark small">3.66 km ( + 1.28 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/228.php">FL-228 - Commodore Point Expy</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark">Commodore Point Expy, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark">Begin concurrency with FL-228</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.51 mi ( + 0.24 mi )</td>
+                    <td class="content text-dark small">4.04 km ( + 0.38 km )</td>
+                    <td class="content text-dark"><a href="90.php/#flus90alt">US-90 Alternate - Atlantic Blvd</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.67 mi ( + 1.16 mi )</td>
+                    <td class="content text-dark small">5.90 km ( + 1.86 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/228.php">FL-228 - Gator Bowl Blvd</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark">US-1 Alternate, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark">End concurrency with FL-228</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">4.24 mi ( + 0.57 mi )</td>
+                    <td class="content text-dark small">6.82 km ( + 0.92 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/115.php">FL-115 - Mathews Bridge</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">4.59 mi ( + 0.35 mi )</td>
+                    <td class="content text-dark small">7.38 km ( + 0.56 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Martin Luther King Jr Pkwy, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">7.25 mi ( + 2.66 mi )</td>
+                    <td class="content text-dark small">11.66 km ( + 4.28 km )</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - N Main St</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">7.50 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">12.05 km ( + 0.39 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Alternative Route</td>
                 </tr>
         <?php include "../../static/bottom.php"; ?>

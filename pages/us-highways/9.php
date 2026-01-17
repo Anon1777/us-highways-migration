@@ -5,12 +5,13 @@
             <h2 class="content text-dark">United States Route 9 (US-9) is a north-south route covering a little bit of Delaware through the whole of New York. It is xxx.xx mi (xxx.xx km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
+            <section id="deus9">
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="13.php">US-13 - Sussex Hwy (NB) / S Dual Hwy (SB)</a>, Laurel, Delaware 19956</td>
                     <td class="content text-dark">County Seat Hwy, Laurel, Delaware 19956</td>
-                    <td class="content text-dark">Start of Route // Start of Route in Delaware // Start Sussex County</td>
+                    <td class="content text-dark">Start of Route <br> Start of Route in Delaware <br> Start Sussex County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">5.48 mi ( + 5.48 mi )</td>
@@ -29,7 +30,7 @@
                 <tr>
                     <td class="content text-dark small">11.94 mi ( + 4.86 mi )</td>
                     <td class="content text-dark small">19.21 km ( + 7.82 km )</td>
-                    <td class="content text-dark"><a href="../101-290/113.php">US-113 - Dupont Blvd</a>, Georgetown, Delaware 19947</td>
+                    <td class="content text-dark"><a href="../113.php">US-113 - Dupont Blvd</a>, Georgetown, Delaware 19947</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -80,7 +81,7 @@
                     <td class="content text-dark small">38.15 km ( + 10.11 km )</td>
                     <td class="content text-dark"><a href="../state-highways/de/1.php">DE-1 - Coastal Hwy (EB & WB)</a> / <a href="#us9bus">US-9 Business (NB)</a>, Lewes, Delaware 19958</td>
                     <td class="content text-dark">Coastal Hwy, Lewes, Delaware 19958</td>
-                    <td class="content text-dark">End concurrency with DE-404 // Start concurrency with DE-1</td>
+                    <td class="content text-dark">End concurrency with DE-404 <br> Start concurrency with DE-1</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">23.83 mi ( + 1.13 mi )</td>
@@ -110,12 +111,14 @@
                     <td class="content text-dark">Cape May - Lewes Ferry, Lewes, Delaware 19958</td>
                     <td class="content text-dark"></td>
                 </tr>
+                </section>
+                <section id="njus9">
                 <tr>
                     <td class="content text-dark small">34.95 mi ( + 7.56 mi )</td>
                     <td class="content text-dark small">57.68 km ( + 12.16 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Cape May - Lewes Ferry, Lower Township, New Jersey 08204</td>
-                    <td class="content text-dark">End route in Delaware, Start route in New Jersey // End Sussex County, Start Cape May County</td>
+                    <td class="content text-dark">End route in Delaware, Start route in New Jersey <br> End Sussex County, Start Cape May County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">43.83 mi ( + 8.88 mi )</td>
@@ -361,7 +364,7 @@
                     <td class="content text-dark small">118.53 km ( + 0.34 km )</td>
                     <td class="content text-dark"><a href="../county-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a> / <a href="#us9bp">US-9 - N Shore Rd (NB)</a>, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Start concurrency with Cape May CR 623 // Route splits into <a href="#us9bp">US-9 Beesley's Point Spur</a></td>
+                    <td class="content text-dark">Start concurrency with Cape May CR 623 <br> Route splits into <a href="#us9bp">US-9 Beesley's Point Spur</a></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">72.47 mi ( + 0.29 mi )</td>
@@ -457,7 +460,7 @@
                 <tr>
                     <td class="content text-dark small">83.79 mi ( + 0.86 mi )</td>
                     <td class="content text-dark small">137.22 km ( + 1.39 km )</td>
-                    <td class="content text-dark"><a href="40.php">US-40 - Black Horse Pk</a> (concurrent with <a href="../301-730/322.php">US-322</a>), Pleasantville, New Jersey 08232</td>
+                    <td class="content text-dark"><a href="40.php">US-40 - Black Horse Pk</a> (concurrent with <a href="../322.php">US-322</a>), Pleasantville, New Jersey 08232</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1100,7 +1103,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../101-290/113.php">US-113 - Dupont Blvd</a>, Georgetown, Delaware 19947</td>
+                    <td class="content text-dark"><a href="../113.php">US-113 - Dupont Blvd</a>, Georgetown, Delaware 19947</td>
                     <td class="content text-dark">S Bedford St, Georgetown, Delaware 19947</td>
                     <td class="content text-dark">Start of Bypass Route</td>
                 </tr>

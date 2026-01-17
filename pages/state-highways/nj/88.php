@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../us-highways/1-99/9.php">US-9 - Madison Ave</a> (concurrent with <a href="../../county-roads/nj/547.php">Monmouth CR 547</a>), Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"><a href="../../us-highways/9.php">US-9 - Madison Ave</a> (concurrent with <a href="../../county-roads/nj/547.php">Monmouth CR 547</a>), Lakewood, New Jersey 08701</td>
                     <td class="content text-dark">Main St, Lakewood, New Jersey 08701</td>
                     <td class="content text-dark">Start of Route</td>
                 </tr>

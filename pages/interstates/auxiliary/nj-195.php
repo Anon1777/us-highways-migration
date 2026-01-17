@@ -120,7 +120,7 @@
                 <tr>
                     <td class="content text-dark small">27.10 mi ( + 1.53 mi )</td>
                     <td class="content text-dark small">43.62 km ( + 2.47 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/1-99/9.php">US-9</a>, Howell Township, New Jersey 07731</td>
+                    <td class="content text-dark"><a href="../../us-highways/9.php">US-9</a>, Howell Township, New Jersey 07731</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
