@@ -1,3 +1,3 @@
 function redirect(){
-    window.location.replace("/pages/index-redirect.html");
+    window.location.replace("./pages/index-redirect.html");
 }
