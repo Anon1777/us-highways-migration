@@ -118,15 +118,15 @@
 2,I-280
 4,I-287
 2,I-290
-5,I-295
+7,I-295
 2,I-376
 2,I-476
 2,I-490
 2,I-495
 6,I-676
 2,I-690
-5,I-76
-4,I-78
+6,I-76
+5,I-78
 2,I-787
 3,I-80
 3,I-81
@@ -139,7 +139,7 @@
 3,I-90
 2,I-91
 2,I-93
-3,I-95
+6,I-95
 3,I-99
 2,Lehigh 2044
 1,Livingston 26
@@ -153,6 +153,7 @@
 2,MD-279
 2,Mercer 3012
 1,Mercer 604
+1,Mercer 608
 1,Mercer 613
 2,Mercer 616
 2,Mercer 618
@@ -160,36 +161,41 @@
 1,Mercer 622
 1,Mercer 626
 1,Mercer 630
-3,Mercer 636
+1,Mercer 634
+4,Mercer 636
 1,Mercer 637
-1,Mercer 643
+2,Mercer 643
 1,Mercer 645
 1,Mercer 648
 2,Mercer 649
 1,Mercer 650
-1,Mercer 653
+2,Mercer 653
 1,Miami-dade 992
 1,Middlesex 606
-1,Middlesex 609
+2,Middlesex 609
 1,Middlesex 611
-1,Middlesex 613
+2,Middlesex 613
+1,Middlesex 614
 1,Middlesex 616
-2,Middlesex 617
+3,Middlesex 617
 2,Middlesex 621
 3,Middlesex 622
+1,Middlesex 625
 1,Middlesex 653
 1,Middlesex 655
 1,Middlesex 656
+1,Middlesex 665
 1,Middlesex 700
 1,Middlesex 701
-2,Monmouth 1
-1,Monmouth 10
+3,Monmouth 1
+2,Monmouth 10
 1,Monmouth 11
-1,Monmouth 12
-1,Monmouth 13
+2,Monmouth 12
+2,Monmouth 13
+1,Monmouth 14
 1,Monmouth 15
-1,Monmouth 16
-1,Monmouth 17
+2,Monmouth 16
+2,Monmouth 17
 3,Monmouth 18
 1,Monmouth 20
 2,Monmouth 21
@@ -197,22 +203,23 @@
 1,Monmouth 27
 1,Monmouth 28
 1,Monmouth 29
-2,Monmouth 3
-2,Monmouth 30
+3,Monmouth 3
+3,Monmouth 30
 1,Monmouth 32
 1,Monmouth 33
 1,Monmouth 34
 1,Monmouth 36
+1,Monmouth 40A
 2,Monmouth 40a
 1,Monmouth 45
 1,Monmouth 47
 1,Monmouth 48
 1,Monmouth 49
 1,Monmouth 5
-3,Monmouth 50
-1,Monmouth 51
-1,Monmouth 52
-3,Monmouth 54
+4,Monmouth 50
+2,Monmouth 51
+2,Monmouth 52
+4,Monmouth 54
 1,Monmouth 56
 3,Monmouth 57
 1,Monmouth 7
@@ -259,34 +266,34 @@
 2,NJ-17
 2,NJ-182
 3,NJ-21
-1,NJ-27
+2,NJ-27
 4,NJ-3
-5,NJ-31
+6,NJ-31
 2,NJ-32
-5,NJ-33
-2,NJ-34
-4,NJ-35
-4,NJ-36
-2,NJ-37
+6,NJ-33
+3,NJ-34
+5,NJ-35
+5,NJ-36
+3,NJ-37
 1,NJ-38
 2,NJ-4
 1,NJ-41
 2,NJ-42
 2,NJ-439
-5,NJ-444
+6,NJ-444
 2,NJ-445
 2,NJ-446
 5,NJ-47
 1,NJ-49
 2,NJ-495
-4,NJ-55
+5,NJ-55
 2,NJ-57
-1,NJ-67
+2,NJ-67
 2,NJ-70
 4,NJ-700
-3,NJ-71
+4,NJ-71
 1,NJ-77
-3,NJ-79
+4,NJ-79
 2,NJ-82
 1,NJ-94
 2,NY-15A
@@ -317,7 +324,9 @@
 1,Ocean 603
 2,Ocean 621
 1,Ocean 623
-3,Ocean 638
+4,Ocean 638
+1,Ocean 639
+1,Ocean 640
 1,Ocean 641
 2,PA-118
 2,PA-145
@@ -366,6 +375,7 @@
 2,Philadelphia 3003
 2,Philadelphia 3005
 1,Pike 2013
+1,RI-12
 2,Salem 621
 2,Schuylkill 682
 2,Schuylkill 690
@@ -409,15 +419,15 @@
 1,US-113
 2,US-119
 3,US-13
-2,US-130
+3,US-130
 2,US-15
 1,US-2
 4,US-202
 3,US-209
 3,US-219
-2,US-22
+4,US-22
 3,US-220
-3,US-222
+4,US-222
 2,US-3
 4,US-30
 6,US-322
@@ -449,23 +459,28 @@
 5,cr 510
 2,cr 513
 2,cr 514
+1,cr 516
 2,cr 517
-2,cr 519
-5,cr 520
-2,cr 522
-2,cr 524
-4,cr 526
-6,cr 527
-2,cr 528
+3,cr 519
+6,cr 520
+3,cr 522
+3,cr 524
+5,cr 526
+7,cr 527
+3,cr 528
 2,cr 530
-2,cr 533
+3,cr 533
 4,cr 535
 2,cr 536
-6,cr 537
-2,cr 539
-2,cr 547
+7,cr 537
+1,cr 538
+3,cr 539
+1,cr 546
+3,cr 547
+1,cr 549
 2,cr 551
 4,cr 553
 2,cr 561
+1,cr 571
 2,cr 577
-2,cr 583
+3,cr 583

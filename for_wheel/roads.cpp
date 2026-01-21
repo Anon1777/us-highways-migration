@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    ifstream infile("C:\\Users\\joete\\Desktop\\coding\\significant projects\\seychelles_hub\\us-highways-migration\\for_wheel\\roads.txt"); // Input file with all your roads, one per line
+    ifstream infile("roads.txt"); // Input file with all your roads, one per line
     if (!infile) {
         cerr << "Error opening file!" << endl;
         return 1;
@@ -33,7 +33,7 @@ int main() {
     infile.close();
 
     // Output results
-    ofstream outfile(".\\for_wheel\\weighted_roads.txt");
+    ofstream outfile("weighted_roads.txt");
     if (!outfile) {
         cerr << "Error creating output file!" << endl;
         return 1;

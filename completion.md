@@ -33,6 +33,7 @@ County Roads:
 * Monmouth CR 6
 * Monmouth CR 22
 * Monmouth CR 23
+* Monmouth CR 24
 * Monmouth CR 28
 * Monmouth CR 35
 * Monmouth CR 38

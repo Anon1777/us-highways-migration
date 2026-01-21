@@ -2128,9 +2128,9 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">503.00 mi ( + 0.52 mi )</td>
-                    <td class="content text-dark small">809.53 km ( + 0.83 km )</td>
-                    <td class="content text-dark">US-90 & FL-10 - W Beaver St, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark small">504.07 mi ( + 0.52 mi )</td>
+                    <td class="content text-dark small">813.52 km ( + 0.83 km )</td>
+                    <td class="content text-dark"><a href="90.php">US-90 - W Beaver St</a> (concurrent with <a href="../state-highways/fl/10.php">FL-10</a>), Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-90 & FL-10</td>
                 </tr>
