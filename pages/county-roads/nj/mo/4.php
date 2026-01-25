@@ -116,6 +116,6 @@
                     <td class="content text-dark small">17.38 km ( + 0.11 km )</td>
                     <td class="content text-dark"><a href="6.php">Monmouth CR 6 - First St</a>, Keyport, New Jersey 07730</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route <br> End concurrency with Monmouth CR 6</td>
+                    <td class="content text-dark">End of Route <br>End concurrency with Monmouth CR 6</td>
                 </tr>
                 <?php include "../../../../static/bottom.php"; ?>

@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../527.php">Monmouth CR 527 - Main St (SB) / Wilson Ave (NB)</a>, Englishtown, New Jersey 07726</td>
+                    <td class="content text-dark"><a href="../527.php">Monmouth CR 527 - Main St (SB) <br>Wilson Ave (NB)</a>, Englishtown, New Jersey 07726</td>
                     <td class="content text-dark">Gordons Corner Rd, Englishtown, New Jersey 07726</td>
                     <td class="content text-dark">Start of Route</td>
                 </tr>

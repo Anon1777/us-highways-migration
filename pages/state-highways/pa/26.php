@@ -11,7 +11,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Clear Ridge Rd, Warfordsburg, Pennsylvania 17267</td>
-                    <td class="content text-dark">Start of Route <br> Start of Route in Fulton County</td>
+                    <td class="content text-dark">Start of Route <br>Start of Route in Fulton County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.91 mi ( + 0.91 mi )</td>

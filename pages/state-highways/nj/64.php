@@ -11,7 +11,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="../../county-roads/nj/me/615.php">Mercer CR 615 (EB & WB) - Cranbury Rd</a> / <a href="../../county-roads/nj/526.php">Mercer CR 526 (NB & SB) - Princeton Hightstown Rd</a> (concurrent with <a href="../../county-roads/nj/571.php">Mercer CR 571</a>), West Windsor Township, New Jersey 08550</td>
                     <td class="content text-dark">NJ-64, West Windsor Township, New Jersey 08550</td>
-                    <td class="content text-dark">Start of Route <br> Start concurrency with Mercer CR 526 & Mercer CR 571</td>
+                    <td class="content text-dark">Start of Route <br>Start concurrency with Mercer CR 526 & Mercer CR 571</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.33 mi ( + 0.33 mi )</td>

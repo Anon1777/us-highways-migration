@@ -107,7 +107,7 @@
                 <tr>
                     <td class="content text-dark small">2.96 mi ( + 0.22 mi )</td>
                     <td class="content text-dark small">4.77 km ( + 0.35 km )</td>
-                    <td class="content text-dark"><a href="82.php">NJ-82 - Morris Ave (WB)</a> / <a href="../../county-roads/nj/un/629.php">Union CR 629 - Morris Ave (EB)</a>, Union Township, New Jersey 07083</td>
+                    <td class="content text-dark"><a href="82.php">NJ-82 - Morris Ave (WB)</a> <br><a href="../../county-roads/nj/un/629.php">Union CR 629 - Morris Ave (EB)</a>, Union Township, New Jersey 07083</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

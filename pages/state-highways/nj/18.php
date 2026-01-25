@@ -198,7 +198,7 @@
                 <tr>
                     <td class="content text-dark small">29.34 mi ( + 2.41 mi )</td>
                     <td class="content text-dark small">47.21 km ( + 3.89 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/527.php">Middlesex CR 527 - Old Bridge-Englishtown Rd (SB)</a> / <a href="../../county-roads/nj/516.php">Middlesex CR 516 - Old Bridge Matawan Rd (NB)</a> (concurrent with <a href="../../county-roads/nj/527.php">Middlesex CR 527</a>), Old Bridge, New Jersey 08857</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/527.php">Middlesex CR 527 - Old Bridge-Englishtown Rd (SB)</a> <br><a href="../../county-roads/nj/516.php">Middlesex CR 516 - Old Bridge Matawan Rd (NB)</a> (concurrent with <a href="../../county-roads/nj/527.php">Middlesex CR 527</a>), Old Bridge, New Jersey 08857</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -226,7 +226,7 @@
                 <tr>
                     <td class="content text-dark small">31.98 mi ( + 1.49 mi )</td>
                     <td class="content text-dark small">51.48 km ( + 2.40 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/mi/613.php">Middlesex CR 613 - Summerhill Rd (SB)</a> / <a href="../../county-roads/nj/535.php">Middlesex CR 535 - Cranbury South River Rd (SB) / Cranbury Rd (NB)</a>, East Brunswick, New Jersey 08816</td>
+                    <td class="content text-dark"><a href="../../county-roads/nj/mi/613.php">Middlesex CR 613 - Summerhill Rd (SB)</a> <br><a href="../../county-roads/nj/535.php">Middlesex CR 535 - Cranbury South River Rd (SB) <br>Cranbury Rd (NB)</a>, East Brunswick, New Jersey 08816</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -275,7 +275,7 @@
                 <tr>
                     <td class="content text-dark small">36.80 mi ( + 0.86 mi )</td>
                     <td class="content text-dark small">59.24 km ( + 1.38 km )</td>
-                    <td class="content text-dark"><a href="27.php">NJ-27 - Albany St (WB) / Raritan Ave (EB)</a>, New Brunswick, New Jersey 08901</td>
+                    <td class="content text-dark"><a href="27.php">NJ-27 - Albany St (WB) <br>Raritan Ave (EB)</a>, New Brunswick, New Jersey 08901</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
