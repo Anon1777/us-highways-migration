@@ -12,7 +12,7 @@ import java.util.Scanner;
 public class Wheel {
     public static void main(String[] args){
         ArrayList<String> roadName = new ArrayList<>();
-        try(Scanner in = new Scanner(new File("./for_wheel/weighted_roads.txt"))){
+        try(Scanner in = new Scanner(new File("./us-highways-migration/for_wheel/weighted_roads.txt"))){
             while(in.hasNextLine()){
                 String[] parts = in.nextLine().split(",");
                 roadName.add(parts[1]);
@@ -21,8 +21,8 @@ public class Wheel {
             System.err.println("Program exited with code 1 - Could not read file.");
         }
         Random rand = new Random();
-        int r = rand.nextInt(roadName.size()-1);
-        try(FileWriter fw = new FileWriter(new File("./for_wheel/wheel_results.txt"), true);
+        int r = rand.nextInt(roadName.size());
+        try(FileWriter fw = new FileWriter(new File("./us-highways-migration/for_wheel/wheel_results.txt"), true);
             PrintWriter out = new PrintWriter(fw)
         ){
             out.println(roadName.get(r));
