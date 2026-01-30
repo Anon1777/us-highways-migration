@@ -182,9 +182,16 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">2.96 mi ( + 1.82 mi )</td>
-                    <td class="content text-dark small">4.76 km ( + 2.92 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/pa/bf/1003.php">Bedford CR 1003 - Bud Shuster Byp</a> Everett, Pennsylvania 15537</td>
+                    <td class="content text-dark small">28.24 mi ( + 1.82 mi )</td>
+                    <td class="content text-dark small">44.72 km ( + 2.92 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/pa/bf/1007.php">Bedford CR 1007 - Bud Shuster Byp</a> Everett, Pennsylvania 15537</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">28.48 mi ( + 0.24 mi )</td>
+                    <td class="content text-dark small">45.11 km ( + 0.39 km )</td>
+                    <td class="content text-dark"><a href="../../county-roads/pa/bf/1007.php">Bedford CR 1009 - Plank Rd</a> Everett, Pennsylvania 15537</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
