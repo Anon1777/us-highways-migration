@@ -30,7 +30,7 @@
                 <tr>
                     <td class="content text-dark small">2.06 mi ( + 0.89 mi )</td>
                     <td class="content text-dark small">3.32 km ( + 1.43 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/539.php">Mercer CR 539 - N Main St</a>, East Windsor, New Jersey 08520</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/539.php">Mercer CR 539 - N Main St</a>, East Windsor, New Jersey 08520</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -44,7 +44,7 @@
                 <tr>
                     <td class="content text-dark small">4.14 mi ( + 1.63 mi )</td>
                     <td class="content text-dark small">6.66 km ( + 2.62 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/571.php">US-130</a>, East Windsor, New Jersey 08520</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/571.php">US-130</a>, East Windsor, New Jersey 08520</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>

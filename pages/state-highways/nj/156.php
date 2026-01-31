@@ -15,21 +15,21 @@
                 <tr>
                     <td class="content text-dark small">0.38 mi ( + 0.38 mi )</td>
                     <td class="content text-dark small">0.61 km ( + 0.61 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/me/609.php">Mercer CR 609 - Church St</a>, Hamilton Township, New Jersey 08620</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/me/609.php">Mercer CR 609 - Church St</a>, Hamilton Township, New Jersey 08620</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.51 mi ( + 0.13 mi )</td>
                     <td class="content text-dark small">0.83 km ( + 0.22 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/me/672.php">Mercer CR 672 - S Broad St</a>, Hamilton Township, New Jersey 08620</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/me/672.php">Mercer CR 672 - S Broad St</a>, Hamilton Township, New Jersey 08620</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.59 mi ( + 0.08 mi )</td>
                     <td class="content text-dark small">0.95 km ( + 0.12 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/524.php">Mercer CR 524 - Yardville-Allentown Rd</a>, Hamilton Township, New Jersey 08620</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/524.php">Mercer CR 524 - Yardville-Allentown Rd</a>, Hamilton Township, New Jersey 08620</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

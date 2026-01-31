@@ -22,7 +22,7 @@
                 <tr>
                     <td class="content text-dark small">0.73 mi ( + 0.35 mi )</td>
                     <td class="content text-dark small">1.17 km ( + 0.56 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/me/650.php">Mercer CR 650 - Lalor St</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/me/650.php">Mercer CR 650 - Lalor St</a>, Trenton, New Jersey 08608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -36,7 +36,7 @@
                 <tr>
                     <td class="content text-dark small">1.80 mi ( + 0.27 mi )</td>
                     <td class="content text-dark small">2.89 km ( + 0.44 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/me/606.php">Mercer CR 606 - Hamilton Ave</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/me/606.php">Mercer CR 606 - Hamilton Ave</a>, Trenton, New Jersey 08608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

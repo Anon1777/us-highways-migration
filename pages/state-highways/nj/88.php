@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../us-highways/9.php">US-9 - Madison Ave</a> (concurrent with <a href="../../county-roads/nj/547.php">Monmouth CR 547</a>), Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"><a href="../../us-highways/9.php">US-9 - Madison Ave</a> (concurrent with <a href="../../secondary-roads/nj/547.php">Monmouth CR 547</a>), Lakewood, New Jersey 08701</td>
                     <td class="content text-dark">Main St, Lakewood, New Jersey 08701</td>
                     <td class="content text-dark">Start of Route</td>
                 </tr>
@@ -23,14 +23,14 @@
                 <tr>
                     <td class="content text-dark small">2.16 mi ( + 1.71 mi )</td>
                     <td class="content text-dark small">3.47 km ( + 2.75 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/oc/623.php">Ocean CR 623 - New Hampshire Ave</a>, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/oc/623.php">Ocean CR 623 - New Hampshire Ave</a>, Lakewood, New Jersey 08701</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">3.24 mi ( + 1.08 mi )</td>
                     <td class="content text-dark small">5.21 km ( + 1.74 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/549.php">Ocean CR 549 - Lanes Mill Rd (NB) <br>Chambers Bridge Rd (SB)</a>, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/549.php">Ocean CR 549 - Lanes Mill Rd (NB) <br>Chambers Bridge Rd (SB)</a>, Lakewood, New Jersey 08701</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

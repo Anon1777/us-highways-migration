@@ -16,14 +16,14 @@
                 <tr>
                     <td class="content text-dark small">1.25 mi ( + 1.25 mi )</td>
                     <td class="content text-dark small">2.01 km ( + 2.01 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/at/693.php">Atlantic CR 693 - Columbia Rd</a>, Hammonton, New Jersey 08037</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/at/693.php">Atlantic CR 693 - Columbia Rd</a>, Hammonton, New Jersey 08037</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">2.98 mi ( + 1.73 mi )</td>
                     <td class="content text-dark small">4.79 km ( + 2.78 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/at/613.php">Atlantic CR 613 - Middle Rd</a>, Hammonton, New Jersey 08037</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/at/613.php">Atlantic CR 613 - Middle Rd</a>, Hammonton, New Jersey 08037</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -37,35 +37,35 @@
                 <tr>
                     <td class="content text-dark small">9.19 mi ( + 3.20 mi )</td>
                     <td class="content text-dark small">15.27 km ( + 5.15 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/541.php">Burlington CR 541 - Stokes Rd</a>, Shamong, New Jersey 08088</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/541.php">Burlington CR 541 - Stokes Rd</a>, Shamong, New Jersey 08088</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">11.03 mi ( + 1.84 mi )</td>
                     <td class="content text-dark small">18.23 km ( + 2.96 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/648.php">Burlington CR 648 - Willow Grove Rd</a>, Shamong, New Jersey 08088</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/648.php">Burlington CR 648 - Willow Grove Rd</a>, Shamong, New Jersey 08088</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with Burlington CR 648</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">11.10 mi ( + 0.07 mi )</td>
                     <td class="content text-dark small">18.35 km ( + 0.12 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/648.php">Burlington CR 648 - Old Indian Mills Rd</a>, Shamong, New Jersey 08088</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/648.php">Burlington CR 648 - Old Indian Mills Rd</a>, Shamong, New Jersey 08088</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Burlington CR 648</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">12.47 mi ( + 1.37 mi )</td>
                     <td class="content text-dark small">20.55 km ( + 2.20 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/622.php">Burlington CR 622 - Tuckerton Rd</a>, Tabernacle, New Jersey 08088</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/622.php">Burlington CR 622 - Tuckerton Rd</a>, Tabernacle, New Jersey 08088</td>
                     <td class="content text-dark">US-206, Tabernacle, New Jersey</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">14.52 mi ( + 2.05 mi )</td>
                     <td class="content text-dark small">23.86 km ( + 3.31 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/532.php">Burlington CR 532 - Medford Lakes Rd</a>, Tabernacle, New Jersey 08088</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/532.php">Burlington CR 532 - Medford Lakes Rd</a>, Tabernacle, New Jersey 08088</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -79,7 +79,7 @@
                 <tr>
                     <td class="content text-dark small">16.13 mi ( + 0.14 mi )</td>
                     <td class="content text-dark small">26.44 km ( + 0.22 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/648.php">Burlington CR 648 - Carranza Rd</a>, Southampton Township, New Jersey 08088</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/648.php">Burlington CR 648 - Carranza Rd</a>, Southampton Township, New Jersey 08088</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -93,35 +93,35 @@
                 <tr>
                     <td class="content text-dark small">20.44 mi ( + 3.08 mi )</td>
                     <td class="content text-dark small">33.37 km ( + 4.96 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/681.php">Burlington CR 681 - Main St</a>, Southampton Township, New Jersey 08088</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/681.php">Burlington CR 681 - Main St</a>, Southampton Township, New Jersey 08088</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">20.59 mi ( + 0.15 mi )</td>
                     <td class="content text-dark small">33.61 km ( + 0.24 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/642.php">Burlington CR 642 - Buddtown Rd</a>, Southampton Township, New Jersey 08088</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/642.php">Burlington CR 642 - Buddtown Rd</a>, Southampton Township, New Jersey 08088</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">21.04 mi ( + 0.45 mi )</td>
                     <td class="content text-dark small">34.33 km ( + 0.72 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/616.php">Burlington CR 616 - Pemberton Rd</a>, Southampton Township, New Jersey 08088</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/616.php">Burlington CR 616 - Pemberton Rd</a>, Southampton Township, New Jersey 08088</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">21.91 mi ( + 0.87 mi )</td>
                     <td class="content text-dark small">35.73 km ( + 1.40 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/681.php">Burlington CR 681 - Main St</a>, Southampton Township, New Jersey 08088</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/681.php">Burlington CR 681 - Main St</a>, Southampton Township, New Jersey 08088</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">23.21 mi ( + 1.30 mi )</td>
                     <td class="content text-dark small">37.82 km ( + 2.09 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/nj/38.php">NJ-38 - S Pemberton Rd (WB)</a> <br><a href="../county-roads/nj/530.php">Burlington CR 530 - S Pemberton Rd (EB)</a>, Southampton Township, New Jersey 08088</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/38.php">NJ-38 - S Pemberton Rd (WB)</a> <br><a href="../secondary-roads/nj/530.php">Burlington CR 530 - S Pemberton Rd (EB)</a>, Southampton Township, New Jersey 08088</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -135,14 +135,14 @@
                 <tr>
                     <td class="content text-dark small">24.85 mi ( + 0.78 mi )</td>
                     <td class="content text-dark small">40.46 km ( + 1.26 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/621.php">Burlington CR 621 - Powell Rd</a>, Eastampton Township, New Jersey 08060</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/621.php">Burlington CR 621 - Powell Rd</a>, Eastampton Township, New Jersey 08060</td>
                     <td class="content text-dark">US-206, Eastampton Township, New Jersey 08060</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">25.46 mi ( + 0.61 mi )</td>
                     <td class="content text-dark small">41.44 km ( + 0.98 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/630.php">Burlington CR 630 - Woodlane Rd (WB) <br>N Pemberton Rd (EB)</a>, Eastampton Township, New Jersey 08060</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/630.php">Burlington CR 630 - Woodlane Rd (WB) <br>N Pemberton Rd (EB)</a>, Eastampton Township, New Jersey 08060</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -156,21 +156,21 @@
                 <tr>
                     <td class="content text-dark small">26.77 mi ( + 0.49 mi )</td>
                     <td class="content text-dark small">43.55 km ( + 0.79 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/667.php">Burlington CR 667 - Juliustown Rd</a>, Springfield, New Jersey 08041</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/667.php">Burlington CR 667 - Juliustown Rd</a>, Springfield, New Jersey 08041</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">26.89 mi ( + 0.12 mi )</td>
                     <td class="content text-dark small">43.74 km ( + 0.19 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/537.php">Burlington CR 537 - Monmouth Rd</a>, Springfield, New Jersey 08041</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/537.php">Burlington CR 537 - Monmouth Rd</a>, Springfield, New Jersey 08041</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">28.39 mi ( + 1.50 mi )</td>
                     <td class="content text-dark small">46.15 km ( + 2.41 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/670.php">Burlington CR 670 - Jacksonville Jobstown Rd</a>, Springfield, New Jersey 08041</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/670.php">Burlington CR 670 - Jacksonville Jobstown Rd</a>, Springfield, New Jersey 08041</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -184,28 +184,28 @@
                 <tr>
                     <td class="content text-dark small">30.50 mi ( + 0.86 mi )</td>
                     <td class="content text-dark small">49.56 km ( + 1.39 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/690.php">Burlington CR 690 - Atlantic Ave</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/690.php">Burlington CR 690 - Atlantic Ave</a>, Mansfield, New Jersey 08022</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">30.75 mi ( + 0.25 mi )</td>
                     <td class="content text-dark small">49.97 km ( + 0.41 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/543.php">Burlington CR 543 - W Main St</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/543.php">Burlington CR 543 - W Main St</a>, Mansfield, New Jersey 08022</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">31.27 mi ( + 0.52 mi )</td>
                     <td class="content text-dark small">50.81 km ( + 0.84 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/678.php">Burlington CR 678 - Hedding Rd</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/678.php">Burlington CR 678 - Hedding Rd</a>, Mansfield, New Jersey 08022</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">31.32 mi ( + 0.05 mi )</td>
                     <td class="content text-dark small">50.89 km ( + 0.08 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/690.php">Burlington CR 690 - New York Ave</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/690.php">Burlington CR 690 - New York Ave</a>, Mansfield, New Jersey 08022</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -219,7 +219,7 @@
                 <tr>
                     <td class="content text-dark small">33.90 mi ( + 0.21 mi )</td>
                     <td class="content text-dark small">55.05 km ( + 0.34 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/660.php">Burlington CR 660 - Old York Rd</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/660.php">Burlington CR 660 - Old York Rd</a>, Mansfield, New Jersey 08022</td>
                     <td class="content text-dark">US-206, Bordentown, New Jersey 08505</td>
                     <td class="content text-dark">Start concurrency with Burlington CR 660</td>
                 </tr>
@@ -233,14 +233,14 @@
                 <tr>
                     <td class="content text-dark small">34.14 mi ( + 0.06 mi )</td>
                     <td class="content text-dark small">55.43 km ( + 0.09 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/660.php">Burlington CR 660 - Old York Rd</a>, Bordentown, New Jersey 08505</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/660.php">Burlington CR 660 - Old York Rd</a>, Bordentown, New Jersey 08505</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Burlington CR 660</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">35.27 mi ( + 1.13 mi )</td>
                     <td class="content text-dark small">55.43 km ( + 1.82 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/545.php">Burlington CR 545 - Farnsworth Ave (NB) <br>Georgetown Rd (SB)</a>, Bordentown, New Jersey 08505</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/545.php">Burlington CR 545 - Farnsworth Ave (NB) <br>Georgetown Rd (SB)</a>, Bordentown, New Jersey 08505</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -254,7 +254,7 @@
                 <tr>
                     <td class="content text-dark small">35.92 mi ( + 0.18 mi )</td>
                     <td class="content text-dark small">56.48 km ( + 0.29 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/528.php">Burlington CR 528 - Crosswicks St (WB) <br>Crosswicks Rd (EB)</a>, Bordentown, New Jersey 08505</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/528.php">Burlington CR 528 - Crosswicks St (WB) <br>Crosswicks Rd (EB)</a>, Bordentown, New Jersey 08505</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -268,7 +268,7 @@
                 <tr>
                     <td class="content text-dark small">36.85 mi ( + 0.48 mi )</td>
                     <td class="content text-dark small">58.48 km ( + 0.78 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/bu/662.php">Burlington CR 662 - Amboy Rd</a>, Bordentown, New Jersey 08505</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/bu/662.php">Burlington CR 662 - Amboy Rd</a>, Bordentown, New Jersey 08505</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -296,14 +296,14 @@
                 <tr>
                     <td class="content text-dark small">39.02 mi ( + 0.23 mi )</td>
                     <td class="content text-dark small">61.93 km ( + 0.34 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/524.php">Mercer CR 524 - S Broad St</a>, Hamilton Township, New Jersey 08619</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/524.php">Mercer CR 524 - S Broad St</a>, Hamilton Township, New Jersey 08619</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">39.04 mi ( + 0.02 mi )</td>
                     <td class="content text-dark small">61.96 km ( + 0.03 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/524.php">Mercer CR 533 - White Horse Ave</a>, Hamilton Township, New Jersey 08619</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/524.php">Mercer CR 533 - White Horse Ave</a>, Hamilton Township, New Jersey 08619</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -324,14 +324,14 @@
                 <tr>
                     <td class="content text-dark small">40.48 mi ( + 0.68 mi )</td>
                     <td class="content text-dark small">64.29 km ( + 1.10 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/me/626.php">Mercer CR 626 - Chambers St</a>, Hamilton Township, New Jersey 08619</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/me/626.php">Mercer CR 626 - Chambers St</a>, Hamilton Township, New Jersey 08619</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">40.97 mi ( + 0.39 mi )</td>
                     <td class="content text-dark small">64.91 km ( + 0.62 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/me/650.php">Mercer CR 650 - Lalor St</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/me/650.php">Mercer CR 650 - Lalor St</a>, Trenton, New Jersey 08608</td>
                     <td class="content text-dark">S Broad St, Trenton, New Jersey 08608</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -366,35 +366,35 @@
                 <tr>
                     <td class="content text-dark small">44.43 mi ( + 0.93 mi )</td>
                     <td class="content text-dark small">69.89 km ( + 1.50 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/me/653.php">Mercer CR 653 - Calhoun St</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/me/653.php">Mercer CR 653 - Calhoun St</a>, Trenton, New Jersey 08608</td>
                     <td class="content text-dark">Princeton Ave, Trenton, New Jersey 08608</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">44.69 mi ( + 0.26 mi )</td>
                     <td class="content text-dark small">70.31 km ( + 0.42 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/me/622.php">Mercer CR 622 - N Olden Ave</a>, Trenton, New Jersey 08608</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/me/622.php">Mercer CR 622 - N Olden Ave</a>, Trenton, New Jersey 08608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">44.83 mi ( + 0.14 mi )</td>
                     <td class="content text-dark small">70.53 km ( + 0.22 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/me/613.php">Mercer CR 613 - Spruce St</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/me/613.php">Mercer CR 613 - Spruce St</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark">Princeton Ave, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">45.12 mi ( + 0.29 mi )</td>
                     <td class="content text-dark small">71.00 km ( + 0.47 km )</td>
-                    <td class="content text-dark"><a href="#us206bc">US-206 - Brunswick Cir</a> (concurrent with <a href="../county-roads/nj/me/645.php">Mercer CR 645</a>), Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="#us206bc">US-206 - Brunswick Cir</a> (concurrent with <a href="../secondary-roads/nj/me/645.php">Mercer CR 645</a>), Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">45.54 mi ( + 0.42 mi )</td>
                     <td class="content text-dark small">71.68 km ( + 0.68 km )</td>
-                    <td class="content text-dark"><a href="#us206bc">US-206 - Lawrence Rd (SB)</a> <br><a href="../county-roads/nj/583.php">Mercer CR 583 - Princeton Pike (NB)</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="#us206bc">US-206 - Lawrence Rd (SB)</a> <br><a href="../secondary-roads/nj/583.php">Mercer CR 583 - Princeton Pike (NB)</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark">Lawrence Rd, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -415,7 +415,7 @@
                 <tr>
                     <td class="content text-dark small">48.50 mi ( + 0.31 mi )</td>
                     <td class="content text-dark small">78.44 km ( + 0.50 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/546.php">Mercer CR 546 - Lawrenceville-Pennington Rd (WB) <br>Franklin Corner Rd (EB)</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/546.php">Mercer CR 546 - Lawrenceville-Pennington Rd (WB) <br>Franklin Corner Rd (EB)</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark">Main St, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -429,7 +429,7 @@
                 <tr>
                     <td class="content text-dark small">50.39 mi ( + 0.68 mi )</td>
                     <td class="content text-dark small">81.48 km ( + 1.09 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/569.php">Mercer CR 569 - Fackler Rd (SB) <br>Carter Rd (NB)</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/569.php">Mercer CR 569 - Fackler Rd (SB) <br>Carter Rd (NB)</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -443,7 +443,7 @@
                 <tr>
                     <td class="content text-dark small">52.72 mi ( + 0.94 mi )</td>
                     <td class="content text-dark small">85.23 km ( + 1.51 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/533.php">Mercer CR 533 - Quaker Rd</a>, Princeton, New Jersey 08540</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/533.php">Mercer CR 533 - Quaker Rd</a>, Princeton, New Jersey 08540</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with Mercer CR 533</td>
                 </tr>
@@ -457,7 +457,7 @@
                 <tr>
                     <td class="content text-dark small">54.21 mi ( + 0.85 mi )</td>
                     <td class="content text-dark small">87.63 km ( + 1.36 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/me/604.php">Mercer CR 604 - Elm Rd</a>, Princeton, New Jersey 08540</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/me/604.php">Mercer CR 604 - Elm Rd</a>, Princeton, New Jersey 08540</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -485,42 +485,42 @@
                 <tr>
                     <td class="content text-dark small">58.29 mi ( + 0.87 mi )</td>
                     <td class="content text-dark small">94.19 km ( + 1.40 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/518.php">Somerset CR 518 - Georgetown-Franklin Tpke (WB) <br>Washington St (EB)</a>, Montgomery, New Jersey 08558</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/518.php">Somerset CR 518 - Georgetown-Franklin Tpke (WB) <br>Washington St (EB)</a>, Montgomery, New Jersey 08558</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">59.16 mi ( + 0.87 mi )</td>
                     <td class="content text-dark small">95.59 km ( + 1.40 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/533.php">Somerset CR 533 - Bridgepoint Rd</a> (concurrent with <a href="../county-roads/nj/so/609.php">Somerset CR 609</a>), Montgomery, New Jersey 08558</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/533.php">Somerset CR 533 - Bridgepoint Rd</a> (concurrent with <a href="../secondary-roads/nj/so/609.php">Somerset CR 609</a>), Montgomery, New Jersey 08558</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">60.63 mi ( + 1.47 mi )</td>
                     <td class="content text-dark small">97.96 km ( + 2.37 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/609.php">Somerset CR 609 - Bridgepoint Rd</a>, Montgomery, New Jersey 08558</td>
+                    <td class="content text-dark"><a href="../secondary-roads/609.php">Somerset CR 609 - Bridgepoint Rd</a>, Montgomery, New Jersey 08558</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">61.40 mi ( + 0.77 mi )</td>
                     <td class="content text-dark small">99.20 km ( + 1.24 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/604.php">Somerset CR 604 - W Dutchtown Harlingen Rd</a>, Montgomery, New Jersey 08558</td>
+                    <td class="content text-dark"><a href="../secondary-roads/604.php">Somerset CR 604 - W Dutchtown Harlingen Rd</a>, Montgomery, New Jersey 08558</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">62.22 mi ( + 0.82 mi )</td>
                     <td class="content text-dark small">100.52 km ( + 1.32 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/630.php">Somerset CR 630 - Belle Mead-Griggstown Rd</a>, Montgomery, New Jersey 08558</td>
+                    <td class="content text-dark"><a href="../secondary-roads/630.php">Somerset CR 630 - Belle Mead-Griggstown Rd</a>, Montgomery, New Jersey 08558</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">62.82 mi ( + 0.60 mi )</td>
                     <td class="content text-dark small">101.48 km ( + 0.96 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/601.php">Somerset CR 601 - Belle Mead-Blawenburg Rd</a>, Montgomery, New Jersey 08558</td>
+                    <td class="content text-dark"><a href="../secondary-roads/601.php">Somerset CR 601 - Belle Mead-Blawenburg Rd</a>, Montgomery, New Jersey 08558</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -541,7 +541,7 @@
                 <tr>
                     <td class="content text-dark small">65.51 mi ( + 1.93 mi )</td>
                     <td class="content text-dark small">105.76 km ( + 3.11 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/514.php">Somerset CR 514 - Amwell Rd</a>, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/514.php">Somerset CR 514 - Amwell Rd</a>, Hillsborough Township, New Jersey 08844</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -555,7 +555,7 @@
                 <tr>
                     <td class="content text-dark small">69.79 mi ( + 3.49 mi )</td>
                     <td class="content text-dark small">112.64 km ( + 5.61 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/so/608.php">Somerset CR 608 - E Dukes Pkwy</a>, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/so/608.php">Somerset CR 608 - E Dukes Pkwy</a>, Hillsborough Township, New Jersey 08844</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -569,7 +569,7 @@
                 <tr>
                     <td class="content text-dark small">70.98 mi ( + 1.07 mi )</td>
                     <td class="content text-dark small">114.55 km ( + 1.72 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/so/626.php">Somerset CR 626 - E Somerset St</a>, Somerville, New Jersey 08876</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/so/626.php">Somerset CR 626 - E Somerset St</a>, Somerville, New Jersey 08876</td>
                     <td class="content text-dark">US-206, Raritan, New Jersey 08869</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -625,7 +625,7 @@
                 <tr>
                     <td class="content text-dark small">74.22 mi ( + 1.36 mi )</td>
                     <td class="content text-dark small">119.75 km ( + 2.18 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/so/639.php">Somerset CR 639 - Foothill Rd</a>, Bridgewater, New Jersey 08807</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/so/639.php">Somerset CR 639 - Foothill Rd</a>, Bridgewater, New Jersey 08807</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -646,14 +646,14 @@
                 <tr>
                     <td class="content text-dark small">76.65 mi ( + 0.30 mi )</td>
                     <td class="content text-dark small">123.66 km ( + 0.49 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/so/620.php">Somerset CR 620 - Burnt Mills Rd (WB) <br>Washington Valley Rd (EB)</a>, Bedminster, New Jersey 07921</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/so/620.php">Somerset CR 620 - Burnt Mills Rd (WB) <br>Washington Valley Rd (EB)</a>, Bedminster, New Jersey 07921</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">77.41 mi ( + 0.76 mi )</td>
                     <td class="content text-dark small">124.88 km ( + 1.22 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/so/652.php">Somerset CR 652 - Schley Mountain Rd</a>, Bedminster, New Jersey 07921</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/so/652.php">Somerset CR 652 - Schley Mountain Rd</a>, Bedminster, New Jersey 07921</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -674,7 +674,7 @@
                 <tr>
                     <td class="content text-dark small">79.09 mi ( + 0.62 mi )</td>
                     <td class="content text-dark small">127.59 km ( + 1.00 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/523.php">Somerset CR 523 - Lamington Rd</a>, Bedminster, New Jersey 07921</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/523.php">Somerset CR 523 - Lamington Rd</a>, Bedminster, New Jersey 07921</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -688,14 +688,14 @@
                 <tr>
                     <td class="content text-dark small">81.01 mi ( + 0.61 mi )</td>
                     <td class="content text-dark small">130.67 km ( + 0.98 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/so/661.php">Somerset CR 661 - Holland Ave</a>, Peapack and Gladstone, New Jersey 07931</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/so/661.php">Somerset CR 661 - Holland Ave</a>, Peapack and Gladstone, New Jersey 07931</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">82.42 mi ( + 1.41 mi )</td>
                     <td class="content text-dark small">132.94 km ( + 2.27 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/512.php">Somerset CR 512 - Pottersville Rd</a>, Peapack and Gladstone, New Jersey 07931</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/512.php">Somerset CR 512 - Pottersville Rd</a>, Peapack and Gladstone, New Jersey 07931</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -716,7 +716,7 @@
                 <tr>
                     <td class="content text-dark small">87.30 mi ( + 4.04 mi )</td>
                     <td class="content text-dark small">140.78 km ( + 6.50 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/513.php">Morris CR 513 - W Main St (WB) <br>Main St (EB)</a>, Chester Township, New Jersey 07930</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/513.php">Morris CR 513 - W Main St (WB) <br>Main St (EB)</a>, Chester Township, New Jersey 07930</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -730,28 +730,28 @@
                 <tr>
                     <td class="content text-dark small">90.33 mi ( + 0.68 mi )</td>
                     <td class="content text-dark small">145.65 km ( + 1.09 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/mr/625.php">Morris CR 625 - Bartley-Chester Rd</a>, Mount Olive, New Jersey 07828</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/mr/625.php">Morris CR 625 - Bartley-Chester Rd</a>, Mount Olive, New Jersey 07828</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">91.07 mi ( + 0.74 mi )</td>
                     <td class="content text-dark small">146.84 km ( + 1.19 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/mr/612.php">Morris CR 612 - Bartley Rd (WB)</a> <br><a href="../county-roads/nj/mr/613.php">Morris CR 613 - Flanders-Bartley Rd (EB)</a>, Mount Olive, New Jersey 07828</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/mr/612.php">Morris CR 612 - Bartley Rd (WB)</a> <br><a href="../secondary-roads/nj/mr/613.php">Morris CR 613 - Flanders-Bartley Rd (EB)</a>, Mount Olive, New Jersey 07828</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">92.32 mi ( + 1.25 mi )</td>
                     <td class="content text-dark small">148.86 km ( + 2.02 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/mr/613.php">Morris CR 613 - Flanders Netcong Rd (WB) <br>Main St (EB)</a>, Mount Olive, New Jersey 07828</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/mr/613.php">Morris CR 613 - Flanders Netcong Rd (WB) <br>Main St (EB)</a>, Mount Olive, New Jersey 07828</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">93.69 mi ( + 1.37 mi )</td>
                     <td class="content text-dark small">151.06 km ( + 2.20 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/mr/613.php">Morris CR 613 - Drakesdale Rd</a>, Mount Olive, New Jersey 07828</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/mr/613.php">Morris CR 613 - Drakesdale Rd</a>, Mount Olive, New Jersey 07828</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -835,14 +835,14 @@
                 <tr>
                     <td class="content text-dark small">99.19 mi ( + 0.35 mi )</td>
                     <td class="content text-dark small">159.91 km ( + 0.57 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/604.php">Sussex CR 604 - Waterloo Rd</a>, Byram Township, New Jersey 07821</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/604.php">Sussex CR 604 - Waterloo Rd</a>, Byram Township, New Jersey 07821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">99.67 mi ( + 0.48 mi )</td>
                     <td class="content text-dark small">160.67 km ( + 0.76 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/604.php">Sussex CR 607 - Lackawanna Dr</a>, Byram Township, New Jersey 07821</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/604.php">Sussex CR 607 - Lackawanna Dr</a>, Byram Township, New Jersey 07821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -863,42 +863,42 @@
                 <tr>
                     <td class="content text-dark small">103.78 mi ( + 1.20 mi )</td>
                     <td class="content text-dark small">167.27 km ( + 1.93 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/517.php">Sussex CR 517 - Brighton Ave</a>, Andover Township, New Jersey 07860</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/517.php">Sussex CR 517 - Brighton Ave</a>, Andover Township, New Jersey 07860</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with Sussex CR 517</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">103.88 mi ( + 0.10 mi )</td>
                     <td class="content text-dark small">167.44 km ( + 0.17 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/517.php">Sussex CR 517 - Lenape Rd</a>, Andover Township, New Jersey 07860</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/517.php">Sussex CR 517 - Lenape Rd</a>, Andover Township, New Jersey 07860</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Sussex CR 517</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">104.50 mi ( + 0.62 mi )</td>
                     <td class="content text-dark small">168.43 km ( + 0.99 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/669.php">Sussex CR 669 - Limecrest Rd</a>, Andover Township, New Jersey 07860</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/669.php">Sussex CR 669 - Limecrest Rd</a>, Andover Township, New Jersey 07860</td>
                     <td class="content text-dark">US-206, Andover Township, New Jersey 07860</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">105.78 mi ( + 1.28 mi )</td>
                     <td class="content text-dark small">170.49 km ( + 2.06 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/603.php">Sussex CR 603 - Brighton Rd</a>, Andover Township, New Jersey 07860</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/603.php">Sussex CR 603 - Brighton Rd</a>, Andover Township, New Jersey 07860</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">106.70 mi ( + 0.92 mi )</td>
                     <td class="content text-dark small">171.97 km ( + 1.48 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/611.php">Sussex CR 611 - Springdale Greendell Rd (WB) <br>Stickles Pond Rd (EB)</a>, Andover Township, New Jersey 07860</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/611.php">Sussex CR 611 - Springdale Greendell Rd (WB) <br>Stickles Pond Rd (EB)</a>, Andover Township, New Jersey 07860</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">106.80 mi ( + 0.10 mi )</td>
                     <td class="content text-dark small">172.14 km ( + 0.17 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/618.php">Sussex CR 618 - Fredon Springdale Rd</a>, Andover Township, New Jersey 07860</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/618.php">Sussex CR 618 - Fredon Springdale Rd</a>, Andover Township, New Jersey 07860</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -919,7 +919,7 @@
                 <tr>
                     <td class="content text-dark small">108.79 mi ( + 0.57 mi )</td>
                     <td class="content text-dark small">175.35 km ( + 0.92 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/621.php">Sussex CR 621 - Woodside Ave</a>, Newton, New Jersey 07860</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/621.php">Sussex CR 621 - Woodside Ave</a>, Newton, New Jersey 07860</td>
                     <td class="content text-dark">Main St, Newton, New Jersey 07860</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -940,14 +940,14 @@
                 <tr>
                     <td class="content text-dark small">109.76 mi ( + 0.10 mi )</td>
                     <td class="content text-dark small">176.91 km ( + 0.16 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/nj/94.php">NJ-94 - High St</a> (concurrent with <a href="../county-roads/nj/519.php">Sussex CR 519</a>), Newton, New Jersey 07860</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/94.php">NJ-94 - High St</a> (concurrent with <a href="../secondary-roads/nj/519.php">Sussex CR 519</a>), Newton, New Jersey 07860</td>
                     <td class="content text-dark">Water St, Newton, New Jersey 07860</td>
                     <td class="content text-dark">Start concurrency with NJ-94 & Sussex CR 519</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">109.80 mi ( + 0.04 mi )</td>
                     <td class="content text-dark small">176.97 km ( + 0.06 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/519.php">Sussex CR 519 - Mill St</a>, Newton, New Jersey 07860</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/519.php">Sussex CR 519 - Mill St</a>, Newton, New Jersey 07860</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Sussex CR 519</td>
                 </tr>
@@ -975,7 +975,7 @@
                 <tr>
                     <td class="content text-dark small">112.52 mi ( + 0.51 mi )</td>
                     <td class="content text-dark small">181.35 km ( + 0.82 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/626.php">Sussex CR 626 - Halsey Rd</a>, Hampton Township, New Jersey 07860</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/626.php">Sussex CR 626 - Halsey Rd</a>, Hampton Township, New Jersey 07860</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -989,14 +989,14 @@
                 <tr>
                     <td class="content text-dark small">114.60 mi ( + 0.71 mi )</td>
                     <td class="content text-dark small">184.70 km ( + 1.15 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/nj/15.php">NJ-15 - Lafayette Rd (EB)</a> <br><a href="../county-roads/nj/565.php">Sussex CR 565 - Ross Corner Sussex Rd (NB)</a>, Frankford Township, New Jersey 07822</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/15.php">NJ-15 - Lafayette Rd (EB)</a> <br><a href="../secondary-roads/nj/565.php">Sussex CR 565 - Ross Corner Sussex Rd (NB)</a>, Frankford Township, New Jersey 07822</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">116.57 mi ( + 1.97 mi )</td>
                     <td class="content text-dark small">187.87 km ( + 3.17 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/630.php">Sussex CR 630 - Broad St</a>, Frankford Township, New Jersey 07822</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/630.php">Sussex CR 630 - Broad St</a>, Frankford Township, New Jersey 07822</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1010,14 +1010,14 @@
                 <tr>
                     <td class="content text-dark small">116.93 mi ( + 0.10 mi )</td>
                     <td class="content text-dark small">188.45 km ( + 0.17 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/519.php">Sussex CR 519 - Newton Ave</a>, Branchburg, New Jersey 07826</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/519.php">Sussex CR 519 - Newton Ave</a>, Branchburg, New Jersey 07826</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">117.45 mi ( + 0.52 mi )</td>
                     <td class="content text-dark small">189.29 km ( + 0.84 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/633.php">Sussex CR 633 - Kemah Lake Rd</a>, Branchburg, New Jersey 07826</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/633.php">Sussex CR 633 - Kemah Lake Rd</a>, Branchburg, New Jersey 07826</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1031,35 +1031,35 @@
                 <tr>
                     <td class="content text-dark small">117.94 mi ( + 0.06 mi )</td>
                     <td class="content text-dark small">189.92 km ( + 0.10 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/630.php">Sussex CR 630 - Main St</a>, Frankford Township, New Jersey 07822</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/630.php">Sussex CR 630 - Main St</a>, Frankford Township, New Jersey 07822</td>
                     <td class="content text-dark">US-206, Frankford Township, New Jersey 07822</td>
                     <td class="content text-dark">Start concurrency with Sussex CR 630</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">118.20 mi ( + 0.26 mi )</td>
                     <td class="content text-dark small">190.34 km ( + 0.42 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/630.php">Sussex CR 630 - Union Tpke</a>, Frankford Township, New Jersey 07822</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/630.php">Sussex CR 630 - Union Tpke</a>, Frankford Township, New Jersey 07822</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Sussex CR 630</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">118.20 mi ( + 0.26 mi )</td>
                     <td class="content text-dark small">190.34 km ( + 0.42 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/630.php">Sussex CR 630 - Union Tpke</a>, Frankford Township, New Jersey 07822</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/630.php">Sussex CR 630 - Union Tpke</a>, Frankford Township, New Jersey 07822</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Sussex CR 630</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">119.31 mi ( + 1.11 mi )</td>
                     <td class="content text-dark small">192.12 km ( + 1.78 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/630.php">Sussex CR 630 - Union Tpke</a>, Frankford Township, New Jersey 07822</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/630.php">Sussex CR 630 - Union Tpke</a>, Frankford Township, New Jersey 07822</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">120.19 mi ( + 0.88 mi )</td>
                     <td class="content text-dark small">193.53 km ( + 1.41 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/521.php">Sussex CR 521 - W Owassa Tpke</a>, Frankford Township, New Jersey 07822</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/521.php">Sussex CR 521 - W Owassa Tpke</a>, Frankford Township, New Jersey 07822</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with Sussex CR 521</td>
                 </tr>
@@ -1073,49 +1073,49 @@
                 <tr>
                     <td class="content text-dark small">120.84 mi ( + 0.15 mi )</td>
                     <td class="content text-dark small">194.58 km ( + 0.24 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/636.php">Sussex CR 636 - Upper N Shore Rd</a>, Sandyston Township, New Jersey 07826</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/636.php">Sussex CR 636 - Upper N Shore Rd</a>, Sandyston Township, New Jersey 07826</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">122.54 mi ( + 1.70 mi )</td>
                     <td class="content text-dark small">197.31 km ( + 2.73 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/560.php">Sussex CR 560 - Tuttles Corner Dingmans Rd</a>, Sandyston Township, New Jersey 07826</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/560.php">Sussex CR 560 - Tuttles Corner Dingmans Rd</a>, Sandyston Township, New Jersey 07826</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">124.28 mi ( + 1.74 mi )</td>
                     <td class="content text-dark small">200.11 km ( + 2.80 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/652.php">Sussex CR 652 - Lertora Rd</a>, Sandyston Township, New Jersey 07826</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/652.php">Sussex CR 652 - Lertora Rd</a>, Sandyston Township, New Jersey 07826</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">125.26 mi ( + 0.98 mi )</td>
                     <td class="content text-dark small">201.68 km ( + 1.57 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/654.php">Sussex CR 654 - McHugh Spur</a>, Sandyston Township, New Jersey 07826</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/654.php">Sussex CR 654 - McHugh Spur</a>, Sandyston Township, New Jersey 07826</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">126.29 mi ( + 1.03 mi )</td>
                     <td class="content text-dark small">203.34 km ( + 1.66 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/675.php">Sussex CR 675 - Degroat Rd</a>, Sandyston Township, New Jersey 07826</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/675.php">Sussex CR 675 - Degroat Rd</a>, Sandyston Township, New Jersey 07826</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">127.22 mi ( + 0.93 mi )</td>
                     <td class="content text-dark small">204.83 km ( + 1.49 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/656.php">Sussex CR 656 - W Shaytown Rd</a>, Sandyston Township, New Jersey 07826</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/656.php">Sussex CR 656 - W Shaytown Rd</a>, Sandyston Township, New Jersey 07826</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">127.29 mi ( + 0.07 mi )</td>
                     <td class="content text-dark small">204.95 km ( + 0.12 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/645.php">Sussex CR 645 - Layton Hainesville Rd</a>, Sandyston Township, New Jersey 07826</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/645.php">Sussex CR 645 - Layton Hainesville Rd</a>, Sandyston Township, New Jersey 07826</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1129,14 +1129,14 @@
                 <tr>
                     <td class="content text-dark small">129.08 mi ( + 1.14 mi )</td>
                     <td class="content text-dark small">207.83 km ( + 1.84 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/653.php">Sussex CR 653 - Clove Rd</a>, Montague Township, New Jersey 07827</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/653.php">Sussex CR 653 - Clove Rd</a>, Montague Township, New Jersey 07827</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">129.83 mi ( + 0.75 mi )</td>
                     <td class="content text-dark small">208.99 km ( + 1.21 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/su/650.php">Sussex CR 650 - Deckertown Tpke (EB)</a> <br><a href="../county-roads/nj/521.php">Sussex CR 521 - River Rd (NB)</a>, Montague Township, New Jersey 07827</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/su/650.php">Sussex CR 650 - Deckertown Tpke (EB)</a> <br><a href="../secondary-roads/nj/521.php">Sussex CR 521 - River Rd (NB)</a>, Montague Township, New Jersey 07827</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with Sussex CR 521</td>
                 </tr>
@@ -1159,7 +1159,7 @@
                 <tr>
                     <td class="content text-dark small">131.09 mi ( + 0.30 mi )</td>
                     <td class="content text-dark small">211.05 km ( + 0.49 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/pa/pk/2013.php">Pike CR 2013 - Milford Beach Rd</a>, Milford, Pennsylvania, 18337</td>
+                    <td class="content text-dark"><a href="../secondary-roads/pa/pk/2013.php">Pike CR 2013 - Milford Beach Rd</a>, Milford, Pennsylvania, 18337</td>
                     <td class="content text-dark">E Hartford Rd, Milford, Pennsylvania, 18337</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1222,7 +1222,7 @@
                 <tr>
                     <td class="content text-dark small">0.65 mi ( + 0.29 mi )</td>
                     <td class="content text-dark small">1.05 km ( + 0.47 km )</td>
-                    <td class="content text-dark"><a href="#us206">US-206 - Princeton Ave (SB) <br>Lawrence Rd (NB)</a> <br><a href="../county-roads/nj/583.php">Mercer CR 583 - Princeton Pike (NB)</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="#us206">US-206 - Princeton Ave (SB) <br>Lawrence Rd (NB)</a> <br><a href="../secondary-roads/nj/583.php">Mercer CR 583 - Princeton Pike (NB)</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
@@ -1242,7 +1242,7 @@
                 <tr>
                     <td class="content text-dark small">2.22 mi ( + 2.22 mi )</td>
                     <td class="content text-dark small">3.57 km ( + 3.57 km )</td>
-                    <td class="content text-dark"><a href="../county-roads/nj/514.php">Somerset CR 514 - Amwell Rd</a>, Hillsborough Township, New Jersey 08844</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/514.php">Somerset CR 514 - Amwell Rd</a>, Hillsborough Township, New Jersey 08844</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

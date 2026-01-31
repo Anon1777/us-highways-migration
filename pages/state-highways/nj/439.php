@@ -23,7 +23,7 @@
                 <tr>
                     <td class="content text-dark small">0.48 mi ( + 0.34 mi )</td>
                     <td class="content text-dark small">0.76 km ( + 0.54 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/un/623.php">Union CR 623 - S Broad St</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/un/623.php">Union CR 623 - S Broad St</a>, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -44,7 +44,7 @@
                 <tr>
                     <td class="content text-dark small">1.00 mi ( + 0.13 mi )</td>
                     <td class="content text-dark small">1.61 km ( + 0.21 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/514.php">Union CR 514 - Lidgerwood Ave</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/514.php">Union CR 514 - Lidgerwood Ave</a>, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -58,21 +58,21 @@
                 <tr>
                     <td class="content text-dark small">1.73 mi ( + 0.30 mi )</td>
                     <td class="content text-dark small">2.79 km ( + 0.49 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/un/638.php">Union CR 638 - Linden Ave</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/un/638.php">Union CR 638 - Linden Ave</a>, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.84 mi ( + 0.11 mi )</td>
                     <td class="content text-dark small">2.97 km ( + 0.18 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/un/612.php">Union CR 612 - Jersey Ave</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/un/612.php">Union CR 612 - Jersey Ave</a>, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">2.02 mi ( + 0.18 mi )</td>
                     <td class="content text-dark small">3.26 km ( + 0.29 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/un/610.php">Union CR 610 - W Grand St</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/un/610.php">Union CR 610 - W Grand St</a>, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -86,7 +86,7 @@
                 <tr>
                     <td class="content text-dark small">2.37 mi ( + 0.24 mi )</td>
                     <td class="content text-dark small">3.82 km ( + 0.39 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/un/618.php">Union CR 618 - Magie Ave</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/un/618.php">Union CR 618 - Magie Ave</a>, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -107,7 +107,7 @@
                 <tr>
                     <td class="content text-dark small">2.96 mi ( + 0.22 mi )</td>
                     <td class="content text-dark small">4.77 km ( + 0.35 km )</td>
-                    <td class="content text-dark"><a href="82.php">NJ-82 - Morris Ave (WB)</a> <br><a href="../../county-roads/nj/un/629.php">Union CR 629 - Morris Ave (EB)</a>, Union Township, New Jersey 07083</td>
+                    <td class="content text-dark"><a href="82.php">NJ-82 - Morris Ave (WB)</a> <br><a href="../../secondary-roads/nj/un/629.php">Union CR 629 - Morris Ave (EB)</a>, Union Township, New Jersey 07083</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -128,7 +128,7 @@
                 <tr>
                     <td class="content text-dark small">3.79 mi ( + 0.22 mi )</td>
                     <td class="content text-dark small">6.09 km ( + 0.35 km )</td>
-                    <td class="content text-dark"><a href="../../county-roads/nj/un/623.php">Union CR 623 - N Broad St</a>, Elizabeth, New Jersey </td>
+                    <td class="content text-dark"><a href="../../secondary-roads/nj/un/623.php">Union CR 623 - N Broad St</a>, Elizabeth, New Jersey </td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
