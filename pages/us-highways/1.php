@@ -2382,9 +2382,9 @@
                     <td class="content text-dark">End Charlton County, Start Ware County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">566.61 mi ( + 4.92 mi )</td>
-                    <td class="content text-dark small">911.90 km ( + 7.91 km )</td>
-                    <td class="content text-dark">Ware CR 42 - Fort Mudge Rd, Waycross, Georgia 31503</td>
+                    <td class="content text-dark small">567.66 mi ( + 4.92 mi )</td>
+                    <td class="content text-dark small">914.87 km ( + 7.91 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/wa/42.php">Ware CR 42 - Fort Mudge Rd</a>, Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
