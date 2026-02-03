@@ -2389,9 +2389,9 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">573.10 mi ( + 6.49 mi )</td>
-                    <td class="content text-dark small">922.34 km ( + 10.45 km )</td>
-                    <td class="content text-dark">GA-177 - Laura Walker Rd, Waycross, Georgia 31503</td>
+                    <td class="content text-dark small">574.15 mi ( + 6.49 mi )</td>
+                    <td class="content text-dark small">925.32 km ( + 10.45 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/177.php">GA-177 - Laura Walker Rd</a>, Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
