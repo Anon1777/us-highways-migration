@@ -223,3 +223,38 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">35.52 mi ( + 0.90 mi )</td>
+                    <td class="content text-dark small">56.46 km ( + 1.45 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/bf/1022.php">Bedford SR 1022 - Price Hill Rd</a>, Hopewell, Pennsylvania 16650</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">37.57 mi ( + 2.05 mi )</td>
+                    <td class="content text-dark small">56.75 km ( + 3.29 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/bf/1009.php">Bedford SR 1009 - Woodcock Valley Rd (SB)</a> <br><a href="../../secondary-roads/pa/bf/1019.php">Bedford SR 1019 - Pinchot Rd (NB)</a>, Hopewell, Pennsylvania 16650</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with Bedford SR 1009</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">38.27 mi ( + 0.70 mi )</td>
+                    <td class="content text-dark small">57.88 km ( + 1.13 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/bf/1009.php">Bedford SR 1009 - Plank Rd</a>, Hopewell, Pennsylvania 16650</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with Bedford SR 1009</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">39.26 mi ( + 0.99 mi )</td>
+                    <td class="content text-dark small">59.47 km ( + 1.59 km )</td>
+                    <td class="content text-dark"><a href="915.php">PA-915 - Front St</a>, Hopewell, Pennsylvania 16650</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">41.22 mi ( + 1.96 mi )</td>
+                    <td class="content text-dark small">62.63 km ( + 3.16 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Raystown Rd, Saxton, Pennsylvania 16678</td>
+                    <td class="content text-dark"></td>
+                </tr>
