@@ -10,6 +10,7 @@ if you're insane like i am and love roads and know how to code please follow thi
 6. stop at every intersection with a numbered route
 7. zoom out and log mile distance and kilometer distance rounded to nearest hundredth
 8. follow the table template
+9. for partial intersections, do southbound side first, then northbound, then westbound, then eastbound (for good example, see us-highways/1.php:2408)
 
 thank u
 
