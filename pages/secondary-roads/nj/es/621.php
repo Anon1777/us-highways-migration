@@ -31,7 +31,7 @@
                 <tr>
                     <td class="content text-dark small">3.23 mi ( + 0.28 mi )</td>
                     <td class="content text-dark small">5.19 km ( + 0.45 km )</td>
-                    <td class="content text-dark"><a href="618.php">Essex CR 618 - Normal Ave</a>, Montclair, New Jersey 07042 (WB) <br><a href="../pa/621.php">Passaic CR 621 - Valley Rd</a>, Clifton, New Jersey 07013</td>
+                    <td class="content text-dark"><a href="618.php">Essex CR 618 - Normal Ave</a>, Montclair, New Jersey 07042 (WB)<br><a href="../pa/621.php">Passaic CR 621 - Valley Rd</a>, Clifton, New Jersey 07013</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>

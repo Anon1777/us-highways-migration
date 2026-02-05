@@ -11,7 +11,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Clear Ridge Rd, Warfordsburg, Pennsylvania 17267</td>
-                    <td class="content text-dark">Start of Route <br>Start of Route in Fulton County</td>
+                    <td class="content text-dark">Start of Route<br>Start of Route in Fulton County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.91 mi ( + 0.91 mi )</td>
@@ -233,7 +233,7 @@
                 <tr>
                     <td class="content text-dark small">37.57 mi ( + 2.05 mi )</td>
                     <td class="content text-dark small">56.75 km ( + 3.29 km )</td>
-                    <td class="content text-dark"><a href="../../secondary-roads/pa/bf/1009.php">Bedford SR 1009 - Woodcock Valley Rd (SB)</a> <br><a href="../../secondary-roads/pa/bf/1019.php">Bedford SR 1019 - Pinchot Rd (NB)</a>, Hopewell, Pennsylvania 16650</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/bf/1009.php">Bedford SR 1009 - Woodcock Valley Rd (SB)</a><br><a href="../../secondary-roads/pa/bf/1019.php">Bedford SR 1019 - Pinchot Rd (NB)</a>, Hopewell, Pennsylvania 16650</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with Bedford SR 1009</td>
                 </tr>

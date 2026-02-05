@@ -115,7 +115,7 @@
                 <tr>
                     <td class="content text-dark small">14.37 mi ( + 2.96 mi )</td>
                     <td class="content text-dark small">23.08 km ( + 4.77 km )</td>
-                    <td class="content text-dark"><a href="../../../state-highways/ny/15.php">NY-15 - W Henrietta Rd (NB/SB)</a> <br><a href="../../../interstates/auxiliary/ny-390.php">I-390</a>, Rochester, New York 14623</td>
+                    <td class="content text-dark"><a href="../../../state-highways/ny/15.php">NY-15 - W Henrietta Rd (SB/NB)</a><br><a href="../../../interstates/auxiliary/ny-390.php">I-390</a>, Rochester, New York 14623</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>

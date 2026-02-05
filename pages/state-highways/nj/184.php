@@ -18,7 +18,7 @@
                     <td class="content text-dark small">0.15 km ( + 0.15 km )</td>
                     <td class="content text-dark"><a href="../../secondary-roads/nj/501.php">Middlesex CR 501 - King Georges Rd</a>, Woodbridge Township, New Jersey 07095</td>
                     <td class="content text-dark">King Georges Rd, Woodbridge Township, New Jersey 07095</td>
-                    <td class="content text-dark">Start of Route <br>Start concurrency with Middlesex CR 501</td>
+                    <td class="content text-dark">Start of Route<br>Start concurrency with Middlesex CR 501</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.22 mi ( + 0.13 mi )</td>

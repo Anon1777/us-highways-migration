@@ -9,9 +9,9 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-287.php">I-287 (WB)</a> <br><a href="../../interstates/95.php">I-95 - New Jersey Tpke (NB/SB)</a> (concurrent with <a href="../../state-highways/nj/700.php">NJ-700</a>), Edison, New Jersey 08817</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-287.php">I-287 (WB)</a><br><a href="../../interstates/95.php">I-95 - New Jersey Tpke (SB/NB)</a> (concurrent with <a href="../../state-highways/nj/700.php">NJ-700</a>), Edison, New Jersey 08817</td>
                     <td class="content text-dark">NJ-440, Edison, New Jersey 08817</td>
-                    <td class="content text-dark">Start of Route <br>Start Route in New Jersey <br>Start Middlesex County</td>
+                    <td class="content text-dark">Start of Route<br>Start Route in New Jersey<br>Start Middlesex County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.32 mi ( + 0.32 mi )</td>
@@ -72,7 +72,7 @@
                 <tr>
                     <td class="content text-dark small">2.63 mi ( + 0.42 mi )</td>
                     <td class="content text-dark small">4.26 km ( + 0.68 km )</td>
-                    <td class="content text-dark"><a href="184.php">NJ-184 - Pfeiffer Blvd (EB)</a> (concurrent with <a href="../../secondary-roads/nj/501.php">Middlesex CR 501 - Pfeiffer Blvd (EB)</a>), Perth Amboy, New Jersey 08861</td>
+                    <td class="content text-dark"><a href="184.php">NJ-184 - Pfeiffer Blvd (EB)</a> (concurrent with <a href="../../secondary-roads/nj/501.php">Middlesex CR 501</a>), Perth Amboy, New Jersey 08861</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -86,7 +86,7 @@
                 <tr>
                     <td class="content text-dark small">2.83 mi ( + 0.03 mi )</td>
                     <td class="content text-dark small">4.58 km ( + 0.05 km )</td>
-                    <td class="content text-dark"><a href="184.php">NJ-184 - Pfeiffer Blvd (EB)</a> (concurrent with <a href="../../secondary-roads/nj/501.php">Middlesex CR 501 - Pfeiffer Blvd (EB)</a>), Perth Amboy, New Jersey 08861</td>
+                    <td class="content text-dark"><a href="184.php">NJ-184 - Pfeiffer Blvd (EB)</a> (concurrent with <a href="../../secondary-roads/nj/501.php">Middlesex CR 501</a>), Perth Amboy, New Jersey 08861</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with Middlesex CR 501</td>
                 </tr>
@@ -116,14 +116,14 @@
                     <td class="content text-dark small">7.42 km ( + 1.52 km )</td>
                     <td class="content text-dark"><a href="../ny/440.php">NY-440 - Outerbridge Xing</a>, New York, New York, 10314</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Pause Route in New Jersey <br>End Middlesex County <br>End concurrency with Middlesex CR 501 <br>Gap in Route (See <a href="../ny/440.php">NY-440</a>)</td>
+                    <td class="content text-dark">Pause Route in New Jersey<br>End Middlesex County<br>End concurrency with Middlesex CR 501<br>Gap in Route (See <a href="../ny/440.php">NY-440</a>)</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">16.37 mi ( + 11.77 mi )</td>
                     <td class="content text-dark small">26.98 km ( + 19.56 km )</td>
                     <td class="content text-dark"><a href="../ny/440.php">NY-440 - Willowbrook Expy</a>, New York, New York, 10314</td>
                     <td class="content text-dark">NJ-440, Bayonne, New Jersey 07002</td>
-                    <td class="content text-dark">Resume Route in New Jersey <br>Start Hudson County <br>Start concurrency with Hudson CR 501</td>
+                    <td class="content text-dark">Resume Route in New Jersey<br>Start Hudson County<br>Start concurrency with Hudson CR 501</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">16.72 mi ( + 0.35 mi )</td>
@@ -198,8 +198,8 @@
                 <tr>
                     <td class="content text-dark small">24.54 mi ( + 2.08 mi )</td>
                     <td class="content text-dark small">40.22 km ( + 3.35 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/1.php">US-1 Byp</a> (concurrent with <a href="../../us-highways/9.php">US-9 Byp</a>) (WB & NB) <br><a href="../../secondary-roads/nj/hu/612.php">Hudson CR 612 - Communpaw Ave</a>, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"><a href="../../us-highways/1.php">US-1 Byp</a> (concurrent with <a href="../../us-highways/9.php">US-9 Byp</a>) (WB & NB)<br><a href="../../secondary-roads/nj/hu/612.php">Hudson CR 612 - Communpaw Ave</a>, Jersey City, New Jersey 07304</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route <br>End route in New Jersey <br>End Hudson County</td>
+                    <td class="content text-dark">End of Route<br>End route in New Jersey<br>End Hudson County</td>
                 </tr>
                 <?php include "../../../static/bottom.php"; ?>

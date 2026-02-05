@@ -29,7 +29,7 @@
                 <tr>
                     <td class="content text-dark small">6.42 mi ( + 4.16 mi )</td>
                     <td class="content text-dark small">10.34 km ( + 6.72 km )</td>
-                    <td class="content text-dark"><a href="#njwa621s">Warren CR 621 Spur - Broad St (NB)</a> <br>Warren CR 621 - River Rd (SB), Harmony Township, New Jersey 08865</td>
+                    <td class="content text-dark"><a href="#njwa621s">Warren CR 621 Spur - Broad St (NB)</a><br>Warren CR 621 - River Rd (SB), Harmony Township, New Jersey 08865</td>
                     <td class="content text-dark">River Rd, Harmony Township, New Jersey 08865</td>
                     <td class="content text-dark"></td>
                 </tr>

@@ -8,9 +8,9 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../state-highways/nj/29.php">NJ-29 (WB)</a> <br><a href="295.php">I-295 (NB & SB) - Camden Fwy</a>, Hamilton Township, New Jersey 08610</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/29.php">NJ-29 (WB)</a><br><a href="295.php">I-295 (NB & SB) - Camden Fwy</a>, Hamilton Township, New Jersey 08610</td>
                     <td class="content text-dark">Central Jersey Expy, Hamilton Township, 08610</td>
-                    <td class="content text-dark">Start of Route <br>Start Mercer County</td>
+                    <td class="content text-dark">Start of Route<br>Start Mercer County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.93 mi ( + 0.93 mi )</td>
@@ -148,7 +148,7 @@
                 <tr>
                     <td class="content text-dark small">34.09 mi ( + 1.96 mi )</td>
                     <td class="content text-dark small">54.86 km ( + 3.15 km )</td>
-                    <td class="content text-dark"><a href="../../state-highways/nj/34.php">NJ-34 (NB & SB)</a> <br><a href="../../state-highways/nj/138.php">NJ-138 (EB)</a>, Wall Township, New Jersey 07727</td>
+                    <td class="content text-dark"><a href="../../state-highways/nj/34.php">NJ-34 (NB & SB)</a><br><a href="../../state-highways/nj/138.php">NJ-138 (EB)</a>, Wall Township, New Jersey 07727</td>
                     <td class="content text-dark">Central Jersey Expy, Wall Township, New Jersey 07727</td>
                     <td class="content text-dark">End of Route / End Monmouth County</td>
                 </tr>

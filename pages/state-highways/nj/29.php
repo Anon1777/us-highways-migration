@@ -9,9 +9,9 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-195.php">I-195 (EB) - Central Jersey Expy</a> / <a href="../../interstates.auxiliary.nj-295">I-295 (NB & SB) - Camden Fwy</a>, Hamilton Township, New Jersey 08610</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-195.php">I-195 (EB) - Central Jersey Expy</a><br><a href="../../interstates.auxiliary.nj-295">I-295 (NB & SB) - Camden Fwy</a>, Hamilton Township, New Jersey 08610</td>
                     <td class="content text-dark">NJ-29, Hamilton Township, New Jersey 08610</td>
-                    <td class="content text-dark">Start of Route <br>Start Mercer County</td>
+                    <td class="content text-dark">Start of Route<br>Start Mercer County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.73 mi ( + 1.73 mi )</td>
@@ -275,7 +275,7 @@
                 <tr>
                     <td class="content text-dark small">34.75 mi ( + 0.63 mi )</td>
                     <td class="content text-dark small">55.87 km ( + 1.02 km )</td>
-                    <td class="content text-dark"><a href="12.php">NJ-12 - Bridge St (WB) <br>Race St (EB)</a>, Frenchtown, New Jersey 08825</td>
+                    <td class="content text-dark"><a href="12.php">NJ-12 - Bridge St (WB)<br>Race St (EB)</a>, Frenchtown, New Jersey 08825</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>

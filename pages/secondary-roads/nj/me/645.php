@@ -11,12 +11,12 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="../../../us-highways/206.php">US-206 - Princeton Ave</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark">Brunswick Cir, Lawrence Township, New Jersey 08648</td>
-                    <td class="content text-dark">Start of Route <br>Start concurrency with US-206</td>
+                    <td class="content text-dark">Start of Route<br>Start concurrency with US-206</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.23 mi ( + 0.23 mi )</td>
                     <td class="content text-dark small">0.37 km ( + 0.37 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route <br>End concurrency with US-206</td>
+                    <td class="content text-dark">End of Route<br>End concurrency with US-206</td>
                 </tr>
