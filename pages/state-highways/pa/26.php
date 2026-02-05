@@ -265,3 +265,31 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">46.06 mi ( + 0.21 mi )</td>
+                    <td class="content text-dark small">70.42 km ( + 0.34 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/bf/1019.php">Bedford SR 1019 - Pinchot Rd</a>, Saxton, Pennsylvania 16678</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">49.48 mi ( + 3.42 mi )</td>
+                    <td class="content text-dark small">75.92 km ( + 5.50 km )</td>
+                    <td class="content text-dark"><a href="164.php">PA-164 - Cove Mountain Rd</a>, Saxton, Pennsylvania 16678</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">50.35 mi ( + 0.87 mi )</td>
+                    <td class="content text-dark small">77.32 km ( + 1.40 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Raystown Rd, James Creek, Pennsylvania 16657</td>
+                    <td class="content text-dark">End Bedford County, Start Huntingdon County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">52.23 mi ( + 1.88 mi )</td>
+                    <td class="content text-dark small">80.35 km ( + 3.03 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/hn/3002.php">Huntingdon SR 3002 - Legislative Rte 31025</a> (concurrent with <a href="../../secondary-roads/pa/hn/3006.php">Huntingdon SR 3006</a>)</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
