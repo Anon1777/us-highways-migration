@@ -258,3 +258,10 @@
                     <td class="content text-dark">Raystown Rd, Saxton, Pennsylvania 16678</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">45.85 mi ( + 4.63 mi )</td>
+                    <td class="content text-dark small">70.08 km ( + 7.45 km )</td>
+                    <td class="content text-dark"><a href="913.php">PA-913 - Saxton Rd</a>, Saxton, Pennsylvania 16678</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
