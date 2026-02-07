@@ -6391,8 +6391,10 @@
                     <td class="content text-dark">N Washington Blvd, Savage, Maryland 20763</td>
                     <td class="content text-dark"></td>
                 </tr>
+                </section>
             </table>
             <hr>
+            <section id="flus1bussaf">
             <h1 class="header" id="flus1bus">United States Route 1 Business (St. Augustine, Florida)</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
@@ -6573,8 +6575,8 @@
                 <tr>
                     <td class="content text-dark small">1.40 mi ( + 1.61 mi )</td>
                     <td class="content text-dark small">2.25 km ( + 0.30 km )</td>
-                    <td class="content text-dark">US-1 Business - Ossie Davis Pkwy, Waycross, Georgia 31503</td>
-                    <td class="content text-dark">Ossie Davis Pkwy, Waycross, Georgia 31503</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Ossie Davis Pkwy, Deenwood, Georgia 31503</td>
                     <td class="content text-dark">End concurrency with US-84 and GA-38</td>
                 </tr>
         <?php include "../../static/bottom.php"; ?>
