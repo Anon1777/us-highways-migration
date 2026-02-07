@@ -9,14 +9,14 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="13.php">US-13 - Sussex Hwy (NB)<br>S Dual Hwy (SB)</a>, Laurel, Delaware 19956</td>
+                    <td class="content text-dark"><a href="13.php">US-13 - Sussex Hwy (NB) / S Dual Hwy (SB)</a>, Laurel, Delaware 19956</td>
                     <td class="content text-dark">County Seat Hwy, Laurel, Delaware 19956</td>
                     <td class="content text-dark">Start of Route<br>Start of Route in Delaware<br>Start Sussex County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">5.48 mi ( + 5.48 mi )</td>
                     <td class="content text-dark small">8.81 km ( + 8.81 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/de/20.php">DE-20 - Concord Rd (EB)<br>Hardscrabble Rd (WB)</a>, Georgetown, Delaware 19947</td>
+                    <td class="content text-dark"><a href="../state-highways/de/20.php">DE-20 - Hardscrabble Rd (WB) / Concord Rd (EB)</a>, Georgetown, Delaware 19947</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -79,7 +79,7 @@
                 <tr>
                     <td class="content text-dark small">22.70 mi ( + 6.28 mi )</td>
                     <td class="content text-dark small">38.15 km ( + 10.11 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/de/1.php">DE-1 - Coastal Hwy (EB & WB)</a><br><a href="#us9bus">US-9 Business (NB)</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="../state-highways/de/1.php">DE-1 - Coastal Hwy (WB/EB)</a>, Lewes, Delaware 19958<br><a href="#us9bus">US-9 Business (NB)</a>, Lewes, Delaware 19958</td>
                     <td class="content text-dark">Coastal Hwy, Lewes, Delaware 19958</td>
                     <td class="content text-dark">End concurrency with DE-404<br>Start concurrency with DE-1</td>
                 </tr>
@@ -165,7 +165,7 @@
                 <tr>
                     <td class="content text-dark small">46.45 mi ( + 0.14 mi )</td>
                     <td class="content text-dark small">77.17 km ( + 0.23 km )</td>
-                    <td class="content text-dark">US-9 - Shore Rd (NB)<br><a href="../state-highways/nj/109.php">NJ-109 (SB)</a>, Lower Township, New Jersey 08204</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/109.php">NJ-109 (SB)</a>, Lower Township, New Jersey 08204<br>US-9 - Shore Rd (NB), Lower Township, New Jersey 08204</td>
                     <td class="content text-dark">Shore Rd, Lower Township, New Jersey 08204</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -221,7 +221,7 @@
                 <tr>
                     <td class="content text-dark small">53.04 mi ( + 0.27 mi )</td>
                     <td class="content text-dark small">87.75 km ( + 0.44 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/cm/618.php">Cape May CR 612 - Indian Trail Rd (WB)</a><br><a href="../state-highways/nj/147.php">NJ-147 - N Wildwood Blvd (EB)</a>, Middle Township, New Jersey 08210</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/cm/618.php">Cape May CR 612 - Indian Trail Rd (WB)</a>, Middle Township, New Jersey 08210<br><a href="../state-highways/nj/147.php">NJ-147 - N Wildwood Blvd (EB)</a>, Middle Township, New Jersey 08210</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -362,7 +362,7 @@
                 <tr>
                     <td class="content text-dark small">72.18 mi ( + 0.21 mi )</td>
                     <td class="content text-dark small">118.53 km ( + 0.34 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a><br><a href="#us9bp">US-9 - N Shore Rd (NB)</a>, Upper Township, New Jersey 08230</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a>, Upper Township, New Jersey 08230<br><a href="#us9bp">US-9 - N Shore Rd (NB)</a>, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with Cape May CR 623<br>Route splits into <a href="#us9bp">US-9 Beesley's Point Spur</a></td>
                 </tr>
@@ -397,7 +397,7 @@
                 <tr>
                     <td class="content text-dark small">77.08 mi ( + 0.59 mi )</td>
                     <td class="content text-dark small">126.42 km ( + 0.95 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/nj/52.php">NJ-52 - W Laurel Dr (EB)<br>MacArthur Blvd (WB)</a>, Somers Point, New Jersey 08244</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/52.php">NJ-52 - MacArthur Blvd (WB) / W Laurel Dr (EB)</a>, Somers Point, New Jersey 08244</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -677,7 +677,7 @@
                 <tr>
                     <td class="content text-dark small">106.03 mi ( + 0.07 mi )</td>
                     <td class="content text-dark small">173.09 km ( + 0.11 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/539.php">Ocean CR 539 - N Green St (NB)</a><br><a href="../secondary-roads/nj/oc/603.php">Ocean CR 603 - S Green St, Tuckerton, New Jersey 08087</a>, Tuckerton, New Jersey 08087</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/539.php">Ocean CR 539 - N Green St (NB)</a>, Tuckerton, New Jersey 08087<br><a href="../secondary-roads/nj/oc/603.php">Ocean CR 603 - S Green St, Tuckerton, New Jersey 08087</a>, Tuckerton, New Jersey 08087</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -705,14 +705,7 @@
                 <tr>
                     <td class="content text-dark small">113.80 mi ( + 2.11 mi )</td>
                     <td class="content text-dark small">185.60 km ( + 3.40 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/nj/72.php">NJ-72 - Barnegat Rd (WB)<br>E Barnegat Rd (EB)</a>, Stafford Township, New Jersey 08092</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
-                </tr>
-                <tr>
-                    <td class="content text-dark small">113.80 mi ( + 2.11 mi )</td>
-                    <td class="content text-dark small">185.60 km ( + 3.40 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/nj/72.php">NJ-72 - Barnegat Rd (WB)<br>E Barnegat Rd (EB)</a>, Stafford Township, New Jersey 08092</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/72.php">NJ-72 - Barnegat Rd (WB) / E Barnegat Rd (EB)</a>, Stafford Township, New Jersey 08092</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -733,7 +726,7 @@
                 <tr>
                     <td class="content text-dark small">118.50 mi ( + 1.75 mi )</td>
                     <td class="content text-dark small">193.16 km ( + 2.82 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/554.php">Ocean CR 554 - W Bay Ave (WB)</a><br><a href="../secondary-roads/nj/oc/609.php">Ocean CR 609 - E Bay Ave (EB)</a>, Barnegat, New Jersey 08005</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/554.php">Ocean CR 554 - W Bay Ave (WB)</a>, Barnegat Township, New Jersey 08005<br><a href="../secondary-roads/nj/oc/609.php">Ocean CR 609 - E Bay Ave (EB)</a>, Barnegat, New Jersey 08005</td>
                     <td class="content text-dark">N Main St, Barnegat Township, New Jersey 08005</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -761,7 +754,7 @@
                 <tr>
                     <td class="content text-dark small">121.55 mi ( + 0.45 mi )</td>
                     <td class="content text-dark small">198.06 km ( + 0.72 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/532.php">Ocean CR 532 - Wells Mills Rd (WB)</a><br><a href="../secondary-roads/nj/oc/612.php">Ocean CR 612 - Bryant Rd</a>, Ocean Township, New Jersey 08758</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/532.php">Ocean CR 532 - Wells Mills Rd (WB)</a>, Ocean Township, New Jersey 08758<br><a href="../secondary-roads/nj/oc/612.php">Ocean CR 612 - Bryant Rd</a>, Ocean Township, New Jersey 08758</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -782,7 +775,7 @@
                 <tr>
                     <td class="content text-dark small">125.11 mi ( + 2.18 mi )</td>
                     <td class="content text-dark small">203.79 km ( + 3.51 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/oc/614.php">Ocean CR 614 - Lacey Rd (WB)<br>E Lacey Rd (EB)</a>, Lacey Township, New Jersey 08731</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/oc/614.php">Ocean CR 614 - Lacey Rd (WB) / E Lacey Rd (EB)</a>, Lacey Township, New Jersey 08731</td>
                     <td class="content text-dark">N Main St, Lacey Township, New Jersey 08731</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -796,7 +789,7 @@
                 <tr>
                     <td class="content text-dark small">129.12 mi ( + 1.73 mi )</td>
                     <td class="content text-dark small">210.24 km ( + 2.78 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/oc/618.php">Ocean CR 618 - Central Pkwy (WB)<br>Butler Blvd (EB)</a>, Berkeley Township, New Jersey 08721</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/oc/618.php">Ocean CR 618 - Central Pkwy (WB) / Butler Blvd (EB)</a>, Berkeley Township, New Jersey 08721</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -887,7 +880,7 @@
                 <tr>
                     <td class="content text-dark small">137.84 mi ( + 0.40 mi )</td>
                     <td class="content text-dark small">225.30 km ( + 0.65 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/nj/166.php">NJ-166 - Lakewood Rd (SB)</a><br><a href="../state-highways/nj/444.php">NJ-444 - Garden State Pkwy (SB/NB)</a>, Toms River, New Jersey 08753</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/166.php">NJ-166 - Lakewood Rd (SB)</a>, Toms River, New Jersey 08753<br><a href="../state-highways/nj/444.php">NJ-444 - Garden State Pkwy (SB/NB)</a>, Toms River, New Jersey 08753</td>
                     <td class="content text-dark">Lakewood Rd, Toms River, New Jersey 08753</td>
                     <td class="content text-dark">End concurrency with NJ-444, Start concurrency with NJ-166</td>
                 </tr>
@@ -957,7 +950,7 @@
                 <tr>
                     <td class="content text-dark small">144.81 mi ( + 0.86 mi )</td>
                     <td class="content text-dark small">236.50 km ( + 1.38 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/528.php">Ocean CR 528 - Central Ave (WB)<br>Hurley Ave (EB)</a><br><a href="../secondary-roads/nj/547.php">Ocean CR 547 - Central Ave (WB)<br>Madison Ave (NB)</a>, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/528.php">Ocean CR 528 - Central Ave (WB) / Hurley Ave (EB)</a>, Lakewood, New Jersey 08701<br><a href="../secondary-roads/nj/547.php">Ocean CR 547 - Central Ave (WB) / Madison Ave (NB)</a>, Lakewood, New Jersey 08701</td>
                     <td class="content text-dark">Madison Ave, Lakewood, New Jersey 08701</td>
                     <td class="content text-dark">Start concurrency with Ocean CR 547</td>
                 </tr>
@@ -978,7 +971,7 @@
                 <tr>
                     <td class="content text-dark small">146.20 mi ( + 0.59 mi )</td>
                     <td class="content text-dark small">238.72 km ( + 0.94 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/526.php">Ocean CR 526 - W County Line Rd (WB)<br>E County Line Rd (EB)</a>, Lakewood, New Jersey 08701</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/526.php">Ocean CR 526 - W County Line Rd (WB) / E County Line Rd (EB)</a>, Lakewood, New Jersey 08701</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1041,7 +1034,7 @@
                 <tr>
                     <td class="content text-dark small">157.67 mi ( + 0.58 mi )</td>
                     <td class="content text-dark small">257.18 km ( + 0.93 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/nj/33.php/#nj33bus">NJ-33 Business - Park Ave</a><br><a href="../secondary-roads/nj/mo/24.php">Monmouth CR 24 - Manalapan Ave</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/33.php/#nj33bus">NJ-33 Business - Park Ave</a>, Freehold Township, New Jersey 07728<br><a href="../secondary-roads/nj/mo/24.php">Monmouth CR 24 - Manalapan Ave</a>, Freehold Township, New Jersey 07728</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1076,7 +1069,7 @@
                 <tr>
                     <td class="content text-dark small">164.31 mi ( + 1.69 mi )</td>
                     <td class="content text-dark small">267.87 km ( + 2.72 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/520.php">Monmouth CR 520 - Robertsville Rd (WB)<br>Newman Springs Rd (EB)</a>, Marlboro Township, New Jersey 07746</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/520.php">Monmouth CR 520 - Robertsville Rd (WB) / Newman Springs Rd (EB)</a>, Marlboro Township, New Jersey 07746</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1150,7 +1143,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us9">US-9 - Kings Hwy (SB)<br>Theo C Freeman Memorial Hwy (NB)</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="#us9">US-9 - Kings Hwy (SB) / Theo C Freeman Memorial Hwy (NB)</a>, Lewes, Delaware 19958</td>
                     <td class="content text-dark">Kings Hwy, Lewes, Delaware 19958</td>
                     <td class="content text-dark">Start of Spur</td>
                 </tr>
@@ -1178,7 +1171,7 @@
                 <tr>
                     <td class="content text-dark small">1.73 mi ( + 0.32 mi )</td>
                     <td class="content text-dark small">2.78 km ( + 0.52 km )</td>
-                    <td class="content text-dark"><a href="#us9">US-9 - Theo C Freeman Memorial Hwy (SB)<br>Cape Henlopen Dr (NB)</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="#us9">US-9 - Theo C Freeman Memorial Hwy (SB) / Cape Henlopen Dr (NB)</a>, Lewes, Delaware 19958</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
@@ -1191,7 +1184,7 @@
                 <tr>
                     <td class="content text-dark small">72.18 mi</td>
                     <td class="content text-dark small">118.53 km</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a><br><a href="#us9">US-9 - S Shore Rd (SB)</a>, Upper Township, New Jersey 08230</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a>, Upper Township, New Jersey 08230<br><a href="#us9">US-9 - S Shore Rd (SB)</a>, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark">N Shore Rd, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark">Start of Spur</td>
                 </tr>

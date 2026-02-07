@@ -633,7 +633,7 @@
                     <td class="content text-dark small">205.05 mi ( + 1.62 mi )</td>
                     <td class="content text-dark small">329.55 km ( + 2.61 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">SE 5th Ave (SB)<br>SE 6th Ave (NB), Delray Beach, Florida 33444</td>
+                    <td class="content text-dark">SE 5th Ave (SB) / SE 6th Ave (NB), Delray Beach, Florida 33444</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -709,7 +709,7 @@
                 <tr>
                     <td class="content text-dark small">217.02 mi ( + 1.72 mi )</td>
                     <td class="content text-dark small">348.92 km ( + 2.77 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/fl/802.php">FL-802 - Lucerne Ave (EB)<br>Lake Ave (WB)</a>, Lake Worth Beach, Florida 33462</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/802.php">FL-802 - Lake Ave (WB) / Lucerne Ave (EB)</a>, Lake Worth Beach, Florida 33462</td>
                     <td class="content text-dark">N Dixie Hwy, Lake Worth Beach, Florida 33460</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -744,7 +744,7 @@
                 <tr>
                     <td class="content text-dark small">223.21 mi ( + 1.09 mi )</td>
                     <td class="content text-dark small">358.90 km ( + 1.75 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/fl/704.php">FL-704 - Lakeview Ave (WB)<br>Okeechobee Blvd (EB)</a>, West Palm Beach, Florida 33401</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/704.php">FL-704 - Lakeview Ave (WB) / Okeechobee Blvd (EB)</a>, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark">Lakeview Ave, West Palm Beach, Florida 33401</td>
                     <td class="content text-dark">Start concurrency with FL-704</td>
                 </tr>
@@ -1108,7 +1108,7 @@
                 <tr>
                     <td class="content text-dark small">294.26 mi ( + 0.41 mi )</td>
                     <td class="content text-dark small">472.23 km ( + 0.66 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/fl/60.php">FL-60 - 20th Pl (WB)<br>20th St (EB)</a>, Vera Beach South, Florida 3295060</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/60.php">FL-60 - 20th Pl (WB) / 20th St (EB)</a>, Vera Beach South, Florida 3295060</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1367,7 +1367,7 @@
                 <tr>
                     <td class="content text-dark small">348.98 mi ( + 0.45 mi )</td>
                     <td class="content text-dark small">560.39 km ( + 0.73 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/fl/520.php">FL-520 - W King St (WB)<br>King St (EB)</a>, Cocoa, Florida 32922</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/520.php">FL-520 - W King St (WB) / King St (EB)</a>, Cocoa, Florida 32922</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1437,7 +1437,7 @@
                 <tr>
                     <td class="content text-dark small">361.56 mi ( + 1.11 mi )</td>
                     <td class="content text-dark small">580.65 km ( + 1.78 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/fl/bv/405.php">Brevard CR 405 - Columbia Blvd (WB)<br>NASA Cswy (EB)</a>, Titusville, Florida 32780</td>
+                    <td class="content text-dark"><a href="../secondary-roads/fl/bv/405.php">Brevard CR 405 - Columbia Blvd (WB) / NASA Cswy (EB)</a>, Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1452,14 +1452,14 @@
                     <td class="content text-dark small">366.67 mi ( + 3.01 mi )</td>
                     <td class="content text-dark small">588.87 km ( + 4.84 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Edison Ave (SB)<br>S Washington Ave (NB), Titusville, Florida 32780</td>
+                    <td class="content text-dark">Edison Ave (SB) / S Washington Ave (NB), Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">366.97 mi ( + 0.30 mi )</td>
                     <td class="content text-dark small">589.35 km ( + 0.48 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">S Hopkins Ave (SB)<br>S Washington Ave (NB), Titusville, Florida 32780</td>
+                    <td class="content text-dark">S Hopkins Ave (SB) / S Washington Ave (NB), Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -1472,8 +1472,8 @@
                 <tr>
                     <td class="content text-dark small">367.83 mi ( + 0.51 mi )</td>
                     <td class="content text-dark small">590.73 km ( + 0.82 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/fl/bv/406.php">Brevard CR 406 - A. Max Brewer Memorial Pkwy (EB)<br>Garden St (WB)</a>, Titusville, Florida 32780</td>
-                    <td class="content text-dark">N Hopkins Ave (SB)<br>N Washington Ave (NB), Titusville, Florida 32780</td>
+                    <td class="content text-dark"><a href="../secondary-roads/fl/bv/406.php">Brevard CR 406 - Garden St (WB) / A. Max Brewer Memorial Pkwy (EB)</a>, Titusville, Florida 32780</td>
+                    <td class="content text-dark">N Hopkins Ave (SB) / N Washington Ave (NB), Titusville, Florida 32780</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -1542,7 +1542,7 @@
                 <tr>
                     <td class="content text-dark small">387.50 mi ( + 0.92 mi )</td>
                     <td class="content text-dark small">623.76 km ( + 1.48 km )</td>
-                    <td class="content text-dark">Volusia CR 4164 - W Halifax Ave (WB)<br>E Halifax Ave (EB), Oak Hill, Florida 32759</td>
+                    <td class="content text-dark">Volusia CR 4164 - W Halifax Ave (WB) / E Halifax Ave (EB), Oak Hill, Florida 32759</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1570,7 +1570,7 @@
                 <tr>
                     <td class="content text-dark small">395.53 mi ( + 0.53 mi )</td>
                     <td class="content text-dark small">635.31 km ( + 0.85 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/fl/442.php">FL-442 - W Indian River Blvd (WB)<br>E Indian River Blvd (EB)</a>, Edgewater, Florida 32141</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/442.php">FL-442 - W Indian River Blvd (WB) / E Indian River Blvd (EB)</a>, Edgewater, Florida 32141</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1689,7 +1689,7 @@
                 <tr>
                     <td class="content text-dark small">414.75 mi ( + 0.66 mi )</td>
                     <td class="content text-dark small">666.25 km ( + 1.07 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/fl/vo/4040.php">Volusia CR 4040 - George W Engram Blvd (WB)<br>Fairview Ave (EB)</a>, Daytona Beach, Florida 32114</td>
+                    <td class="content text-dark"><a href="../secondary-roads/fl/vo/4040.php">Volusia CR 4040 - George W Engram Blvd (WB) / Fairview Ave (EB)</a>, Daytona Beach, Florida 32114</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1808,8 +1808,8 @@
                 <tr>
                     <td class="content text-dark small">437.31 mi ( + 2.52 mi )</td>
                     <td class="content text-dark small">702.56 km ( + 4.05 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/fl/11.php">FL-11 - E Moody Blvd (WB)</a><br><a href="../state-highways/fl/100.php">FL-100 - W Moody Blvd (EB)</a>, Bunnell, Florida 32110</td>
-                    <td class="content text-dark">N State St - Bunnell, Florida 32110</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/11.php">FL-11 - E Moody Blvd (WB)</a>, Bunnell, Florida 32110<br><a href="../state-highways/fl/100.php">FL-100 - W Moody Blvd (EB)</a>, Bunnell, Florida 32110</td>
+                    <td class="content text-dark">N State St, Bunnell, Florida 32110</td>
                     <td class="content text-dark">Start concurrency with FL-100</td>
                 </tr>
                 <tr>
@@ -1836,7 +1836,7 @@
                 <tr>
                     <td class="content text-dark small">443.66 mi ( + 2.95 mi )</td>
                     <td class="content text-dark small">712.76 km ( + 4.74 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/fl/fl/1424.php">Flagler CR 1424 - SW Palm Coast Pkwy (EB)<br>NW Palm Coast Pkwy (WB)</a>, Palm Coast, Florida 32137</td>
+                    <td class="content text-dark"><a href="../secondary-roads/fl/fl/1424.php">Flagler CR 1424 - NW Palm Coast Pkwy (WB) / SW Palm Coast Pkwy (EB)</a>, Palm Coast, Florida 32137</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1976,7 +1976,7 @@
                 <tr>
                     <td class="content text-dark small">485.57 mi ( + 0.80 mi )</td>
                     <td class="content text-dark small">780.14 km ( + 1.28 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/fl/sj/210.php">St. Johns CR 210 - Nocatee Pkwy (EB)<br>Race Track Road (WB)</a>, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"><a href="../secondary-roads/fl/sj/210.php">St. Johns CR 210 - Race Track Road (WB) / Nocatee Pkwy (EB)</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark">Phillips Hwy, Jacksonville, Florida 32208</td>
                     <td class="content text-dark">End St. Johns County, Begin Duval County</td>
                 </tr>
@@ -2060,7 +2060,7 @@
                 <tr>
                     <td class="content text-dark small">500.27 mi ( + 1.74 mi )</td>
                     <td class="content text-dark small">805.40 km ( + 2.79 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/fl/126.php">FL-126 - Emerson St (WB)</a><br><a href="#flus1alt">US-1 Alternate - Emerson St (EB)</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/126.php">FL-126 - Emerson St (WB)</a>, Jacksonville, Florida 32208<br><a href="#flus1alt">US-1 Alternate - Emerson St (EB)</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2095,7 +2095,7 @@
                 <tr>
                     <td class="content text-dark small">502.74 mi ( + 0.05 mi )</td>
                     <td class="content text-dark small">811.39 km ( + 0.08 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/fl/13.php">FL-13 - Hendricks Ave (SB)<br>Riverplace Blvd (NB)</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/13.php">FL-13 - Hendricks Ave (SB) / Riverplace Blvd (NB)</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with FL-13</td>
                 </tr>
@@ -2124,7 +2124,7 @@
                     <td class="content text-dark small">503.55 mi ( + 0.33 mi )</td>
                     <td class="content text-dark small">812.69 km ( + 0.53 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Ocean St (NB)<br>N Main St (SB)</td>
+                    <td class="content text-dark">N Main St (SB) / Ocean St (NB)</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -2137,7 +2137,7 @@
                 <tr>
                     <td class="content text-dark small">504.12 mi ( + 0.05 mi )</td>
                     <td class="content text-dark small">813.61 km ( + 0.09 km )</td>
-                    <td class="content text-dark"><a href="17.php">US-17 - W Union St (WB)<br>E Union St (EB)</a> (concurrent with <a href="23.php">US-23</a> & <a href="../state-highways/fl/228.php">FL-228</a>), Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="17.php">US-17 - W Union St (WB) / E Union St (EB)</a> (concurrent with <a href="23.php">US-23</a> & <a href="../state-highways/fl/228.php">FL-228</a>), Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2165,7 +2165,7 @@
                 <tr>
                     <td class="content text-dark small">505.89 mi ( + 0.04 mi )</td>
                     <td class="content text-dark small">816.45 km ( + 0.06 km )</td>
-                    <td class="content text-dark"><a href="#flus1alt">US-1 Alternate (NB) - Martin Luther King Jr. Pkwy</a> (EB & WB)<br><a href="17.php">US-17 - N Main St</a> (concurrent with <a href="../state-highways/fl/5.php">FL-5</a> & <a href="../state-highways/fl/115.php">FL-115</a>) (NB), Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="#flus1alt">US-1 Alternate (NB) - Martin Luther King Jr. Pkwy</a> (WB/EB)<br><a href="17.php">US-17 - N Main St</a> (concurrent with <a href="../state-highways/fl/5.php">FL-5</a> & <a href="../state-highways/fl/115.php">FL-115</a>) (NB), Jacksonville, Florida 32208</td>
                     <td class="content text-dark">Martin Luther King Jr. Pkwy, Jacksonville, Florida 32208</td>
                     <td class="content text-dark">End concurrency with US-17, FL-5, & FL-115</td>
                 </tr>
@@ -2405,7 +2405,7 @@
                 <tr>
                     <td class="content text-dark small">580.98 mi ( + 0.67 mi )</td>
                     <td class="content text-dark small">936.32 km ( + 1.09 km )</td>
-                    <td class="content text-dark"><a href="#gaus1bus">US-1 Business - Memorial Dr (NB)</a><br><a href="../state-highways/ga/714.php">GA-714 - SE Georgia Pkwy (WB)</a><br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="#gaus1bus">US-1 Business - Memorial Dr (NB)</a>, Waycross, Georgia 31503<br><a href="../state-highways/ga/714.php">GA-714 - SE Georgia Pkwy (WB)</a>, Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark">SE Georgia Pkwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark">Start concurrency with US-82, GA-520, & GA-714</td>
                 </tr>
@@ -2482,7 +2482,7 @@
                 <tr>
                     <td class="content text-dark small">607.65 mi ( + 0.44 mi )</td>
                     <td class="content text-dark small">977.95 km ( + 0.70 km )</td>
-                    <td class="content text-dark">GA-32 - W 16th St (WB)<br>E 16th St (EB), Alma, Georgia 31510</td>
+                    <td class="content text-dark">GA-32 - W 16th St (WB) / E 16th St (EB), Alma, Georgia 31510</td>
                     <td class="content text-dark">N Pierce St, Alma, Georgia 31510</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2566,7 +2566,7 @@
                 <tr>
                     <td class="content text-dark small">639.96 mi ( + 2.11 mi )</td>
                     <td class="content text-dark small">1029.95 km ( + 3.39 km )</td>
-                    <td class="content text-dark">GA-147 (EB)<br>Cedar Crossing Rd (WB), Lyons, Georgia 30436</td>
+                    <td class="content text-dark">GA-147 - Cedar Crossing Rd (WB) / GA-147 (EB), Lyons, Georgia 30436</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2615,14 +2615,14 @@
                 <tr>
                     <td class="content text-dark small">657.31 mi ( + 0.91 mi )</td>
                     <td class="content text-dark small">1057.87 km ( + 1.46 km )</td>
-                    <td class="content text-dark">US-280 & GA-30 - E Liberty Dr (EB)<br>W Liberty Dr (WB), Lyons, Georgia 30436</td>
+                    <td class="content text-dark">US-280 & GA-30 - W Liberty Dr (WB) / E Liberty Dr (EB), Lyons, Georgia 30436</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">657.41 mi ( + 0.10 mi )</td>
                     <td class="content text-dark small">1058.03 km ( + 0.16 km )</td>
-                    <td class="content text-dark">GA-292 - NE Broad St (EB)<br>NW Broad St (WB), Lyons, Georgia 30436</td>
+                    <td class="content text-dark">GA-292 - NW Broad St (WB) NE Broad St (EB), Lyons, Georgia 30436</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2650,7 +2650,7 @@
                 <tr>
                     <td class="content text-dark small">669.88 mi ( + 1.89 mi )</td>
                     <td class="content text-dark small">1078.10 km ( + 3.05 km )</td>
-                    <td class="content text-dark">GA-86 - Harrington St (EB)<br>GA-86 & GA-46 (WB), Oak Park, Georgia 30471</td>
+                    <td class="content text-dark">GA-86 & GA-46 (WB)<br>GA-86 - Harrington St (EB), Oak Park, Georgia 30471</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with GA-46</td>
                 </tr>
@@ -2741,7 +2741,7 @@
                 <tr>
                     <td class="content text-dark small">707.81 mi ( + 1.69 mi )</td>
                     <td class="content text-dark small">1139.14 km ( + 2.73 km )</td>
-                    <td class="content text-dark">GA-78 - E Calhoun St (WB)<br>Midville Hwy (EB), Wadley, Georgia 30477</td>
+                    <td class="content text-dark">GA-78 - E Calhoun St (WB) / Midville Hwy (EB), Wadley, Georgia 30477</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3005,7 +3005,7 @@
                 <tr>
                     <td class="content text-dark small">764.78 mi ( + 0.96 mi )</td>
                     <td class="content text-dark small">1230.82 km ( + 1.55 km )</td>
-                    <td class="content text-dark">GA-28 (EB)<br>US-25 Business, GA-28, & GA-104 - Broad St, Augusta, Georgia 30815</td>
+                    <td class="content text-dark">US-25 Business, GA-28, & GA-104 - Broad St<br>GA-28 (EB), Augusta, Georgia 30815</td>
                     <td class="content text-dark">Jefferson Davis Hwy, Augusta, Georgia 30815</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3042,7 +3042,7 @@
                 <tr>
                     <td class="content text-dark small">769.03 mi ( + 1.86 mi )</td>
                     <td class="content text-dark small">1237.66 km ( + 2.99 km )</td>
-                    <td class="content text-dark">SC-126 - Belvedere Clearwater Rd (WB)<br>Belvedere Rd (EB), Clearwater, South Carolina 2984</td>
+                    <td class="content text-dark">SC-126 - Belvedere Clearwater Rd (WB) / Belvedere Rd (EB), Clearwater, South Carolina 2984</td>
                     <td class="content text-dark">Jefferson Davis Hwy, Burnettown, South Carolina 29849</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3056,14 +3056,14 @@
                 <tr>
                     <td class="content text-dark small">770.77 mi ( + 0.62 mi )</td>
                     <td class="content text-dark small">1240.46 km ( + 1.00 km )</td>
-                    <td class="content text-dark">SC-67 - Duncan Rd (WB)<br>Anthony Dr (EB), Burnettown, South Carolina 29849</td>
+                    <td class="content text-dark">SC-67 - Duncan Rd (WB) / Anthony Dr (EB), Burnettown, South Carolina 29849</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">772.30 mi ( + 1.53 mi )</td>
                     <td class="content text-dark small">1242.93 km ( + 2.46 km )</td>
-                    <td class="content text-dark">SC-254 - Langley Dam Rd (WB)<br>Sudlow Lake Rd (EB), Burnettown, South Carolina 29849</td>
+                    <td class="content text-dark">SC-254 - Langley Dam Rd (WB) / Sudlow Lake Rd (EB), Burnettown, South Carolina 29849</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3098,7 +3098,7 @@
                 <tr>
                     <td class="content text-dark small">777.19 mi ( + 1.36 mi )</td>
                     <td class="content text-dark small">1250.80 km ( + 2.18 km )</td>
-                    <td class="content text-dark">US-1 Bypass, US-78 Bypass, SC-19, & SC-118 - Robert M. Bell Pkwy (NB)<br>SC-19, SC-118, & SC-478 - Hitchcock Pkwy (SB), Graniteville, South Carolina 29829</td>
+                    <td class="content text-dark">SC-19, SC-118, & SC-478 - Hitchcock Pkwy (SB) / US-1 Bypass, US-78 Bypass, SC-19, & SC-118 - Robert M. Bell Pkwy (NB), Graniteville, South Carolina 29829</td>
                     <td class="content text-dark">W Richland Ave, Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3126,7 +3126,7 @@
                 <tr>
                     <td class="content text-dark small">782.26 mi ( + 1.48 mi )</td>
                     <td class="content text-dark small">1258.95 km ( + 2.38 km )</td>
-                    <td class="content text-dark">US-1 Bypass, US-78 Bypass, and SC-118 - Rutland Dr (NB)<br>Rudy Mason Pkwy (SB), Aiken, South Carolina 29801</td>
+                    <td class="content text-dark">US-1 Bypass, US-78 Bypass, and SC-118 - Rudy Mason Pkwy (SB) / Rutland Dr (NB), Aiken, South Carolina 29801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3280,7 +3280,7 @@
                 <tr>
                     <td class="content text-dark small">797.07 mi ( + 0.36 mi )</td>
                     <td class="content text-dark small">1282.79 km ( + 0.57 km )</td>
-                    <td class="content text-dark">SC-25 - State Rd (WB)<br>Mt Pleasant Rd (EB), Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">SC-25 - State Rd (WB) / Mt Pleasant Rd (EB), Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3329,7 +3329,7 @@
                 <tr>
                     <td class="content text-dark small">802.25 mi ( + 0.73 mi )</td>
                     <td class="content text-dark small">1291.13 km ( + 1.17 km )</td>
-                    <td class="content text-dark">SC-39 - Main St & Old Ninety Six Indian Hwy (NB)<br>Main St & Old Ninety Six Indian Trl (SB), Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">SC-39 - Main St & Old Ninety Six Indian Trl (SB) / Main St & Old Ninety Six Indian Hwy (NB), Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3343,14 +3343,14 @@
                 <tr>
                     <td class="content text-dark small">803.58 mi ( + 0.90 mi )</td>
                     <td class="content text-dark small">1293.27 km ( + 1.45 km )</td>
-                    <td class="content text-dark">SC-109 - Chinquapin Church Rd (EB)<br>Bethel Rd (WB), Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">SC-109 - Bethel Rd (WB) / Chinquapin Church Rd (EB), Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">804.15 mi ( + 0.57 mi )</td>
                     <td class="content text-dark small">1294.18 km ( + 0.92 km )</td>
-                    <td class="content text-dark">Aiken CR 585 - Peach Orchard Rd (EB)<br>Bethel Rd (WB), Monetta, South Carolina 29105</td>
+                    <td class="content text-dark">Aiken CR 585 - Bethel Rd (WB) / Peach Orchard Rd (EB), Monetta, South Carolina 29105</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3371,7 +3371,7 @@
                 <tr>
                     <td class="content text-dark small">808.07 mi ( + 1.27 mi )</td>
                     <td class="content text-dark small">1300.49 km ( + 3.35 km )</td>
-                    <td class="content text-dark">US-178 & SC-391 - Pine St (NB)<br>S Pine St (SB), Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark">US-178 & SC-391 - S Pine St (SB) / Pine St (NB), Batesburg-Leesville, South Carolina 29006</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3385,7 +3385,7 @@
                 <tr>
                     <td class="content text-dark small">810.12 mi ( + 0.99 mi )</td>
                     <td class="content text-dark small">1303.79 km ( + 1.60 km )</td>
-                    <td class="content text-dark">SC-245 - N Lee St (NB)<br>S Lee St (SB), Batesburg-Leesville, South Carolina 29006</td>
+                    <td class="content text-dark">SC-245 - S Lee St (SB) / N Lee St (NB), Batesburg-Leesville, South Carolina 29006</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3441,7 +3441,7 @@
                 <tr>
                     <td class="content text-dark small">827.32 mi ( + 0.12 mi )</td>
                     <td class="content text-dark small">1331.47 km ( + 0.20 km )</td>
-                    <td class="content text-dark">SC-6 - S Lake Dr (SB)<br>N Lake Dr (NB), Lexington, South Carolina 29072</td>
+                    <td class="content text-dark">SC-6 - S Lake Dr (SB) / N Lake Dr (NB), Lexington, South Carolina 29072</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3505,7 +3505,7 @@
                 <tr>
                     <td class="content text-dark small">839.51 mi ( + 0.37 mi )</td>
                     <td class="content text-dark small">1351.09 km ( + 0.60 km )</td>
-                    <td class="content text-dark">US-321 (to I-126 & US-76 (WB)<br>I-126 Business, US-21, US-76, US-176, & US-321 (EB)) (NB)<br>US-321 (SB) - Huger St, Columbia, South Carolina 29201</td>
+                    <td class="content text-dark">US-321 (SB) - Huger St / US-321 (to I-126 & US-76 (WB) / I-126 Business, US-21, US-76, US-176, & US-321 (EB)) (NB), Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3526,7 +3526,7 @@
                 <tr>
                     <td class="content text-dark small">841.44 mi ( + 0.94 mi )</td>
                     <td class="content text-dark small">1354.20 km ( + 1.51 km )</td>
-                    <td class="content text-dark">US-1 (NB)<br>US-76 & US-378 (SB) - Millwood Ave, Columbia, South Carolina 29201</td>
+                    <td class="content text-dark">US-76 & US-378 (SB) - Millwood Ave <br> US-1 (NB), Columbia, South Carolina 29201</td>
                     <td class="content text-dark">Millwood Ave, Columbia, South Carolina 29201</td>
                     <td class="content text-dark">End concurrency with US-76 & US-378</td>
                 </tr>
@@ -3547,7 +3547,7 @@
                 <tr>
                     <td class="content text-dark small">842.11 mi ( + 0.29 mi )</td>
                     <td class="content text-dark small">1355.27 km ( + 0.47 km )</td>
-                    <td class="content text-dark">SC-16 - W Beltline Blvd (WB)<br>N Beltline (EB), Columbia, South Carolina 29201</td>
+                    <td class="content text-dark">SC-16 - W Beltline Blvd (WB) / N Beltline (EB), Columbia, South Carolina 29201</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3638,7 +3638,7 @@
                 <tr>
                     <td class="content text-dark small">870.42 mi ( + 1.01 mi )</td>
                     <td class="content text-dark small">1400.83 km ( + 1.62 km )</td>
-                    <td class="content text-dark">US-521 & US-601 (NB)<br>US-521 (SB) - Broad St, Camden, South Carolina 29020</td>
+                    <td class="content text-dark">US-521 (SB) - Broad St <br> US-521 & US-601 (NB), Camden, South Carolina 29020</td>
                     <td class="content text-dark">E Dekalb St, Camden, South Carolina 29020</td>
                     <td class="content text-dark">End concurrency with US-601</td>
                 </tr>
@@ -3694,7 +3694,7 @@
                 <tr>
                     <td class="content text-dark small">897.50 mi ( + 0.89 mi )</td>
                     <td class="content text-dark small">1444.41 km ( + 1.42 km )</td>
-                    <td class="content text-dark">SC-151 - W Pine Ave (WB)<br>E Pine Ave (EB), McBee, South Carolina 29009</td>
+                    <td class="content text-dark">SC-151 - W Pine Ave (WB) / E Pine Ave (EB), McBee, South Carolina 29009</td>
                     <td class="content text-dark">N 7th St, McBee, South Carolina 29009</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3722,7 +3722,7 @@
                 <tr>
                     <td class="content text-dark small">912.31 mi ( + 4.10 mi )</td>
                     <td class="content text-dark small">1468.25 km ( + 6.60 km )</td>
-                    <td class="content text-dark">SC-102 - Polson St (WB)<br>Turnage St (EB), Patrick, South Carolina 29584</td>
+                    <td class="content text-dark">SC-102 - Polson St (WB) / Turnage St (EB), Patrick, South Carolina 29584</td>
                     <td class="content text-dark">Main St, Patrick, South Carolina 29584</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3778,7 +3778,7 @@
                 <tr>
                     <td class="content text-dark small">927.62 mi ( + 1.12 mi )</td>
                     <td class="content text-dark small">1492.89 km ( + 1.80 km )</td>
-                    <td class="content text-dark">US-1, Wallace, South Carolina 29596 (NB)<br>Marlboro CR 36 - Community Rd (SB), Wallace, South Carolina 29596</td>
+                    <td class="content text-dark">Marlboro CR 36 - Community Rd (SB)<br>US-1, Wallace, South Carolina 29596 (NB), Wallace, South Carolina 29596</td>
                     <td class="content text-dark">US-1, Wallace, South Carolina 29596</td>
                     <td class="content text-dark">End concurrency with SC-9</td>
                 </tr>
@@ -3857,7 +3857,7 @@
                 <tr>
                     <td class="content text-dark small">942.93 mi ( + 0.74 mi )</td>
                     <td class="content text-dark small">1517.53 km ( + 1.20 km )</td>
-                    <td class="content text-dark">Richmond CR 1108 - Rosalyn Rd (WB)<br>Mizpah Rd (EB), Hamlet, North Carolina 28345</td>
+                    <td class="content text-dark">Richmond CR 1108 - Rosalyn Rd (WB) / Mizpah Rd (EB), Hamlet, North Carolina 28345</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3906,7 +3906,7 @@
                 <tr>
                     <td class="content text-dark small">945.29 mi ( + 0.37 mi )</td>
                     <td class="content text-dark small">1521.33 km ( + 0.60 km )</td>
-                    <td class="content text-dark">Richmond CR 1966 - S Caroline St (NB)<br>Airport Rd (SB), Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">Richmond CR 1966 - Airport Rd (SB) / S Caroline St (NB), Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -3920,15 +3920,15 @@
                 <tr>
                     <td class="content text-dark small">945.73 mi ( + 0.23 mi )</td>
                     <td class="content text-dark small">1522.03 km ( + 0.37 km )</td>
-                    <td class="content text-dark">US-74 Business - E Broad St (EB)<br>W Broad St W (WB), Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">US-74 Business - W Broad St W (WB) / E Broad St (EB), Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">945.91 mi ( + 0.18 mi )</td>
                     <td class="content text-dark small">1522.32 km ( + 0.30 km )</td>
-                    <td class="content text-dark">US-1 - E Franklin St (NB)<br>E Washington St (SB), Rockingham, North Carolina 28379</td>
-                    <td class="content text-dark">E Franklin St (NB)<br>E Washington St (SB), Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">US-1 - E Franklin St & E Washington St, Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">E Washington St (SB) / E Franklin St (NB), Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -3948,7 +3948,7 @@
                 <tr>
                     <td class="content text-dark small">947.09 mi ( + 0.89 mi )</td>
                     <td class="content text-dark small">1524.22 km ( + 1.44 km )</td>
-                    <td class="content text-dark">Richmond CR 1423 - Richmond Rd (NB)<br>NC-1646 - N Long St (SB), Rockingham, North Carolina 28379</td>
+                    <td class="content text-dark">NC-1646 - N Long St (SB)<br>Richmond CR 1423 - Richmond Rd (NB), Rockingham, North Carolina 28379</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4067,7 +4067,7 @@
                 <tr>
                     <td class="content text-dark small">964.96 mi ( + 2.03 mi )</td>
                     <td class="content text-dark small">1552.98 km ( + 3.27 km )</td>
-                    <td class="content text-dark">Moore CR 1102 - Thunder Rd (WB)<br>Addor Rd (EB), Pinebluff, North Carolina 28373</td>
+                    <td class="content text-dark">Moore CR 1102 - Thunder Rd (WB) / Addor Rd (EB), Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4088,7 +4088,7 @@
                 <tr>
                     <td class="content text-dark small">966.65 mi ( + 0.11 mi )</td>
                     <td class="content text-dark small">1555.70 km ( + 0.18 km )</td>
-                    <td class="content text-dark">Moore CR 1156 - W Baltimore Ave (WB)<br>E Baltimore Ave (EB), Pinebluff, North Carolina 28373</td>
+                    <td class="content text-dark">Moore CR 1156 - W Baltimore Ave (WB) / E Baltimore Ave (EB), Pinebluff, North Carolina 28373</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4242,7 +4242,7 @@
                 <tr>
                     <td class="content text-dark small">979.59 mi ( + 0.60 mi )</td>
                     <td class="content text-dark small">1576.53 km ( + 0.97 km )</td>
-                    <td class="content text-dark">Moore CR 1853 - Aiken Rd (SB)<br>Camp Easter Rd (NB), Vass, North Carolina, 28394</td>
+                    <td class="content text-dark">Moore CR 1853 - Aiken Rd (SB) / Camp Easter Rd (NB), Vass, North Carolina, 28394</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4480,7 +4480,7 @@
                 <tr>
                     <td class="content text-dark small">1029.27 mi ( + 1.39 mi )</td>
                     <td class="content text-dark small">1656.48 km ( + 2.23 km )</td>
-                    <td class="content text-dark">US-64 (WB)<br>(to Wake CR 1009) Tryon Rd (EB), Cary, North Carolina 27511</td>
+                    <td class="content text-dark">US-64 (WB) / Tryon Rd (EB), Cary, North Carolina 27511</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-64</td>
                 </tr>
@@ -4529,7 +4529,7 @@
                 <tr>
                     <td class="content text-dark small">1050.28 mi ( + 1.56 mi )</td>
                     <td class="content text-dark small">1690.29 km ( + 2.51 km )</td>
-                    <td class="content text-dark">Wake CR 2006 - Perry Creek Rd (EB)<br>Durant Rd (WB), Raleigh, North Carolina 27608</td>
+                    <td class="content text-dark">Wake CR 2006 - Durant Rd (WB) / Perry Creek Rd (EB), Raleigh, North Carolina 27608</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4613,7 +4613,7 @@
                 <tr>
                     <td class="content text-dark small">1061.40 mi ( + 0.90 mi )</td>
                     <td class="content text-dark small">1708.19 km ( + 1.45 km )</td>
-                    <td class="content text-dark">Franklin CR 1138 - Green Rd (WB)<br>Mosswood Blvd (EB), Youngsville, North Carolina 27596</td>
+                    <td class="content text-dark">Franklin CR 1138 - Green Rd (WB) / Mosswood Blvd (EB), Youngsville, North Carolina 27596</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4711,7 +4711,7 @@
                 <tr>
                     <td class="content text-dark small">1077.18 mi ( + 0.66 mi )</td>
                     <td class="content text-dark small">1733.58 km ( + 1.06 km )</td>
-                    <td class="content text-dark">Vance CR 1107 (EB)<br>Vance CR 1113 - S Lake Lodge Rd, Kittrell, North Carolina 27544</td>
+                    <td class="content text-dark">Vance CR 1113 - S Lake Lodge Rd<!--(WB)--><br>Vance CR 1107 (EB), Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4732,7 +4732,7 @@
                 <tr>
                     <td class="content text-dark small">1081.61 mi ( + 1.69 mi )</td>
                     <td class="content text-dark small">1740.71 km ( + 2.72 km )</td>
-                    <td class="content text-dark">Vance CR 1148 - Epsom Rd (WB)<br>Vanco Mill Rd (EB), Kittrell, North Carolina 27544</td>
+                    <td class="content text-dark">Vance CR 1148 - Epsom Rd (WB) / Vanco Mill Rd (EB), Kittrell, North Carolina 27544</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4753,7 +4753,7 @@
                 <tr>
                     <td class="content text-dark small">1083.76 mi ( + 0.68 mi )</td>
                     <td class="content text-dark small">1744.17 km ( + 1.10 km )</td>
-                    <td class="content text-dark">Vance CR 1518 - Water St (WB)<br>Newton Dairy Rd (EB), Henderson, North Carolina 27536</td>
+                    <td class="content text-dark">Vance CR 1518 - Water St (WB) / Newton Dairy Rd (EB), Henderson, North Carolina 27536</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4916,7 +4916,7 @@
                 <tr>
                     <td class="content text-dark small">1120.86 mi ( + 0.16 mi )</td>
                     <td class="content text-dark small">1803.88 km ( + 0.25 km )</td>
-                    <td class="content text-dark">VA-47 - W Atlantic St (WB)<br>E Atlantic St (EB), South Hill, Virginia 23970</td>
+                    <td class="content text-dark">VA-47 - W Atlantic St (WB) / E Atlantic St (EB), South Hill, Virginia 23970</td>
                     <td class="content text-dark">N Mecklenburg Ave, South Hill, Virginia 23970</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -4972,7 +4972,7 @@
                 <tr>
                     <td class="content text-dark small">1132.23 mi ( + 2.78 mi )</td>
                     <td class="content text-dark small">1822.18 km ( + 4.48 km )</td>
-                    <td class="content text-dark">Brunswick CR 644 - Brunswick Dr (NB)<br>Grandy Rd (SB), Brodnax, Virginia 23920</td>
+                    <td class="content text-dark">Brunswick CR 644 - Grandy Rd (SB) / Brunswick Dr (NB), Brodnax, Virginia 23920</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5063,7 +5063,7 @@
                 <tr>
                     <td class="content text-dark small">1138.14 mi ( + 0.33 mi )</td>
                     <td class="content text-dark small">1831.69 km ( + 0.54 km )</td>
-                    <td class="content text-dark">Brunswick CR 1406 - Selma St (NB)<br>Prestwood Rd (SB), Alberta, Virginia 23821</td>
+                    <td class="content text-dark">Brunswick CR 1406 - Prestwood Rd (SB) / Selma St (NB), Alberta, Virginia 23821</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5323,14 +5323,14 @@
                     <td class="content text-dark small">1174.80 mi ( + 1.07 mi )</td>
                     <td class="content text-dark small">1890.68 km ( + 1.72 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">W Wythe St (NB)<br>W Washington St (SB), Petersburg, Virginia 23803</td>
+                    <td class="content text-dark">W Washington St (SB) / W Wythe St (NB), Petersburg, Virginia 23803</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1176.29 mi ( + 1.49 mi )</td>
                     <td class="content text-dark small">1893.08 km ( + 2.40 km )</td>
                     <td class="content text-dark">US-301 Alternate - S Sycamore St, Petersburg, Virginia 23803</td>
-                    <td class="content text-dark">E Wythe St (NB)<br>E Washington St (SB), Petersburg, Virginia 23803</td>
+                    <td class="content text-dark">E Washington St (SB) / E Wythe St (NB), Petersburg, Virginia 23803</td>
                     <td class="content text-dark">Start concurrency with US-301 Alternate</td>
                 </tr>
                 <tr>
@@ -5725,7 +5725,7 @@
                 <tr>
                     <td class="content text-dark small">1239.31 mi ( + 2.56 mi )</td>
                     <td class="content text-dark small">1994.50 km ( + 4.12 km )</td>
-                    <td class="content text-dark">Spotsylvania CR 606 - Morris Rd (WB)<br>Mudd Tavern Rd (EB), Spotsylvania Courthouse, Virginia 22553</td>
+                    <td class="content text-dark">Spotsylvania CR 606 - Morris Rd (WB) / Mudd Tavern Rd (EB), Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5781,14 +5781,14 @@
                 <tr>
                     <td class="content text-dark small">1247.56 mi ( + 0.75 mi )</td>
                     <td class="content text-dark small">2007.78 km ( + 1.20 km )</td>
-                    <td class="content text-dark">Spotsylvania CR 636 - Mine Rd (SB)<br>Hood Dr (NB), Spotsylvania Courthouse, Virginia 22553</td>
+                    <td class="content text-dark">Spotsylvania CR 636 - Mine Rd (SB) / Hood Dr (NB), Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1247.97 mi ( + 0.41 mi )</td>
                     <td class="content text-dark small">2008.44 km ( + 0.67 km )</td>
-                    <td class="content text-dark">VA-202 - Courthouse Rd (WB)<br>Lafayette Blvd (EB), Spotsylvania Courthouse, Virginia 22553</td>
+                    <td class="content text-dark">VA-202 - Courthouse Rd (WB) / Lafayette Blvd (EB), Spotsylvania Courthouse, Virginia 22553</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5872,7 +5872,7 @@
                 <tr>
                     <td class="content text-dark small">1258.55 mi ( + 1.28 mi )</td>
                     <td class="content text-dark small">2025.47 km ( + 2.06 km )</td>
-                    <td class="content text-dark">Stafford CR 628 - American Legion Rd (WB)<br>Eskimo Hill Rd (EB), Falmouth, Virginia 22405</td>
+                    <td class="content text-dark">Stafford CR 628 - American Legion Rd (WB) / Eskimo Hill Rd (EB), Falmouth, Virginia 22405</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5900,7 +5900,7 @@
                 <tr>
                     <td class="content text-dark small">1262.45 mi ( + 1.45 mi )</td>
                     <td class="content text-dark small">2031.74 km ( + 2.33 km )</td>
-                    <td class="content text-dark">Stafford CR 631 - Bells Hill Rd (WB)<br>Coal Landing Rd (EB), Stafford, Virginia 22554</td>
+                    <td class="content text-dark">Stafford CR 631 - Bells Hill Rd (WB) / Coal Landing Rd (EB), Stafford, Virginia 22554</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -5963,7 +5963,7 @@
                 <tr>
                     <td class="content text-dark small">1270.67 mi ( + 2.22 mi )</td>
                     <td class="content text-dark small">2044.97 km ( + 3.57 km )</td>
-                    <td class="content text-dark">Prince William CR 619 - Joplin Rd (WB)<br>Fuller Rd (EB), Quantico, Virginia 22134</td>
+                    <td class="content text-dark">Prince William CR 619 - Joplin Rd (WB) / Fuller Rd (EB), Quantico, Virginia 22134</td>
                     <td class="content text-dark">Richmond Hwy, Triangle, Virginia 22172</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -6139,14 +6139,14 @@
                     <td class="content text-dark small">1296.33 mi ( + 0.67 mi )</td>
                     <td class="content text-dark small">2086.27 km ( + 1.07 km )</td>
                     <td class="content text-dark">VA-236 - Duke St, Alexandria, Virginia 22314</td>
-                    <td class="content text-dark">S Patrick St (NB)<br>S Henry St (SB), Alexandria, Virginia 22314</td>
+                    <td class="content text-dark">S Henry St (SB) / S Patrick St (NB), Alexandria, Virginia 22314</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1296.49 mi ( + 0.16 mi )</td>
                     <td class="content text-dark small">2086.53 km ( + 0.25 km )</td>
                     <td class="content text-dark">VA-7 - King St, Alexandria, Virginia 22314</td>
-                    <td class="content text-dark">N Patrick St (NB)<br>N Henry St (SB), Alexandria, Virginia 22314</td>
+                    <td class="content text-dark">N Henry St (SB) / N Patrick St (NB), Alexandria, Virginia 22314</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -6180,7 +6180,7 @@
                 <tr>
                     <td class="content text-dark small">1300.58 mi ( + 0.94 mi )</td>
                     <td class="content text-dark small">2093.11 km ( + 1.52 km )</td>
-                    <td class="content text-dark">I-395 - Henry G. Shirley Memorial Hwy (EB & WB)<br>VA-110 - Richmond Hwy (NB), Arlington, Virginia 22202</td>
+                    <td class="content text-dark">I-395 - Henry G. Shirley Memorial Hwy (WB/EB)<br>VA-110 - Richmond Hwy (NB), Arlington, Virginia 22202</td>
                     <td class="content text-dark">Henry G. Shirley Memorial Hwy, Arlington, Virginia 22202</td>
                     <td class="content text-dark">Start concurrency of I-395</td>
                 </tr>
@@ -6231,7 +6231,7 @@
                 <tr>
                     <td class="content text-dark small">1305.16 mi ( + 0.65 mi )</td>
                     <td class="content text-dark small">2100.48 km ( + 1.05 km )</td>
-                    <td class="content text-dark">US-29 - NW Rhode Island Ave (WB)<br>NW 6th St (NB), Washington, District of Columbia 20505</td>
+                    <td class="content text-dark">US-29 - NW Rhode Island Ave (WB) / NW 6th St (NB), Washington, District of Columbia 20505</td>
                     <td class="content text-dark">NW Rhode Island Ave, Washington, District of Columbia 20505</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -6353,7 +6353,7 @@
                     <td class="content text-dark small">1321.65 mi ( + 1.51 mi )</td>
                     <td class="content text-dark small">2127.02 km ( + 2.42 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Second St (NB)<br>Washington Blvd (SB), Laurel, Maryland 20707</td>
+                    <td class="content text-dark">Washington Blvd (SB) / Second St (NB), Laurel, Maryland 20707</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -6374,7 +6374,7 @@
                     <td class="content text-dark small">1322.63 mi ( + 0.55 mi )</td>
                     <td class="content text-dark small">2128.59 km ( + 0.89 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">N 2nd St (NB)<br>N Washington Blvd (SB), North Laurel, Maryland 20723</td>
+                    <td class="content text-dark">N Washington Blvd (SB) / N 2nd St (NB), North Laurel, Maryland 20723</td>
                     <td class="content text-dark">End Prince George's County, Start Howard County</td>
                 </tr>
                 <tr>
@@ -6415,7 +6415,7 @@
                     <td class="content text-dark small">0.66 mi ( + 0.51 mi )</td>
                     <td class="content text-dark small">1.05 km ( + 0.82 km )</td>
                     <td class="content text-dark">US-1 Business (SB) - Cordova St, St Augustine, Florida 32084</td>
-                    <td class="content text-dark">King St (NB)<br>Cathedral Pl (SB), St Augustine, Florida 32084</td>
+                    <td class="content text-dark">Cathedral Pl (SB) / King St (NB), St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -6552,14 +6552,14 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Memorial Dr (SB)</a> (concurrent with <a href="23.php">US-23</a> & <a href="../state-highways/ga/4.php">GA-4</a>)<br><a href="../state-highways/ga/714.php">GA-714 - SE Georgia Pkwy (WB)</a><br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Memorial Dr (SB)</a> (concurrent with <a href="23.php">US-23</a> & <a href="../state-highways/ga/4.php">GA-4</a>), Waycross, Georgia 31503<br><a href="../state-highways/ga/714.php">GA-714 - SE Georgia Pkwy (WB)</a>, Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark">Memorial Dr, Waycross, Georgia 31503</td>
                     <td class="content text-dark">Start of Business Route</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.21 mi ( + 1.21 mi )</td>
                     <td class="content text-dark small">1.95 km ( + 1.95 km )</td>
-                    <td class="content text-dark"><a href="84.php">US-84 - Plant Ave (WB/EB)</a> (concurrent with <a href="../state-highways/ga/38.php">GA-38</a>)<br><a href="../state-highways/ga/122.php">GA-122 - Carswell Ave (WB)</a>, Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="84.php">US-84 - Plant Ave (WB/EB)</a> (concurrent with <a href="../state-highways/ga/38.php">GA-38</a>), Waycross, Georgia 31503<br><a href="../state-highways/ga/122.php">GA-122 - Carswell Ave (WB)</a>, Waycross, Georgia 31503</td>
                     <td class="content text-dark">Plant Ave, Waycross, Georgia 31503</td>
                     <td class="content text-dark">Start concurrency with US-84 and GA-38</td>
                 </tr>

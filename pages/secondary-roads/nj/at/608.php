@@ -58,7 +58,7 @@
                 <tr>
                     <td class="content text-dark small">2.70 mi ( + 0.39 mi )</td>
                     <td class="content text-dark small">4.32 km ( + 0.62 km )</td>
-                    <td class="content text-dark"><a href="../585.php">Atlantic CR 585 - S Main St (SB)<br>N Main St (NB)</a>, Pleasantville, New Jersey 08232</td>
+                    <td class="content text-dark"><a href="../585.php">Atlantic CR 585 - S Main St (SB) / N Main St (NB)</a>, Pleasantville, New Jersey 08232</td>
                     <td class="content text-dark">E Washington Ave, Pleasantville, New Jersey 08232</td>
                     <td class="content text-dark"></td>
                 </tr>

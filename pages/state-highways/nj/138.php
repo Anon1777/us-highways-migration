@@ -8,7 +8,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-195.php">I-195 (EB) - Central Jersey Expy</a><br><a href="34.php">NJ-34 (NB & SB)</a>, Wall Township, New Jersey 07727</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-195.php">I-195 (EB) - Central Jersey Expy</a>, Wall Township, New Jersey 07727<br><a href="34.php">NJ-34 (SB/NB)</a>, Wall Township, New Jersey 07727</td>
                     <td class="content text-dark">NJ-138, Wall Township, New Jersey 07727</td>
                     <td class="content text-dark">Start of Route</td>
                 </tr>
