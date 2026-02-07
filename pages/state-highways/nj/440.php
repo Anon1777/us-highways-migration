@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-287.php">I-287 (WB)</a><br><a href="../../interstates/95.php">I-95 - New Jersey Tpke (SB/NB)</a> (concurrent with <a href="../../state-highways/nj/700.php">NJ-700</a>), Edison, New Jersey 08817</td>
+                    <td class="content text-dark"><a href="../../interstates/auxiliary/nj-287.php">I-287 (WB)</a>, Edison, New Jersey 08817<br><a href="../../interstates/95.php">I-95 - New Jersey Tpke (SB/NB)</a> (concurrent with <a href="../../state-highways/nj/700.php">NJ-700</a>), Edison, New Jersey 08817</td>
                     <td class="content text-dark">NJ-440, Edison, New Jersey 08817</td>
                     <td class="content text-dark">Start of Route<br>Start Route in New Jersey<br>Start Middlesex County</td>
                 </tr>
@@ -198,7 +198,7 @@
                 <tr>
                     <td class="content text-dark small">24.54 mi ( + 2.08 mi )</td>
                     <td class="content text-dark small">40.22 km ( + 3.35 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/1.php">US-1 Byp</a> (concurrent with <a href="../../us-highways/9.php">US-9 Byp</a>) (WB & NB)<br><a href="../../secondary-roads/nj/hu/612.php">Hudson CR 612 - Communpaw Ave</a>, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"><a href="../../us-highways/1.php">US-1 Byp</a> (concurrent with <a href="../../us-highways/9.php">US-9 Byp</a>) (WB & NB)<br><a href="../../secondary-roads/nj/hu/612.php">Hudson CR 612 - Communipaw Ave</a>, Jersey City, New Jersey 07304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route<br>End route in New Jersey<br>End Hudson County</td>
                 </tr>

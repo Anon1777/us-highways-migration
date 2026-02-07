@@ -23,7 +23,7 @@
                 <tr>
                     <td class="content text-dark small">0.80 mi ( + 0.14 mi )</td>
                     <td class="content text-dark small">1.29 km ( + 0.22 km )</td>
-                    <td class="content text-dark"><a href="../524.php">Monmouth CR 524 - Yardville-Allentown Rd (WB)<br>Old York Rd (EB)</a>, Allentown, New Jersey 08501</td>
+                    <td class="content text-dark"><a href="../524.php">Monmouth CR 524 - Yardville-Allentown Rd (WB) / Old York Rd (EB)</a>, Allentown, New Jersey 08501</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route</td>
                 </tr>

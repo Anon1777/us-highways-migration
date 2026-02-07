@@ -16,7 +16,7 @@
                 <tr>
                     <td class="content text-dark small">0.24 mi ( + 0.24 mi )</td>
                     <td class="content text-dark small">0.39 km ( + 0.39 km )</td>
-                    <td class="content text-dark"><a href="../543.php">Burlington CR 543 - W Main St (WB)<br>E Main St (EB)</a>, Mansfield, New Jersey 08022</td>
+                    <td class="content text-dark"><a href="../543.php">Burlington CR 543 - W Main St (WB) / E Main St (EB)</a>, Mansfield, New Jersey 08022</td>
                     <td class="content text-dark">New York Ave, Mansfield, New Jersey 08022</td>
                     <td class="content text-dark"></td>
                 </tr>

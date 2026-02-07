@@ -233,8 +233,8 @@
                 <tr>
                     <td class="content text-dark small">37.57 mi ( + 2.05 mi )</td>
                     <td class="content text-dark small">56.75 km ( + 3.29 km )</td>
-                    <td class="content text-dark"><a href="../../secondary-roads/pa/bf/1009.php">Bedford SR 1009 - Woodcock Valley Rd (SB)</a><br><a href="../../secondary-roads/pa/bf/1019.php">Bedford SR 1019 - Pinchot Rd (NB)</a>, Hopewell, Pennsylvania 16650</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/bf/1009.php">Bedford SR 1009 - Woodcock Valley Rd (SB)</a>, Hopewell, Pennsylvania 16650<br><a href="../../secondary-roads/pa/bf/1019.php">Bedford SR 1019 - Pinchot Rd (NB)</a>, Hopewell, Pennsylvania 16650</td>
+                    <td class="content text-dark"></td
                     <td class="content text-dark">Start concurrency with Bedford SR 1009</td>
                 </tr>
                 <tr>
@@ -256,5 +256,152 @@
                     <td class="content text-dark small">62.63 km ( + 3.16 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Raystown Rd, Saxton, Pennsylvania 16678</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">45.85 mi ( + 4.63 mi )</td>
+                    <td class="content text-dark small">70.08 km ( + 7.45 km )</td>
+                    <td class="content text-dark"><a href="913.php">PA-913 - Saxton Rd</a>, Saxton, Pennsylvania 16678</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">46.06 mi ( + 0.21 mi )</td>
+                    <td class="content text-dark small">70.42 km ( + 0.34 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/bf/1019.php">Bedford SR 1019 - Pinchot Rd</a>, Saxton, Pennsylvania 16678</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">49.48 mi ( + 3.42 mi )</td>
+                    <td class="content text-dark small">75.92 km ( + 5.50 km )</td>
+                    <td class="content text-dark"><a href="164.php">PA-164 - Cove Mountain Rd</a>, Saxton, Pennsylvania 16678</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">50.35 mi ( + 0.87 mi )</td>
+                    <td class="content text-dark small">77.32 km ( + 1.40 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Raystown Rd, James Creek, Pennsylvania 16657</td>
+                    <td class="content text-dark">End Bedford County, Start Huntingdon County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">52.23 mi ( + 1.88 mi )</td>
+                    <td class="content text-dark small">80.35 km ( + 3.03 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/hn/3002.php">Huntingdon SR 3002 - Legislative Rte 31025</a> (concurrent with <a href="../../secondary-roads/pa/hn/3006.php">Huntingdon SR 3006</a>), James Creek, Pennsylvania 16657</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">55.33 mi ( + 3.10 mi )</td>
+                    <td class="content text-dark small">85.34 km ( + 4.99 km )</td>
+                    <td class="content text-dark"><a href="994.php">PA-994 - New Plank Rd</a>, James Creek, Pennsylvania 16657</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">61.84 mi ( + 6.51 mi )</td>
+                    <td class="content text-dark small">95.82 km ( + 10.48 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Raystown Rd, Hesston, Pennsylvania 16647</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">63.47 mi ( + 1.63 mi )</td>
+                    <td class="content text-dark small">98.45 km ( + 2.63 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/hn/3011.php">Huntingdon SR 3011 - Seven Points Rd</a>, Hesston, Pennsylvania 16647</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">63.72 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">98.85 km ( + 0.40 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Raystown Rd, Penn Township, Pennsylvania 16652</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">63.86 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">99.07 km ( + 0.22 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Raystown Rd, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">65.90 mi ( + 2.18 mi )</td>
+                    <td class="content text-dark small">102.36 km ( + 3.29 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/hn/3039.php">Huntingdon SR 3039 - Hartslog Valley Rd</a>, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">67.74 mi ( + 1.84 mi )</td>
+                    <td class="content text-dark small">105.32 km ( + 2.96 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/hn/3035.php">Huntingdon SR 3035 - Fairgrounds Rd</a>, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">69.81 mi ( + 2.07 mi )</td>
+                    <td class="content text-dark small">108.65 km ( + 3.33 km )</td>
+                    <td class="content text-dark"><a href="../../us-highways/22.php">US-22 - William Penn Hwy</a>, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark">Pennsylvania Ave, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">70.95 mi ( + 1.14 mi )</td>
+                    <td class="content text-dark small">110.48 km ( + 1.83 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/hn/3035.php">Huntingdon SR 3035 - Fairgrounds Rd</a>, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark">Penn St, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">71.67 mi ( + 0.72 mi )</td>
+                    <td class="content text-dark small">110.63 km ( + 1.15 km )</td>
+                    <td class="content text-dark">PA-26 - 2nd St, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark">2nd St, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">71.81 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">110.86 km ( + 0.23 km )</td>
+                    <td class="content text-dark">PA-26 - Standing Stone Ave, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark">Standing Stone Ave, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">72.55 mi ( + 0.74 mi )</td>
+                    <td class="content text-dark small">112.05 km ( + 1.19 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Standing Stone Rd, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">77.91 mi ( + 5.36 mi )</td>
+                    <td class="content text-dark small">120.67 km ( + 8.62 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/hn/1009.php">Huntingdon SR 1009 - Cold Springs Rd</a>, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">81.75 mi ( + 3.84 mi )</td>
+                    <td class="content text-dark small">126.85 km ( + 6.18 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/hn/1001.php">Huntingdon SR 1001 - Stone Creek Ridge Rd</a>, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">82.93 mi ( + 1.18 mi )</td>
+                    <td class="content text-dark small">128.76 km ( + 1.91 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/hn/1017.php">Huntingdon SR 1017 - Martin Gap Rd (SB)</a>, Huntingdon, Pennsylvania 16652<br><a href="../../secondary-roads/pa/hn/1015.php">Huntingdon SR 1015 - Wesley Chapel Rd (NB)</a>, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">83.63 mi ( + 0.70 mi )</td>
+                    <td class="content text-dark small">129.88 km ( + 1.12 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/hn/1019.php">Huntingdon SR 1019 - E Branch Rd</a>, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
