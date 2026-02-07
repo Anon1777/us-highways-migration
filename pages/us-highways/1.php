@@ -2405,41 +2405,48 @@
                 <tr>
                     <td class="content text-dark small">580.98 mi ( + 0.67 mi )</td>
                     <td class="content text-dark small">936.32 km ( + 1.09 km )</td>
-                    <td class="content text-dark"><a href="#gaus1bus">US-1 Business - Memorial Dr (NB)</a>, Waycross, Georgia 31503<br><a href="../state-highways/ga/714.php">GA-714 - SE Georgia Pkwy (WB)</a>, Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="#gaus1bus">US-1 Business - Memorial Dr (NB)</a>, Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark">SE Georgia Pkwy, Waycross, Georgia 31503</td>
-                    <td class="content text-dark">Start concurrency with US-82, GA-520, & GA-714</td>
+                    <td class="content text-dark">Start concurrency with US-82 & GA-520</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">581.36 mi ( + 1.43 mi )</td>
-                    <td class="content text-dark small">935.64 km ( + 2.29 km )</td>
+                    <td class="content text-dark small">582.41 mi ( + 1.43 mi )</td>
+                    <td class="content text-dark small">938.61 km ( + 2.29 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">SW Georgia Pkwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">581.61 mi ( + 0.25 mi )</td>
-                    <td class="content text-dark small">936.04 km ( + 0.40 km )</td>
-                    <td class="content text-dark">US-84 & GA-38 - McDonald St, Waycross, Georgia 31503</td>
+                    <td class="content text-dark small">582.52 mi ( + 0.11 mi )</td>
+                    <td class="content text-dark small">938.79 km ( + 0.18 km )</td>
+                    <td class="content text-dark"><a href="84.php">US-84 - Plant Ave</a> (concurrent with <a href="../state-highways/ga/38.php">GA-38</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Begin concurrency with US-84 & GA-38</td>
+                    <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">582.78 mi ( + 1.17 mi )</td>
-                    <td class="content text-dark small">937.92 km ( + 1.88 km )</td>
-                    <td class="content text-dark">US-84 & GA-38 - Victory Dr, Waycross, Georgia 31503</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with US-84, GA-38 & GA-714</td>
-                </tr>
-                <tr>
-                    <td class="content text-dark small">583.13 mi ( + 0.35 mi )</td>
-                    <td class="content text-dark small">938.49 km ( + 0.56 km )</td>
+                    <td class="content text-dark small">584.18 mi ( + 1.66 mi )</td>
+                    <td class="content text-dark small">941.45 km ( + 2.66 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Georgia Pkwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">585.45 mi ( + 2.32 mi )</td>
-                    <td class="content text-dark small">942.22 km ( + 3.73 km )</td>
+                    <td class="content text-dark small">585.47 mi ( + 1.29 mi )</td>
+                    <td class="content text-dark small">943.52 km ( + 2.07 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/wa/94.php">Ware CR 94 - Bob-O-Link Rd</a>, Waycross, Georgia 31503</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">585.98 mi ( + 0.51 mi )</td>
+                    <td class="content text-dark small">944.33 km ( + 0.81 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/122.php">GA-122 - Carswell Ave</a>, Waycross, Georgia 31503</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">588.30 mi ( + 2.32 mi )</td>
+                    <td class="content text-dark small">948.06 km ( + 3.73 km )</td>
                     <td class="content text-dark">US-82 & GA-520 - S Georgia Pkwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark">Fulford Rd, Waycross, Georgia 31503</td>
                     <td class="content text-dark">End concurrency with US-82 & GA-520</td>
@@ -6394,7 +6401,7 @@
                 </section>
             </table>
             <hr>
-            <section id="flus1bussaf">
+            <section id="us1alts">
             <h1 class="header" id="flus1bus">United States Route 1 Business (St. Augustine, Florida)</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
@@ -6573,10 +6580,17 @@
                     <td class="content text-dark">End concurrency with US-84 and GA-38</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">1.40 mi ( + 1.61 mi )</td>
-                    <td class="content text-dark small">2.25 km ( + 0.30 km )</td>
+                    <td class="content text-dark small">4.93 mi ( + 3.53 mi )</td>
+                    <td class="content text-dark small">7.93 km ( + 5.68 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Ossie Davis Pkwy, Deenwood, Georgia 31503</td>
-                    <td class="content text-dark">End concurrency with US-84 and GA-38</td>
+                    <td class="content text-dark">Alma Hwy, Waycross, Georgia 31503</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">9.62 mi ( + 4.69 mi )</td>
+                    <td class="content text-dark small">15.48 km ( + 7.55 km )</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Scapa Rd (SB) / Alma Hwy (NB)</a> (concurrent with <a href="23.php">US-23</a> and <a href="../state-highways/ga/4.php">GA-4</a>), Waycross, Georgia 31503</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Business Route</td>
                 </tr>
         <?php include "../../static/bottom.php"; ?>
