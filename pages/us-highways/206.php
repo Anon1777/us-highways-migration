@@ -387,14 +387,14 @@
                 <tr>
                     <td class="content text-dark small">45.12 mi ( + 0.29 mi )</td>
                     <td class="content text-dark small">71.00 km ( + 0.47 km )</td>
-                    <td class="content text-dark"><a href="#us206bc">US-206 - Brunswick Cir</a> (concurrent with <a href="../secondary-roads/nj/me/645.php">Mercer CR 645</a>), Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="#njus206bc">US-206 - Brunswick Cir</a> (concurrent with <a href="../secondary-roads/nj/me/645.php">Mercer CR 645</a>), Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">45.54 mi ( + 0.42 mi )</td>
                     <td class="content text-dark small">71.68 km ( + 0.68 km )</td>
-                    <td class="content text-dark"><a href="#us206bc">US-206 - Lawrence Rd (SB)</a>, Lawrence Township, New Jersey 08648<br><a href="../secondary-roads/nj/583.php">Mercer CR 583 - Princeton Pike (NB)</a>, Lawrence Township, New Jersey 08648</td>
+                    <td class="content text-dark"><a href="#njus206bc">US-206 - Lawrence Rd (SB)</a>, Lawrence Township, New Jersey 08648<br><a href="../secondary-roads/nj/583.php">Mercer CR 583 - Princeton Pike (NB)</a>, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark">Lawrence Rd, Lawrence Township, New Jersey 08648</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1173,7 +1173,7 @@
                 </section>
 </table>
 <hr>
-            <h1 class="header" id="us206bc">United States Route 206 Brunswick Circle</h1>
+            <h1 class="header" id="njus206bc">United States Route 206 Brunswick Circle</h1>
             <h2 class="content text-dark">US-206 splits into two routes in Lawrence Township: Princeton Ave and Brunswick Circle. The circle route is 0.65 mi (1.05 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
@@ -1228,7 +1228,7 @@
                 </tr>
                 </table>
 <hr>
-            <h1 class="header" id="us206bc">United States Route 206 Bypass</h1>
+            <h1 class="header" id="njus206bc">United States Route 206 Bypass</h1>
             <h2 class="content text-dark">US-206 splits into two routes in Lawrence Township: Princeton Ave and Brunswick Circle. The circle route is 0.65 mi (1.05 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>

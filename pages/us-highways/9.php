@@ -565,7 +565,7 @@
                 <tr>
                     <td class="content text-dark small">91.88 mi ( + 0.47 mi )</td>
                     <td class="content text-dark small">150.34 km ( + 0.75 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/561.php/#561a">Atlantic CR 561 Alt - E Moss Mill Rd</a>, Galloway, New Jersey 08205</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/561.php/#561a">Atlantic CR 561 Alternate - E Moss Mill Rd</a>, Galloway, New Jersey 08205</td>
                     <td class="content text-dark">N New York Rd, Galloway, New Jersey 08205</td>
                     <td class="content text-dark"></td>
                 </tr>

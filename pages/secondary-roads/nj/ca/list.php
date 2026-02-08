@@ -8,7 +8,7 @@
             <h3 class="content text-dark"><a href="604.php">Camden CR 604 <i class="text-body-tertiary">Newton Ave</i></a></h3>
             <h3 class="content text-dark"><a href="605.php">Camden CR 605 <i class="text-body-tertiary">Mt Ephraim Ave</i></a></h3>
             <h3 class="content text-dark"><a href="606.php">Camden CR 606 <i class="text-body-tertiary">White Horse Pk</i></a></h3>
-            <h4 class="content text-secondary"><a href="606.php/#njcacr606alt">Camden CR 606 Alt <i class="text-body-tertiary">Old White Horse Pk</i></a></h4>
+            <h4 class="content text-secondary"><a href="606.php/#njcacr606alt">Camden CR 606 Alternate <i class="text-body-tertiary">Old White Horse Pk</i></a></h4>
             <h3 class="content text-dark"><a href="607.php">Camden CR 607 <i class="text-body-tertiary">Kaighns Ave</i></a></h3>
             <h3 class="content text-dark"><a href="608.php">Camden CR 608 <i class="text-body-tertiary">Baird Blvd</i></a></h3>
             <h3 class="content text-dark"><a href="609.php">Camden CR 609 <i class="text-body-tertiary">Twenty-Seventh St</i></a></h3>

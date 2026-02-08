@@ -2447,97 +2447,97 @@
                 <tr>
                     <td class="content text-dark small">588.30 mi ( + 2.32 mi )</td>
                     <td class="content text-dark small">948.06 km ( + 3.73 km )</td>
-                    <td class="content text-dark">US-82 & GA-520 - S Georgia Pkwy, Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="82.php">US-82 - S Georgia Pkwy</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark">Fulford Rd, Waycross, Georgia 31503</td>
                     <td class="content text-dark">End concurrency with US-82 & GA-520</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">585.67 mi ( + 0.22 mi )</td>
-                    <td class="content text-dark small">942.57 km ( + 0.35 km )</td>
+                    <td class="content text-dark small">588.62 mi ( + 0.22 mi )</td>
+                    <td class="content text-dark small">948.41 km ( + 0.35 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Scapa Rd, Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">589.50 mi ( + 3.83 mi )</td>
-                    <td class="content text-dark small">948.74 km ( + 6.17 km )</td>
-                    <td class="content text-dark">US-1 Business - Alma Hwy, Waycross, Georgia 51303</td>
+                    <td class="content text-dark small">593.45 mi ( + 3.83 mi )</td>
+                    <td class="content text-dark small">954.58 km ( + 6.17 km )</td>
+                    <td class="content text-dark"><a href="#gaus1bus">US-1 Business - Alma Hwy</a>, Waycross, Georgia 51303</td>
                     <td class="content text-dark">Alma Hwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">598.74 mi ( + 9.24 mi )</td>
-                    <td class="content text-dark small">963.61 km ( + 14.87 km )</td>
+                    <td class="content text-dark small">602.69 mi ( + 9.24 mi )</td>
+                    <td class="content text-dark small">969.45 km ( + 14.87 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Alma, Georgia 31510</td>
                     <td class="content text-dark">End Ware County, Start Bacon County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">605.33 mi ( + 6.59 mi )</td>
-                    <td class="content text-dark small">974.21 km ( + 10.61 km )</td>
+                    <td class="content text-dark small">609.28 mi ( + 6.59 mi )</td>
+                    <td class="content text-dark small">980.06 km ( + 10.61 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Pierce St, Alma, Georgia 31510</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">607.21 mi ( + 1.88 mi )</td>
-                    <td class="content text-dark small">977.24 km ( + 3.02 km )</td>
-                    <td class="content text-dark">GA-4 - S Dixon St, Alma, Georgia 31510</td>
+                    <td class="content text-dark small">611.16 mi ( + 1.88 mi )</td>
+                    <td class="content text-dark small">983.08 km ( + 3.02 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/4.php/#ga4alt">GA-4 Alternate - S Dixon St</a>, Alma, Georgia 31510</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with GA-4</td>
+                    <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">607.65 mi ( + 0.44 mi )</td>
-                    <td class="content text-dark small">977.95 km ( + 0.70 km )</td>
-                    <td class="content text-dark">GA-32 - W 16th St (WB) / E 16th St (EB), Alma, Georgia 31510</td>
+                    <td class="content text-dark small">611.60 mi ( + 0.44 mi )</td>
+                    <td class="content text-dark small">983.78 km ( + 0.70 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/32.php">GA-32 - W 16th St (WB) / E 16th St (EB)</a>, Alma, Georgia 31510</td>
                     <td class="content text-dark">N Pierce St, Alma, Georgia 31510</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">608.76 mi ( + 1.11 mi )</td>
-                    <td class="content text-dark small">979.73 km ( + 1.79 km )</td>
-                    <td class="content text-dark">GA-4 - Camellia Dr, Alma, Georgia 31510</td>
+                    <td class="content text-dark small">612.71 mi ( + 1.11 mi )</td>
+                    <td class="content text-dark small">985.57 km ( + 1.79 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/4.php/#ga4alt">GA-4 Alternate - Camellia Dr</a>, Alma, Georgia 31510</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Start concurrency with GA-4</td>
+                    <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">609.00 mi ( + 0.24 mi )</td>
-                    <td class="content text-dark small">980.12 km ( + 0.38 km )</td>
+                    <td class="content text-dark small">612.95 mi ( + 0.24 mi )</td>
+                    <td class="content text-dark small">985.95 km ( + 0.38 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Pierce St, Alma, Georgia 31510</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">609.76 mi ( + 0.76 mi )</td>
-                    <td class="content text-dark small">981.34 km ( + 1.22 km )</td>
+                    <td class="content text-dark small">613.71 mi ( + 0.76 mi )</td>
+                    <td class="content text-dark small">987.17 km ( + 1.22 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N US-1, Alma, Georgia 31510</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">614.00 mi ( + 4.24 mi )</td>
-                    <td class="content text-dark small">988.17 km ( + 6.83 km )</td>
-                    <td class="content text-dark">US-23 & GA-19, Alma, Georgia 31510</td>
+                    <td class="content text-dark small">617.95 mi ( + 4.24 mi )</td>
+                    <td class="content text-dark small">994.00 km ( + 6.83 km )</td>
+                    <td class="content text-dark"><a href="23.php">US-23</a> (concurrent with <a href="../state-highways/ga/19.php">GA-19</a>), Alma, Georgia 31510</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with US-23</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">616.67 mi ( + 2.67 mi )</td>
-                    <td class="content text-dark small">992.46 km ( + 4.30 km )</td>
+                    <td class="content text-dark small">620.62 mi ( + 2.67 mi )</td>
+                    <td class="content text-dark small">998.30 km ( + 4.30 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N US-1, Baxley, Georgia 31513</td>
                     <td class="content text-dark">End Bacon County, Start Appling County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">625.42 mi ( + 8.75 mi )</td>
-                    <td class="content text-dark small">1006.55 km ( + 14.09 km )</td>
-                    <td class="content text-dark">GA-15 - SE Blackshear Hwy, Baxley, Georgia 31513</td>
+                    <td class="content text-dark small">629.37 mi ( + 8.75 mi )</td>
+                    <td class="content text-dark small">1012.39 km ( + 14.09 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/15.php">GA-15 - SE Blackshear Hwy</a>, Baxley, Georgia 31513</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">626.48 mi ( + 1.06 mi )</td>
-                    <td class="content text-dark small">1008.25 km ( + 1.71 km )</td>
+                    <td class="content text-dark small">630.43 mi ( + 1.06 mi )</td>
+                    <td class="content text-dark small">1014.10 km ( + 1.71 km )</td>
                     <td class="content text-dark">US-341 & GA-27 - Golden Isles Pkwy, Baxley, Georgia 31513</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
