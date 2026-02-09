@@ -2533,32 +2533,32 @@
                     <td class="content text-dark small">1012.39 km ( + 14.09 km )</td>
                     <td class="content text-dark"><a href="../state-highways/ga/15.php">GA-15 - SE Blackshear Hwy</a>, Baxley, Georgia 31513</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with GA-15</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">630.43 mi ( + 1.06 mi )</td>
                     <td class="content text-dark small">1014.10 km ( + 1.71 km )</td>
-                    <td class="content text-dark">US-341 & GA-27 - Golden Isles Pkwy, Baxley, Georgia 31513</td>
+                    <td class="content text-dark"><a href="341.php">US-341 - W Parker St (WB) / E Parker St (EB)</a> (concurrent with <a href="../state-highways/ga/27.php">GA-27</a>), Baxley, Georgia 31513</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">626.69 mi ( + 0.21 mi )</td>
-                    <td class="content text-dark small">1008.59 km ( + 0.34 km )</td>
-                    <td class="content text-dark">GA-144 - N Main St, Baxley, Georgia 31513</td>
+                    <td class="content text-dark small">630.64 mi ( + 0.21 mi )</td>
+                    <td class="content text-dark small">1014.44 km ( + 0.34 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/144.php">GA-144 - N Main St</a>, Baxley, Georgia 31513</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">628.90 mi ( + 2.21 mi )</td>
-                    <td class="content text-dark small">1012.15 km ( + 3.55 km )</td>
+                    <td class="content text-dark small">632.85 mi ( + 2.21 mi )</td>
+                    <td class="content text-dark small">1017.99 km ( + 3.55 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">N Hatch Pkwy, Baxley, Georgia 31513</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td> 
                 </tr>
                 <tr>
-                    <td class="content text-dark small">637.37 mi ( + 8.47 mi )</td>
-                    <td class="content text-dark small">1025.78 km ( + 13.63 km )</td>
+                    <td class="content text-dark small">641.32 mi ( + 8.47 mi )</td>
+                    <td class="content text-dark small">1031.62 km ( + 13.63 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Baxley, Georgia 31513</td>
                     <td class="content text-dark"></td>
