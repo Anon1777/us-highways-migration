@@ -405,3 +405,10 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">87.01 mi ( + 3.38 mi )</td>
+                    <td class="content text-dark small">135.32 km ( + 5.44 km )</td>
+                    <td class="content text-dark"><a href="305.php">PA-305 - Greenwood Rd (WB) / PA-305 (EB)</a>, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark">PA-26, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark">Start concurrency with PA-305</td>
+                </tr>
