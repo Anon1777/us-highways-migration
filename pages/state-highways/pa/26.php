@@ -412,3 +412,206 @@
                     <td class="content text-dark">PA-26, Huntingdon, Pennsylvania 16652</td>
                     <td class="content text-dark">Start concurrency with PA-305</td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">87.87 mi ( + 0.86 mi )</td>
+                    <td class="content text-dark small">136.70 km ( + 1.38 km )</td>
+                    <td class="content text-dark"><a href="305.php">PA-305 - Greenwood Rd</a>, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark">McAlevys Fort Rd, Huntingdon, Pennsylvania 16652</td>
+                    <td class="content text-dark">End concurrency with PA-305</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">87.93 mi ( + 0.06 mi )</td>
+                    <td class="content text-dark small">136.70 km ( + 0.10 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">McAlevys Fort Rd, Petersburg, Pennsylvania 16669</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">88.04 mi ( + 0.11 mi )</td>
+                    <td class="content text-dark small">136.88 km ( + 0.18 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/hn/1023.php">Huntingdon SR 1023 - Alan Seeger Rd</a>, Petersburg, Pennsylvania 16669</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">93.23 mi ( + 5.19 mi )</td>
+                    <td class="content text-dark small">145.23 km ( + 8.35 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/hn/1029.php">Huntingdon SR 1029 - Charter Oak Rd</a>, Petersburg, Pennsylvania 16669</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">95.27 mi ( + 2.04 mi )</td>
+                    <td class="content text-dark small">148.51 km ( + 3.28 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">McAlevys Fort Rd, Pine Grove Mills, Pennsylvania 16868</td>
+                    <td class="content text-dark">End Huntingdon County, Start Centre County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">96.93 mi ( + 1.64 mi )</td>
+                    <td class="content text-dark small">151.16 km ( + 2.65 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S Water St, Pine Grove Mills, Pennsylvania 16868</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">97.32 mi ( + 0.39 mi )</td>
+                    <td class="content text-dark small">151.79 km ( + 0.63 km )</td>
+                    <td class="content text-dark"><a href="45.php">PA-45 - W Pine Grove Rd (WB) / Pine Grove Rd (EB)</a>, Pine Grove Mills, Pennsylvania 16868</td>
+                    <td class="content text-dark">Pine Grove Rd, Pine Grove Mills, Pennsylvania 16868</td>
+                    <td class="content text-dark">Start concurrency with PA-45</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">97.45 mi ( + 0.13 mi )</td>
+                    <td class="content text-dark small">152.01 km ( + 0.22 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Pine Grove Rd, State College, Pennsylvania 16801</td>
+                    <td class="content text-dark">Start concurrency with PA-45</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">98.66 mi ( + 1.21 mi )</td>
+                    <td class="content text-dark small">153.96 km ( + 1.95 km )</td>
+                    <td class="content text-dark"><a href="45.php">PA-45 - Shingletown Rd</a>, State College, Pennsylvania 16801</td>
+                    <td class="content text-dark">W College Ave, State College, Pennsylvania 16801</td>
+                    <td class="content text-dark">End concurrency with PA-45</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">99.58 mi ( + 0.92 mi )</td>
+                    <td class="content text-dark small">155.44 km ( + 1.48 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/ce/3024.php">Centre SR 3024 - W Whitehall Rd</a>, State College, Pennsylvania 16801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">101.96 mi ( + 2.38 mi )</td>
+                    <td class="content text-dark small">159.27 km ( + 3.83 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W College Ave (SB) / S Buckhout St (NB), State College, Pennsylvania 16801</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">102.06 mi ( + 0.10 mi )</td>
+                    <td class="content text-dark small">159.42 km ( + 0.15 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W College Ave (SB) / W Beaver Ave (NB), State College, Pennsylvania 16801</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">102.49 mi ( + 0.43 mi )</td>
+                    <td class="content text-dark small">160.12 km ( + 0.70 km )</td>
+                    <td class="content text-dark"><a href="../../us-highways/322.php/#paus322bus">US-322 Business</a>, State College, Pennsylvania 16801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">102.74 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">160.53 km ( + 0.41 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">E College Ave (SB) / E Beaver Ave (NB), State College, Pennsylvania 16801</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">103.34 mi ( + 0.60 mi )</td>
+                    <td class="content text-dark small">161.49 km ( + 0.96 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">E College Ave (SB) / High St (NB), State College, Pennsylvania 16801</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">103.43 mi ( + 0.09 mi )</td>
+                    <td class="content text-dark small">161.63 km ( + 0.14 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">E College Ave, State College, Pennsylvania 16801</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">104.97 mi ( + 1.54 mi )</td>
+                    <td class="content text-dark small">164.11 km ( + 2.48 km )</td>
+                    <td class="content text-dark"><a href="../../us-highways/322.php">US-322 - Mt Nittany Expy</a>, State College, Pennsylvania 16801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">106.68 mi ( + 1.71 mi )</td>
+                    <td class="content text-dark small">166.86 km ( + 2.75 km )</td>
+                    <td class="content text-dark"><a href="150.php">PA-150 - Benner Pk</a>, State College, Pennsylvania 16801</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">107.26 mi ( + 0.58 mi )</td>
+                    <td class="content text-dark small">167.80 km ( + 0.94 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">E College Ave, Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">107.92 mi ( + 1.66 mi )</td>
+                    <td class="content text-dark small">170.47 km ( + 2.67 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W College Ave, Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">109.23 mi ( + 1.31 mi )</td>
+                    <td class="content text-dark small">172.57 km ( + 2.10 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W College Ave, Pleasant Gap, Pennsylvania 16823</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">109.76 mi ( + 0.53 mi )</td>
+                    <td class="content text-dark small">173.42 km ( + 0.85 km )</td>
+                    <td class="content text-dark"><a href="144.php">PA-144 - S Main St (SB) / N Main St (NB)</a>, Pleasant Gap, Pennsylvania 16823</td>
+                    <td class="content text-dark">E College Ave, Pleasant Gap, Pennsylvania 16823</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">110.35 mi ( + 0.59 mi )</td>
+                    <td class="content text-dark small">174.37 km ( + 0.95 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">E College Ave, Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">111.37 mi ( + 1.02 mi )</td>
+                    <td class="content text-dark small">176.01 km ( + 1.64 km )</td>
+                    <td class="content text-dark"><a href="../../interstates/99.php">I-99 (NB)</a> (concurrent with <a href="../../us-highways/220.php">US-220</a>), Bellefonte, Pennsylvania 16823<br><a href="64.php">PA-64 - E College Ave (EB)</a>, Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark">PA-26, Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark">Start concurrency with I-99 and US-220</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">111.37 mi ( + 1.02 mi )</td>
+                    <td class="content text-dark small">176.01 km ( + 1.64 km )</td>
+                    <td class="content text-dark"><a href="../../interstates/99.php">I-99 (NB)</a> (concurrent with <a href="../../us-highways/220.php">US-220</a>), Bellefonte, Pennsylvania 16823<br><a href="64.php">PA-64 - E College Ave (EB)</a>, Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark">PA-26, Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark">Start concurrency with I-99 and US-220</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">114.04 mi ( + 2.67 mi )</td>
+                    <td class="content text-dark small">180.31 km ( + 4.30 km )</td>
+                    <td class="content text-dark"><a href="550.php">PA-550 - Zion Rd</a>, Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">116.16 mi ( + 2.12 mi )</td>
+                    <td class="content text-dark small">183.73 km ( + 3.42 km )</td>
+                    <td class="content text-dark"><a href="../../interstates/80.php">I-80 - Z. H. Confair Memorial Hwy</a> (concurrent with <a href="../../us-highways/220.php/#paus220alt">US-220 Alternate</a>), Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">116.46 mi ( + 0.30 mi )</td>
+                    <td class="content text-dark small">184.21 km ( + 0.48 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/ce/1005.php">Centre SR 1005 - Forest Rd</a>, Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">116.75 mi ( + 0.29 mi )</td>
+                    <td class="content text-dark small">184.67 km ( + 0.46 km )</td>
+                    <td class="content text-dark"><a href="../../interstates/80.php">I-80 - Z. H. Confair Memorial Hwy</a> (concurrent with <a href="../../us-highways/220.php">US-220</a>), Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark">Jacksonville Rd, Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark"></td>
+                </tr>
