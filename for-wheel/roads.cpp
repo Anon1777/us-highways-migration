@@ -4,11 +4,11 @@
 #include <map>
 using namespace std;
 
-// c++ .\\us-highways-migration\\for_wheel\\roads.cpp -o .\\us-highways-migration\\for_wheel\\road_weight.exe
-// .\\us-highways-migration\\for_wheel\\road_weight.exe
+// c++ .\\us-highways-migration\\for-wheel\\roads.cpp -o .\\us-highways-migration\\for-wheel\\road-weight.exe
+// .\\us-highways-migration\\for-wheel\\road-weight.exe
 
 int main() {
-    ifstream infile(".\\us-highways-migration\\for_wheel\\roads.txt"); // Input file with all your roads, one per line
+    ifstream infile(".\\us-highways-migration\\for-wheel\\roads.txt"); // Input file with all your roads, one per line
     if (!infile) {
         cerr << "Error opening file!" << endl;
         return 1;
@@ -36,7 +36,7 @@ int main() {
     infile.close();
 
     // Output results
-    ofstream outfile(".\\us-highways-migration\\for_wheel\\weighted_roads.txt");
+    ofstream outfile(".\\us-highways-migration\\for-wheel\\weighted-roads.txt");
     if (!outfile) {
         cerr << "Error creating output file!" << endl;
         return 1;
@@ -47,6 +47,6 @@ int main() {
     }
 
     outfile.close();
-    cout << "Done! Weighted road list saved to weighted_roads.txt" << endl;
+    cout << "Done! Weighted road list saved to weighted-roads.txt" << endl;
     return 0;
 }

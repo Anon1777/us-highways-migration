@@ -20,3 +20,4 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route<br>End concurrency with US-206</td>
                 </tr>
+                <?php include "../../../../static/bottom.php"; ?>
