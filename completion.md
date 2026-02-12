@@ -1,6 +1,6 @@
 # completion progress
 
-Lines of code (finished pages): 5436
+Lines of code (finished pages): 6082
 
 Static Pages:
 
@@ -63,6 +63,7 @@ State Highways
 * NJ-439
 * NJ-440
 * NY-440
+* PA-26
 
 US Highways
 

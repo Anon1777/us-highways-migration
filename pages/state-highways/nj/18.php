@@ -11,7 +11,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="138.php">NJ-138</a>, Wall Township, New Jersey 07719</td>
                     <td class="content text-dark">NJ-18, Wall Township, New Jersey 07712</td>
-                    <td class="content text-dark">Start of Route</td>
+                    <td class="content text-dark">Start of Route // Start Monmouth County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.29 mi ( + 0.29 mi )</td>

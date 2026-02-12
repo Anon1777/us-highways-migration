@@ -8,7 +8,6 @@
 
 * us-1
 * us-9
-* pa-26
 
 ### HIGHER PRIORITY
 

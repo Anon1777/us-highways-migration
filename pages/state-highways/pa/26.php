@@ -11,7 +11,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">S Clear Ridge Rd, Warfordsburg, Pennsylvania 17267</td>
-                    <td class="content text-dark">Start of Route<br>Start of Route in Fulton County</td>
+                    <td class="content text-dark">Start of Route<br>Start Fulton County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.91 mi ( + 0.91 mi )</td>
@@ -615,3 +615,32 @@
                     <td class="content text-dark">Jacksonville Rd, Bellefonte, Pennsylvania 16823</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">121.82 mi ( + 5.07 mi )</td>
+                    <td class="content text-dark small">192.83 km ( + 8.16 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/ce/1010.php">Centre SR 1010 - Hubler Ridge Rd (SB)</a>, Bellefonte, Pennsylvania 16823<br>PA-26 - Walnut St (NB), Bellefonte, Pennsylvania 16823<a href="../../secondary-roads/pa/ce/1010.php">Centre SR 1010 - Jacksonville Rd (EB)</a>, Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark">Walnut St, Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">122.05 mi ( + 0.23 mi )</td>
+                    <td class="content text-dark small">193.20 km ( + 0.37 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Walnut St, Marion Township, Pennsylvania 16841</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">122.45 mi ( + 0.40 mi )</td>
+                    <td class="content text-dark small">193.85 km ( + 0.65 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Walnut St, Howard, Pennsylvania 16841</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">125.22 mi ( + 2.77 mi )</td>
+                    <td class="content text-dark small">198.31 km ( + 4.46 km )</td>
+                    <td class="content text-dark"><a href="../../secondary-roads/pa/ce/1001.php">Centre SR 1001 - Howard Divide Rd (NB)</a>, Howard, Pennsylvania 16841<br><a href="150.php">PA-150 - N Eagle Valley Rd (WB/EB)</a>, Howard, Pennsylvania 16841</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Route</td>
+                </tr>
+                <?php include '../../../static/bottom.php'; ?>
