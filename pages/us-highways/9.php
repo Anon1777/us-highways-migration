@@ -1101,6 +1101,69 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">165.45 mi ( + 0.37 mi )</td>
+                    <td class="content text-dark small">269.68 km ( + 0.59 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/18.php">NJ-18</a>, Old Bridge, New Jersey 08857</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">167.74 mi ( + 2.29 mi )</td>
+                    <td class="content text-dark small">273.06 km ( + 3.68 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/516.php">Middlesex CR 516 - Old Bridge Matawan Rd</a>, Old Bridge, New Jersey 08857</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">170.23 mi ( + 2.49 mi )</td>
+                    <td class="content text-dark small">277.07 km ( + 4.01 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/34.php">NJ-34</a>, Old Bridge, New Jersey 08857</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">171.43 mi ( + 1.20 mi )</td>
+                    <td class="content text-dark small">279.00 km ( + 1.93 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/mi/673.php">Middlesex CR 673 - Ernston Rd</a>, Sayreville, New Jersey 08879</td>
+                    <td class="content text-dark">US-9, Sayreville, New Jersey 08879</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">171.67 mi ( + 0.33 mi )</td>
+                    <td class="content text-dark small">281.01 km ( + 0.54 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/444.php">NJ-444 - Garden State Pkwy</a>, Sayreville, New Jersey 08879</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">172.02 mi ( + 0.35 mi )</td>
+                    <td class="content text-dark small">281.58 km ( + 0.57 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, South Amboy, New Jersey 08879</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">172.17 mi ( + 0.15 mi )</td>
+                    <td class="content text-dark small">281.82 km ( + 0.24 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/35.php">NJ-35 (SB/NB)</a>, South Amboy, New Jersey 08879<br><a href="../secondary-roads/nj/mi/684.php">Middlesex CR 684 - Main St (NB)</a>, South Amboy, New Jersey 08879</td>
+                    <td class="content text-dark">US-9, South Amboy, New Jersey 08879</td>
+                    <td class="content text-dark">Start concurrency with NJ-35</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">172.40 mi ( + 0.23 mi )</td>
+                    <td class="content text-dark small">282.19 km ( + 0.37 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/mi/670.php">Middlesex CR 670 - Washington Ave</a>, South Amboy, New Jersey 08879</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">172.85 mi ( + 0.45 mi )</td>
+                    <td class="content text-dark small">282.91 km ( + 0.72 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Sayreville, New Jersey 08879</td>
+                    <td class="content text-dark"></td>
+                </tr>
             </table>
             <hr>
             <h1 class="header" id="us9byp">United States Route 9 Bypass</h1>
