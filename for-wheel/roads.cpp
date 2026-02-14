@@ -4,8 +4,8 @@
 #include <map>
 using namespace std;
 
-// c++ .\\us-highways-migration\\for-wheel\\roads.cpp -o .\\us-highways-migration\\for-wheel\\road-weight.exe
-// .\\us-highways-migration\\for-wheel\\road-weight.exe
+// c++ .\us-highways-migration\for-wheel\roads.cpp -o .\us-highways-migration\for-wheel\road-weight.exe
+// .\us-highways-migration\for-wheel\road-weight.exe
 
 int main() {
     ifstream infile(".\\us-highways-migration\\for-wheel\\roads.txt"); // Input file with all your roads, one per line

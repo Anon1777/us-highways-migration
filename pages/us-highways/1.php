@@ -2564,36 +2564,36 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">637.85 mi ( + 0.48 mi )</td>
-                    <td class="content text-dark small">1026.55 km ( + 0.77 km )</td>
+                    <td class="content text-dark small">641.80 mi ( + 0.48 mi )</td>
+                    <td class="content text-dark small">1032.39 km ( + 0.77 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Lyons, Georgia 30436</td>
                     <td class="content text-dark">End Appling County, Start Toombs County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">639.96 mi ( + 2.11 mi )</td>
-                    <td class="content text-dark small">1029.95 km ( + 3.39 km )</td>
-                    <td class="content text-dark">GA-147 - Cedar Crossing Rd (WB) / GA-147 (EB), Lyons, Georgia 30436</td>
+                    <td class="content text-dark small">643.91 mi ( + 2.11 mi )</td>
+                    <td class="content text-dark small">1036.78 km ( + 3.39 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/147.php">GA-147 - Cedar Crossing Rd (WB) / GA-147 (EB)</a>, Lyons, Georgia 30436</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">645.63 mi ( + 5.67 mi )</td>
-                    <td class="content text-dark small">1039.07 km ( + 9.13 km )</td>
-                    <td class="content text-dark">GA-56, Lyons, Georgia 30436</td>
+                    <td class="content text-dark small">649.58 mi ( + 5.67 mi )</td>
+                    <td class="content text-dark small">1045.91 km ( + 9.13 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/56.php">GA-56</a>, Lyons, Georgia 30436</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">649.83 mi ( + 4.20 mi )</td>
-                    <td class="content text-dark small">1045.83 km ( + 6.76 km )</td>
-                    <td class="content text-dark">GA-29, Lyons, Georgia 30436</td>
+                    <td class="content text-dark small">653.78 mi ( + 4.20 mi )</td>
+                    <td class="content text-dark small">1052.67 km ( + 6.76 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/15.php">GA-15</a>, Lyons, Georgia 30436<br><a href="../state-highways/ga/29.php">GA-29</a>, Lyons, Georgia 30436</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with GA-15</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">654.69 mi ( + 4.86 mi )</td>
-                    <td class="content text-dark small">1053.65 km ( + 7.82 km )</td>
+                    <td class="content text-dark small">658.64 mi ( + 4.86 mi )</td>
+                    <td class="content text-dark small">1060.49 km ( + 7.82 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">US-1, Santa Claus, Georgia 30436</td>
                     <td class="content text-dark"></td>
