@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../interstates/95.php">I-95 - New Jersey Tpke</a> (concurrent with <a href="../../state-highways/nj/700.php">NJ-700</a>), Elizabeth, New Jersey 07201</td>
+                    <td class="content text-dark"><a href="../../interstates/95.php">I-95 - New Jersey Tpke</a>, Elizabeth, New Jersey 07201</td>
                     <td class="content text-dark">NJ-81, Elizabeth, New Jersey 07201</td>
                     <td class="content text-dark">Start of Route</td>
                 </tr>

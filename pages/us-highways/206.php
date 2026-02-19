@@ -226,7 +226,7 @@
                 <tr>
                     <td class="content text-dark small">34.08 mi ( + 0.18 mi )</td>
                     <td class="content text-dark small">55.34 km ( + 0.29 km )</td>
-                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - New Jersey Tpke</a> (concurrent with <a href="../state-highways/nj/700.php">NJ-700</a>), Bordentown, New Jersey 08505</td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - New Jersey Tpke</a>, Bordentown, New Jersey 08505</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
