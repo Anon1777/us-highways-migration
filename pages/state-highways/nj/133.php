@@ -9,7 +9,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="../../interstates/95.php">I-95 - New Jersey Tpke</a> (concurrent with <a href="../../state-highways/nj/700.php">NJ-700</a>), East Windsor, New Jersey 08520</td>
+                    <td class="content text-dark"><a href="../../interstates/95.php">I-95 - New Jersey Tpke</a>, East Windsor, New Jersey 08520</td>
                     <td class="content text-dark">Hightstown Byp, East Windsor, New Jersey 08520</td>
                     <td class="content text-dark">Start of Route</td>
                 </tr>
@@ -23,7 +23,7 @@
                 <tr>
                     <td class="content text-dark small">1.17 mi ( + 0.65 mi )</td>
                     <td class="content text-dark small">1.89 km ( + 1.05 km )</td>
-                    <td class="content text-dark"><a href="../../interstates/95.php">I-95 - New Jersey Tpke</a> (concurrent with <a href="../../state-highways/nj/700.php">NJ-700</a>), East Windsor, New Jersey 08520</td>
+                    <td class="content text-dark"><a href="../../interstates/95.php">I-95 - New Jersey Tpke</a>, East Windsor, New Jersey 08520</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

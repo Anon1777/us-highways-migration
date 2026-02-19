@@ -1164,6 +1164,62 @@
                     <td class="content text-dark">US-9, Sayreville, New Jersey 08879</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">173.51 mi ( + 0.66 mi )</td>
+                    <td class="content text-dark small">283.97 km ( + 1.06 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/35.php">NJ-35 - Chevalier Ave</a>, Sayreville, New Jersey 08879</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with NJ-35</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">174.21 mi ( + 0.70 mi )</td>
+                    <td class="content text-dark small">285.09 km ( + 1.12 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Ellis S. Vieser Memorial Brg, Sayreville, New Jersey 08879</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">174.59 mi ( + 0.38 mi )</td>
+                    <td class="content text-dark small">285.70 km ( + 0.61 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Ellis S. Vieser Memorial Brg, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">174.99 mi ( + 0.40 mi )</td>
+                    <td class="content text-dark small">286.34 km ( + 0.64 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/mi/656.php">Middlesex CR 656 - Smith St (EB)</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">175.06 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">286.45 km ( + 0.11 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/mi/656.php">Middlesex CR 656 - Smith St (WB)</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark">US-9, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">175.31 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">286.85 km ( + 0.40 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/440.php">NJ-440</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">175.70 mi ( + 0.39 mi )</td>
+                    <td class="content text-dark small">287.48 km ( + 0.63 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/mi/616.php">Middlesex CR 616 - New Brunswick Ave</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">175.70 mi ( + 0.68 mi )</td>
+                    <td class="content text-dark small">287.48 km ( + 1.10 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/mi/616.php">Middlesex CR 616 - New Brunswick Ave</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
             </table>
             <hr>
             <h1 class="header" id="us9byp">United States Route 9 Bypass</h1>
