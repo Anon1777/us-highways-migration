@@ -44,7 +44,7 @@
                 <tr>
                     <td class="content text-dark small">14.08 mi ( + 1.39 mi )</td>
                     <td class="content text-dark small">22.66 km ( + 2.24 km )</td>
-                    <td class="content text-dark"><a href="#us9byp">US-9 Bypass - Park Ave</a>, Georgetown, Delaware 19947</td>
+                    <td class="content text-dark"><a href="#deus9bypsu">US-9 Bypass - Park Ave</a>, Georgetown, Delaware 19947</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -79,7 +79,7 @@
                 <tr>
                     <td class="content text-dark small">22.70 mi ( + 6.28 mi )</td>
                     <td class="content text-dark small">38.15 km ( + 10.11 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/de/1.php">DE-1 - Coastal Hwy (WB/EB)</a>, Lewes, Delaware 19958<br><a href="#us9bus">US-9 Business (NB)</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="../state-highways/de/1.php">DE-1 - Coastal Hwy (WB/EB)</a>, Lewes, Delaware 19958<br><a href="#deus9bussu">US-9 Business (NB)</a>, Lewes, Delaware 19958</td>
                     <td class="content text-dark">Coastal Hwy, Lewes, Delaware 19958</td>
                     <td class="content text-dark">End concurrency with DE-404<br>Start concurrency with DE-1</td>
                 </tr>
@@ -558,7 +558,7 @@
                 <tr>
                     <td class="content text-dark small">91.41 mi ( + 1.11 mi )</td>
                     <td class="content text-dark small">149.59 km ( + 1.79 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/561.php/#561byp">Atlantic CR 561 Bypass - Smithville Blvd</a>, Galloway, New Jersey 08205</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/561.php/#njcr561bypat">Atlantic CR 561 Bypass - Smithville Blvd</a>, Galloway, New Jersey 08205</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1048,7 +1048,7 @@
                 <tr>
                     <td class="content text-dark small">157.67 mi ( + 0.40 mi )</td>
                     <td class="content text-dark small">257.18 km ( + 0.65 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/nj/33.php/#nj33bus">NJ-33 Business - Park Ave</a>, Freehold Township, New Jersey 07728<br><a href="../secondary-roads/nj/mo/24.php">Monmouth CR 24 - Manalapan Ave</a>, Freehold Township, New Jersey 07728</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/33.php/#njsr33busmo">NJ-33 Business - Park Ave</a>, Freehold Township, New Jersey 07728<br><a href="../secondary-roads/nj/mo/24.php">Monmouth CR 24 - Manalapan Ave</a>, Freehold Township, New Jersey 07728</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1220,9 +1220,13 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+            </section>
+            <section id="nyus9">
             </table>
+            </section>
             <hr>
-            <h1 class="header" id="us9byp">United States Route 9 Bypass</h1>
+            <section id="sec-deus9bypsu">
+            <h1 class="header" id="deus9bypsu">United States Route 9 Bypass</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
@@ -1248,8 +1252,10 @@
                     <td class="content text-dark">End of Bypass Route</td>
                 </tr>
             </table>
+            </section>
             <hr>
-            <h1 class="header" id="us9bus">United States Route 9 Business</h1>
+            <section id="sec-deus9bussu">
+            <h1 class="header" id="deus9bussu">United States Route 9 Business</h1>
             <h2 class="content text-dark">US-9 starts a business route in Lewes, Delaware. It is 2.64 mi (4.25 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
@@ -1268,8 +1274,10 @@
                     <td class="content text-dark">End of Business Route</td>
                 </tr>
             </table>
+            </section>
             <hr>
-            <h1 class="header" id="us9kh">United States Route 9 Kings Highway Spur</h1>
+            <section id="sec-deus9spursu">
+            <h1 class="header" id="deus9spursu">United States Route 9 Kings Highway Spur</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
@@ -1283,7 +1291,7 @@
                 <tr>
                     <td class="content text-dark small">0.84 mi ( + 0.84 mi )</td>
                     <td class="content text-dark small">1.35 km ( + 1.35 km )</td>
-                    <td class="content text-dark"><a href="#us9bus">US-9 Business - Savannah Rd</a>, Lewes, Delaware 19958</td>
+                    <td class="content text-dark"><a href="#deus9bussu">US-9 Business - Savannah Rd</a>, Lewes, Delaware 19958</td>
                     <td class="content text-dark">Savannah Rd, Lewes, Delaware 19958</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1309,6 +1317,7 @@
                     <td class="content text-dark">End of Spur</td>
                 </tr>
             </table>
+            </section>
             <hr>
             <section id="sec-njus9spurcm">
             <h1 class="header" id="njus9spurcm">United States Route 9 - Beesley's Point</h1>
@@ -1336,4 +1345,5 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
+            </section>
                 <?php include "../../static/bottom.php"; ?>

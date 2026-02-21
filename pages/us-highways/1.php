@@ -1598,7 +1598,7 @@
                 <tr>
                     <td class="content text-dark small">399.54 mi ( + 0.19 mi )</td>
                     <td class="content text-dark small">641.77 km ( + 0.31 km )</td>
-                    <td class="content text-dark"><a href="44.php/#us44bus">US-44 Business - Canal St</a>, New Smyrna Beach, 32168</td>
+                    <td class="content text-dark"><a href="44.php/#flus44busvo">US-44 Business - Canal St</a>, New Smyrna Beach, 32168</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1913,7 +1913,7 @@
                 <tr>
                     <td class="content text-dark small">467.57 mi ( + 0.70 mi )</td>
                     <td class="content text-dark small">751.22 km ( + 1.13 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/fl/sj/214.php">St. Johns CR 214 - W King St</a> (to <a href="#flus1bus">US-1 Business</a>), St Augustine, Florida 32084</td>
+                    <td class="content text-dark"><a href="../secondary-roads/fl/sj/214.php">St. Johns CR 214 - W King St</a> (to <a href="#flus1bussj">US-1 Business</a>), St Augustine, Florida 32084</td>
                     <td class="content text-dark">US-1, St Augustine, 32084</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1927,7 +1927,7 @@
                 <tr>
                     <td class="content text-dark small">470.03 mi ( + 0.53 mi )</td>
                     <td class="content text-dark small">755.18 km ( + 0.85 km )</td>
-                    <td class="content text-dark"><a href="#flus1bus">US-1 Business - San Marco Ave</a>, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"><a href="#flus1bussj">US-1 Business - San Marco Ave</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1955,7 +1955,7 @@
                 <tr>
                     <td class="content text-dark small">483.34 mi ( + 8.35 mi )</td>
                     <td class="content text-dark small">776.55 km ( + 13.44 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/fl/sj/210.php/#flsj210alt">St. Johns CR 210 Alternate</a>, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"><a href="../secondary-roads/fl/sj/210.php/#flcr210altsj">St. Johns CR 210 Alternate</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2060,7 +2060,7 @@
                 <tr>
                     <td class="content text-dark small">500.27 mi ( + 1.74 mi )</td>
                     <td class="content text-dark small">805.40 km ( + 2.79 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/fl/126.php">FL-126 - Emerson St (WB)</a>, Jacksonville, Florida 32208<br><a href="#flus1alt">US-1 Alternate - Emerson St (EB)</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="../state-highways/fl/126.php">FL-126 - Emerson St (WB)</a>, Jacksonville, Florida 32208<br><a href="#flus1altdu">US-1 Alternate - Emerson St (EB)</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2158,14 +2158,14 @@
                 <tr>
                     <td class="content text-dark small">505.85 mi ( + 1.61 mi )</td>
                     <td class="content text-dark small">816.39 km ( + 2.59 km )</td>
-                    <td class="content text-dark"><a href="#flus1alt">US-1 Alternate (SB) - Martin Luther King Jr. Pkwy</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="#flus1altdu">US-1 Alternate (SB) - Martin Luther King Jr. Pkwy</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">505.89 mi ( + 0.04 mi )</td>
                     <td class="content text-dark small">816.45 km ( + 0.06 km )</td>
-                    <td class="content text-dark"><a href="#flus1alt">US-1 Alternate (NB) - Martin Luther King Jr. Pkwy</a> (WB/EB)<br><a href="17.php">US-17 - N Main St</a> (concurrent with <a href="../state-highways/fl/5.php">FL-5</a> & <a href="../state-highways/fl/115.php">FL-115</a>) (NB), Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="#flus1altdu">US-1 Alternate (NB) - Martin Luther King Jr. Pkwy</a> (WB/EB)<br><a href="17.php">US-17 - N Main St</a> (concurrent with <a href="../state-highways/fl/5.php">FL-5</a> & <a href="../state-highways/fl/115.php">FL-115</a>) (NB), Jacksonville, Florida 32208</td>
                     <td class="content text-dark">Martin Luther King Jr. Pkwy, Jacksonville, Florida 32208</td>
                     <td class="content text-dark">End concurrency with US-17, FL-5, & FL-115</td>
                 </tr>
@@ -2405,7 +2405,7 @@
                 <tr>
                     <td class="content text-dark small">580.98 mi ( + 0.67 mi )</td>
                     <td class="content text-dark small">936.32 km ( + 1.09 km )</td>
-                    <td class="content text-dark"><a href="#gaus1bus">US-1 Business - Memorial Dr (NB)</a>, Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Memorial Dr (NB)</a>, Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark">SE Georgia Pkwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark">Start concurrency with US-82 & GA-520</td>
                 </tr>
@@ -2461,7 +2461,7 @@
                 <tr>
                     <td class="content text-dark small">593.45 mi ( + 3.83 mi )</td>
                     <td class="content text-dark small">954.58 km ( + 6.17 km )</td>
-                    <td class="content text-dark"><a href="#gaus1bus">US-1 Business - Alma Hwy</a>, Waycross, Georgia 51303</td>
+                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Alma Hwy</a>, Waycross, Georgia 51303</td>
                     <td class="content text-dark">Alma Hwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2482,7 +2482,7 @@
                 <tr>
                     <td class="content text-dark small">611.16 mi ( + 1.88 mi )</td>
                     <td class="content text-dark small">983.08 km ( + 3.02 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/ga/4.php/#ga4alt">GA-4 Alternate - S Dixon St</a>, Alma, Georgia 31510</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/4.php/#gasr4altbc">GA-4 Alternate - S Dixon St</a>, Alma, Georgia 31510</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2496,7 +2496,7 @@
                 <tr>
                     <td class="content text-dark small">612.71 mi ( + 1.11 mi )</td>
                     <td class="content text-dark small">985.57 km ( + 1.79 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/ga/4.php/#ga4alt">GA-4 Alternate - Camellia Dr</a>, Alma, Georgia 31510</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/4.php/#gasr4altbc">GA-4 Alternate - Camellia Dr</a>, Alma, Georgia 31510</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2704,8 +2704,15 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">690.10 mi ( + 3.87 mi )</td>
-                    <td class="content text-dark small">1111.16 km ( + 6.23 km )</td>
+                    <td class="content text-dark small">686.45 mi ( + 0.22 mi )</td>
+                    <td class="content text-dark small">1105.29 km ( + 0.36 km )</td>
+                    <td class="content text-dark"><a href="#gaus1busem">US-1 Business - S Main St</a> (concurrent with <a href="../state-highways/ga/4.php/#gasr4busem">GA-4 Business</a>), Swainsboro, Georgia 30401</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">690.10 mi ( + 3.65 mi )</td>
+                    <td class="content text-dark small">1111.16 km ( + 5.87 km )</td>
                     <td class="content text-dark"><a href="../state-highways/ga/56.php">GA-56</a>, Swainsboro, Georgia 30401</td>
                     <td class="content text-dark">US-1, Swainsboro, Georgia 30401</td>
                     <td class="content text-dark"></td>
@@ -2725,16 +2732,23 @@
                     <td class="content text-dark">End concurrency with GA-57</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">707.97 mi ( + 14.37 mi )</td>
-                    <td class="content text-dark small">1139.96 km ( + 23.13 km )</td>
+                    <td class="content text-dark small">695.35 mi ( + 1.75 mi )</td>
+                    <td class="content text-dark small">1119.64 km ( + 2.81 km )</td>
+                    <td class="content text-dark"><a href="#gaus1busem">US-1 Business</a> (concurrent with <a href="../state-highways/ga/4.php/#gasr4busem">GA-4 Business</a>), Swainsboro, Georgia 30401</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with GA-57</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">707.97 mi ( + 12.62 mi )</td>
+                    <td class="content text-dark small">1139.96 km ( + 20.32 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Memorial Hwy, Wadley, Georgia 30477</td>
                     <td class="content text-dark">End Emanuel County, Start Jefferson County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">706.12 mi ( + 2.09 mi )</td>
-                    <td class="content text-dark small">1136.42 km ( + 3.36 km )</td>
-                    <td class="content text-dark">US-1 Business (WB) - Kennedy Rd, Wadley, Georgia 30477</td>
+                    <td class="content text-dark small">710.06 mi ( + 2.09 mi )</td>
+                    <td class="content text-dark small">1143.32 km ( + 3.36 km )</td>
+                    <td class="content text-dark"><a href="#gaus1busjf">US-1 Business - Kennedy Rd</a>, Wadley, Georgia 30477</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -6394,8 +6408,8 @@
             </section>
             </table>
             <hr>
-            <section id="sec-flus1bus">
-            <h1 class="header" id="flus1bus">United States Route 1 Business (St. Augustine, Florida)</h1>
+            <section id="sec-flus1bussj">
+            <h1 class="header" id="flus1bussj">United States Route 1 Business (St. Augustine, Florida)</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
@@ -6465,8 +6479,8 @@
             </table>
             </section>
             <hr>
-            <section id="sec-flus1alt">
-            <h1 class="header" id="flus1alt">United States Route 1 Alternate (Jacksonville, Florida)</h1>
+            <section id="sec-flus1altdu">
+            <h1 class="header" id="flus1altdu">United States Route 1 Alternate (Jacksonville, Florida)</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
@@ -6508,7 +6522,7 @@
                 <tr>
                     <td class="content text-dark small">2.51 mi ( + 0.24 mi )</td>
                     <td class="content text-dark small">4.04 km ( + 0.38 km )</td>
-                    <td class="content text-dark"><a href="90.php/#flus90alt">US-90 Alternate - Atlantic Blvd</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="90.php/#flus90altdu">US-90 Alternate - Atlantic Blvd</a>, Jacksonville, Florida 32208</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -6550,15 +6564,15 @@
                 </table>
             </section>
             <hr>
-            <section id="sec-flus1alt">
-            <h1 class="header" id="flus1alt">United States Route 1 Business (Waycross, Georgia)</h1>
+            <section id="sec-gaus1buswa">
+            <h1 class="header" id="gaus1buswa">United States Route 1 Business (Waycross, Georgia)</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Memorial Dr (SB)</a> (concurrent with <a href="23.php">US-23</a> & <a href="../state-highways/ga/4.php">GA-4</a>), Waycross, Georgia 31503<br><a href="../state-highways/ga/714.php">GA-714 - SE Georgia Pkwy (WB)</a>, Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Memorial Dr (SB)</a> (concurrent with <a href="23.php/#gaus23buswa">US-23</a> & <a href="../state-highways/ga/4.php/#gasr4buswa">GA-4</a>), Waycross, Georgia 31503<br><a href="../state-highways/ga/714.php">GA-714 - SE Georgia Pkwy (WB)</a>, Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark">Memorial Dr, Waycross, Georgia 31503</td>
                     <td class="content text-dark">Start of Business Route</td>
                 </tr>
@@ -6589,6 +6603,48 @@
                     <td class="content text-dark"><a href="#us1">US-1 - Scapa Rd (SB) / Alma Hwy (NB)</a> (concurrent with <a href="23.php">US-23</a> and <a href="../state-highways/ga/4.php">GA-4</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route</td>
+                </tr>
+            </section>
+            <hr>
+            <section id="sec-gaus1busem">
+            <h1 class="header" id="gaus1busem">United States Route 1 Business (Swainsboro, Georgia)</h1>
+            <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us1">US-1 Business - Jefferson Davis Memorial Hwy</a>, Wadley, Georgia 30477</td>
+                    <td class="content text-dark">Kennedy Rd, Wadley, Georgia 30477</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.00 mi ( + 0.00 mi )</td>
+                    <td class="content text-dark small">0.00 km ( + 0.00 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+            </section>
+            <hr>
+            <section id="sec-gaus1busjf">
+            <h1 class="header" id="gaus1busjf">United States Route 1 Business (Wadley, Georgia)</h1>
+            <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us1">US-1 Business - Jefferson Davis Memorial Hwy</a>, Wadley, Georgia 30477</td>
+                    <td class="content text-dark">Kennedy Rd, Wadley, Georgia 30477</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.00 mi ( + 0.00 mi )</td>
+                    <td class="content text-dark small">0.00 km ( + 0.00 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
                 </tr>
             </section>
         <?php include "../../static/bottom.php"; ?>

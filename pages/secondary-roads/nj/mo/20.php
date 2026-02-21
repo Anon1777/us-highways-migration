@@ -58,7 +58,7 @@
                 <tr>
                     <td class="content text-dark small">2.14 mi ( + 0.21 mi )</td>
                     <td class="content text-dark small">3.44 km ( + 0.33 km )</td>
-                    <td class="content text-dark"><a href="../524.php/#njcr524spur">Monmouth CR 524 Spur - Atlantic Ave</a>, Manasquan, New Jersey 08736</td>
+                    <td class="content text-dark"><a href="../524.php/#njcr524spurmo">Monmouth CR 524 Spur - Atlantic Ave</a>, Manasquan, New Jersey 08736</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

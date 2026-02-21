@@ -8,14 +8,14 @@
             <h3 class="content text-dark"><a href="604.php">Camden CR 604 <i class="text-body-tertiary">Newton Ave</i></a></h3>
             <h3 class="content text-dark"><a href="605.php">Camden CR 605 <i class="text-body-tertiary">Mt Ephraim Ave</i></a></h3>
             <h3 class="content text-dark"><a href="606.php">Camden CR 606 <i class="text-body-tertiary">White Horse Pk</i></a></h3>
-            <h4 class="content text-secondary"><a href="606.php/#njcacr606alt">Camden CR 606 Alternate <i class="text-body-tertiary">Old White Horse Pk</i></a></h4>
+            <h4 class="content text-secondary"><a href="606.php/#njcr606altca">Camden CR 606 Alternate <i class="text-body-tertiary">Old White Horse Pk</i></a></h4>
             <h3 class="content text-dark"><a href="607.php">Camden CR 607 <i class="text-body-tertiary">Kaighns Ave</i></a></h3>
             <h3 class="content text-dark"><a href="608.php">Camden CR 608 <i class="text-body-tertiary">Baird Blvd</i></a></h3>
             <h3 class="content text-dark"><a href="609.php">Camden CR 609 <i class="text-body-tertiary">Twenty-Seventh St</i></a></h3>
             <h3 class="content text-dark"><a href="610.php">Camden CR 610 <i class="text-body-tertiary">Westfield Ave, Burlington Pk</i></a></h3>
             <h3 class="content text-dark"><a href="611.php">Camden CR 611 <i class="text-body-tertiary">Thirty-Sixth St</i></a></h3>
             <h3 class="content text-dark"><a href="612.php">Camden CR 612 <i class="text-body-tertiary">Browning Rd</i></a></h3>
-            <h4 class="content text-secondary"><a href="612.php/#njcacr612spur">Camden CR 612 Spur <i class="text-body-tertiary">Tanner Blvd</i></a></h4>
+            <h4 class="content text-secondary"><a href="612.php/#njcr612spurca">Camden CR 612 Spur <i class="text-body-tertiary">Tanner Blvd</i></a></h4>
             <h3 class="content text-dark"><a href="613.php">Camden CR 613 <i class="text-body-tertiary">Lexington Ave</i></a></h3>
             <h3 class="content text-dark"><a href="614.php">Camden CR 614 <i class="text-body-tertiary">Derousse Ave</i></a></h3>
             <h3 class="content text-dark"><a href="615.php">Camden CR 615 <i class="text-body-tertiary">Union Ave</i></a></h3>
@@ -64,7 +64,7 @@
             <h3 class="content text-dark"><a href="659.php">Camden CR 659 <i class="text-body-tertiary">Browning Ln, Browning Rd, Gloucester Pk</i></a></h3>
             <h3 class="content text-dark"><a href="660.php">Camden CR 660 <i class="text-body-tertiary">Valley Rd, E Lake Dr</i></a></h3>
             <h3 class="content text-dark"><a href="661.php">Camden CR 661 <i class="text-body-tertiary">Hillside Ave, S Park Ave, Glover Ave, N Park Ave</i></a></h3>
-            <h4 class="content text-secondary"><a href="661.php/#njcacr661spur">Camden CR 661 Spur <i class="text-body-tertiary">S Park Ave</i></a></h4>
+            <h4 class="content text-secondary"><a href="661.php/#njcr661spurca">Camden CR 661 Spur <i class="text-body-tertiary">S Park Ave</i></a></h4>
             <h3 class="content text-dark"><a href="662.php">Camden CR 662 <i class="text-body-tertiary">Highland Ave, Myrth Ave</i></a></h3>
             <h3 class="content text-dark"><a href="663.php">Camden CR 663 <i class="text-body-tertiary">Terrace Ave</i></a></h3>
             <h3 class="content text-dark"><a href="664.php">Camden CR 664 <i class="text-body-tertiary">Woodland Ave</i></a></h3>

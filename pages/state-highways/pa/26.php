@@ -163,7 +163,7 @@
                 <tr>
                     <td class="content text-dark small">25.12 mi ( + 0.11 mi )</td>
                     <td class="content text-dark small">39.70 km ( + 0.17 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/30.php/#us30bus">US-30 Business - E Main St</a></td>
+                    <td class="content text-dark"><a href="../../us-highways/30.php/#paus30busbf">US-30 Business - E Main St</a></td>
                     <td class="content text-dark">E Main St, Everett, Pennsylvania 15537</td>
                     <td class="content text-dark">Start concurrency with US-30 Business</td>
                 </tr>
@@ -499,7 +499,7 @@
                 <tr>
                     <td class="content text-dark small">102.49 mi ( + 0.43 mi )</td>
                     <td class="content text-dark small">160.12 km ( + 0.70 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/322.php/#paus322bus">US-322 Business</a>, State College, Pennsylvania 16801</td>
+                    <td class="content text-dark"><a href="../../us-highways/322.php/#paus322busce">US-322 Business</a>, State College, Pennsylvania 16801</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -597,7 +597,7 @@
                 <tr>
                     <td class="content text-dark small">116.16 mi ( + 2.12 mi )</td>
                     <td class="content text-dark small">183.73 km ( + 3.42 km )</td>
-                    <td class="content text-dark"><a href="../../interstates/80.php">I-80 - Z. H. Confair Memorial Hwy</a> (concurrent with <a href="../../us-highways/220.php/#paus220alt">US-220 Alternate</a>), Bellefonte, Pennsylvania 16823</td>
+                    <td class="content text-dark"><a href="../../interstates/80.php">I-80 - Z. H. Confair Memorial Hwy</a> (concurrent with <a href="../../us-highways/220.php/#paus220altce">US-220 Alternate</a>), Bellefonte, Pennsylvania 16823</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
