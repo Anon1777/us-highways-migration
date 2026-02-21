@@ -1310,7 +1310,8 @@
                 </tr>
             </table>
             <hr>
-            <h1 class="header" id="us9bp">United States Route 9 - Beesley's Point</h1>
+            <section id="sec-njus9spurcm">
+            <h1 class="header" id="njus9spurcm">United States Route 9 - Beesley's Point</h1>
             <h2 class="content text-dark">US-9 splits off into Beesley's Point Spur in Upper Township, New Jersey. It ends at a dead end 1.96 mi (3.12 km) later.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
