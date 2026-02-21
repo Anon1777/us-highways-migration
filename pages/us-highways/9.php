@@ -811,7 +811,8 @@
                     <td class="content text-dark small">132.80 mi ( + 1.96 mi )</td>
                     <td class="content text-dark small">216.18 km ( + 3.16 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">Atlantic City Blvd, Beachwood, New Jersey 08722</td>
+                    <td class="content text-dark">Atla
+                        ntic City Blvd, Beachwood, New Jersey 08722</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -1214,9 +1215,9 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">175.70 mi ( + 0.68 mi )</td>
-                    <td class="content text-dark small">287.48 km ( + 1.10 km )</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/mi/616.php">Middlesex CR 616 - New Brunswick Ave</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark small">176.38 mi ( + 0.68 mi )</td>
+                    <td class="content text-dark small">288.58 km ( + 1.10 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/184.php">NJ-184 - W Pond Rd</a>, Woodbridge Township, New Jersey 07095</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>

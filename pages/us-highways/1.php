@@ -2819,6 +2819,8 @@
                     <td class="content text-dark small">720.94 mi ( + 2.66 mi )</td>
                     <td class="content text-dark small">1160.27 km ( + 4.27 km )</td>
                     <td class="content text-dark">Jefferson SR 142 - Wilcher Rd (WB), Louisville, Georgia 30434</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">722.03 mi ( + 1.09 mi )</td>
