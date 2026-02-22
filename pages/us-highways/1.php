@@ -2,7 +2,7 @@
         
             <h6 class="dir"><a href="../../index-redirect.php">Home</a> > <a href="../list.php">US Highways</a> > US-1</h6>
             <h1 class="header" id="us1">United States Route 1</h1>
-            <h2 class="content text-dark">United States Route 1 (US-1) is a major north-south route spanning the east coast of the United States. It is xxxx.xx mi (xxxx.xx km) long. It connects the Florida Keys to mainland Florida and continues further to the Canadian border.</h2>
+            <h2 class="content text-dark">United States Route 1 (US-1) is a major north-south route spanning the east coast of the United States. It is xxxx.xx mi (xxxx.xx km) long. It connects the Florida Keys to mainland Florida and continues through every eastern coast state (sans Delaware) up to the Canadian border.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
             <section id="flus1">
@@ -2405,7 +2405,7 @@
                 <tr>
                     <td class="content text-dark small">580.98 mi ( + 0.67 mi )</td>
                     <td class="content text-dark small">936.32 km ( + 1.09 km )</td>
-                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Memorial Dr (NB)</a>, Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Memorial Dr (NB)</a> (concurrent with <a href="23.php/#gaus23buswa">US-23 Business</a> and <a href="../state-highways/ga/4.php/#gasr4buswa">GA-4 Business</a>), Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark">SE Georgia Pkwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark">Start concurrency with US-82 & GA-520</td>
                 </tr>
@@ -2461,7 +2461,7 @@
                 <tr>
                     <td class="content text-dark small">593.45 mi ( + 3.83 mi )</td>
                     <td class="content text-dark small">954.58 km ( + 6.17 km )</td>
-                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Alma Hwy</a>, Waycross, Georgia 51303</td>
+                    <td class="content text-dark"><a href="#gaus1buswa">US-1 Business - Memorial Dr (NB)</a> (concurrent with <a href="23.php/#gaus23buswa">US-23 Business</a> and <a href="../state-highways/ga/4.php/#gasr4buswa">GA-4 Business</a>), Waycross, Georgia 51303</td>
                     <td class="content text-dark">Alma Hwy, Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -2707,14 +2707,14 @@
                     <td class="content text-dark small">686.45 mi ( + 0.22 mi )</td>
                     <td class="content text-dark small">1105.29 km ( + 0.36 km )</td>
                     <td class="content text-dark"><a href="#gaus1busem">US-1 Business - S Main St</a> (concurrent with <a href="../state-highways/ga/4.php/#gasr4busem">GA-4 Business</a>), Swainsboro, Georgia 30401</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Swainsboro, Georgia 30401</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">690.10 mi ( + 3.65 mi )</td>
                     <td class="content text-dark small">1111.16 km ( + 5.87 km )</td>
                     <td class="content text-dark"><a href="../state-highways/ga/56.php">GA-56</a>, Swainsboro, Georgia 30401</td>
-                    <td class="content text-dark">US-1, Swainsboro, Georgia 30401</td>
+                    <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
@@ -2748,70 +2748,70 @@
                 <tr>
                     <td class="content text-dark small">710.06 mi ( + 2.09 mi )</td>
                     <td class="content text-dark small">1143.32 km ( + 3.36 km )</td>
-                    <td class="content text-dark"><a href="#gaus1busjf">US-1 Business - Kennedy Rd</a>, Wadley, Georgia 30477</td>
+                    <td class="content text-dark"><a href="#gaus1busjfwd">US-1 Business - Kennedy Rd</a>, Wadley, Georgia 30477</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">707.81 mi ( + 1.69 mi )</td>
-                    <td class="content text-dark small">1139.14 km ( + 2.73 km )</td>
-                    <td class="content text-dark">GA-78 - E Calhoun St (WB) / Midville Hwy (EB), Wadley, Georgia 30477</td>
+                    <td class="content text-dark small">711.75 mi ( + 1.69 mi )</td>
+                    <td class="content text-dark small">1146.05 km ( + 2.73 km )</td>
+                    <td class="content text-dark"><a href="319.php">US-319 - E Calhoun St (WB)</a> (concurrent with <a href="../state-highways/ga/78.php">GA-78</a>), Wadley, Georgia 30477<br><a href="../state-highways/ga/78.php">GA-78 - Midville Hwy</a>, Wadley, Georgia 30477</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">709.57 mi ( + 1.76 mi )</td>
-                    <td class="content text-dark small">1141.97 km ( + 2.84 km )</td>
-                    <td class="content text-dark">US-1 Business - N Main St, Wadley, Georgia 30477</td>
+                    <td class="content text-dark small">713.51 mi ( + 1.76 mi )</td>
+                    <td class="content text-dark small">1148.89 km ( + 2.84 km )</td>
+                    <td class="content text-dark"><a href="#gaus1busjfwd">US-1 Business - N Main St</a>, Wadley, Georgia 30477</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">712.48 mi ( + 2.91 mi )</td>
-                    <td class="content text-dark small">1146.65 km ( + 4.68 km )</td>
+                    <td class="content text-dark small">716.42 mi ( + 2.91 mi )</td>
+                    <td class="content text-dark small">1153.57 km ( + 4.68 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Jefferson Davis Memorial Hwy, Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">713.34 mi ( + 0.86 mi )</td>
-                    <td class="content text-dark small">1148.04 km ( + 1.38 km )</td>
-                    <td class="content text-dark">Jefferson SR 248 - Walden Brett Rd, Louisville, Georgia 30434</td>
+                    <td class="content text-dark small">717.28 mi ( + 0.86 mi )</td>
+                    <td class="content text-dark small">1154.95 km ( + 1.38 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/jf/248.php">Jefferson SR 248 - Walden Brett Rd</a>, Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">714.49 mi ( + 1.15 mi )</td>
-                    <td class="content text-dark small">1149.89 km ( + 1.85 km )</td>
-                    <td class="content text-dark">Jefferson SR 274 - River Rd, Louisville, Georgia 30434</td>
+                    <td class="content text-dark small">718.43 mi ( + 1.15 mi )</td>
+                    <td class="content text-dark small">1156.80 km ( + 1.85 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/jf/274.php">Jefferson SR 274 - River Rd</a>, Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">716.19 mi ( + 1.70 mi )</td>
-                    <td class="content text-dark small">1152.63 km ( + 2.74 km )</td>
-                    <td class="content text-dark">US-1 Business - E Broad St, Louisville, Georgia 30434</td>
+                    <td class="content text-dark small">720.13 mi ( + 1.70 mi )</td>
+                    <td class="content text-dark small">1159.54 km ( + 2.74 km )</td>
+                    <td class="content text-dark"><a href="#gaus1busjflv">US-1 Business - E Broad St</a>, Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">716.85 mi ( + 0.66 mi )</td>
-                    <td class="content text-dark small">1153.69 km ( + 1.06 km )</td>
-                    <td class="content text-dark">GA-17 (EB), Louisville, Georgia 30434</td>
+                    <td class="content text-dark small">720.79 mi ( + 0.66 mi )</td>
+                    <td class="content text-dark small">1160.60 km ( + 1.06 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/17.php">GA-17</a>, Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with GA-17</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">717.39 mi ( + 0.54 mi )</td>
-                    <td class="content text-dark small">1154.56 km ( + 0.87 km )</td>
-                    <td class="content text-dark">GA-24 (EB), Louisville, Georgia 30434</td>
+                    <td class="content text-dark small">721.33 mi ( + 0.54 mi )</td>
+                    <td class="content text-dark small">1161.47 km ( + 0.87 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/24.php">GA-24 - Mulberry St (WB) / GA-24 (EB)</a>, Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">718.28 mi ( + 0.89 mi )</td>
-                    <td class="content text-dark small">1155.99 km ( + 1.42 km )</td>
-                    <td class="content text-dark">US-1 Business, US-221, GA-4, & GA-24 - Peachtree St, Louisville, Georgia 30434</td>
+                    <td class="content text-dark small">722.22 mi ( + 0.89 mi )</td>
+                    <td class="content text-dark small">1162.89 km ( + 1.42 km )</td>
+                    <td class="content text-dark"><a href="#gaus1busjflv">US-1 Business - Peachtree St</a> (concurrent with <a href="221.php">US-221</a>, <a href="../state-highways/ga/4.php">GA-4</a>, & <a href="../state-highways/ga/24.php">GA-24</a>) - Peachtree St</a>, Louisville, Georgia 30434</td>
                     <td class="content text-dark">US-1, Louisville, Georgia 30434</td>
                     <td class="content text-dark">Start concurrency with US-221</td>
                 </tr>
@@ -3025,6 +3025,8 @@
                     <td class="content text-dark">Jefferson Davis Hwy, Augusta, Georgia 30815</td>
                     <td class="content text-dark"></td>
                 </tr>
+            </section>
+            <section id="scus1">
                 <tr>
                     <td class="content text-dark small">765.03 mi ( + 0.25 mi )</td>
                     <td class="content text-dark small">1231.23 km ( + 0.41 km )</td>
@@ -3032,8 +3034,6 @@
                     <td class="content text-dark">Gordon Hwy & Jefferson Davis Hwy, North Augusta, South Carolina 29841</td>
                     <td class="content text-dark">End US-1 in Georgia, Start US-1 in South Carolina<br>End Richmond County, Start Aiken County</td>
                 </tr>
-            </section>
-            <section id="scus1">
                 <tr>
                     <td class="content text-dark small">765.72 mi ( + 0.69 mi )</td>
                     <td class="content text-dark small">1232.34 km ( + 1.12 km )</td>
@@ -6418,9 +6418,9 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - S Ponce De Leon Blvd</a>, St Augustine, Florida 32084</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - S Ponce De Leon Blvd</a> (concurrent with <a href="../state-highways/fl/5.php">FL-5</a>), St Augustine, Florida 32084</td>
                     <td class="content text-dark">W King St, St Augustine, Florida 32084</td>
-                    <td class="content text-dark">Start of Business Route</td>
+                    <td class="content text-dark">Start of Business Route<br>Start concurrency with FL-5</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.15 mi ( + 0.15 mi )</td>
@@ -6476,7 +6476,7 @@
                     <td class="content text-dark small">5.26 km ( + 1.78 km )</td>
                     <td class="content text-dark"><a href="#us1">US-1 - N Ponce De Leon Blvd</a>, St Augustine, Florida 32084</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Business Route</td>
+                    <td class="content text-dark">End of Business Route<br>End concurrency with FL-5</td>
                 </tr>
             </table>
             </section>
@@ -6489,9 +6489,9 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Philips Hwy</a>, Jacksonville, Florida 32208</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Philips Hwy</a> (concurrent with <a href="../state-highways/fl/5.php">FL-5</a>), Jacksonville, Florida 32208</td>
                     <td class="content text-dark">Emerson St, Jacksonville, Florida 32208</td>
-                    <td class="content text-dark">Start of Alternate Route</td>
+                    <td class="content text-dark">Start of Alternate Route<br>Start concurrency with FL-5</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.30 mi ( + 0.30 mi )</td>
@@ -6561,9 +6561,10 @@
                     <td class="content text-dark small">12.05 km ( + 0.39 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Alternative Route</td>
+                    <td class="content text-dark">End of Alternative Route<br>End concurrency with FL-5</td>
                 </tr>
                 </table>
+            </table>
             </section>
             <hr>
             <section id="sec-gaus1buswa">
@@ -6574,9 +6575,9 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Memorial Dr (SB)</a> (concurrent with <a href="23.php/#gaus23buswa">US-23</a> & <a href="../state-highways/ga/4.php/#gasr4buswa">GA-4</a>), Waycross, Georgia 31503<br><a href="../state-highways/ga/714.php">GA-714 - SE Georgia Pkwy (WB)</a>, Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Memorial Dr (SB)</a> (concurrent with <a href="23.php">US-23</a> & <a href="../state-highways/ga/4.php">GA-4</a>), Waycross, Georgia 31503<br><a href="82.php">US-82 - Brunswick Hwy (EB)</a> (concurrent with <a href="../state-highways/ga/520.php">GA-520</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark">Memorial Dr, Waycross, Georgia 31503</td>
-                    <td class="content text-dark">Start of Business Route</td>
+                    <td class="content text-dark">Start of Business Route<br>Start concurrency with US-23 Business and GA-4 Business</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.21 mi ( + 1.21 mi )</td>
@@ -6604,8 +6605,9 @@
                     <td class="content text-dark small">15.48 km ( + 7.55 km )</td>
                     <td class="content text-dark"><a href="#us1">US-1 - Scapa Rd (SB) / Alma Hwy (NB)</a> (concurrent with <a href="23.php">US-23</a> and <a href="../state-highways/ga/4.php">GA-4</a>), Waycross, Georgia 31503</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Business Route</td>
+                    <td class="content text-dark">End of Business Route<br>End concurrency with US-23 Business and GA-4 Business</td>
                 </tr>
+            </table>
             </section>
             <hr>
             <section id="sec-gaus1busem">
@@ -6616,37 +6618,109 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 Business - Jefferson Davis Memorial Hwy</a>, Wadley, Georgia 30477</td>
-                    <td class="content text-dark">Kennedy Rd, Wadley, Georgia 30477</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - S Main St (SB) / US-1 (NB)</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4 Business</a>), Swainsboro, Georgia 30401</td>
+                    <td class="content text-dark">S Main St, Swainsboro, Georgia 30401</td>
+                    <td class="content text-dark">Start of Business Route<br>Start concurrency with GA-4 Business</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">4.21 mi ( + 4.21 mi )</td>
+                    <td class="content text-dark small">6.78 km ( + 6.78 km )</td>
+                    <td class="content text-dark"><a href="80.php">US-80 - W Main St (WB) / E Main St (EB)</a>, Swainsboro, Georgia 30401</td>
+                    <td class="content text-dark">N Main St, Swainsboro, Georgia 30401</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">0.00 mi ( + 0.00 mi )</td>
-                    <td class="content text-dark small">0.00 km ( + 0.00 km )</td>
+                    <td class="content text-dark small">6.32 mi ( + 2.11 mi )</td>
+                    <td class="content text-dark small">10.17 km ( + 3.39 km )</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">N Main St, Swainsboro, Georgia 30401</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">7.89 mi ( + 1.57 mi )</td>
+                    <td class="content text-dark small">12.69 km ( + 2.52 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Business Route<br>End concurrency with GA-4 Business</td>
+                </tr>
+            </table>
             </section>
             <hr>
-            <section id="sec-gaus1busjf">
-            <h1 class="header" id="gaus1busjf">United States Route 1 Business (Wadley, Georgia)</h1>
+            <section id="sec-gaus1busjfwd">
+            <h1 class="header" id="gaus1busjfwd">United States Route 1 Business (Wadley, Georgia)</h1>
             <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 Business - Jefferson Davis Memorial Hwy</a>, Wadley, Georgia 30477</td>
-                    <td class="content text-dark">Kennedy Rd, Wadley, Georgia 30477</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4 Business</a>), Wadley, Georgia 30477</td>
+                    <td class="content text-dark">S Main St, Wadley, Georgia 30477</td>
+                    <td class="content text-dark">Start concurrency with GA-4 Business</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.42 mi ( + 1.42 mi )</td>
+                    <td class="content text-dark small">2.28 km ( + 2.28 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">N Main St, Wadley, Georgia 30477</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">0.00 mi ( + 0.00 mi )</td>
-                    <td class="content text-dark small">0.00 km ( + 0.00 km )</td>
+                    <td class="content text-dark small">1.70 mi ( + 0.28 mi )</td>
+                    <td class="content text-dark small">2.74 km ( + 0.46 km )</td>
+                    <td class="content text-dark"><a href="319.php">US-319 - W Calhoun St (WB) / E Calhoun St (EB)</a> (concurrent with <a href="../state-highways/ga/78.php">GA-78</a>), Wadley, Georgia 30477</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.45 mi ( + 1.75 mi )</td>
+                    <td class="content text-dark small">5.55 km ( + 2.81 km )</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a>), Wadley, Georgia 30477</td>
                     <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Business Route<br>End of concurrency with GA-4 Business</td>
+                </tr>
+            </table>
+            </section>
+            <hr>
+            <section id="sec-gaus1busjflv">
+            <h1 class="header" id="gaus1busjflv">United States Route 1 Business (Louisville, Georgia)</h1>
+            <h2 class="content text-dark">US-9 starts a bypass route to avoid the intersection of US-9 and US-113. It is 4.19 mi (6.74 km) long.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4 Business</a>), Louisville, Georgia 30434</td>
+                    <td class="content text-dark">E Broad St, Louisville, Georgia 30434</td>
+                    <td class="content text-dark">Start of Business Route<br>Start concurrency with GA-4 Business</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.35 mi ( + 1.35 mi )</td>
+                    <td class="content text-dark small">2.18 km ( + 2.18 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/24.php/#gasr24spurjf">GA-24 Spur</a>, Louisville, Georgia 30434</td>
+                    <td class="content text-dark">W Broad St, Louisville, Georgia 30434</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.53 mi ( + 0.18 mi )</td>
+                    <td class="content text-dark small">2.47 km ( + 0.29 km )</td>
+                    <td class="content text-dark"><a href="221.php">US-221 - Peachtree St</a>, Louisville, Georgia 30434</td>
+                    <td class="content text-dark">Peachtree St, Louisville, Georgia 30434</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.89 mi ( + 0.36 mi )</td>
+                    <td class="content text-dark small">3.05 km ( + 0.58 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/24.php">GA-24 - W 9th St</a>, Louisville, Georgia 30434</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.63 mi ( + 0.74 mi )</td>
+                    <td class="content text-dark small">4.24 km ( + 1.19 km )</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy (SB) / US-1 (NB)</a> (concurrent with <a href="../state-highways/ga/17.php">GA-17</a> and <a href="../state-highways/ga/4.php">GA-4</a> (SB/NB) and <a href="221.php">US-221</a> (NB)), Louisville, Georgia 30434</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Business Route<br>End concurrency with GA-4 Business</td>
                 </tr>
             </section>
         <?php include "../../static/bottom.php"; ?>
