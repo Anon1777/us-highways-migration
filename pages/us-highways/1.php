@@ -2811,42 +2811,42 @@
                 <tr>
                     <td class="content text-dark small">722.22 mi ( + 0.89 mi )</td>
                     <td class="content text-dark small">1162.89 km ( + 1.42 km )</td>
-                    <td class="content text-dark"><a href="#gaus1busjflv">US-1 Business - Peachtree St</a> (concurrent with <a href="221.php">US-221</a>, <a href="../state-highways/ga/4.php">GA-4</a>, & <a href="../state-highways/ga/24.php">GA-24</a>) - Peachtree St</a>, Louisville, Georgia 30434</td>
+                    <td class="content text-dark"><a href="#gaus1busjflv">US-1 Business - Peachtree St</a> (concurrent with <a href="221.php">US-221</a>, <a href="../state-highways/ga/4.php">GA-4</a>, & <a href="../state-highways/ga/24.php">GA-24</a>), Louisville, Georgia 30434</td>
                     <td class="content text-dark">US-1, Louisville, Georgia 30434</td>
                     <td class="content text-dark">Start concurrency with US-221</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">720.94 mi ( + 2.66 mi )</td>
-                    <td class="content text-dark small">1160.27 km ( + 4.27 km )</td>
-                    <td class="content text-dark">Jefferson SR 142 - Wilcher Rd (WB), Louisville, Georgia 30434</td>
+                    <td class="content text-dark small">724.88 mi ( + 2.66 mi )</td>
+                    <td class="content text-dark small">1167.16 km ( + 4.27 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/jf/142.php">Jefferson SR 142 - Wilcher Rd</a>, Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">722.03 mi ( + 1.09 mi )</td>
-                    <td class="content text-dark small">1162.02 km ( + 1.76 km )</td>
-                    <td class="content text-dark">GA-296 - Louisville, Georgia 30434</td>
+                    <td class="content text-dark small">725.97 mi ( + 1.09 mi )</td>
+                    <td class="content text-dark small">1168.92 km ( + 1.76 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/296.php">GA-296</a>, Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">725.67 mi ( + 3.64 mi )</td>
-                    <td class="content text-dark small">1167.88 km ( + 5.86 km )</td>
-                    <td class="content text-dark">Jefferson SR 126 - Lake Williams Rd, Wrens, Georgia 30833</td>
+                    <td class="content text-dark small">729.61 mi ( + 3.64 mi )</td>
+                    <td class="content text-dark small">1174.78 km ( + 5.86 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/126.php">Jefferson SR 126 - Lake Williams Rd</a>, Wrens, Georgia 30833</td>
                     <td class="content text-dark">US-1, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">726.16 mi ( + 0.49 mi )</td>
-                    <td class="content text-dark small">1168.67 km ( + 0.79 km )</td>
-                    <td class="content text-dark">Jefferson SR 127 - Nelson Rd, Wrens, Georgia 30833</td>
+                    <td class="content text-dark small">730.10 mi ( + 0.49 mi )</td>
+                    <td class="content text-dark small">1175.57 km ( + 0.79 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/127.php">Jefferson SR 127 - Nelson Rd</a>, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">726.80 mi ( + 0.64 mi )</td>
-                    <td class="content text-dark small">1169.70 km ( + 1.02 km )</td>
-                    <td class="content text-dark">Jefferson SR 116 - Sand Valley Rd, Wrens, Georgia 30833</td>
+                    <td class="content text-dark small">730.74 mi ( + 0.64 mi )</td>
+                    <td class="content text-dark small">1176.59 km ( + 1.02 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/116.php">Jefferson SR 116 - Sand Valley Rd</a>, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
