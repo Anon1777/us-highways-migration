@@ -1,14 +1,14 @@
 # completion progress
 
-Lines of code (finished pages): 6230
+## Lines of code (finished pages): 6252
 
-Static Pages:
+### Static Pages
 
 * index-redirect.php 04/02/25 - 09/11/25 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/index-redirect.php]
 * index.html 09/09/25 - 01/21/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/index.html]
 * generate_html.php 09/09/25 - 01/21/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/static/generate-html.php]
 
-Lists:
+### Lists
 
 * List of County Roads in New Jersey 04/18/25 - 01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/list.php]
 * List of County Roads in Atlantic County, New Jersey 04/17/25-01/30/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/at/list.php]
@@ -34,8 +34,9 @@ Lists:
 <!-- * List of County Roads in Warren County, New Jersey 04/18/25- [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/wa/list.php]-->
 * List of US Highways 04/17/25-01/17/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/us-highways/list.php]
 
-County Roads:
+### Secondary Roads
 
+* Jefferson SR 6332 02/24/26 - 02/24/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/ky/6332.php]
 * Atlantic CR 608 08/27/25 - 02/12/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/at/608.php]
 * Burlington CR 690 09/05/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/bu/690.php]
 * Essex CR 621 09/19/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/nj/es/621.php]
@@ -62,7 +63,7 @@ County Roads:
 * Monroe CR 84 10/11/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/ny/mo/84.php]
 * Emanuel CR 256 02/15/26 - 02/15/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/secondary-roads/ga/em/256.php]
 
-State Highways
+### State Highways
 
 * MD-378 09/05/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/md/378.php]
 * MD-528 09/05/25 - 02/06/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/md/528.php]
@@ -82,12 +83,12 @@ State Highways
 * NY-440 07/28/25 - 09/11/25 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/ny/440.php]
 * PA-26 10/24/25 - 02/12/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/pa/26.php]
 
-US Highways
+### US Highways
 
 <!-- * US-1 09/24/24 - [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/us-highways/1.php] -->
 <!-- * US-9 06/13/25 - [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/us-highways/9.php] -->
 * US-206 06/16/25 - 02/16/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/us-highways/206.php]
 
-Interstates
+### Interstates
 <!-- * I-95 06/16/25 - [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/interstates/95.php] -->
 * I-195 (NJ) 06/14/25 - 02/16/25 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/interstates/auxiliary/nj-195.php]
