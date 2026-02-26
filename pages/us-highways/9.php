@@ -1278,15 +1278,36 @@
                     <td class="content text-dark">End Middlesex County, Start Union County<br>Route becomes US-1-9</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">181.50 mi ( + 0.43 mi )</td>
-                    <td class="content text-dark small">296.83 km ( + 0.69 km )</td>
+                    <td class="content text-dark small">181.37 mi ( + 0.30 mi )</td>
+                    <td class="content text-dark small">296.63 km ( + 0.49 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/un/621.php">Union CR 621 - E Hazelwood Ave</a>, Rahway, New Jersey 07065</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">181.50 mi ( + 0.13 mi )</td>
+                    <td class="content text-dark small">296.83 km ( + 0.20 km )</td>
                     <td class="content text-dark"><a href="../secondary-roads/nj/514.php">Union CR 514 - Lawrence St</a>, Rahway, 07065</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">182.33 mi ( + 0.88 mi )</td>
-                    <td class="content text-dark small">298.25 km ( + 1.42 km )</td>
+                    <td class="content text-dark small">181.93 mi ( + 0.43 mi )</td>
+                    <td class="content text-dark small">297.52 km ( + 0.69 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/un/648.php">Union CR 643 - E Milton Ave</a>, Rahway, 07065</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">182.08 mi ( + 0.15 mi )</td>
+                    <td class="content text-dark small">297.77 km ( + 0.25 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/un/613.php">Union CR 613 - E Grand Ave</a>, Rahway, 07065</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">182.38 mi ( + 0.30 mi )</td>
+                    <td class="content text-dark small">298.25 km ( + 0.48 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">W Edgar St, Linden, New Jersey 07036</td>
                     <td class="content text-dark"></td>
