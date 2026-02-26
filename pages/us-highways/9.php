@@ -1375,10 +1375,24 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">186.92 mi ( + 0.44 mi )</td>
+                    <td class="content text-dark small">305.57 km ( + 0.70 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Spring St, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">188.06 mi ( + 1.14 mi )</td>
+                    <td class="content text-dark small">307.41 km ( + 1.84 km )</td>
+                    <td class="content text-dark"><a href="#njus9locunes">US-1-9 Local - Spring St</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark">US-1-9, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"></td>
+                </tr>
             </section>
             <section id="nyus9">
-            </table>
             </section>
+            </table>
             <hr>
             <section id="sec-deus9bypsu">
             <h1 class="header" id="deus9bypsu">United States Route 9 Bypass</h1>
@@ -1406,8 +1420,8 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Bypass Route</td>
                 </tr>
-            </table>
             </section>
+            </table>
             <hr>
             <section id="sec-deus9bussu">
             <h1 class="header" id="deus9bussu">United States Route 9 Business</h1>
@@ -1428,8 +1442,8 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route</td>
                 </tr>
-            </table>
             </section>
+            </table>
             <hr>
             <section id="sec-deus9spursu">
             <h1 class="header" id="deus9spursu">United States Route 9 Kings Highway Spur</h1>
@@ -1471,8 +1485,8 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
                 </tr>
-            </table>
             </section>
+            </table>
             <hr>
             <section id="sec-njus9spurcm">
             <h1 class="header" id="njus9spurcm">United States Route 9 - Beesley's Point</h1>
@@ -1480,25 +1494,103 @@
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
                 <tr>
-                    <td class="content text-dark small">72.18 mi</td>
-                    <td class="content text-dark small">118.53 km</td>
-                    <td class="content text-dark"><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a>, Upper Township, New Jersey 08230<br><a href="#us9">US-9 - S Shore Rd (SB)</a>, Upper Township, New Jersey 08230</td>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us9">US-9 - S Shore Rd (SB)</a>, Upper Township, New Jersey 08230<br><a href="../secondary-roads/nj/cm/623.php">Cape May CR 623 - Roosevelt Blvd (WB/EB)</a>, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark">N Shore Rd, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark">Start of Spur</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">72.60 mi ( + 0.42 mi )</td>
-                    <td class="content text-dark small">119.18 km ( + 0.65 km )</td>
+                    <td class="content text-dark small">0.42 mi ( + 0.42 mi )</td>
+                    <td class="content text-dark small">0.65 km ( + 0.65 km )</td>
                     <td class="content text-dark"><a href="../secondary-roads/nj/cm/662.php">Cape May CR 662 - N Old Tuckahoe Rd</a>, Upper Township, New Jersey 08230</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">74.14 mi ( + 1.54 mi )</td>
-                    <td class="content text-dark small">121.65 km ( + 2.47 km )</td>
+                    <td class="content text-dark small">1.96 mi ( + 1.54 mi )</td>
+                    <td class="content text-dark small">3.12 km ( + 2.47 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Spur</td>
+                </tr>
+            </section>
+            </table>
+            <hr>
+            <section id="sec-njus9localunes">
+            <h1 class="header" id="njus9localunes">United States Route 1-9 Local (Union/Essex County)</h1>
+            <h2 class="content text-dark">US-9 splits off into Beesley's Point Spur in Upper Township, New Jersey. It ends at a dead end 1.96 mi (3.12 km) later.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+                <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - Spring St (SB) / US-1-9 (NB)</a> (concurrent with <a href="#us9">US-9</a>), Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark">Spring St, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark">Start of Local Route</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.32 mi ( + 0.32 mi )</td>
+                    <td class="content text-dark small">0.51 km ( + 0.51 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/81.php">NJ-81 (SB)</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.46 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">0.73 km ( + 0.22 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/81.php">NJ-81 (NB)</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.82 mi ( + 0.36 mi )</td>
+                    <td class="content text-dark small">1.32 km ( + 0.59 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Spring St, Newark, New Jersey 07114</td>
+                    <td class="content text-dark">End Local Route in Union County, Start Local Route in Essex County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">1.42 mi ( + 0.60 mi )</td>
+                    <td class="content text-dark small">2.29 km ( + 0.97 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">N US-1-9 Local, Newark, New Jersey 07114</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.15 mi ( + 0.73 mi )</td>
+                    <td class="content text-dark small">3.47 km ( + 1.18 km )</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - US-1-9</a> (concurrent with <a href="#us9">US-9</a>), Newark, New Jersey 07114</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.27 mi ( + 0.12 mi )</td>
+                    <td class="content text-dark small">3.67 km ( + 0.20 km )</td>
+                    <td class="content text-dark"><a href="22.php">US-22 (EB)</a>, Newark, New Jersey 07114</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2.44 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">3.96 km ( + 0.29 km )</td>
+                    <td class="content text-dark">(to <a href="../state-highways/nj/21.php">NJ-21</a>) <a href="US-22">US-22 (EB)</a>, Newark, New Jersey 07114</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">3.46 mi ( + 1.02 mi )</td>
+                    <td class="content text-dark small">5.60 km ( + 1.64 km )</td>
+                    <td class="content text-dark"><a href="../interstates/78.php">I-78 - Phillipsburg-Newark Expy</a>, Newark, New Jersey 07114</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">5.61 mi ( + 2.15 mi )</td>
+                    <td class="content text-dark small">9.06 km ( + 3.46 km )</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - US-1-9 (SB) / Pulaski Skyway (NB)</a> (concurrent with <a href="#us9">US-9</a>), Newark, New Jersey 07114</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
                 </tr>
             </section>
                 <?php include "../../static/bottom.php"; ?>
