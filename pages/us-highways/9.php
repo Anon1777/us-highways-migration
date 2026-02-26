@@ -1385,7 +1385,7 @@
                 <tr>
                     <td class="content text-dark small">188.06 mi ( + 1.14 mi )</td>
                     <td class="content text-dark small">307.41 km ( + 1.84 km )</td>
-                    <td class="content text-dark"><a href="#njus9locunes">US-1-9 Local - Spring St</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="#njus9locuneshu">US-1-9 Local - Spring St</a>, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark">US-1-9, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1517,8 +1517,8 @@
             </section>
             </table>
             <hr>
-            <section id="sec-njus9localunes">
-            <h1 class="header" id="njus9localunes">United States Route 1-9 Local (Union/Essex County)</h1>
+            <section id="sec-njus9localuneshu">
+            <h1 class="header" id="njus9localuneshu">United States Route 1-9 Local (Union/Essex County)</h1>
             <h2 class="content text-dark">US-9 splits off into Beesley's Point Spur in Upper Township, New Jersey. It ends at a dead end 1.96 mi (3.12 km) later.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
                 <?php include "../../static/table.php"; ?>
