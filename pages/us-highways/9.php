@@ -1221,6 +1221,76 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">177.08 mi ( + 0.70 mi )</td>
+                    <td class="content text-dark small">289.71 km ( + 1.13 km )</td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - New Jersey Tpke</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">177.52 mi ( + 0.44 mi )</td>
+                    <td class="content text-dark small">290.42 km ( + 0.71 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/514.php">Middlesex CR 514 - Main St</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">178.21 mi ( + 0.69 mi )</td>
+                    <td class="content text-dark small">291.53 km ( + 1.11 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/mi/604.php">Middlesex CR 604 - Green St</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with Middlesex CR 604</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">178.34 mi ( + 0.13 mi )</td>
+                    <td class="content text-dark small">291.73 km ( + 0.20 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/mi/604.php">Middlesex CR 604 - Green St</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with Middlesex CR 604</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">178.71 mi ( + 0.37 mi )</td>
+                    <td class="content text-dark small">292.33 km ( + 0.60 km )</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - Jansen Ave</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Start concurrency with US-1</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">179.14 mi ( + 0.43 mi )</td>
+                    <td class="content text-dark small">293.02 km ( + 0.69 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/35.php">NJ-35 - St Georges Ave</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">179.87 mi ( + 0.73 mi )</td>
+                    <td class="content text-dark small">294.20 km ( + 1.18 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/mi/650.php">Middlesex CR 650 - Avenel St</a>, Woodbridge Township, New Jersey 07095</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">181.07 mi ( + 1.20 mi )</td>
+                    <td class="content text-dark small">296.14 km ( + 1.94 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Edgar Rd, Rahway, New Jersey 07065</td>
+                    <td class="content text-dark">End Middlesex County, Start Union County<br>Route becomes US-1-9</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">181.50 mi ( + 0.43 mi )</td>
+                    <td class="content text-dark small">296.83 km ( + 0.69 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/514.php">Union CR 514 - Lawrence St</a>, Rahway, 07065</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">182.33 mi ( + 0.88 mi )</td>
+                    <td class="content text-dark small">298.25 km ( + 1.42 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W Edgar St, Linden, New Jersey 07036</td>
+                    <td class="content text-dark"></td>
+                </tr>
             </section>
             <section id="nyus9">
             </table>
