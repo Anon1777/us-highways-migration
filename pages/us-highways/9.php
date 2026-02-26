@@ -1312,6 +1312,69 @@
                     <td class="content text-dark">W Edgar St, Linden, New Jersey 07036</td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">183.42 mi ( + 1.04 mi )</td>
+                    <td class="content text-dark small">299.93 km ( + 1.68 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/un/615.php">Union CR 615 - Stiles Rd</a>, Linden, New Jersey 07036</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">183.75 mi ( + 0.33 mi )</td>
+                    <td class="content text-dark small">300.46 km ( + 0.53 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/un/617.php">Union CR 617 - S Wood Ave</a>, Linden, New Jersey 07036</td>
+                    <td class="content text-dark">E Edgar St, Linden, New Jersey 07036</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">184.85 mi ( + 1.10 mi )</td>
+                    <td class="content text-dark small">302.22 km ( + 1.76 km )</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/ny-278.php">I-278 (NB)</a>, Linden, New Jersey 07036</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">184.98 mi ( + 0.13 mi )</td>
+                    <td class="content text-dark small">302.45 km ( + 0.23 km )</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/ny-278.php">I-278 (SB)</a>, Linden, New Jersey 07036</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">185.60 mi ( + 0.62 mi )</td>
+                    <td class="content text-dark small">303.45 km ( + 1.00 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Carlton St, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">185.75 mi ( + 0.15 mi )</td>
+                    <td class="content text-dark small">303.69 km ( + 0.24 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/439.php">NJ-439 - Bayway Cir (SB)</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">185.81 mi ( + 0.06 mi )</td>
+                    <td class="content text-dark small">303.79 km ( + 0.10 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/439.php">NJ-439 - Bayway Cir (NB)</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark">US-1-9, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">186.06 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">304.19 km ( + 0.40 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/un/623.php">Union CR 623 - S Broad St</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">186.48 mi ( + 0.42 mi )</td>
+                    <td class="content text-dark small">304.87 km ( + 0.68 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/un/614.php">Union CR 614 - Pearl St</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
             </section>
             <section id="nyus9">
             </table>
