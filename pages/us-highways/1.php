@@ -2874,103 +2874,103 @@
                 <tr>
                     <td class="content text-dark small">734.98 mi ( + 0.20 mi )</td>
                     <td class="content text-dark small">1183.37 km ( + 0.31 km )</td>
-                    <td class="content text-dark"><a href="../state-highways/ga/88.php">GA-88 - Fenns Bridge Rd</a> (concurrency with <a href="../state-highways/ga/540.php">GA-540</a>), Wrens, Georgia 30833</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/88.php">GA-88 - Fenns Bridge Rd</a> (concurrent with <a href="../state-highways/ga/540.php">GA-540</a>), Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with GA-88 & GA-540</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">732.19 mi ( + 1.17 mi )</td>
-                    <td class="content text-dark small">1178.37 km ( + 1.88 km )</td>
-                    <td class="content text-dark">GA-17 - Thomson Hwy, Wrens, Georgia 30833</td>
+                    <td class="content text-dark small">736.15 mi ( + 1.17 mi )</td>
+                    <td class="content text-dark small">1185.25 km ( + 1.88 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/17.php">GA-17 - Thomson Hwy</a>, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with GA-17</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">732.45 mi ( + 0.26 mi )</td>
-                    <td class="content text-dark small">1178.79 km ( + 0.42 km )</td>
-                    <td class="content text-dark">GA-80 (WB)<br>GA-80 & GA-88 - Stapleton Hwy, Wrens, Georgia 30833</td>
+                    <td class="content text-dark small">736.41 mi ( + 0.26 mi )</td>
+                    <td class="content text-dark small">1185.67 km ( + 0.42 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/80.php">GA-80 (WB)</a>, Wrens, Georgia 30833<br><a href="../secondary-roads/ga/80.php">GA-80 - Stapleton Hwy</a> (concurrent with <a href="../state-highways/ga/88.php">GA-88</a>), Wrens, Georgia 30833</td>
                     <td class="content text-dark">N Main St, Wrens, Georgia 30833</td>
                     <td class="content text-dark">End concurrency with GA-88</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">733.44 mi ( + 0.99 mi )</td>
-                    <td class="content text-dark small">1180.39 km ( + 1.59 km )</td>
-                    <td class="content text-dark">US-221 & GA-47, Wrens, Georgia 30833</td>
+                    <td class="content text-dark small">737.40 mi ( + 0.99 mi )</td>
+                    <td class="content text-dark small">1187.26 km ( + 1.59 km )</td>
+                    <td class="content text-dark"><a href="221.php">US-221</a> (concurrent with <a href="../state-highways/ga/47.php">GA-47</a>), Wrens, Georgia 30833</td>
                     <td class="content text-dark">US-1, Wrens, Georgia 30833</td>
-                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with US-221</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">733.87 mi ( + 0.43 mi )</td>
-                    <td class="content text-dark small">1181.08 km ( + 0.69 km )</td>
-                    <td class="content text-dark">Jefferson SR 43 - Farm Lane Rd, Wrens, Georgia 30833</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
-                </tr>
-                <tr>
-                    <td class="content text-dark small">734.97 mi ( + 1.10 mi )</td>
-                    <td class="content text-dark small">1182.85 km ( + 1.77 km )</td>
-                    <td class="content text-dark">Jefferson SR 40 - Bob Arrington Rd (EB), Wrens, Georgia 30833</td>
+                    <td class="content text-dark small">737.83 mi ( + 0.43 mi )</td>
+                    <td class="content text-dark small">1187.95 km ( + 0.69 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/jf/43.php">Jefferson SR 43 - Farm Lane Rd</a>, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">736.77 mi ( + 1.80 mi )</td>
-                    <td class="content text-dark small">1185.75 km ( + 2.90 km )</td>
-                    <td class="content text-dark">Jefferson SR 38, Wrens, Georgia 30833</td>
+                    <td class="content text-dark small">738.93 mi ( + 1.10 mi )</td>
+                    <td class="content text-dark small">1189.72 km ( + 1.77 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/jf/40.php">Jefferson SR 40 - Bob Arrington Rd</a>, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">737.59 mi ( + 0.82 mi )</td>
-                    <td class="content text-dark small">1187.07 km ( + 1.32 km )</td>
-                    <td class="content text-dark">Jefferson SR 32, Wrens, Georgia 30833</td>
+                    <td class="content text-dark small">740.73 mi ( + 1.80 mi )</td>
+                    <td class="content text-dark small">1192.62 km ( + 2.90 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/jf/38.php">Jefferson SR 38</a>, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">738.70 mi ( + 1.11 mi )</td>
-                    <td class="content text-dark small">1188.85 km ( + 1.79 km )</td>
-                    <td class="content text-dark">Jefferson SR 329 - Campground Rd (EB), Wrens, Georgia 30833</td>
+                    <td class="content text-dark small">741.55 mi ( + 0.82 mi )</td>
+                    <td class="content text-dark small">1193.94 km ( + 1.32 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/jf/32.php">Jefferson SR 32</a>, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">739.00 mi ( + 0.30 mi )</td>
-                    <td class="content text-dark small">1189.33 km ( + 0.48 km )</td>
-                    <td class="content text-dark">Jefferson SR 29 - Old Warrenton Rd, Wrens, Georgia 30833</td>
+                    <td class="content text-dark small">742.66 mi ( + 1.11 mi )</td>
+                    <td class="content text-dark small">1195.73 km ( + 1.79 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/jf/329.php">Jefferson SR 329 - Campground Rd</a>, Wrens, Georgia 30833</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">739.20 mi ( + 0.20 mi )</td>
-                    <td class="content text-dark small">1189.66 km ( + 0.32 km )</td>
+                    <td class="content text-dark small">742.96 mi ( + 0.30 mi )</td>
+                    <td class="content text-dark small">1196.21 km ( + 0.48 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/jf/29.php">Jefferson SR 29 - Old Warrenton Rd</a>, Wrens, Georgia 30833</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">743.16 mi ( + 0.20 mi )</td>
+                    <td class="content text-dark small">1196.53 km ( + 0.32 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Deans Bridge Rd, Augusta, Georgia 30805</td>
                     <td class="content text-dark">End Jefferson County, Start Richmond County</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">744.18 mi ( + 4.98 mi )</td>
-                    <td class="content text-dark small">1197.67 km ( + 8.01 km )</td>
+                    <td class="content text-dark small">748.14 mi ( + 4.98 mi )</td>
+                    <td class="content text-dark small">1204.54 km ( + 8.01 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Deans Bridge Rd, Blythe, Georgia 30805</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">744.31 mi ( + 0.13 mi )</td>
-                    <td class="content text-dark small">1197.88 km ( + 0.21 km )</td>
-                    <td class="content text-dark">Richmond SR 85 - Church St, Blythe, Georgia 30805</td>
+                    <td class="content text-dark small">748.27 mi ( + 0.13 mi )</td>
+                    <td class="content text-dark small">1204.75 km ( + 0.21 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/ga/ri/85.php">Richmond SR 85 - Church St</a>, Blythe, Georgia 30805</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">745.53 mi ( + 1.22 mi )</td>
-                    <td class="content text-dark small">1199.84 km ( + 1.96 km )</td>
-                    <td class="content text-dark">GA-83 (EB) (to GA-88), Blythe, Georgia 30805</td>
+                    <td class="content text-dark small">749.49 mi ( + 1.22 mi )</td>
+                    <td class="content text-dark small">1206.71 km ( + 1.96 km )</td>
+                    <td class="content text-dark">(to <a href="../state-highways/ga/88.php">GA-88</a>) Blythe Rd, Blythe, Georgia 30805</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">746.58 mi ( + 1.05 mi )</td>
+                    <td class="content text-dark small">746.58 mi ( + 1.27 mi )</td>
                     <td class="content text-dark small">1201.53 km ( + 1.68 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Deans Bridge Rd, Augusta, Georgia 30815</td>
