@@ -2970,66 +2970,66 @@
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">746.58 mi ( + 1.27 mi )</td>
-                    <td class="content text-dark small">1201.53 km ( + 1.68 km )</td>
+                    <td class="content text-dark small">750.76 mi ( + 1.27 mi )</td>
+                    <td class="content text-dark small">1208.39 km ( + 1.68 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Deans Bridge Rd, Hephzibah, Georgia 30815</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">752.74 mi ( + 1.98 mi )</td>
+                    <td class="content text-dark small">1211.57 km ( + 3.18 km )</td>
+                    <td class="content text-dark"><a href="#gaus1spurri">US-1 Spur - Deans Bridge Rd</a>, Hephzibah, Georgia 30815</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">755.58 mi ( + 2.84 mi )</td>
+                    <td class="content text-dark small">1214.75 km ( + 3.18 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Deans Bridge Rd, Augusta, Georgia 30815</td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">748.56 mi ( + 1.98 mi )</td>
-                    <td class="content text-dark small">1204.72 km ( + 3.18 km )</td>
-                    <td class="content text-dark">US-1 Alternate - Deans Bridge Rd, Augusta, Georgia 30815</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
-                </tr>
-                <tr>
-                    <td class="content text-dark small">757.43 mi ( + 8.87 mi )</td>
-                    <td class="content text-dark small">1218.99 km ( + 14.27 km )</td>
-                    <td class="content text-dark">I-520 & GA-415 - Bobby Jones Expy, Augusta, Georgia 30815</td>
+                    <td class="content text-dark small">761.61 mi ( + 6.03 mi )</td>
+                    <td class="content text-dark small">1225.84 km ( + 11.09 km )</td>
+                    <td class="content text-dark"><a href="../interstates/auxiliary/ga-520.php">I-520 - Bobby Jones Expy</a> (concurrent with <a href="../state-highways/ga/415.php">GA-415</a>), Augusta, Georgia 30815</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End concurrency with GA-540</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">759.72 mi ( + 2.29 mi )</td>
-                    <td class="content text-dark small">1222.68 km ( + 3.69 km )</td>
-                    <td class="content text-dark">US-78, US-278, & GA-10 - Gordon Hwy, Augusta, Georgia 30815</td>
+                    <td class="content text-dark small">763.90 mi ( + 2.29 mi )</td>
+                    <td class="content text-dark small">1229.53 km ( + 3.69 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/4.php">GA-4 - Deans Bridge Rd (NB)</a>, Augusta, Georgia 30815<br><a href="78.php">US-78 - Gordon Hwy (WB/EB)</a> (concurrent with <a href="278.php">US-278</a> & <a href="../state-highways/ga/10.php">GA-10</a>), Augusta, Georgia 30815</td>
                     <td class="content text-dark">Gordon Hwy, Augusta, Georgia 30815</td>
                     <td class="content text-dark">End concurrency with GA-4, Start concurrency with US-78, US-278, & GA-10</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">760.91 mi ( + 1.19 mi )</td>
-                    <td class="content text-dark small">1224.60 km ( + 1.91 km )</td>
-                    <td class="content text-dark">US-25 - Gordon Hwy, Augusta, Georgia 30815</td>
+                    <td class="content text-dark small">765.09 mi ( + 1.19 mi )</td>
+                    <td class="content text-dark small">1231.44 km ( + 1.91 km )</td>
+                    <td class="content text-dark"><a href="25.php">US-25 - Peach Orchard Rd</a>, Augusta, Georgia 30815</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Start concurrency with US-25</td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">762.26 mi ( + 1.35 mi )</td>
-                    <td class="content text-dark small">1226.77 km ( + 2.17 km )</td>
-                    <td class="content text-dark">GA-56 - Doug Barnard Pkwy, Augusta, Georgia 30815</td>
+                    <td class="content text-dark small">766.44 mi ( + 1.35 mi )</td>
+                    <td class="content text-dark small">1233.61 km ( + 2.17 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ga/56.php">GA-56 - Doug Barnard Pkwy</a>, Augusta, Georgia 30815</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
                 <tr>
-                    <td class="content text-dark small">763.82 mi ( + 1.56 mi )</td>
-                    <td class="content text-dark small">1229.28 km ( + 2.51 km )</td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with GA-10</td>
-                </tr>
-                <tr>
-                    <td class="content text-dark small">764.78 mi ( + 0.96 mi )</td>
-                    <td class="content text-dark small">1230.82 km ( + 1.55 km )</td>
-                    <td class="content text-dark">US-25 Business, GA-28, & GA-104 - Broad St<br>GA-28 (EB), Augusta, Georgia 30815</td>
+                    <td class="content text-dark small">768.96 mi ( + 2.52 mi )</td>
+                    <td class="content text-dark small">1237.67 km ( + 4.06 km )</td>
+                    <td class="content text-dark"><a href="25.php/#gaus25busri">US-25 Business - Broad St</a> (concurrent with <a href="../state-highways/ga/28.php">GA-28</a> & <a href="../state-highways/ga/104.php">GA-104</a>), Augusta, Georgia 30815</td>
                     <td class="content text-dark">Jefferson Davis Hwy, Augusta, Georgia 30815</td>
                     <td class="content text-dark"></td>
                 </tr>
             </section>
             <section id="scus1">
                 <tr>
-                    <td class="content text-dark small">765.03 mi ( + 0.25 mi )</td>
-                    <td class="content text-dark small">1231.23 km ( + 0.41 km )</td>
+                    <td class="content text-dark small">769.21 mi ( + 0.25 mi )</td>
+                    <td class="content text-dark small">1238.08 km ( + 0.41 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Gordon Hwy & Jefferson Davis Hwy, North Augusta, South Carolina 29841</td>
                     <td class="content text-dark">End US-1 in Georgia, Start US-1 in South Carolina<br>End Richmond County, Start Aiken County</td>
@@ -3502,9 +3502,8 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Meeting Rd, West Columbia, South Carolina 29169</td>
                     <td class="content text-dark"></td>
-
-                    </tr>
-                    <tr>
+                </tr>
+                <tr>
                     <td class="content text-dark small">838.93 mi ( + 1.18 mi )</td>
                     <td class="content text-dark small">1350.16 km ( + 1.89 km )</td>
                     <td class="content text-dark">US-378 - Sunset Blvd, West Columbia, South Carolina 29169</td>
@@ -6478,8 +6477,8 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route<br>End concurrency with FL-5</td>
                 </tr>
-            </table>
             </section>
+            </table>
             <hr>
             <section id="sec-flus1altdu">
             <h1 class="header" id="flus1altdu">United States Route 1 Alternate (Jacksonville, Florida)</h1>
@@ -6564,8 +6563,8 @@
                     <td class="content text-dark">End of Alternative Route<br>End concurrency with FL-5</td>
                 </tr>
                 </table>
-            </table>
             </section>
+            </table>
             <hr>
             <section id="sec-gaus1buswa">
             <h1 class="header" id="gaus1buswa">United States Route 1 Business (Waycross, Georgia)</h1>
@@ -6607,8 +6606,8 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route<br>End concurrency with US-23 Business and GA-4 Business</td>
                 </tr>
-            </table>
             </section>
+            </table>
             <hr>
             <section id="sec-gaus1busem">
             <h1 class="header" id="gaus1busem">United States Route 1 Business (Swainsboro, Georgia)</h1>
@@ -6643,8 +6642,8 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route<br>End concurrency with GA-4 Business</td>
                 </tr>
-            </table>
             </section>
+            </table>
             <hr>
             <section id="sec-gaus1busjfwd">
             <h1 class="header" id="gaus1busjfwd">United States Route 1 Business (Wadley, Georgia)</h1>
@@ -6654,7 +6653,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4 Business</a>), Wadley, Georgia 30477</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a>), Wadley, Georgia 30477</td>
                     <td class="content text-dark">S Main St, Wadley, Georgia 30477</td>
                     <td class="content text-dark">Start concurrency with GA-4 Business</td>
                 </tr>
@@ -6679,8 +6678,8 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route<br>End of concurrency with GA-4 Business</td>
                 </tr>
-            </table>
             </section>
+            </table>
             <hr>
             <section id="sec-gaus1busjflv">
             <h1 class="header" id="gaus1busjflv">United States Route 1 Business (Louisville, Georgia)</h1>
@@ -6690,7 +6689,7 @@
                 <tr>
                     <td class="content text-dark small">0.00 mi</td>
                     <td class="content text-dark small">0.00 km</td>
-                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4 Business</a>), Louisville, Georgia 30434</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a>), Louisville, Georgia 30434</td>
                     <td class="content text-dark">E Broad St, Louisville, Georgia 30434</td>
                     <td class="content text-dark">Start of Business Route<br>Start concurrency with GA-4 Business</td>
                 </tr>
@@ -6721,6 +6720,28 @@
                     <td class="content text-dark"><a href="#us1">US-1 - Jefferson Davis Memorial Hwy (SB) / US-1 (NB)</a> (concurrent with <a href="../state-highways/ga/17.php">GA-17</a> and <a href="../state-highways/ga/4.php">GA-4</a> (SB/NB) and <a href="221.php">US-221</a> (NB)), Louisville, Georgia 30434</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Business Route<br>End concurrency with GA-4 Business</td>
+                </tr>
+            </section>
+            </table>
+            <hr>
+            <section id="sec-gaus1spurri">
+            <h1 class="header" id="gaus1spurri">United States Route 1 Spur (Hephzibah, Georgia)</h1>
+            <h2 class="content text-dark">US-1 Spur is a short spur route in Hephzibah, Georgia. It is 0.45 mi (0.72 km) long.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+            <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="#us1">US-1 - Deans Bridge Rd</a> (concurrent with <a href="../state-highways/ga/4.php">GA-4</a> and <a href="../state-highways/ga/540.php">GA-540</a>), Hephzibah, Georgia 30815</td>
+                    <td class="content text-dark">Deans Bridge Rd, Hephzibah, Georgia 30815</td>
+                    <td class="content text-dark">Start of Spur</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.22 mi ( + 0.20 mi )</td>
+                    <td class="content text-dark small">0.33 km ( + 0.33 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End of Spur</td>
                 </tr>
             </section>
         <?php include "../../static/bottom.php"; ?>
