@@ -1385,7 +1385,7 @@
                 <tr>
                     <td class="content text-dark small">188.06 mi ( + 1.14 mi )</td>
                     <td class="content text-dark small">307.41 km ( + 1.84 km )</td>
-                    <td class="content text-dark"><a href="#njus9locuneshu">US-1-9 Local - Spring St</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"><a href="1.php/#njus1localuneshu">US-1 Local - Spring St</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark">US-1-9, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark"></td>
                 </tr>
@@ -1429,6 +1429,76 @@
                     <td class="content text-dark small">311.38 km ( + 0.35 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Lincoln Hwy, Newark, New Jersey 07114</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">190.93 mi ( + 0.40 mi )</td>
+                    <td class="content text-dark small">312.03 km ( + 0.65 km )</td>
+                    <td class="content text-dark"><a href="1.php/#njus1localuneshu">US-1 Local</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Newark, New Jersey 07114</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">191.23 mi ( + 0.30 mi )</td>
+                    <td class="content text-dark small">312.51 km ( + 0.48 km )</td>
+                    <td class="content text-dark"><a href="../interstates/78.php">I-78 - Phillipsburg-Newark Expy</a>, Newark, New Jersey 07114</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">193.51 mi ( + 2.28 mi )</td>
+                    <td class="content text-dark small">316.18 km ( + 3.67 km )</td>
+                    <td class="content text-dark"><a href="1.php/#njus1localuneshu">US-1 Local</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Newark, New Jersey 07114</td>
+                    <td class="content text-dark">Pulaski Skwy, Newark, New Jersey</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">193.84 mi ( + 0.33 mi )</td>
+                    <td class="content text-dark small">316.70 km ( + 0.52 km )</td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - New Jersey Tpke</a>, Newark, New Jersey 07114</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">194.19 mi ( + 0.35 mi )</td>
+                    <td class="content text-dark small">317.26 km ( + 0.56 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Pulaski Skwy, Kearny, New Jersey 07032</td>
+                    <td class="content text-dark">End Union County, Start Hudson County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">194.75 mi ( + 0.56 mi )</td>
+                    <td class="content text-dark small">318.16 km ( + 0.90 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/hu/659.php">Hudson CR 659 - Central Ave</a>, Kearny, New Jersey 07032</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">195.43 mi ( + 0.68 mi )</td>
+                    <td class="content text-dark small">319.25 km ( + 1.09 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Pulaski Skwy, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">195.79 mi ( + 1.04 mi )</td>
+                    <td class="content text-dark small">319.83 km ( + 1.67 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/hu/644.php">Hudson CR 644 - Newark Ave</a>, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">195.84 mi ( + 0.05 mi )</td>
+                    <td class="content text-dark small">319.90 km ( + 0.07 km )</td>
+                    <td class="content text-dark"><a href="1.php/#njus1localuneshu">US-1 Local</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">196.13 mi ( + 0.29 mi )</td>
+                    <td class="content text-dark small">320.36 km ( + 0.46 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/hu/646.php">Hudson CR 646 - St. Pauls Ave</a>, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
             </section>
@@ -1623,7 +1693,7 @@
                 <tr>
                     <td class="content text-dark small">5.61 mi ( + 2.15 mi )</td>
                     <td class="content text-dark small">9.06 km ( + 3.46 km )</td>
-                    <td class="content text-dark"><a href="1.php">US-1 - US-1-9 (SB) / Pulaski Skyway (NB)  </a> (concurrent with <a href="#us9">US-9</a>), Newark, New Jersey 07114</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - US-1-9 (SB) / Pulaski Skwy (NB)  </a> (concurrent with <a href="#us9">US-9</a>), Newark, New Jersey 07114</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
