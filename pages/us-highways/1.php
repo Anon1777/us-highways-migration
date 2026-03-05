@@ -3032,7 +3032,7 @@
                     <td class="content text-dark small">1238.08 km ( + 0.41 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Gordon Hwy & Jefferson Davis Hwy, North Augusta, South Carolina 29841</td>
-                    <td class="content text-dark">End US-1 in Georgia, Start US-1 in South Carolina<br>End Richmond County, Start Aiken County</td>
+                    <td class="content text-dark">End US-1 in Georgia, Start US-1 in South Carolina<br>End Richmond County, Start Aiken County<br>Start concurrency with SC-121</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">765.72 mi ( + 0.69 mi )</td>
