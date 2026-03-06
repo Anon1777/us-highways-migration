@@ -11,7 +11,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="13.php">US-13 - Sussex Hwy (NB) / S Dual Hwy (SB)</a>, Laurel, Delaware 19956</td>
                     <td class="content text-dark">County Seat Hwy, Laurel, Delaware 19956</td>
-                    <td class="content text-dark">Start of Route<br>Start of Route in Delaware<br>Start Sussex County</td>
+                    <td class="content text-dark">Start of Route<br>Start US-9 in Delaware<br>Start Sussex County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">5.48 mi ( + 5.48 mi )</td>
@@ -111,14 +111,14 @@
                     <td class="content text-dark">Cape May - Lewes Ferry, Lewes, Delaware 19958</td>
                     <td class="content text-dark"></td>
                 </tr>
-                </section>
-                <section id="njus9">
+            </section>
+            <section id="njus9">
                 <tr>
                     <td class="content text-dark small">34.95 mi ( + 7.56 mi )</td>
                     <td class="content text-dark small">57.68 km ( + 12.16 km )</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">Cape May - Lewes Ferry, Lower Township, New Jersey 08204</td>
-                    <td class="content text-dark">End route in Delaware, Start route in New Jersey<br>End Sussex County, Start Cape May County</td>
+                    <td class="content text-dark">End US-9 in Delaware, Start US-9 in New Jersey<br>End Sussex County, Start Cape May County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">43.83 mi ( + 8.88 mi )</td>
@@ -1501,8 +1501,308 @@
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">196.15 mi ( + 0.02 mi )</td>
+                    <td class="content text-dark small">320.39 km ( + 0.03 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/139.php">NJ-139</a>, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">196.32 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">320.66 km ( + 0.27 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/139.php">NJ-139</a>, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">196.34 mi ( + 0.02 mi )</td>
+                    <td class="content text-dark small">320.70 km ( + 0.04 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Tonnelle Ave, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">196.39 mi ( + 0.05 mi )</td>
+                    <td class="content text-dark small">320.79 km ( + 0.09 km )</td>
+                    <td class="content text-dark"><a href="1.php/#njus1localuneshu">US-1 Local</a> (concurrent with <a href="#njus9localuneshu">US-9 Local</a>), Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">197.01 mi ( + 0.62 mi )</td>
+                    <td class="content text-dark small">321.78 km ( + 0.99 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/hu/653.php">Hudson CR 653 - County Rd</a>, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">197.83 mi ( + 0.82 mi )</td>
+                    <td class="content text-dark small">323.11 km ( + 1.33 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/hu/649.php">Hudson CR 649 - Terrace Ave</a>, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                    <td class="content text-dark small">197.96 mi ( + 0.13 mi )</td>
+                    <td class="content text-dark small">323.31 km ( + 0.20 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/hu/678.php">Hudson CR 678 - Secaucus Rd</a>, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark">Tonnelle Ave, Union City, New Jersey 07047</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">198.94 mi ( + 0.98 mi )</td>
+                    <td class="content text-dark small">324.89 km ( + 1.58 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/3.php">NJ-3</a>, Union City, New Jersey 07047</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">199.18 mi ( + 0.24 mi )</td>
+                    <td class="content text-dark small">325.27 km ( + 0.38 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/495.php">NJ-495 - Lincoln Tnl</a>, Union City, New Jersey 07047</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">199.44 mi ( + 0.26 mi )</td>
+                    <td class="content text-dark small">325.69 km ( + 0.42 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/hu/681.php">Hudson CR 681 - Paterson Plank Rd (WB)</a>, Union City, New Jersey 07047<br><a href="../secondary-roads/nj/hu/676.php">Hudson CR 676 - Union Tpke</a>, Union City, New Jersey 07047</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">199.92 mi ( + 0.48 mi )</td>
+                    <td class="content text-dark small">325.46 km ( + 0.77 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/hu/691.php">Hudson CR 691 - Bergen Tpke</a>, Union City, New Jersey 07047</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">202.31 mi ( + 2.39 mi )</td>
+                    <td class="content text-dark small">329.31 km ( + 3.85 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Broad Ave, Fairview, New Jersey 07022</td>
+                    <td class="content text-dark">End Hudson County, Start Bergen County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">202.77 mi ( + 0.46 mi )</td>
+                    <td class="content text-dark small">330.06 km ( + 0.75 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/be/48.php">Bergen CR 48 - Fairview Rd</a>, Fairview, New Jersey 07022</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">203.01 mi ( + 0.24 mi )</td>
+                    <td class="content text-dark small">330.46 km ( + 0.40 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Broad Ave, Ridgefield, New Jersey 07657</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">203.06 mi ( + 0.05 mi )</td>
+                    <td class="content text-dark small">330.54 km ( + 0.08 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/be/31.php">Bergen CR 31 - Shaler Blvd</a>, Ridgefield, New Jersey 07657</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">203.06 mi ( + 0.58 mi )</td>
+                    <td class="content text-dark small">330.54 km ( + 0.08 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/be/124.php/#njcr1241be">Bergen CR 124-1 - Hendricks Cswy</a>, Ridgefield, New Jersey 07657</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">203.09 mi ( + 0.03 mi )</td>
+                    <td class="content text-dark small">330.59 km ( + 0.05 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/be/50.php">Bergen CR 50 - Edgewater Ave</a>, Ridgefield, New Jersey 07657</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">203.17 mi ( + 0.08 mi )</td>
+                    <td class="content text-dark small">330.73 km ( + 0.14 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/93.php">NJ-93 - Grand Ave</a>, Ridgefield, New Jersey 07657</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">203.63 mi ( + 0.46 mi )</td>
+                    <td class="content text-dark small">331.48 km ( + 0.75 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/5.php">NJ-5</a>, Ridgefield, New Jersey 07657</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">203.80 mi ( + 0.17 mi )</td>
+                    <td class="content text-dark small">331.75 km ( + 0.27 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Broad Ave, Palisades Park, New Jersey 07650</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">203.87 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">331.86 km ( + 0.11 km )</td>
+                    <td class="content text-dark"><a href="46.php">US-46</a>, Palisades Park, New Jersey 07650</td>
+                    <td class="content text-dark">E Columbia Ave, Palisades Park, New Jersey 07650</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">204.17 mi ( + 0.30 mi )</td>
+                    <td class="content text-dark small">332.34 km ( + 0.48 km )</td>
+                    <td class="content text-dark"><a href="46.php">US-46</a>, Palisades Park, New Jersey 07650</td>
+                    <td class="content text-dark">US-9, Palisades Park, New Jersey 07650</td>
+                    <td class="content text-dark">Start concurrency with US-46</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">204.96 mi ( + 0.79 mi )</td>
+                    <td class="content text-dark small">333.62 km ( + 1.28 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-9, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">205.17 mi ( + 0.21 mi )</td>
+                    <td class="content text-dark small">333.96 km ( + 0.34 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/63.php">NJ-63 - N Bergen Blvd</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark">N Bergen Blvd, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">205.61 mi ( + 0.44 mi )</td>
+                    <td class="content text-dark small">334.66 km ( + 0.70 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/be/56.php">Bergen CR 56 - Fort Lee Rd (WB) / Main St (EB)</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">205.75 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">334.88 km ( + 0.22 km )</td>
+                    <td class="content text-dark"><a href="#us9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">205.86 mi ( + 0.11 mi )</td>
+                    <td class="content text-dark small">335.05 km ( + 0.17 km )</td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - New Jersey Tpke</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">205.97 mi ( + 0.11 mi )</td>
+                    <td class="content text-dark small">335.22 km ( + 0.17 km )</td>
+                    <td class="content text-dark"><a href="#us9w">US-9W - Fletcher Ave</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">206.04 mi ( + 0.07 mi )</td>
+                    <td class="content text-dark small">335.33 km ( + 0.11 km )</td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - New Jersey Tpke</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark">New Jersey Tpke, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark">Start concurrency with I-95</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">206.08 mi ( + 0.04 mi )</td>
+                    <td class="content text-dark small">335.40 km ( + 0.07 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/be/29.php">Bergen CR 29 - Linwood Ave</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">206.08 mi ( + 0.13 mi )</td>
+                    <td class="content text-dark small">335.40 km ( + 0.21 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/be/29.php/#njcr29sbe">Bergen CR S-29 - Center Ave</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">206.22 mi ( + 0.14 mi )</td>
+                    <td class="content text-dark small">335.63 km ( + 0.23 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/67.php">NJ-67 - Lemoine Ave</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">206.45 mi ( + 0.23 mi )</td>
+                    <td class="content text-dark small">336.00 km ( + 0.37 km )</td>
+                    <td class="content text-dark"><a href="../secondary-roads/nj/505.php">Bergen CR 505 - Hudson Terr</a>, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">206.61 mi ( + 0.16 mi )</td>
+                    <td class="content text-dark small">336.25 km ( + 0.25 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">George Washington Brg, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                </tr>
             </section>
             <section id="nyus9">
+                <tr>
+                    <td class="content text-dark small">207.05 mi ( + 0.44 mi )</td>
+                    <td class="content text-dark small">336.96 km ( + 0.71 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">George Washington Brg, Manhattan, New York 10033</td>
+                    <td class="content text-dark">End US-9 in New Jersey, Start US-9 in New York<br>End Bergen County, Start New York County<br>End concurrency with US-46</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">207.47 mi ( + 0.42 mi )</td>
+                    <td class="content text-dark small">337.66 km ( + 0.70 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9a.php">NY-9A - Henry Hudson Pkwy (SB)</a>, Manhattan, New York 10033</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">207.56 mi ( + 0.09 mi )</td>
+                    <td class="content text-dark small">337.80 km ( + 0.14 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A - Henry Hudson Pkwy (NB)</a>, Manhattan, New York 10033</td>
+                    <td class="content text-dark">Trans-Manhattan Expy, Manhattan, New York 10033</td>
+                    <td class="content text-dark">End of US-1-9</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">207.78 mi ( + 0.22 mi )</td>
+                    <td class="content text-dark small">338.16 km ( + 0.36 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">W 178th St, Manhattan, New York 10033</td>
+                    <td class="content text-dark">End concurrency with I-95 and US-1</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">207.86 mi ( + 0.08 mi )</td>
+                    <td class="content text-dark small">338.29 km ( + 0.13 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Broadway, Manhattan, New York 10033</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">207.86 mi ( + 0.03 mi )</td>
+                    <td class="content text-dark small">338.29 km ( + 0.04 km )</td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 - Cross Bronx Expy</a> (concurrent with <a href="1.php">US-1</a>), Manhattan, New York 10033</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">210.49 mi ( + 2.63 mi )</td>
+                    <td class="content text-dark small">342.51 km ( + 4.22 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Broadway, Bronx, New York 10463</td>
+                    <td class="content text-dark">End New York County, Start Bronx County</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">212.29 mi ( + 1.80 mi )</td>
+                    <td class="content text-dark small">345.40 km ( + 2.89 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/ny/9.php/#nysr9a">NY-9A</a></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">213.06 mi ( + 0.77 mi )</td>
+                    <td class="content text-dark small">346.64 km ( + 1.24 km )</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">S Broadway, Yonkers, New York 10705</td>
+                    <td class="content text-dark">End Bronx County, Start Westchester County</td>
+                </tr>
             </section>
             </table>
             <hr>
@@ -1815,6 +2115,28 @@
                     <td class="content text-dark"><a href="1.php">US-1 - Tonelle Ave</a> (concurrent with <a href="#us9">US-9</a>), Jersey City, New Jersey 07304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Local Route</td>
+                </tr>
+            </section>
+            </table>
+            <hr>
+            <section id="sec-us-9w">
+            <h1 class="header" id="njus9localuneshu">United States Route 9W</h1>
+            <h2 class="content text-dark">US-9 has an auxilliary local/bypass route starting in Elizabeth in Union County, passing through Newark in Essex County, and Kearny and Jersey City in Hudson County. It serves these three major cities for 10.06 mi (16.23 km) later.</h2>
+            <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+                <?php include "../../static/table.php"; ?>
+                <tr>
+                    <td class="content text-dark small">0.00 mi</td>
+                    <td class="content text-dark small">0.00 km</td>
+                    <td class="content text-dark"><a href="1.php">US-1 - Tonnelle Ave</a> (concurrent with <a href="#us9">US-9</a> and <a href="46.php">US-46</a>), Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark">Fletcher Ave, Fort Lee, New Jersey 07024</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">0.32 mi ( + 0.32 mi )</td>
+                    <td class="content text-dark small">0.51 km ( + 0.51 km )</td>
+                    <td class="content text-dark"><a href="../state-highways/nj/81.php">NJ-81 (SB)</a>, Elizabeth, New Jersey 07202</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
                 </tr>
             </section>
                 <?php include "../../static/bottom.php"; ?>

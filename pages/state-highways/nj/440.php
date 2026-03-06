@@ -198,7 +198,7 @@
                 <tr>
                     <td class="content text-dark small">24.54 mi ( + 2.08 mi )</td>
                     <td class="content text-dark small">40.22 km ( + 3.35 km )</td>
-                    <td class="content text-dark"><a href="../../us-highways/1.php">US-1 Byp</a> (concurrent with <a href="../../us-highways/9.php">US-9 Byp</a>) (WB & NB)<br><a href="../../secondary-roads/nj/hu/612.php">Hudson CR 612 - Communipaw Ave</a>, Jersey City, New Jersey 07304</td>
+                    <td class="content text-dark"><a href="../../us-highways/1.php/#njus1localuneshu">US-1 Local</a> (concurrent with <a href="../../us-highways/9.php/#njus9localuneshu">US-9 Local</a>) (WB & NB)<br><a href="../../secondary-roads/nj/hu/612.php">Hudson CR 612 - Communipaw Ave</a>, Jersey City, New Jersey 07304</td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark">End of Route<br>End route in New Jersey<br>End Hudson County</td>
                 </tr>
