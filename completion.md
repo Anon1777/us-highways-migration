@@ -91,4 +91,5 @@
 
 ### Interstates
 <!-- * I-95 06/16/25 - [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/interstates/95.php] -->
+<!-- * I-40 02/16/26 - [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/interstates/95.php] -->
 * I-195 (NJ) 06/14/25 - 02/16/25 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/interstates/auxiliary/nj-195.php]
