@@ -3864,6 +3864,13 @@
                             <td class="content text-dark">Frank Koenig Blvd, Kingston, New York 12401</td>
                             <td class="content text-dark"></td>
                         </tr>
+                        <tr>
+                            <td class="content text-dark small">85.56 mi<br><h4 class="small incr">+ 1.84 mi</h4></td>
+                            <td class="content text-dark small">137.72 km<br><h4 class="small incr">+ 2.96 km</h4></td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark">Frank Koenig Blvd, Ulster, New York 12401</td>
+                            <td class="content text-dark"></td>
+                        </tr>
                     </tbody>
                 </section>
                 </section>
