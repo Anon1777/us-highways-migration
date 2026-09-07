@@ -1,7 +1,14 @@
 <?php
 
+$startTime = microtime(true);
 $path = './us-highways-migration/pages';
 $phpFiles = array();
+
+function printElapsedTime($startTime)
+{
+    $elapsedSeconds = microtime(true) - $startTime;
+    echo "Elapsed time: " . number_format($elapsedSeconds, 3) . " seconds\n";
+}
 
 if ($argc > 1) {
     if ($argv[1] === 'r') {
@@ -10,15 +17,19 @@ if ($argc > 1) {
         renderPhpToHtml($phpFiles);
         executeIncludes($phpFiles);
         echo "Program exited with code 0a - Successful render.\n";
+        printElapsedTime($startTime);
     } elseif ($argv[1] === 'd') {
         echo "Deleting files.\n";
         deleteHtmlFiles($path);
         echo "Program exited with code 0b - Successful deletion.\n";
+        printElapsedTime($startTime);
     } else {
         echo "Program exited with code 2 - Unknown argument: '$argv[1]'.\n";
+        printElapsedTime($startTime);
     }
 } else {
     echo "Program exited with code 1 - No arguments provided.\n";
+    printElapsedTime($startTime);
 }
 
 function scanDirectoryRecursive($directoryPath, &$phpFiles)

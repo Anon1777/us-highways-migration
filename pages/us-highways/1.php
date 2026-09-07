@@ -13648,9 +13648,142 @@
                 <tr>
                     <td class="content text-dark small">2141.30 mi<br><h4 class="small incr">+ 1.67 mi</h4></td>
                     <td class="content text-dark small">3445.69 km<br><h4 class="small incr">+ 2.69 km</h4></td>
-                    <td class="content text-dark">(to NB-170) North St Ext, Calais, Maine 04619</td>
+                    <td class="content text-dark">(to <a class="ext" title="page does not exist" href="../../../ca-highways/province-highways/nb/170.php">NB-170</a>) North St Ext, Calais, Maine 04619</td>
                     <td class="content text-dark">Baring St, Calais, Maine 04619</td>
                     <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2141.80 mi<br><h4 class="small incr">+ 0.50 mi</h4></td>
+                    <td class="content text-dark small">3446.49 km<br><h4 class="small incr">+ 0.80 km</h4></td>
+                    <td class="content text-dark">(to <a class="ext" title="page does not exist" href="../../../ca-highways/province-highways/nb/1.php">NB-1</a>) International Ave, Calais, Maine 04619</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2143.67 mi<br><h4 class="small incr">+ 1.87 mi</h4></td>
+                    <td class="content text-dark small">3449.50 km<br><h4 class="small incr">+ 3.01 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Calais, Maine 04619</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2143.74 mi<br><h4 class="small incr">+ 0.07 mi</h4></td>
+                    <td class="content text-dark small">3449.61 km<br><h4 class="small incr">+ 0.11 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Baring, Maine 04694</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2145.27 mi<br><h4 class="small incr">+ 1.53 mi</h4></td>
+                    <td class="content text-dark small">3452.08 km<br><h4 class="small incr">+ 2.47 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/191.php">ME-191</a>, Baring, Maine 04694</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2146.32 mi<br><h4 class="small incr">+ 1.05 mi</h4></td>
+                    <td class="content text-dark small">3453.76 km<br><h4 class="small incr">+ 1.68 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Baileyville, Maine 04694</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2146.52 mi<br><h4 class="small incr">+ 0.20 mi</h4></td>
+                    <td class="content text-dark small">3454.09 km<br><h4 class="small incr">+ 0.33 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/9.php">ME-9 - Airline Rd</a>, Baileyville, Maine 04694</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End concurrency with ME-9</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2149.55 mi<br><h4 class="small incr">+ 3.03 mi</h4></td>
+                    <td class="content text-dark small">3458.96 km<br><h4 class="small incr">+ 4.87 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Houlton Rd, Baileyville, Maine 04694</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2152.24 mi<br><h4 class="small incr">+ 2.69 mi</h4></td>
+                    <td class="content text-dark small">3463.29 km<br><h4 class="small incr">+ 4.33 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Baileyville, Maine 04694</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2154.74 mi<br><h4 class="small incr">+ 2.50 mi</h4></td>
+                    <td class="content text-dark small">3467.31 km<br><h4 class="small incr">+ 4.02 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, Princeton, Maine 04668</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2159.74 mi<br><h4 class="small incr">+ 5.00 mi</h4></td>
+                    <td class="content text-dark small">3475.36 km<br><h4 class="small incr">+ 8.05 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Indian Township, Maine 04668</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2167.25 mi<br><h4 class="small incr">+ 7.51 mi</h4></td>
+                    <td class="content text-dark small">3487.45 km<br><h4 class="small incr">+ 12.09 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Houlton Rd, Waite, Maine 04492</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2171.23 mi<br><h4 class="small incr">+ 3.98 mi</h4></td>
+                    <td class="content text-dark small">3493.85 km<br><h4 class="small incr">+ 6.40 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Houlton Rd, Talmadge, Maine 04492</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2173.57 mi<br><h4 class="small incr">+ 2.34 mi</h4></td>
+                    <td class="content text-dark small">3497.62 km<br><h4 class="small incr">+ 3.77 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Houlton Rd, Topsfield, Maine 04490</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2175.78 mi<br><h4 class="small incr">+ 2.21 mi</h4></td>
+                    <td class="content text-dark small">3501.17 km<br><h4 class="small incr">+ 3.55 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/6.php">ME-6 - Old Codyville Rd (WB) / School Rd (EB)</a>, Topsfield, Maine 04490</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2182.50 mi<br><h4 class="small incr">+ 6.72 mi</h4></td>
+                    <td class="content text-dark small">3511.99 km<br><h4 class="small incr">+ 10.82 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Brookton, Maine 04413</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2188.07 mi<br><h4 class="small incr">+ 5.57 mi</h4></td>
+                    <td class="content text-dark small">3520.96 km<br><h4 class="small incr">+ 8.97 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Houlton Rd, Brookton, Maine 04413</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2188.80 mi<br><h4 class="small incr">+ 0.73 mi</h4></td>
+                    <td class="content text-dark small">3522.14 km<br><h4 class="small incr">+ 1.18 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Houlton Rd, Danforth, Maine 04424</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2196.18 mi<br><h4 class="small incr">+ 7.38 mi</h4></td>
+                    <td class="content text-dark small">3534.02 km<br><h4 class="small incr">+ 11.88 km</h4></td>
+                    <td class="content text-dark">US-1 - Houlton Rd, Danforth, Maine 04424 (NB)<br><a href="../state-highways/me/169.php">ME-169 - Springfield Rd</a>, Danforth, Maine 04424 (WB)</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2197.04 mi<br><h4 class="small incr">+ 0.86 mi</h4></td>
+                    <td class="content text-dark small">3535.41 km<br><h4 class="small incr">+ 1.39 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Weston, Maine 04424</td>
+                    <td class="content text-dark">End Washington County<br>Start Aroostook County</td>
                 </tr>
             </tbody>
             </tbody>
