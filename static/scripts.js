@@ -1,3 +1,3 @@
 function redirect(){
-    window.location.replace("/us-highways-migration/pages/index-redirect.html");
+    window.location.replace("/seychelles-hub/roads/index-redirect.html");
 }

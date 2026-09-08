@@ -13785,6 +13785,216 @@
                     <td class="content text-dark">US-1, Weston, Maine 04424</td>
                     <td class="content text-dark">End Washington County<br>Start Aroostook County</td>
                 </tr>
+                <tr>
+                    <td class="content text-dark small">2204.36 mi<br><h4 class="small incr">+ 7.32 mi</h4></td>
+                    <td class="content text-dark small">3547.19 km<br><h4 class="small incr">+ 11.78 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Orient, Maine 04471</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2211.03 mi<br><h4 class="small incr">+ 6.67 mi</h4></td>
+                    <td class="content text-dark small">3557.93 km<br><h4 class="small incr">+ 10.74 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Amity, Maine 04471</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2217.75 mi<br><h4 class="small incr">+ 6.72 mi</h4></td>
+                    <td class="content text-dark small">3568.75 km<br><h4 class="small incr">+ 10.82 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Cary, Maine 04471</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2219.42 mi<br><h4 class="small incr">+ 1.67 mi</h4></td>
+                    <td class="content text-dark small">3571.44 km<br><h4 class="small incr">+ 2.69 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Cary, Maine 04471</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2221.26 mi<br><h4 class="small incr">+ 1.84 mi</h4></td>
+                    <td class="content text-dark small">3574.40 km<br><h4 class="small incr">+ 2.96 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Calais Rd, Hodgdon, Maine 04471</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2228.10 mi<br><h4 class="small incr">+ 6.84 mi</h4></td>
+                    <td class="content text-dark small">3585.40 km<br><h4 class="small incr">+ 11.00 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Calais Rd, Houlton, Maine 04730</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2228.42 mi<br><h4 class="small incr">+ 0.32 mi</h4></td>
+                    <td class="content text-dark small">3585.91 km<br><h4 class="small incr">+ 0.51 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Court St, Houlton, Maine 04730</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2230.10 mi<br><h4 class="small incr">+ 1.68 mi</h4></td>
+                    <td class="content text-dark small">3588.61 km<br><h4 class="small incr">+ 2.70 km</h4></td>
+                    <td class="content text-dark">US-1 - Military St (concurrent with <a href="2.php">US-2</a>), Houlton, Maine 04730 (WB)<br><a href="2.php">US-2 - Military St</a>, Houlton, Maine 04730 (EB)</td>
+                    <td class="content text-dark">Military St, Houlton, Maine 04730</td>
+                    <td class="content text-dark">Start concurrency with US-2</td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2230.17 mi<br><h4 class="small incr">+ 0.07 mi</h4></td>
+                    <td class="content text-dark small">3588.72 km<br><h4 class="small incr">+ 0.11 km</h4></td>
+                    <td class="content text-dark">US-1 - Kendall St (concurrent with <a href="2.php">US-2</a>), Houlton, Maine 04730</td>
+                    <td class="content text-dark">Kendall St, Houlton, Maine 04730</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2230.26 mi<br><h4 class="small incr">+ 0.09 mi</h4></td>
+                    <td class="content text-dark small">3588.87 km<br><h4 class="small incr">+ 0.15 km</h4></td>
+                    <td class="content text-dark"><a href="2.php/#meus2altar">US-2 Alternate - Bangor St</a>, Houlton, Maine 04730</td>
+                    <td class="content text-dark">North St, Houlton, Maine 04730</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2230.46 mi<br><h4 class="small incr">+ 0.20 mi</h4></td>
+                    <td class="content text-dark small">3589.20 km<br><h4 class="small incr">+ 0.33 km</h4></td>
+                    <td class="content text-dark"><a href="2.php">US-2 - Smyrna St</a>, Houlton, Maine 04730</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2231.26 mi<br><h4 class="small incr">+ 0.80 mi</h4></td>
+                    <td class="content text-dark small">3590.49 km<br><h4 class="small incr">+ 1.29 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 (NB)</a>, Houlton, Maine 04730</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2231.30 mi<br><h4 class="small incr">+ 0.04 mi</h4></td>
+                    <td class="content text-dark small">3590.55 km<br><h4 class="small incr">+ 0.06 km</h4></td>
+                    <td class="content text-dark"><a href="../interstates/95.php">I-95 (SB)</a>, Houlton, Maine 04730</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2234.45 mi<br><h4 class="small incr">+ 3.15 mi</h4></td>
+                    <td class="content text-dark small">3595.61 km<br><h4 class="small incr">+ 5.06 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">North Rd, Littleton, Maine 04730</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2240.29 mi<br><h4 class="small incr">+ 5.84 mi</h4></td>
+                    <td class="content text-dark small">3605.02 km<br><h4 class="small incr">+ 9.41 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Littleton, Maine 04730</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2240.96 mi<br><h4 class="small incr">+ 0.67 mi</h4></td>
+                    <td class="content text-dark small">3606.09 km<br><h4 class="small incr">+ 1.07 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Monticello, Maine 04760</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2247.37 mi<br><h4 class="small incr">+ 6.41 mi</h4></td>
+                    <td class="content text-dark small">3616.41 km<br><h4 class="small incr">+ 10.32 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, Bridgewater, Maine 04735</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2250.68 mi<br><h4 class="small incr">+ 3.31 mi</h4></td>
+                    <td class="content text-dark small">3621.73 km<br><h4 class="small incr">+ 5.32 km</h4></td>
+                    <td class="content text-dark">(to <a class="ext" title="page does not exist" href="../../../ca-highways/province-highways/nb/110.php">NB-110</a>) Boundary Line Rd, Bridgewater, Maine 04735</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2254.12 mi<br><h4 class="small incr">+ 3.44 mi</h4></td>
+                    <td class="content text-dark small">3627.26 km<br><h4 class="small incr">+ 5.53 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">US-1, Blaine, Maine 04734</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2255.22 mi<br><h4 class="small incr">+ 1.10 mi</h4></td>
+                    <td class="content text-dark small">3629.03 km<br><h4 class="small incr">+ 1.77 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Military St, Blaine, Maine 04734</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2257.16 mi<br><h4 class="small incr">+ 1.94 mi</h4></td>
+                    <td class="content text-dark small">3632.16 km<br><h4 class="small incr">+ 3.13 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Military St, Mars Hill, Maine 04758</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2257.26 mi<br><h4 class="small incr">+ 0.10 mi</h4></td>
+                    <td class="content text-dark small">3632.32 km<br><h4 class="small incr">+ 0.16 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, Mars Hill, Maine 04758</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2257.62 mi<br><h4 class="small incr">+ 0.36 mi</h4></td>
+                    <td class="content text-dark small">3632.89 km<br><h4 class="small incr">+ 0.57 km</h4></td>
+                    <td class="content text-dark"><a href="#meus1altar">US-1 Alternate - Main St</a>, Mars Hill, Maine 04758</td>
+                    <td class="content text-dark">Benjamin St, Mars Hill, Maine 04758</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2258.33 mi<br><h4 class="small incr">+ 0.71 mi</h4></td>
+                    <td class="content text-dark small">3634.04 km<br><h4 class="small incr">+ 1.15 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Presque Isle Rd, Mars Hill, Maine 04758</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2260.10 mi<br><h4 class="small incr">+ 1.77 mi</h4></td>
+                    <td class="content text-dark small">3636.88 km<br><h4 class="small incr">+ 2.84 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Presque Isle Rd, Westfield, Maine 04787</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2260.44 mi<br><h4 class="small incr">+ 0.34 mi</h4></td>
+                    <td class="content text-dark small">3637.43 km<br><h4 class="small incr">+ 0.55 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Houlton Rd, Westfield, Maine 04787</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2265.47 mi<br><h4 class="small incr">+ 5.03 mi</h4></td>
+                    <td class="content text-dark small">3645.53 km<br><h4 class="small incr">+ 8.10 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Houlton Rd, Presque Isle, Maine 04769</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2270.65 mi<br><h4 class="small incr">+ 5.18 mi</h4></td>
+                    <td class="content text-dark small">3653.86 km<br><h4 class="small incr">+ 8.33 km</h4></td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">Main St, Presque Isle, Maine 04769</td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2271.84 mi<br><h4 class="small incr">+ 1.19 mi</h4></td>
+                    <td class="content text-dark small">3655.77 km<br><h4 class="small incr">+ 1.91 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/10.php">ME-10 - Academy St</a>, Presque Isle, Maine 04769</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
+                <tr>
+                    <td class="content text-dark small">2272.46 mi<br><h4 class="small incr">+ 0.62 mi</h4></td>
+                    <td class="content text-dark small">3656.76 km<br><h4 class="small incr">+ 0.99 km</h4></td>
+                    <td class="content text-dark"><a href="../state-highways/me/167.php">ME-167 - North St</a>, Presque Isle, Maine 04769</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark"></td>
+                </tr>
             </tbody>
             </tbody>
             <section id="us1aux">
@@ -16852,6 +17062,57 @@
                         <td class="content text-dark"><a href="#meus1">US-1 - Main St</a>, Machias, Maine 04654</td>
                         <td class="content text-dark"></td>
                         <td class="content text-dark">End of Alternate Route</td>
+                    </tr>
+                </section>
+                <?php include "../../static/endtable.php"; ?>
+                <hr>
+                <section id="sec-meus1altar">
+                <h1 class="header" id="meus1altwamb">United States Route 1 Alternate (Mars Hill, Maine)</h1>
+                <h2 class="content text-dark">US-1 Alternate is an alternate route in Mars Hill, Maine. It is 8.03 mi, or 12.90 km, long.</h2>
+                <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
+                <?php include "../../static/table.php"; ?>
+                <tbody id="tb-meus1altwamb">
+                    <tr>
+                        <td class="content text-dark small">0.00 mi</td>
+                        <td class="content text-dark small">0.00 km</td>
+                        <td class="content text-dark"><a href="#meus1">US-1 - Main St (SB) / Benjamin St (NB)</a>, Mars Hill, Maine 04758</td>
+                        <td class="content text-dark">Main St, Mars Hill, Maine 04758</td>
+                        <td class="content text-dark">Start of Alternate Route</td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">0.13 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
+                        <td class="content text-dark small">0.20 km<br><h4 class="small incr">+ 0.20 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Bridge St, Mars Hill, Maine 04758</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">0.24 mi<br><h4 class="small incr">+ 0.11 mi</h4></td>
+                        <td class="content text-dark small">0.37 km<br><h4 class="small incr">+ 0.17 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Fort St, Mars Hill, Maine 04758</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">0.69 mi<br><h4 class="small incr">+ 0.45 mi</h4></td>
+                        <td class="content text-dark small">1.09 km<br><h4 class="small incr">+ 0.72 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">US-1 Alternate, Mars Hill, Maine 04758</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">3.94 mi<br><h4 class="small incr">+ 3.25 mi</h4></td>
+                        <td class="content text-dark small">6.32 km<br><h4 class="small incr">+ 5.23 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Fort St, Mars Hill, Maine 04758</td>
+                        <td class="content text-dark"></td>
+                    </tr>
+                    <tr>
+                        <td class="content text-dark small">6.07 mi<br><h4 class="small incr">+ 2.13 mi</h4></td>
+                        <td class="content text-dark small">9.75 km<br><h4 class="small incr">+ 3.43 km</h4></td>
+                        <td class="content text-dark"></td>
+                        <td class="content text-dark">Houlton Rd, Easton, Maine 04740</td>
+                        <td class="content text-dark"></td>
                     </tr>
                 </section>
                 <?php include "../../static/endtable.php"; ?>
