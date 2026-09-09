@@ -8,7 +8,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 // javac .\\us-highways-migration\static\Wheel.java
-// java -cp us-highways-migration static.Wheel
+// java -cp us-highways-migration Wheel
 
 public class Wheel {
     public static void main(String[] args){
@@ -60,9 +60,7 @@ public class Wheel {
             return;
         }
 
-        if (!roads.remove(road)) {
-            return;
-        }
+        roads.removeIf(road::equals);
 
         try (PrintWriter out = new PrintWriter(new FileWriter(roadsFile, false))) {
             for (String line : roads) {
