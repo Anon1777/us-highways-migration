@@ -1,8 +1,8 @@
-<?php include "../../static/top.php"; ?>
+<?php include "../../../static/top.php"; ?>
         
             <h6 class="dir"><a href="../../index-redirect.php">Home</a> > <a href="../list.php">US Highways</a> > US-1</h6>
-            <h1 class="header" id="us1">United States Route 1</h1>
-            <h2 class="content text-dark">United States Route 1 (US-1) is a major north-south route spanning the east coast of the United States. It is xxxx.xx mi, or xxxx.xx km, long. It connects the Florida Keys to mainland Florida and continues through every eastern coast state (sans Delaware) up to the Canadian border.</h2>
+            <h1 class="header" id="us1">Rhode Island State Route 1A</h1>
+            <h2 class="content text-dark">Rhode Island State Route 1A (RI-1A) is a north-south route in Rhode Island that acts as an alternate route to US-1. It is 37.96 mi, or 61.03 km, long.</h2>
             <h4 class="content text-dark">Note: Mile and Kilometer measurements may not be exact.</h4>
             <?php include "../../static/table.php"; ?>
             <tr>

@@ -1,24 +1,35 @@
 <?php
 
-$path = './us-highways-migration/pages';
+$startTime = microtime(true);
+$fromPath = './us-highways-migration/pages';
+$toPath = './roads';
 $phpFiles = array();
+
+function printElapsedTime($startTime)
+{
+    $elapsedSeconds = microtime(true) - $startTime;
+    echo "Elapsed time: " . number_format($elapsedSeconds, 3) . " seconds\n";
+}
 
 if ($argc > 1) {
     if ($argv[1] === 'r') {
         echo "Rendering files.\n";
-        scanDirectoryRecursive($path, $phpFiles);
-        renderPhpToHtml($phpFiles);
-        executeIncludes($phpFiles);
+        scanDirectoryRecursive($fromPath, $phpFiles);
+        renderPhpToHtml($phpFiles, $fromPath, $toPath);
         echo "Program exited with code 0a - Successful render.\n";
+        printElapsedTime($startTime);
     } elseif ($argv[1] === 'd') {
         echo "Deleting files.\n";
-        deleteHtmlFiles($path);
+        deleteHtmlFiles($toPath);
         echo "Program exited with code 0b - Successful deletion.\n";
+        printElapsedTime($startTime);
     } else {
         echo "Program exited with code 2 - Unknown argument: '$argv[1]'.\n";
+        printElapsedTime($startTime);
     }
 } else {
     echo "Program exited with code 1 - No arguments provided.\n";
+    printElapsedTime($startTime);
 }
 
 function scanDirectoryRecursive($directoryPath, &$phpFiles)
@@ -39,12 +50,27 @@ function scanDirectoryRecursive($directoryPath, &$phpFiles)
     }
 }
 
-function renderPhpToHtml($phpFiles)
+function renderPhpToHtml($phpFiles, $fromPath, $toPath)
 {
+    $skippedCount = 0;
     foreach ($phpFiles as $phpFile) {
-        $htmlFile = preg_replace('/\.php$/', '.html', $phpFile);
+        $content = file_get_contents($phpFile);
+        if ($content === false) {
+            echo "Program exited with code 3b - Failed to read $phpFile.\n";
+            break;
+        }
+        if (trim($content) === '') {
+            $skippedCount++;
+            continue;
+        }
+        $relativePath = ltrim(substr($phpFile, strlen($fromPath)), '/\\');
+        $htmlFile = $toPath . DIRECTORY_SEPARATOR . preg_replace('/\.php$/', '.html', $relativePath);
         if ($htmlFile !== $phpFile) {
-            $content = file_get_contents($phpFile);
+            $outputDirectory = dirname($htmlFile);
+            if (!is_dir($outputDirectory) && !mkdir($outputDirectory, 0777, true)) {
+                echo "Program exited with code 3b - Failed to create $outputDirectory.\n";
+                break;
+            }
             $includePattern = '/<\?php\s+include\s+[\'\"]([^\'\"]+\.php)[\'\"];\s*\?>/i';
             $processedContent = preg_replace_callback($includePattern, function ($matches) use ($phpFile) {
                 $includePath = $matches[1];
@@ -69,6 +95,7 @@ function renderPhpToHtml($phpFiles)
             }
         }
     }
+    echo "Skipped $skippedCount empty PHP files.\n";
 }
 
 function executeIncludes($phpFiles)
@@ -100,19 +127,25 @@ function deleteHtmlFiles($directoryPath)
         echo "Error: '$directoryPath' is not a valid directory.\n";
         return;
     }
-    $entries = scandir($directoryPath);
-    $filteredEntries = array_diff($entries, array('.', '..'));
-    foreach ($filteredEntries as $entry) {
-        $fullPath = $directoryPath . '/' . $entry;
-        if (is_dir($fullPath)) {
-            deleteHtmlFiles($fullPath);
-        } elseif (is_file($fullPath) && pathinfo($fullPath, PATHINFO_EXTENSION) === 'html') {
-            if (unlink($fullPath)) {
-                echo "Deleted $fullPath\n";
+    $deletedCount = 0;
+    $failedCount = 0;
+    $iterator = new RecursiveIteratorIterator(
+        new RecursiveDirectoryIterator($directoryPath, FilesystemIterator::SKIP_DOTS)
+    );
+
+    foreach ($iterator as $file) {
+        if ($file->isFile() && strtolower($file->getExtension()) === 'html') {
+            if (unlink($file->getPathname())) {
+                $deletedCount++;
             } else {
-                echo "Program exited with code 3d - Failed to delete $fullPath\n";
-                break;
+                $failedCount++;
+                echo "Program exited with code 3d - Failed to delete " . $file->getPathname() . "\n";
             }
         }
+    }
+
+    echo "Deleted $deletedCount HTML files.\n";
+    if ($failedCount > 0) {
+        echo "Failed to delete $failedCount HTML files.\n";
     }
 }

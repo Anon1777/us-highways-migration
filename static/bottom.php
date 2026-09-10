@@ -1,9 +1,6 @@
-<?php $base_url = strpos($_SERVER['SCRIPT_NAME'], '/us-highways-migration/') !== false ? '/us-highways-migration' : ''; ?>
-</table>
-            </div>
+<?php include "endtable.php"; ?>
         </div>
         <div class="footer"></div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-        <script src="<?= $base_url ?>/static/scripts.js"></script>
     </body>
 </html>

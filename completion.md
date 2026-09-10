@@ -84,10 +84,11 @@
 * [NJ-440](pages/state-highways/nj/440.php) 07/24/25 - 09/03/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/nj/440.php]
 * [NY-440](pages/state-highways/ny/440.php) 07/28/25 - 09/03/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/ny/440.php]
 * [PA-26](pages/state-highways/pa/26.php) 10/24/25 - 05/24/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/pa/26.php]
+* [WY-172](pages/state-highways/wy/172.php) 09/09/26 - 09/09/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/state-highways/wy/172.php]
 
 ### US Highways (1ct)
 
-<!-- * US-1 09/24/24 - [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/us-highways/1.php] -->
+* [US-1](pages/us-highways/1.php) 09/24/24 - 09/09/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/us-highways/1.php]
 <!-- * US-9 06/13/25 - [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/us-highways/9.php] -->
 * [US-206](pages/us-highways/206.php) 06/16/25 - 09/03/26 [https://github.com/SeychellesDev/us-highways-migration/commits/main/pages/us-highways/206.php]
 

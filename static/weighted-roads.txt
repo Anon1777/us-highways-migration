@@ -4,7 +4,7 @@
 1,A-4
 1,AK-1
 1,AK-10
-1,AK-11
+2,AK-11
 1,AK-2
 1,AK-3
 1,AK-4
@@ -14,236 +14,493 @@
 1,AK-8
 1,AK-9
 1,AK-98
+1,AL Chilton 471
+1,AL Dallas 471
+1,AL Jackson 471
+1,AL Lee 131
+1,AL Lee 17
+1,AL Lee 24
+1,AL Lee 26
+1,AL Lee 29
+1,AL Lee 36
+1,AL Lee 41
+1,AL Lee 44
+1,AL Lee 471
+1,AL Lee 54
+1,AL Lee 61
+1,AL Lee 63
+2,AL Lee 65
+1,AL Lee 67
+1,AL Lee 69
+1,AL Lee 71
+1,AL Lee 76
+1,AL Lee 79
+1,AL Lee 81
+1,AL Lee 86
+1,AL Lee 91
+1,AL Randolph 471
 1,AL-111
+1,AL-131
+1,AL-17
+1,AL-172
+1,AL-20
+1,AL-206
+1,AL-21
 1,AL-210
 1,AL-216
-1,AL-67
+1,AL-223
+1,AL-239
+1,AL-24
+1,AL-247
+1,AL-26
+1,AL-32
+1,AL-33
+1,AL-36
+1,AL-41
+1,AL-44
+1,AL-54
+1,AL-61
+1,AL-63
+2,AL-65
+2,AL-67
+1,AL-69
+1,AL-71
+1,AL-76
+1,AL-79
+1,AL-81
+1,AL-86
+1,AL-91
+1,AR-11
 1,AR-111
+1,AR-131
+1,AR-17
+1,AR-20
+1,AR-206
+1,AR-21
+1,AR-239
+1,AR-239 Spur
+1,AR-24
+1,AR-247
+1,AR-26
+1,AR-29
+1,AR-303
+1,AR-31
+1,AR-32
+1,AR-326
+1,AR-33
+1,AR-336
+1,AR-33C
+1,AR-36
+1,AR-41
+1,AR-471
+1,AR-54
+1,AR-69
+1,AR-76
+1,AR-81
+1,AR-86
+1,AR-91
 1,AZ-210
-1,AZ-67
-1,Aiken 105
-1,Aiken 1223
-1,Aiken 1305
-1,Aiken 1469
-1,Aiken 151
-1,Aiken 154
-1,Aiken 155
-1,Aiken 1693
-1,Aiken 1725
-1,Aiken 1902
-1,Aiken 1904
-1,Aiken 207
-1,Aiken 209
-1,Aiken 2190
-1,Aiken 2313
-1,Aiken 25
-1,Aiken 26
-1,Aiken 283
-1,Aiken 29
-1,Aiken 438
-1,Aiken 439
-1,Aiken 513
-1,Aiken 521
-1,Aiken 524
-1,Aiken 529
-1,Aiken 530
-1,Aiken 533
-1,Aiken 540
-1,Aiken 548
-1,Aiken 549
-1,Aiken 555
-1,Aiken 556
-1,Aiken 563
-1,Aiken 566
-1,Aiken 589
-1,Aiken 67
-1,Aiken 70
-1,Aiken 706
-1,Aiken 80
-1,Aiken 81
-1,Albany 111
-1,Atlantic 601
-1,Atlantic 602
-1,Atlantic 603
-1,Atlantic 604
-1,Atlantic 605
-1,Atlantic 606
-1,Atlantic 608
-1,Atlantic 610
-1,Atlantic 615
-1,Atlantic 618
-2,Atlantic 621
-1,Atlantic 630
-1,Atlantic 634
-1,Atlantic 637
-1,Atlantic 644
-1,Atlantic 646
-1,Atlantic 657
-1,Atlantic 662
-1,Atlantic 663
-1,Atlantic 687
-1,Bergen 111
-2,Bergen 21
-2,Bergen 62
-2,Bergen 75
-2,Blair 4015
-1,Brevard 405
-1,Brevard 406
-1,Brevard 5054
-1,Brevard 511
-1,Brevard 514
-1,Brevard 516
-1,Brevard 5a
-1,Broome 217
-1,Broome 303
-2,Broome 53
-1,Broward 5a
-1,Burlington 616
-3,Burlington 621
-1,Burlington 622
-1,Burlington 637
-1,Burlington 642
-1,Burlington 648
-1,Burlington 660
-1,Burlington 662
-1,Burlington 667
-1,Burlington 670
-1,Burlington 678
-1,Burlington 679
-1,Burlington 681
-1,Burlington 690
-1,CA-1
+1,AZ-24
+1,AZ-303
+1,AZ-61
+2,AZ-67
+1,AZ-69
+1,AZ-71
+1,AZ-79
+1,AZ-86
+1,CA CR A11
+1,CA CR A17
+1,CA CR A20
+1,CA CR A21
+1,CA CR A24
+1,CA CR A26
+1,CA CR E11
+1,CA CR E17
+1,CA CR E20
+1,CA CR E21
+1,CA CR G11
+1,CA CR G17
+1,CA CR G20
+1,CA CR G21
+1,CA CR J11
+1,CA CR J17
+1,CA CR J20
+1,CA CR J21
+1,CA CR J24
+1,CA CR J26
+1,CA CR J29
+1,CA CR J31
+1,CA CR J32
+1,CA CR J33
+1,CA CR J36
+1,CA CR J41
+1,CA CR J44
+1,CA CR S11
+1,CA CR S17
+1,CA CR S20
+1,CA CR S21
+1,CA CR S24
+1,CA CR S26
+1,CA CR S29
+1,CA CR S31
+1,CA CR S32
+1,CA CR S33
+2,CA-1
+1,CA-103
+2,CA-11
 1,CA-110
 1,CA-111
+1,CA-125
+1,CA-131
 1,CA-134
+1,CA-163
+1,CA-17
+1,CA-172
 1,CA-187
+1,CA-19
 1,CA-2
+1,CA-20
 1,CA-210
 1,CA-216
+1,CA-223
+1,CA-239
+1,CA-24
+1,CA-247
+1,CA-26
 1,CA-27
+1,CA-29
+1,CA-32
+1,CA-33
+1,CA-36
+1,CA-41
+1,CA-44
+1,CA-47
+1,CA-52
+2,CA-54
+1,CA-56
 1,CA-60
-1,CA-67
+1,CA-61
+1,CA-63
+2,CA-65
+2,CA-67
+1,CA-71
+1,CA-75
+1,CA-76
+1,CA-78
+1,CA-79
+1,CA-81
+1,CA-86
 1,CA-90
-1,CO-67
+1,CA-905
+2,CA-91
+1,CO-11
+1,CO-131
+1,CO-17
+1,CO-172
+1,CO-21
+1,CO-239
+1,CO-26
+1,CO-36
+1,CO-391
+1,CO-41
+1,CO-44
+1,CO-61
+1,CO-63
+2,CO-65
+2,CO-67
+1,CO-69
+1,CO-71
+1,CO-79
+1,CO-86
+1,CO-91
+1,CT SR 614
+1,CT SR 624
+1,CT SR 625
+1,CT SR 628
+1,CT SR 639
+1,CT SR 641
+1,CT SR 643
+1,CT SR 649
+1,CT SR 718
+1,CT SR 722
+1,CT SR 724
+1,CT SR 732
+1,CT SR 796
+1,CT SSR 432
+1,CT SSR 437
+1,CT SSR 450
+1,CT SSR 476
+1,CT SSR 493
+1,CT-10
+1,CT-100
+1,CT-106
+1,CT-108
+1,CT-11
+1,CT-110
 1,CT-111
+1,CT-113
+1,CT-117
+1,CT-12
+1,CT-121
+1,CT-123
+1,CT-124
+1,CT-127
+1,CT-130
+1,CT-131
+1,CT-135
+1,CT-136
+1,CT-137
+1,CT-142
+1,CT-145
+1,CT-146
 2,CT-15
+1,CT-154
+1,CT-156
+1,CT-161
+1,CT-162
+1,CT-164
+1,CT-166
+1,CT-17
+1,CT-172
+2,CT-2
+1,CT-20
+1,CT-21
+1,CT-213
+1,CT-215
 1,CT-216
+1,CT-22
+1,CT-234
+1,CT-25
+1,CT-27
+1,CT-31
+2,CT-32
+2,CT-33
+1,CT-337
+1,CT-34
 2,CT-343
+1,CT-349
 2,CT-4
+1,CT-41
+1,CT-49
+1,CT-53
+1,CT-58
+1,CT-59
+1,CT-63
 1,CT-637
-1,CT-67
-2,Camden 621
-1,Camden 637
-2,Camden 756
-1,Cape May 601
-1,Cape May 602
-1,Cape May 603
-1,Cape May 609
-1,Cape May 612
-1,Cape May 613
-1,Cape May 615
-2,Cape May 621
-1,Cape May 623
-1,Cape May 625
-1,Cape May 628
-1,Cape May 631
-1,Cape May 634
-2,Cape May 637
-1,Cape May 644
-1,Cape May 646
-1,Cape May 647
-1,Cape May 652
-1,Cape May 657
-1,Cape May 658
-1,Cape May 662
-1,Cape May 667
-2,Centre 793
-1,Chesterfield 1088
-1,Chesterfield 143
-1,Chesterfield 188
-1,Chesterfield 20
-1,Chesterfield 204
-1,Chesterfield 229
-1,Chesterfield 247
-1,Chesterfield 29
-1,Chesterfield 296
-1,Chesterfield 31
-1,Chesterfield 326
-1,Chesterfield 36
-1,Chesterfield 380
-1,Chesterfield 388
-1,Chesterfield 406
-1,Chesterfield 426
-1,Chesterfield 46
-1,Chesterfield 491
-1,Chesterfield 534
-1,Chesterfield 538
-1,Chesterfield 581
-1,Chesterfield 606
-1,Chesterfield 607
-1,Chesterfield 63
-1,Chesterfield 69
-1,Chesterfield 81
-1,Chesterfield 86
-1,Cortland 111
-1,Cumberland 2002
-2,Cumberland 621
-1,Cumberland 637
+2,CT-67
+1,CT-69
+1,CT-71
+1,CT-71A
+1,CT-77
+2,CT-79
+1,CT-8
+2,CT-81
+1,CT-9
 2,DC-295
+1,DE Sussex 248
+1,DE Sussex 249
 3,DE-1
+1,DE-11
+1,DE-17
 3,DE-2
-2,DE-20
+3,DE-20
+1,DE-24
+1,DE-26
 6,DE-273
 4,DE-279
 2,DE-30
+1,DE-36
 5,DE-4
 2,DE-404
+1,DE-41
+1,DE-44
 2,DE-5
+1,DE-54
+1,DE-71
 5,DE-72
 6,DE-896
-2,Dauphin 3032
-1,Dutchess 111
-1,Dutchess 37
-1,Duval 115a
-1,Duval 116
-1,Duval 117
-1,Duval 21d
-1,Emanuel 204
-1,Erie 111
-2,Essex 603
-2,Essex 605
-1,Essex 618
-2,Essex 620
-2,Essex 630
-1,Essex 636
-1,Essex 637
-2,Essex 638
-1,Essex 642
-1,Essex 655
-1,FL-10
+1,FL Brevard 405
+1,FL Brevard 406
+1,FL Brevard 5054
+1,FL Brevard 511
+1,FL Brevard 514
+1,FL Brevard 516
+1,FL Brevard 5a
+1,FL Broward 5a
+1,FL Calhoun 69
+1,FL Citrus 44
+1,FL Citrus 44W
+1,FL Clay 21B
+1,FL Collier 29
+1,FL Columbia 131
+1,FL Duval 101A
+1,FL Duval 103
+1,FL Duval 106
+1,FL Duval 106B
+1,FL Duval 109A
+1,FL Duval 110
+1,FL Duval 115
+1,FL Duval 115a
+2,FL Duval 116
+2,FL Duval 117
+1,FL Duval 119
+1,FL Duval 121
+1,FL Duval 163
+1,FL Duval 203
+1,FL Duval 21
+1,FL Duval 211
+1,FL Duval 212
+1,FL Duval 213
+1,FL Duval 217
+1,FL Duval 21B
+1,FL Duval 21D
+1,FL Duval 21d
+1,FL Duval 228
+1,FL Duval 99
+1,FL Flagler 13
+1,FL Flagler 1421
+1,FL Flagler 1422
+1,FL Flagler 1424
+1,FL Flagler 200
+1,FL Flagler 2002
+1,FL Flagler 202
+1,FL Flagler 203
+1,FL Flagler 304
+1,FL Flagler 325
+2,FL Franklin 65
+1,FL Franklin 67
+1,FL Franklin 67A
+2,FL Gadsden 65
+2,FL Gadsden 65A
+2,FL Gadsden 65B
+2,FL Gadsden 65C
+2,FL Gadsden 65D
+1,FL Gulf 71A
+2,FL Holmes 65
+1,FL Holmes 81
+1,FL Indian River 505
+1,FL Indian River 508
+1,FL Indian River 510
+1,FL Indian River 512
+1,FL Indian River 5a
+1,FL Indian River 603
+1,FL Indian River 605
+1,FL Indian River 612
+1,FL Indian River 630
+1,FL Indian River 632
+1,FL Lake 33
+1,FL Lake 44
+1,FL Lake 44B
+1,FL Levy 24
+1,FL Levy 24B
+1,FL Levy 32
+1,FL Levy 326
+1,FL Levy 336
+1,FL Liberty 67
+1,FL Liberty 67A
+1,FL Marion 21
+1,FL Marion 326
+1,FL Marion 336
+1,FL Martin 714
+1,FL Martin 76
+1,FL Martin a1a
+1,FL Miami-Dade 854
+1,FL Miami-Dade 959
+1,FL Miami-Dade 992
+1,FL Miami-dade 992
+2,FL Monroe 905
+2,FL Monroe 939
+2,FL Monroe 940
+2,FL Monroe 941
+1,FL Monroe SRD
+1,FL Monroe srd
+1,FL Nassau 108
+1,FL Nassau 115
+1,FL Nassau 121
+1,FL Nassau 15a
+1,FL Orange 420
+1,FL Palm Beach 706
+1,FL Palm Beach 792
+1,FL Palm Beach 794
+1,FL Palm Beach 806a
+1,FL Palm Beach 808
+1,FL Pasco 41
+1,FL Pasco 54
+1,FL Polk 17
+1,FL Putnam 21
+1,FL Seminole 431
+1,FL Seminole 431B
+1,FL St. Johns 16a
+1,FL St. Johns 204
+1,FL St. Johns 210
+1,FL St. Johns 214
+1,FL St. Johns 312
+1,FL St. Johns 5a
+1,FL St. Lucie 605
+1,FL St. Lucie 611
+1,FL St. Lucie 614
+1,FL St. Lucie 615
+1,FL St. Lucie 68
+1,FL Volusia 2813
+1,FL Volusia 2820
+1,FL Volusia 3
+1,FL Volusia 4019
+1,FL Volusia 4040
+1,FL Volusia 4050
+1,FL Volusia 4068
+1,FL Volusia 4072
+1,FL Volusia 4079
+1,FL Volusia 4093
+1,FL Volusia 4135
+1,FL Volusia 4136
+1,FL Volusia 4147
+1,FL Volusia 4164
+1,FL Volusia 421
+1,FL Volusia 430
+1,FL Volusia a1a
+1,FL Wakulla 61
+2,FL-10
 1,FL-100
 1,FL-104
+1,FL-105
 1,FL-109
-1,FL-11
+2,FL-11
 1,FL-111
-1,FL-115
-1,FL-13
+2,FL-115
+1,FL-116
+2,FL-13
+1,FL-134
 1,FL-15
 1,FL-152
-1,FL-20
+1,FL-17
+2,FL-20
 1,FL-200
 1,FL-202
-1,FL-206
+2,FL-206
 1,FL-207
+2,FL-21
 1,FL-210
 1,FL-212
-1,FL-228
+2,FL-228
+1,FL-23
+1,FL-24
+1,FL-247
+1,FL-26
+1,FL-29
+1,FL-31
 1,FL-312
+1,FL-32
+1,FL-326
+1,FL-33
+1,FL-391
 1,FL-40
 1,FL-404
-1,FL-44
+1,FL-41
+1,FL-431
+2,FL-44
 1,FL-442
 1,FL-46
+1,FL-471
 2,FL-5
 1,FL-50
 1,FL-503
@@ -252,24 +509,40 @@
 1,FL-518
 1,FL-520
 1,FL-528
+1,FL-54
 1,FL-5a
 1,FL-60
 1,FL-600
 1,FL-607
+1,FL-61
+1,FL-611
+1,FL-61A
+1,FL-63
+2,FL-65
+1,FL-655
 1,FL-656
+1,FL-676
+1,FL-69
 1,FL-70
 1,FL-704
 1,FL-708
+1,FL-71
 1,FL-710
 1,FL-713
 1,FL-716
+1,FL-727
+1,FL-729
+1,FL-732
 1,FL-736
-1,FL-76
+2,FL-76
 1,FL-786
+1,FL-79
+1,FL-794
 1,FL-80
 1,FL-802
 1,FL-806
-1,FL-810
+1,FL-81
+2,FL-810
 1,FL-811
 1,FL-814
 1,FL-816
@@ -283,7 +556,7 @@
 1,FL-84
 1,FL-842
 1,FL-844
-1,FL-848
+2,FL-848
 1,FL-850
 1,FL-856
 1,FL-858
@@ -294,6 +567,7 @@
 1,FL-882
 2,FL-9
 1,FL-90
+1,FL-91
 1,FL-915
 1,FL-916
 2,FL-9336
@@ -301,503 +575,1504 @@
 1,FL-953
 1,FL-968
 2,FL-973
-1,FL-976
+2,FL-976
 1,FL-986
 2,FL-989
 2,FL-990
 1,FL-992
 2,FL-994
 2,FL-998
+1,FL-9B
 2,FL-a1a
-1,Flagler 13
-1,Flagler 1421
-1,Flagler 1422
-1,Flagler 1424
-1,Flagler 200
-1,Flagler 2002
-1,Flagler 202
-1,Flagler 203
-1,Flagler 304
-1,Flagler 325
-1,Fulton 111
+1,GA Emanuel 204
+1,GA Jefferson 116
+1,GA Jefferson 126
+1,GA Jefferson 127
+1,GA Jefferson 129
+1,GA Jefferson 134
+1,GA Jefferson 142
+1,GA Jefferson 248
+1,GA Jefferson 274
+1,GA Jefferson 29
+1,GA Jefferson 32
+1,GA Jefferson 329
+1,GA Jefferson 38
+1,GA Jefferson 40
+1,GA Jefferson 43
+1,GA Richmond 85
+1,GA Toombs 334
+1,GA Ware 42
+1,GA Ware 94
 1,GA-10
 1,GA-104
+1,GA-11
 1,GA-111
 1,GA-121
 1,GA-144
 1,GA-147
 1,GA-15
-1,GA-17
+2,GA-17
+1,GA-172
 1,GA-177
 1,GA-178
 1,GA-19
 1,GA-192
+1,GA-20
+1,GA-206
+1,GA-21
 1,GA-216
+1,GA-223
 1,GA-23
+1,GA-24
+1,GA-247
 1,GA-252
+1,GA-26
 1,GA-27
 1,GA-28
-1,GA-29
+2,GA-29
 1,GA-292
 1,GA-296
 1,GA-297
 1,GA-30
-1,GA-32
+1,GA-303
+1,GA-31
+2,GA-32
+1,GA-326
+1,GA-33
+1,GA-339
+1,GA-36
 1,GA-38
 1,GA-4
 1,GA-40
 1,GA-404
+1,GA-41
 1,GA-415
+1,GA-44
 1,GA-46
 1,GA-47
 1,GA-520
+1,GA-54
 1,GA-540
 1,GA-56
 1,GA-57
-1,GA-67
+1,GA-61
+1,GA-63
+2,GA-65
+2,GA-67
+1,GA-71
+1,GA-76
 1,GA-78
+1,GA-79
 1,GA-80
-1,GA-86
+1,GA-81
+2,GA-86
 1,GA-88
-5,Gloucester 603
-4,Gloucester 621
-1,Gloucester 637
-5,Gloucester 663
-2,Gloucester 676
-1,Greene 23B
+1,GA-91
 1,H-1
 1,H-2
 1,H-201
 1,H-3
-1,Hudson 612
-2,Hudson 621
-1,Hudson 637
-2,Hudson 670
-2,Hudson 673
-2,Hudson 677
-2,Hudson 679
-2,Hudson 681
-1,Hudson 700
-1,Hudson 701
-1,Hudson 702
-2,Hudson 732
-1,Hudson 735
-2,Hunterdon 619
-2,Hunterdon 621
-2,Hunterdon 627
-1,Hunterdon 651
-1,I-10
+1,HI-11
+1,HI-31
+1,HI-32
+1,HI-36
+1,HI-36A
+1,HI-44
+1,HI-61
+1,HI-63
+2,HI-65
+1,HI-76
+2,I-10
+2,I-11
 1,I-110
 1,I-140 (NC)
+2,I-15
+1,I-17
+1,I-172
 3,I-180
 1,I-180 (PA)
 2,I-195 (MA)
-1,I-20
+1,I-195 (RI)
+1,I-195 (VA)
+2,I-20
 1,I-210 (CA)
 1,I-22
+1,I-24
 1,I-240 (TN)
+1,I-26
 1,I-264
 1,I-270
 1,I-280 (MD)
 2,I-280 (NJ)
 4,I-287
 1,I-287 (NY)
-1,I-29
-2,I-290 (MA)
+2,I-29
+3,I-290 (MA)
 2,I-290 (NY)
+1,I-295
 1,I-295 (DC)
-1,I-295 (FL)
-2,I-295 (ME)
-9,I-295 (NJ)
+2,I-295 (FL)
+3,I-295 (ME)
+10,I-295 (NJ)
+1,I-295 (RI)
 1,I-30
 2,I-35
 2,I-376
+1,I-391
 1,I-393 (NH)
+1,I-395 (CT)
+1,I-395 (ME)
 2,I-395 (VA)
 1,I-4
-1,I-40
 2,I-405
+1,I-405 (CA)
+1,I-41
+1,I-44
 1,I-459 (AL)
+1,I-471
 2,I-476
+1,I-478 (NY)
 2,I-490 (NY)
-2,I-495 (MA)
-4,I-495 (MD)
-1,I-5
+5,I-495 (MA)
+6,I-495 (MD)
+2,I-5
 1,I-55
 1,I-564
 1,I-59
 3,I-64
-1,I-65
+3,I-65
 1,I-664
 1,I-670
-6,I-676
+8,I-676
+1,I-69
 2,I-690
 2,I-695 (DC)
+1,I-69C
+1,I-69E
+1,I-69W
 2,I-70
+2,I-71
+1,I-710 (CA)
 1,I-72
 1,I-73
 1,I-74
-9,I-76 (PA)
-7,I-78
+1,I-76
+1,I-76 (CO)
+10,I-76 (PA)
+1,I-77
+8,I-78
 2,I-787
-1,I-787 (NY)
-5,I-80
-6,I-81
+2,I-787 (NY)
+1,I-79
+1,I-794
+1,I-8
+6,I-80
+1,I-805 (CA)
+7,I-81
 1,I-820 (TX)
 4,I-83
 5,I-84
 1,I-85
-3,I-86
-6,I-87
+1,I-86 (ID)
+4,I-86 (NY)
+2,I-87
+1,I-87 (NC)
+5,I-87 (NY)
 1,I-88
 1,I-885
 3,I-89
+1,I-890
 2,I-895
 2,I-895 (MD)
-8,I-90
-5,I-91
-3,I-93
+9,I-90
+6,I-91
+5,I-93
+1,I-94
 5,I-99
+1,IA Humboldt 29
+1,IA Linn E36
+1,IA Linn W36
+1,IA-17
+1,IA-21
 1,IA-210
-1,ID-67
+1,IA-24
+1,IA-26
+1,IA-31
+1,IA-32
+1,IA-44
+1,IA-76
+1,IA-81
+1,IA-86
+1,IA-91
+1,ID-11
+1,ID-21
+1,ID-24
+1,ID-29
+1,ID-31
+1,ID-32
+1,ID-33
+1,ID-36
+1,ID-41
+1,ID-44
+1,ID-54
+1,ID-61
+2,ID-67
+1,ID-69
+1,ID-71
+1,ID-79
+1,ID-81
 1,IL-100
 1,IL-106
+1,IL-11
 1,IL-111
+1,IL-131
+1,IL-17
+1,IL-172
+1,IL-21
+1,IL-26
+1,IL-29
+1,IL-31
+1,IL-32
+1,IL-33
+1,IL-336
+1,IL-41
+1,IL-54
+1,IL-61
+2,IL-65
 1,IL-67
+1,IL-71
+1,IL-76
+1,IL-81
+1,IL-91
 1,IL-96
+1,IN Elkhart 17
+1,IN Elkhart 33
+1,IN-11
 1,IN-111
-1,IN-67
-1,Indian River 505
-1,Indian River 508
-1,Indian River 510
-1,Indian River 512
-1,Indian River 5a
-1,Indian River 603
-1,Indian River 605
-1,Indian River 612
-1,Indian River 630
-1,Indian River 632
-1,Jefferson 111
-1,Jefferson 116
-1,Jefferson 126
-1,Jefferson 127
-1,Jefferson 129
-1,Jefferson 134
-1,Jefferson 142
-1,Jefferson 248
-1,Jefferson 274
-1,Jefferson 29
-1,Jefferson 32
-1,Jefferson 329
-1,Jefferson 38
-1,Jefferson 40
-1,Jefferson 43
+1,IN-17
+1,IN-26
+1,IN-29
+1,IN-303
+1,IN-32
+1,IN-446
+1,IN-54
+1,IN-61
+1,IN-63
+2,IN-65
+2,IN-67
+1,IN-69
+1,IN-71
 1,KS-111
+1,KS-131
+1,KS-17
+1,KS-20
+1,KS-206
 1,KS-210
 1,KS-216
-1,KS-67
+1,KS-223
+1,KS-239
+1,KS-247
+1,KS-26
+1,KS-31
+1,KS-32
+1,KS-33
+1,KS-41
+1,KS-44
+1,KS-61
+1,KS-63
+2,KS-65
+2,KS-67
+1,KS-71
+1,KS-76
+1,KS-79
+1,KS-86
+1,KY-11
 1,KY-111
+1,KY-131
+1,KY-17
+1,KY-172
+1,KY-20
+1,KY-206
+1,KY-21
 1,KY-210
 1,KY-216
+1,KY-223
+1,KY-239
+1,KY-247
+1,KY-26
+1,KY-29
+1,KY-303
 1,KY-3105
+1,KY-32
+1,KY-326
+1,KY-33
+1,KY-36
+1,KY-420
+1,KY-44
+1,KY-446
+1,KY-471
+1,KY-54
+1,KY-61
+1,KY-63
 1,KY-637
-1,KY-67
-1,Kershaw 100
-1,Kershaw 111
-1,Kershaw 113
-1,Kershaw 130
-1,Kershaw 131
-1,Kershaw 132
-1,Kershaw 133
-1,Kershaw 139
-1,Kershaw 145
-1,Kershaw 15
-1,Kershaw 169
-1,Kershaw 185
-1,Kershaw 21
-1,Kershaw 213
-1,Kershaw 26
-1,Kershaw 304
-1,Kershaw 306
-1,Kershaw 313
-1,Kershaw 318
-1,Kershaw 338
-1,Kershaw 348
-1,Kershaw 350
-1,Kershaw 353
-1,Kershaw 356
-1,Kershaw 357
-1,Kershaw 36
-1,Kershaw 368
-1,Kershaw 38
-1,Kershaw 406
-1,Kershaw 407
-1,Kershaw 42
-1,Kershaw 440
-1,Kershaw 45
-1,Kershaw 48
-1,Kershaw 51
-1,Kershaw 512
-1,Kershaw 52
-1,Kershaw 530
-1,Kershaw 535
-1,Kershaw 547
-1,Kershaw 549
-1,Kershaw 551
-1,Kershaw 552
-1,Kershaw 564
-1,Kershaw 571
-1,Kershaw 59
-1,Kershaw 592
-1,Kershaw 600
-1,Kershaw 700
-1,Kershaw 711
-1,Kershaw 731
-1,Kershaw 746
-1,Kershaw 756
-1,Kershaw 808
-1,Kershaw 81
-1,Kershaw 82
-1,Kershaw 820
-1,Kershaw 835
-1,Kershaw 89
-1,Kershaw 894
-1,Kershaw 910
-1,Kershaw 916
-1,Kershaw 96
-1,Kershaw 989
+2,KY-67
+1,KY-69
+1,KY-76
+1,KY-79
+1,KY-81
+1,KY-86
+1,KY-91
 1,LA-111
 1,LA-1111
+1,LA-131
+1,LA-17
+1,LA-172
+1,LA-20
+1,LA-21
+1,LA-24
+1,LA-26
+1,LA-29
+1,LA-303
+1,LA-31
+1,LA-326
+1,LA-33
+1,LA-336
+1,LA-336-1
+1,LA-336-2
+1,LA-339
+1,LA-36
+1,LA-41
+1,LA-420
+1,LA-44
+1,LA-471
+1,LA-54
+1,LA-554
+1,LA-611-1
+1,LA-611-3
+1,LA-611-9
+1,LA-63
+1,LA-633
 1,LA-637
-1,LA-67
-2,Lehigh 2044
-1,Lexington 1063
-1,Lexington 1065
-1,Lexington 1082
-1,Lexington 113
-1,Lexington 115
-1,Lexington 124
-1,Lexington 1265
-1,Lexington 1537
-1,Lexington 158
-1,Lexington 1612
-1,Lexington 167
-1,Lexington 169
-1,Lexington 172
-1,Lexington 204
-1,Lexington 24
-1,Lexington 274
-1,Lexington 277
-1,Lexington 278
-1,Lexington 30
-1,Lexington 301
-1,Lexington 31
-1,Lexington 34
-1,Lexington 357
-1,Lexington 386
-1,Lexington 47
-1,Lexington 54
-1,Lexington 70
-1,Lexington 71
-1,Lexington 77
-1,Lexington 86
-1,Lexington 879
-1,Lexington 880
-1,Lexington 897
-1,Lexington 91
-1,Lexington 921
-1,Lexington 955
-1,Livingston 26
-2,Luzerne 1049
-2,Luzerne 18
-2,Luzerne 3034
-2,Luzerne 38
+1,LA-655
+2,LA-67
+1,LA-676
+1,LA-69
+1,LA-729
+1,LA-76
+1,LA-797
+1,LA-803
+1,LA-81
+1,LA-810
+1,LA-813
+1,LA-848
+1,LA-857
+1,LA-86
+1,LA-861
+1,LA-91
+1,LA-976
+1,Lee 11
+1,Lee 20
+1,MA-102
+2,MA-110
 1,MA-111
+2,MA-113
+1,MA-114
 2,MA-12
-1,MA-67
+1,MA-120
+1,MA-123
+1,MA-129
+1,MA-131
+2,MA-133
+1,MA-138
+1,MA-140
+1,MA-152
+1,MA-16
+1,MA-1A
+1,MA-20A
+1,MA-21
+2,MA-24
+1,MA-27
+1,MA-28
+1,MA-286
+1,MA-3
+1,MA-31
+1,MA-32
+1,MA-33
+1,MA-36
+1,MA-38
+1,MA-3A
+1,MA-41
+1,MA-60
+1,MA-62
+1,MA-63
+2,MA-67
+1,MA-71
+1,MA-79
+1,MA-81
+1,MA-97
+1,MA-99
+1,MD-131
+1,MD-17
+1,MD-172
 2,MD-193
 1,MD-195
 1,MD-2
+1,MD-20
 1,MD-201
+1,MD-21
 1,MD-210
 2,MD-212
 1,MD-216
+1,MD-223
+1,MD-239
+1,MD-24
+1,MD-247
+1,MD-24D
+1,MD-24E
+1,MD-24F
+1,MD-26
+1,MD-26C
+1,MD-26D
+1,MD-26E
+1,MD-26F
+1,MD-272
+1,MD-273
 2,MD-279
 2,MD-295
-1,MD-32
+1,MD-303
+1,MD-31
+2,MD-32
+1,MD-326
+1,MD-32AA
+1,MD-32AH
+1,MD-32B
+1,MD-33
+1,MD-336
+1,MD-36
+1,MD-41
+1,MD-446
+1,MD-471
+1,MD-5
 1,MD-529
+1,MD-54
 1,MD-58
 1,MD-60
-1,MD-63
-1,MD-632
+1,MD-61
+1,MD-611
+2,MD-63
+2,MD-632
 1,MD-637
 1,MD-64
-1,MD-65
-1,MD-67
+3,MD-65
+1,MD-655
+1,MD-65A
+2,MD-67
 1,MD-68
+1,MD-727
+1,MD-732
+1,MD-76
+1,MD-79
+1,MD-797
+1,MD-810
+1,MD-813
+1,MD-86
 1,MD-90
-1,ME-100
-2,ME-11
-1,ME-111
-1,ME-114
+1,MD-91
+1,MD-976
+1,ME-10
+2,ME-100
+1,ME-101
+1,ME-103
+1,ME-105
+7,ME-11
+2,ME-111
+2,ME-114
+1,ME-125
 1,ME-126
-1,ME-161
-1,ME-17
+1,ME-127
+1,ME-129
+2,ME-131
+1,ME-136
+1,ME-139
+2,ME-141
+1,ME-144
+1,ME-15
+5,ME-161
+1,ME-162
+1,ME-163
+1,ME-164
+1,ME-166
+1,ME-167
+1,ME-169
+3,ME-17
+1,ME-172
+1,ME-173
+1,ME-174
+1,ME-176
+1,ME-178
+1,ME-179
+1,ME-180
+1,ME-182
+1,ME-184
+1,ME-185
+1,ME-186
+1,ME-187
+1,ME-189
+1,ME-190
+2,ME-191
+1,ME-192
+2,ME-193
+1,ME-195
+1,ME-196
+1,ME-200
+1,ME-206
+1,ME-207
 1,ME-210
+1,ME-212
+1,ME-214
+1,ME-215
 1,ME-216
-1,ME-22
-1,ME-27
-1,ME-3
+1,ME-218
+2,ME-22
+1,ME-223
+1,ME-229
+1,ME-236
+2,ME-24
+1,ME-25
+2,ME-26
+2,ME-27
+3,ME-3
+2,ME-32
+1,ME-35
 1,ME-4
-1,ME-5
-1,ME-703
-1,ME-9
+1,ME-41
+1,ME-43
+2,ME-46
+2,ME-5
+1,ME-52
+1,ME-6
+3,ME-69
+1,ME-7
+1,ME-701
+2,ME-703
+1,ME-73
+1,ME-77
+2,ME-86
+1,ME-88
+1,ME-89
+4,ME-9
+1,ME-90
+2,ME-91
+1,ME-97
+1,MI-11
+1,MI-14
+1,MI-17
+1,MI-20
+1,MI-21
 1,MI-216
-1,MI-67
+1,MI-239
+1,MI-24
+1,MI-26
+1,MI-29
+1,MI-33
+1,MI-36
+1,MI-44
+1,MI-54
+1,MI-63
+2,MI-65
+2,MI-67
+1,MI-69
+1,MI-71
+1,MI-76
+1,MI-79
+1,MI-81
+1,MI-86
+1,MI-91
+1,MN Anoka 17
+1,MN Anoka 21
+1,MN Anoka 31
+1,MN Anoka 32
+1,MN Anoka 54
+1,MN Chisago 17
+1,MN Chisago 36
+1,MN Dakota 11
+1,MN Dakota 26
+1,MN Dakota 31
+1,MN Dakota 32
+1,MN Dakota 63
+1,MN Dakota 71
+1,MN Goodhue 11
+1,MN Goodhue 20
+1,MN Goodhue 24
+1,MN Hennepin 17
+1,MN Hennepin 21
+1,MN Hennepin 31
+1,MN Hennepin 32
+1,MN Hennepin 36
+1,MN Hennepin 61
+1,MN Lake 61
+1,MN Pine 61
+1,MN Ramsey 31
+1,MN Ramsey 32
+1,MN Ramsey 33
+1,MN Ramsey 36
+1,MN Ramsey 44
+2,MN Ramsey 65
+1,MN Ramsey 71
+1,MN Scott 17
+1,MN Scott 21
+1,MN Scott 69
+1,MN Scott 79
+1,MN Sherburne 29
+1,MN Sherburne 33
+1,MN St. Louis 32
+1,MN St. Louis 61
+1,MN St. Louis 91
+1,MN Washington 29
+1,MN-11
 1,MN-111
+1,MN-172
+1,MN-20
+1,MN-21
 1,MN-210
-1,MN-67
+1,MN-223
+1,MN-24
+1,MN-247
+1,MN-26
+1,MN-29
+1,MN-303
+1,MN-31
+1,MN-32
+1,MN-33
+1,MN-336
+1,MN-36
+1,MN-41
+1,MN-44
+1,MN-54
+1,MN-61
+2,MN-65
+2,MN-67
+1,MN-76
+1,MN-79
+1,MN-86
+1,MN-91
+1,MO-11
 1,MO-111
+1,MO-131
+1,MO-17
+1,MO-172
+1,MO-20
+1,MO-21
 1,MO-210
-1,MS-67
+1,MO-31
+1,MO-32
+1,MO-33
+1,MO-41
+1,MO-76
+1,MO-79
+1,MO-81
+1,MO-86
+1,MO-91
+1,MS-17
+1,MS-172
+1,MS-21
+1,MS-24
+1,MS-26
+1,MS-29
+1,MS-32
+1,MS-33
+1,MS-41
+1,MS-44
+1,MS-63
+2,MS-67
+1,MS-69
+1,MS-76
+1,MT SR 223
+1,MT SR 247
+1,MT-17
+1,MT-206
+1,MT-21
 1,MT-210
-1,Madison 17
-1,Madison 28
-1,Madison 65
-1,Marlboro 113
-1,Marlboro 133
-1,Marlboro 262
-1,Marlboro 266
-1,Marlboro 267
-1,Marlboro 312
-1,Marlboro 36
-1,Marlboro 97
-1,Martin 714
-1,Martin a1a
-2,Mercer 3012
-1,Mercer 604
-1,Mercer 608
-1,Mercer 613
-2,Mercer 616
-2,Mercer 618
-2,Mercer 621
-1,Mercer 622
-1,Mercer 626
-1,Mercer 630
-1,Mercer 634
-4,Mercer 636
-2,Mercer 637
-2,Mercer 643
-1,Mercer 645
-1,Mercer 648
-2,Mercer 649
-1,Mercer 650
-2,Mercer 653
-1,Miami-Dade 854
-1,Miami-Dade 959
-1,Miami-Dade 992
-1,Miami-dade 992
-1,Middlesex 606
-2,Middlesex 609
-1,Middlesex 611
-2,Middlesex 613
-1,Middlesex 614
-1,Middlesex 615
-1,Middlesex 616
-3,Middlesex 617
-2,Middlesex 621
-3,Middlesex 622
-1,Middlesex 625
-1,Middlesex 653
-1,Middlesex 655
-1,Middlesex 656
-1,Middlesex 665
-1,Middlesex 700
-1,Middlesex 701
-3,Monmouth 1
-2,Monmouth 10
-1,Monmouth 11
-2,Monmouth 12
-2,Monmouth 13
-1,Monmouth 14
-1,Monmouth 15
-2,Monmouth 16
-2,Monmouth 17
-3,Monmouth 18
-1,Monmouth 20
-2,Monmouth 21
-1,Monmouth 25
-1,Monmouth 27
-1,Monmouth 28
-1,Monmouth 29
-3,Monmouth 3
-3,Monmouth 30
-1,Monmouth 32
-1,Monmouth 33
-1,Monmouth 34
-1,Monmouth 36
-1,Monmouth 40A
-2,Monmouth 40a
-1,Monmouth 45
-1,Monmouth 47
-1,Monmouth 48
-1,Monmouth 49
-1,Monmouth 5
-4,Monmouth 50
-2,Monmouth 51
-2,Monmouth 52
-4,Monmouth 54
-1,Monmouth 56
-3,Monmouth 57
-1,Monmouth 7
-1,Monmouth 8
-2,Monroe 266
-1,Monroe 63
-1,Monroe 65
-1,Monroe 67
-1,Monroe 75
-1,Monroe 77
-1,Monroe 79
-3,Monroe 81
-1,Monroe 82
-1,Monroe 83
-2,Monroe 85
-1,Monroe 86
-2,Monroe 905
-2,Monroe 939
-2,Monroe 940
-2,Monroe 941
-1,Monroe SRD
-1,Monroe srd
-2,Montgomery 2017
-2,Morris 601
-1,Morris 612
-1,Morris 613
-2,Morris 617
-2,Morris 621
-1,Morris 625
-2,Morris 631
-1,Morris 637
-2,Morris 670
+1,MT-24
+1,MT-326
+1,MT-41
+1,MT-44
+1,MT-69
+1,MT-86
+1,NC Chatham 1011
+1,NC Chatham 1012
+1,NC Franklin 1127
+1,NC Franklin 1133
+1,NC Franklin 1135
+1,NC Franklin 1138
+1,NC Franklin 1147
+1,NC Franklin 1148
+1,NC Franklin 1204
+1,NC Franklin 1206
+1,NC Franklin 1207
+1,NC Franklin 1263
+1,NC Lee 1009
+1,NC Lee 1182
+1,NC Lee 1237
+1,NC Lee 1300
+1,NC Lee 1303
+1,NC Lee 1415
+1,NC Lee 1423
+1,NC Lee 1466
+1,NC Lee 1560
+1,NC Moore 1001
+1,NC Moore 1007
+1,NC Moore 1102
+1,NC Moore 1112
+1,NC Moore 1156
+1,NC Moore 1205
+1,NC Moore 1803
+1,NC Moore 1821
+1,NC Moore 1825
+1,NC Moore 1848
+1,NC Moore 1853
+1,NC Moore 1864
+1,NC Moore 1870
+1,NC Moore 2000
+1,NC Moore 2005
+1,NC Moore 2026
+1,NC Moore 2032
+1,NC Moore 2053
+1,NC Moore 2055
+1,NC Moore 2080
+1,NC Moore 2088
+1,NC Moore 2099
+1,NC Moore 2118
+1,NC Moore 2124
+1,NC Moore 2160
+1,NC Moore 2164
+1,NC Richmond 1001
+1,NC Richmond 1004
+1,NC Richmond 1100
+1,NC Richmond 1103
+1,NC Richmond 1104
+1,NC Richmond 1106
+1,NC Richmond 1108
+1,NC Richmond 1423
+1,NC Richmond 1424
+1,NC Richmond 1426
+1,NC Richmond 1442
+1,NC Richmond 1475
+1,NC Richmond 1479
+1,NC Richmond 1484
+1,NC Richmond 1503
+1,NC Richmond 1504
+1,NC Richmond 1528
+1,NC Richmond 1600
+1,NC Richmond 1643
+1,NC Richmond 1646
+1,NC Richmond 1696
+1,NC Richmond 1903
+1,NC Richmond 1966
+1,NC Richmond 1974
+1,NC Vance 1001
+1,NC Vance 1107
+1,NC Vance 1113
+1,NC Vance 1115
+1,NC Vance 1138
+1,NC Vance 1148
+1,NC Vance 1173
+1,NC Vance 1178
+1,NC Vance 1210
+1,NC Vance 1211
+1,NC Vance 1219
+1,NC Vance 1266
+1,NC Vance 1312
+1,NC Vance 1369
+1,NC Vance 1376
+1,NC Vance 1501
+1,NC Vance 1507
+1,NC Vance 1518
+1,NC Vance 1548
+1,NC Vance 1552
+1,NC Vance 1595
+1,NC Wake 1127
+1,NC Wake 1909
+1,NC Wake 1929
+1,NC Wake 1931
+1,NC Wake 1932
+1,NC Wake 2006
+1,NC Wake 2044
+1,NC Wake 2045
+1,NC Wake 2049
+1,NC Wake 2089
+1,NC Wake 2182
+1,NC Warren 1213
+1,NC Warren 1233
+1,NC Warren 1305
+1,NC-11
 1,NC-111
-1,NC-177
+1,NC-131
+1,NC-172
+2,NC-177
+1,NC-2
+1,NC-20
 1,NC-210
+1,NC-211
 1,NC-216
-1,NC-540
-1,NC-67
+2,NC-24
+1,NC-27
+1,NC-32
+1,NC-33
+1,NC-39
+1,NC-41
+1,NC-42
+1,NC-471
+1,NC-5
+1,NC-50
+2,NC-54
+2,NC-540
+1,NC-55
+1,NC-56
+1,NC-61
+1,NC-63
+2,NC-65
+2,NC-67
+1,NC-69
+1,NC-690
+1,NC-71
+1,NC-78
+1,NC-79
+1,NC-81
+1,NC-86
+1,NC-87
 1,NC-885
+1,NC-91
+1,NC-96
+1,NC-98
+1,ND Richland 81
+1,ND-11
+1,ND-17
+1,ND-20
+1,ND-21
 1,ND-210
-1,ND-67
-1,NE-67
+1,ND-24
+1,ND-31
+1,ND-32
+1,ND-36
+1,ND-41
+1,ND-44
+1,ND-54
+2,ND-65
+2,ND-67
+1,ND-91
+1,NE Link 24B
+1,NE Link 24D
+1,NE Link 41D
+1,NE Link 44C
+1,NE Link 61D
+1,NE Link 67E
+1,NE Link 76E
+1,NE Link 79E
+1,NE Link 91D
+1,NE Rec 54C
+1,NE Rec 54F
+1,NE Rec 67D
+1,NE Rec 71G
+1,NE Recreation 44
+1,NE Spur 21B
+1,NE Spur 21C
+1,NE Spur 24C
+1,NE Spur 26B
+1,NE Spur 26E
+1,NE Spur 41B
+1,NE Spur 41C
+1,NE Spur 54B
+1,NE Spur 54D
+1,NE Spur 61A
+2,NE Spur 65A
+1,NE Spur 67A
+1,NE Spur 67B
+1,NE Spur 67C
+1,NE Spur 71A
+1,NE Spur 71B
+1,NE Spur 71C
+1,NE Spur 71F
+1,NE Spur 76A
+1,NE Spur 76C
+1,NE Spur 76D
+1,NE Spur 79H
+1,NE Spur 86B
+1,NE Spur 91A
+1,NE Spur 91B
+1,NE-11
+1,NE-17
+1,NE-21
+1,NE-24
+1,NE-29
+1,NE-31
+1,NE-32
+1,NE-33
+1,NE-36
+1,NE-41
+1,NE-44
+1,NE-61
+2,NE-65
+2,NE-67
+1,NE-69
+1,NE-71
+1,NE-79
+1,NE-91
 2,NH-10
-2,NH-101
-1,NH-111
+3,NH-101
+1,NH-107
+1,NH-11
+2,NH-111
+1,NH-11D
 2,NH-12
 3,NH-123
+2,NH-151
 1,NH-16
+1,NH-1A
+1,NH-1B
+1,NH-26
+1,NH-27
 2,NH-28
-3,NH-31
+4,NH-31
+1,NH-32
+3,NH-33
+1,NH-41
+1,NH-84
+1,NH-88
 3,NH-9
+1,NJ Atlantic 601
+1,NJ Atlantic 602
+1,NJ Atlantic 603
+1,NJ Atlantic 604
+1,NJ Atlantic 605
+1,NJ Atlantic 606
+1,NJ Atlantic 608
+1,NJ Atlantic 610
+1,NJ Atlantic 611
+1,NJ Atlantic 615
+1,NJ Atlantic 618
+2,NJ Atlantic 621
+1,NJ Atlantic 630
+1,NJ Atlantic 633
+1,NJ Atlantic 634
+1,NJ Atlantic 637
+1,NJ Atlantic 644
+1,NJ Atlantic 646
+1,NJ Atlantic 655
+1,NJ Atlantic 657
+1,NJ Atlantic 662
+1,NJ Atlantic 663
+1,NJ Atlantic 687
+1,NJ Bergen 111
+1,NJ Bergen 131
+2,NJ Bergen 21
+1,NJ Bergen 26
+1,NJ Bergen 29
+1,NJ Bergen 31
+1,NJ Bergen 32
+1,NJ Bergen 36
+1,NJ Bergen 41
+1,NJ Bergen 44
+1,NJ Bergen 54
+1,NJ Bergen 61
+2,NJ Bergen 62
+1,NJ Bergen 63
+2,NJ Bergen 65
+1,NJ Bergen 67
+1,NJ Bergen 69
+1,NJ Bergen 71
+2,NJ Bergen 75
+1,NJ Bergen 76
+1,NJ Bergen 79
+1,NJ Bergen 81
+1,NJ Bergen 91
+1,NJ Bergen C21
+1,NJ Bergen S31
+1,NJ Bergen S32
+1,NJ Burlington 611
+1,NJ Burlington 616
+3,NJ Burlington 621
+1,NJ Burlington 622
+1,NJ Burlington 632
+1,NJ Burlington 633
+1,NJ Burlington 637
+1,NJ Burlington 642
+1,NJ Burlington 648
+1,NJ Burlington 655
+1,NJ Burlington 660
+1,NJ Burlington 662
+1,NJ Burlington 667
+1,NJ Burlington 670
+1,NJ Burlington 678
+1,NJ Burlington 679
+1,NJ Burlington 681
+1,NJ Burlington 690
+2,NJ CR 506
+3,NJ CR 508
+5,NJ CR 510
+2,NJ CR 513
+2,NJ CR 514
+1,NJ CR 516
+2,NJ CR 517
+1,NJ CR 518
+3,NJ CR 519
+7,NJ CR 520
+3,NJ CR 522
+3,NJ CR 524
+1,NJ CR 524A
+5,NJ CR 526
+8,NJ CR 527
+3,NJ CR 528
+2,NJ CR 529
+2,NJ CR 530
+3,NJ CR 533
+1,NJ CR 534
+4,NJ CR 535
+3,NJ CR 536
+9,NJ CR 537
+1,NJ CR 538
+3,NJ CR 539
+1,NJ CR 543
+1,NJ CR 544
+1,NJ CR 546
+4,NJ CR 547
+1,NJ CR 549
+3,NJ CR 551
+4,NJ CR 553
+1,NJ CR 554
+3,NJ CR 561
+1,NJ CR 571
+1,NJ CR 573
+2,NJ CR 577
+3,NJ CR 583
+1,NJ Camden 600
+1,NJ Camden 601
+1,NJ Camden 603
+1,NJ Camden 604
+1,NJ Camden 605
+1,NJ Camden 606
+1,NJ Camden 607
+1,NJ Camden 608
+1,NJ Camden 609
+1,NJ Camden 610
+2,NJ Camden 611
+1,NJ Camden 612
+1,NJ Camden 613
+1,NJ Camden 614
+1,NJ Camden 615
+1,NJ Camden 616
+1,NJ Camden 617
+1,NJ Camden 619
+1,NJ Camden 620
+3,NJ Camden 621
+1,NJ Camden 622
+1,NJ Camden 623
+1,NJ Camden 624
+1,NJ Camden 625
+1,NJ Camden 626
+1,NJ Camden 627
+1,NJ Camden 628
+1,NJ Camden 629
+1,NJ Camden 630
+1,NJ Camden 631
+2,NJ Camden 632
+2,NJ Camden 633
+1,NJ Camden 634
+1,NJ Camden 635
+1,NJ Camden 636
+2,NJ Camden 637
+1,NJ Camden 638
+1,NJ Camden 639
+1,NJ Camden 640
+1,NJ Camden 641
+1,NJ Camden 642
+1,NJ Camden 643
+1,NJ Camden 644
+1,NJ Camden 645
+1,NJ Camden 646
+1,NJ Camden 647
+1,NJ Camden 648
+1,NJ Camden 649
+1,NJ Camden 650
+1,NJ Camden 651
+1,NJ Camden 652
+1,NJ Camden 653
+1,NJ Camden 654
+2,NJ Camden 655
+1,NJ Camden 656
+1,NJ Camden 657
+1,NJ Camden 658
+1,NJ Camden 659
+1,NJ Camden 660
+1,NJ Camden 661
+1,NJ Camden 662
+1,NJ Camden 663
+1,NJ Camden 664
+1,NJ Camden 665
+1,NJ Camden 666
+1,NJ Camden 667
+1,NJ Camden 668
+1,NJ Camden 669
+1,NJ Camden 670
+1,NJ Camden 671
+1,NJ Camden 673
+1,NJ Camden 674
+1,NJ Camden 675
+2,NJ Camden 676
+1,NJ Camden 677
+1,NJ Camden 678
+1,NJ Camden 679
+1,NJ Camden 680
+1,NJ Camden 681
+1,NJ Camden 682
+1,NJ Camden 683
+1,NJ Camden 684
+1,NJ Camden 685
+1,NJ Camden 686
+1,NJ Camden 687
+1,NJ Camden 688
+1,NJ Camden 689
+1,NJ Camden 690
+1,NJ Camden 691
+1,NJ Camden 692
+1,NJ Camden 693
+1,NJ Camden 694
+1,NJ Camden 695
+1,NJ Camden 696
+1,NJ Camden 697
+1,NJ Camden 698
+1,NJ Camden 699
+1,NJ Camden 700
+1,NJ Camden 701
+1,NJ Camden 702
+1,NJ Camden 703
+1,NJ Camden 704
+1,NJ Camden 705
+1,NJ Camden 706
+1,NJ Camden 707
+1,NJ Camden 708
+1,NJ Camden 709
+1,NJ Camden 710
+1,NJ Camden 711
+1,NJ Camden 712
+1,NJ Camden 713
+1,NJ Camden 714
+1,NJ Camden 715
+1,NJ Camden 716
+1,NJ Camden 717
+1,NJ Camden 718
+1,NJ Camden 719
+1,NJ Camden 720
+1,NJ Camden 721
+1,NJ Camden 722
+1,NJ Camden 723
+1,NJ Camden 724
+1,NJ Camden 725
+1,NJ Camden 726
+1,NJ Camden 727
+1,NJ Camden 728
+1,NJ Camden 729
+1,NJ Camden 730
+2,NJ Camden 732
+1,NJ Camden 733
+1,NJ Camden 734
+1,NJ Camden 736
+1,NJ Camden 737
+1,NJ Camden 739
+1,NJ Camden 740
+1,NJ Camden 742
+1,NJ Camden 743
+1,NJ Camden 744
+1,NJ Camden 745
+1,NJ Camden 747
+1,NJ Camden 748
+1,NJ Camden 750
+1,NJ Camden 751
+1,NJ Camden 753
+1,NJ Camden 755
+3,NJ Camden 756
+1,NJ Camden 757
+1,NJ Camden 758
+1,NJ Camden 759
+1,NJ Camden 760
+1,NJ Camden 761
+1,NJ Camden 762
+1,NJ Camden 763
+1,NJ Camden 764
+1,NJ Camden 765
+1,NJ Cape May 601
+1,NJ Cape May 602
+1,NJ Cape May 603
+1,NJ Cape May 609
+1,NJ Cape May 611
+1,NJ Cape May 612
+1,NJ Cape May 613
+1,NJ Cape May 615
+2,NJ Cape May 621
+1,NJ Cape May 623
+1,NJ Cape May 625
+1,NJ Cape May 628
+1,NJ Cape May 631
+1,NJ Cape May 632
+1,NJ Cape May 633
+1,NJ Cape May 634
+2,NJ Cape May 637
+1,NJ Cape May 644
+1,NJ Cape May 646
+1,NJ Cape May 647
+1,NJ Cape May 652
+1,NJ Cape May 655
+1,NJ Cape May 657
+1,NJ Cape May 658
+1,NJ Cape May 662
+1,NJ Cape May 667
+1,NJ Cumberland 611
+2,NJ Cumberland 621
+1,NJ Cumberland 633
+1,NJ Cumberland 637
+1,NJ Cumberland 655
+1,NJ Cumberland 676
+1,NJ Cumberland 732
+1,NJ Cumberland 735
+1,NJ Dauphin 3032
+2,NJ Essex 603
+2,NJ Essex 605
+1,NJ Essex 611
+1,NJ Essex 618
+2,NJ Essex 620
+2,NJ Essex 630
+1,NJ Essex 632
+1,NJ Essex 633
+1,NJ Essex 636
+1,NJ Essex 637
+2,NJ Essex 638
+1,NJ Essex 642
+2,NJ Essex 655
+5,NJ Gloucester 603
+1,NJ Gloucester 611
+4,NJ Gloucester 621
+1,NJ Gloucester 632
+1,NJ Gloucester 633
+1,NJ Gloucester 637
+1,NJ Gloucester 655
+5,NJ Gloucester 663
+3,NJ Gloucester 676
+1,NJ Hudson 611
+1,NJ Hudson 612
+2,NJ Hudson 621
+1,NJ Hudson 632
+1,NJ Hudson 633
+1,NJ Hudson 637
+1,NJ Hudson 655
+2,NJ Hudson 670
+2,NJ Hudson 673
+1,NJ Hudson 676
+2,NJ Hudson 677
+2,NJ Hudson 679
+2,NJ Hudson 681
+1,NJ Hudson 700
+1,NJ Hudson 701
+1,NJ Hudson 702
+3,NJ Hudson 732
+2,NJ Hudson 735
+1,NJ Hunterdon 611
+2,NJ Hunterdon 619
+2,NJ Hunterdon 621
+2,NJ Hunterdon 627
+1,NJ Hunterdon 633
+1,NJ Hunterdon 651
+1,NJ Mercer 3012
+1,NJ Mercer 604
+1,NJ Mercer 608
+1,NJ Mercer 611
+1,NJ Mercer 613
+2,NJ Mercer 616
+2,NJ Mercer 618
+2,NJ Mercer 621
+1,NJ Mercer 622
+1,NJ Mercer 626
+1,NJ Mercer 630
+1,NJ Mercer 632
+1,NJ Mercer 633
+1,NJ Mercer 634
+4,NJ Mercer 636
+2,NJ Mercer 637
+2,NJ Mercer 643
+1,NJ Mercer 645
+1,NJ Mercer 648
+2,NJ Mercer 649
+1,NJ Mercer 650
+2,NJ Mercer 653
+1,NJ Middlesex 606
+2,NJ Middlesex 609
+2,NJ Middlesex 611
+2,NJ Middlesex 613
+1,NJ Middlesex 614
+1,NJ Middlesex 615
+1,NJ Middlesex 616
+3,NJ Middlesex 617
+2,NJ Middlesex 621
+3,NJ Middlesex 622
+1,NJ Middlesex 625
+1,NJ Middlesex 632A
+1,NJ Middlesex 632B
+1,NJ Middlesex 632C
+1,NJ Middlesex 632D
+1,NJ Middlesex 632E
+1,NJ Middlesex 653
+2,NJ Middlesex 655
+1,NJ Middlesex 656
+2,NJ Middlesex 665
+1,NJ Middlesex 676
+1,NJ Middlesex 678
+1,NJ Middlesex 700
+1,NJ Middlesex 701
+3,NJ Monmouth 1
+3,NJ Monmouth 10
+3,NJ Monmouth 11
+3,NJ Monmouth 12
+2,NJ Monmouth 13
+1,NJ Monmouth 14
+1,NJ Monmouth 15
+2,NJ Monmouth 16
+3,NJ Monmouth 17
+3,NJ Monmouth 18
+1,NJ Monmouth 20
+3,NJ Monmouth 21
+1,NJ Monmouth 24
+1,NJ Monmouth 25
+1,NJ Monmouth 27
+1,NJ Monmouth 28
+2,NJ Monmouth 29
+3,NJ Monmouth 3
+3,NJ Monmouth 30
+1,NJ Monmouth 31
+2,NJ Monmouth 32
+1,NJ Monmouth 33
+1,NJ Monmouth 34
+2,NJ Monmouth 36
+1,NJ Monmouth 40A
+2,NJ Monmouth 40a
+1,NJ Monmouth 44
+1,NJ Monmouth 45
+1,NJ Monmouth 47
+1,NJ Monmouth 48
+1,NJ Monmouth 49
+1,NJ Monmouth 5
+5,NJ Monmouth 50
+2,NJ Monmouth 51
+2,NJ Monmouth 52
+5,NJ Monmouth 54
+1,NJ Monmouth 56
+3,NJ Monmouth 57
+1,NJ Monmouth 7
+1,NJ Monmouth 8
+1,NJ Monroe 85
+2,NJ Morris 601
+1,NJ Morris 611
+1,NJ Morris 612
+1,NJ Morris 613
+2,NJ Morris 617
+2,NJ Morris 621
+1,NJ Morris 625
+2,NJ Morris 631
+1,NJ Morris 632
+1,NJ Morris 633
+1,NJ Morris 637
+1,NJ Morris 655
+2,NJ Morris 670
+1,NJ Morris Alt 633
+1,NJ Morris Alt 655
+1,NJ Ocean 111
+1,NJ Ocean 31
+1,NJ Ocean 32
+1,NJ Ocean 50
+1,NJ Ocean 603
+1,NJ Ocean 611
+3,NJ Ocean 621
+1,NJ Ocean 623
+1,NJ Ocean 632
+1,NJ Ocean 633
+1,NJ Ocean 637
+4,NJ Ocean 638
+1,NJ Ocean 639
+1,NJ Ocean 640
+1,NJ Ocean 641
+1,NJ Ocean 69
+1,NJ Ocean 71
+1,NJ Ocean 79
+1,NJ Passaic 611
+3,NJ Passaic 621
+1,NJ Passaic 632
+1,NJ Passaic 633
+1,NJ Passaic 637
+1,NJ Passaic 655
+1,NJ Passaic 676
+1,NJ Salem 611
+2,NJ Salem 621
+1,NJ Salem 632
+1,NJ Salem 633
+1,NJ Salem 637
+1,NJ Salem 655
+1,NJ Salem 676
+1,NJ Somerset 601
+1,NJ Somerset 604
+1,NJ Somerset 608
+1,NJ Somerset 609
+1,NJ Somerset 620
+2,NJ Somerset 621
+1,NJ Somerset 626
+1,NJ Somerset 630
+1,NJ Somerset 632
+1,NJ Somerset 633
+1,NJ Somerset 637
+1,NJ Somerset 639
+1,NJ Somerset 652
+1,NJ Somerset 655
+1,NJ Somerset 661
+2,NJ Somerset 665
+1,NJ Sussex 603
+1,NJ Sussex 604
+1,NJ Sussex 607
+2,NJ Sussex 611
+1,NJ Sussex 618
+3,NJ Sussex 621
+1,NJ Sussex 626
+1,NJ Sussex 630
+1,NJ Sussex 632
+2,NJ Sussex 633
+1,NJ Sussex 636
+1,NJ Sussex 637
+1,NJ Sussex 645
+1,NJ Sussex 650
+1,NJ Sussex 652
+1,NJ Sussex 653
+1,NJ Sussex 654
+1,NJ Sussex 655
+1,NJ Sussex 656
+1,NJ Sussex 669
+1,NJ Sussex 675
+1,NJ Union 610
+1,NJ Union 611
+1,NJ Union 612
+3,NJ Union 618
+3,NJ Union 621
+1,NJ Union 623
+2,NJ Union 630
+1,NJ Union 632
+1,NJ Union 633
+1,NJ Union 637
+1,NJ Union 638
+1,NJ Union 655
+1,NJ Warren 611
+1,NJ Warren 621
+1,NJ Warren 627
+2,NJ Warren 632
+1,NJ Warren 633
+1,NJ Warren 637
+1,NJ Warren 655
+1,NJ Warren 676
+1,NJ Warren 678
 2,NJ-10
 1,NJ-109
 2,NJ-12
@@ -805,444 +2080,1662 @@
 2,NJ-124
 2,NJ-138
 1,NJ-139
+1,NJ-143
 1,NJ-147
 3,NJ-15
+1,NJ-154
 1,NJ-157
-3,NJ-17
-1,NJ-172
+1,NJ-168
+4,NJ-17
+2,NJ-172
 1,NJ-175
 2,NJ-182
 1,NJ-183
 1,NJ-185
-5,NJ-21
+1,NJ-20
+6,NJ-21
+1,NJ-24
+1,NJ-26
 3,NJ-27
-1,NJ-28
+2,NJ-28
 5,NJ-3
-8,NJ-31
-2,NJ-32
-7,NJ-33
+10,NJ-31
+3,NJ-32
+9,NJ-33
 4,NJ-34
 1,NJ-347
-7,NJ-35
-6,NJ-36
+18,NJ-35
+8,NJ-36
 4,NJ-37
-2,NJ-38
+3,NJ-38
 2,NJ-4
-1,NJ-41
-2,NJ-42
+3,NJ-41
+3,NJ-42
 2,NJ-439
-8,NJ-444
+1,NJ-44
+9,NJ-444
 2,NJ-445
-3,NJ-446
-6,NJ-47
+5,NJ-446
+1,NJ-446X
+7,NJ-47
 1,NJ-49
 3,NJ-495
 1,NJ-5
+1,NJ-54
 6,NJ-55
 2,NJ-57
-3,NJ-67
+4,NJ-67
 1,NJ-68
-4,NJ-70
-7,NJ-700
-5,NJ-71
+5,NJ-70
+9,NJ-700
+6,NJ-71
+1,NJ-73
+1,NJ-76C
 1,NJ-77
-5,NJ-79
+6,NJ-79
+1,NJ-81
 2,NJ-82
+1,NJ-90
+1,NJ-91
 2,NJ-93
 2,NJ-94
+1,NM-11
 1,NM-111
+1,NM-131
+1,NM-172
+1,NM-20
+1,NM-206
+1,NM-21
 1,NM-210
 1,NM-216
+1,NM-223
+1,NM-24
+1,NM-247
+1,NM-26
+1,NM-29
+1,NM-31
+1,NM-32
+1,NM-36
+1,NM-41
+1,NM-420
+1,NM-446
+1,NM-61
+1,NM-63
+2,NM-65
+1,NM-76
+1,NM-81
+1,NM-91
+1,NV Clark 215
+1,NV-157
+1,NV-159
+1,NV-172
+1,NV-206
+1,NV-223
+1,NV-339
+1,NV-431
+1,NV-446
 1,NV-529
+1,NV-573
+1,NV-574
+1,NV-582
+1,NV-589
+1,NV-595
+1,NV-613
+1,NV-794
+1,NY Albany 11
+1,NY Albany 111
+1,NY Albany 303
+1,NY Allegany 11
+1,NY Allegany 17
+1,NY Allegany 20
+1,NY Allegany 21
+1,NY Allegany 24
+1,NY Allegany 29
+1,NY Allegany 36
+1,NY Allegany 41
+1,NY Bergen 33
+1,NY Bergen S33
+1,NY Broome 217
+1,NY Broome 303
+1,NY Broome 33
+1,NY Broome 44
+2,NY Broome 53
+1,NY Broome 86
+1,NY Cattaraugus 17
+1,NY Cattaraugus 24
+1,NY Cattaraugus 29
+1,NY Cattaraugus 33
+2,NY Cattaraugus 65
+1,NY Cattaraugus 67
+1,NY Cattaraugus 76
+1,NY Cattaraugus 86
+1,NY Cayuga 131
+1,NY Cayuga 26
+1,NY Cayuga 44
+1,NY Cayuga 54
+1,NY Cayuga 63B
+1,NY Cayuga 67
+1,NY Cayuga 76
+1,NY Cayuga 81A
+1,NY Cayuga 81C
+1,NY Chatauqua 36
+1,NY Chautauqua 21
+1,NY Chautauqua 33
+1,NY Chautauqua 44
+1,NY Chautauqua 54
+1,NY Chautauqua 61
+2,NY Chautauqua 65
+1,NY Chautauqua 67
+1,NY Chautauqua 69
+1,NY Chautauqua 71
+1,NY Chautauqua 79
+1,NY Chautauqua 81
+1,NY Chautauqua 86
+1,NY Chemung 24
+1,NY Chemung 36
+1,NY Chemung 54
+1,NY Chemung 63
+1,NY Chemung 69
+1,NY Chenango 11
+1,NY Chenango 26
+1,NY Chenango 29
+1,NY Clinton 11
+1,NY Clinton 17
+1,NY Clinton 20
+1,NY Clinton 24
+1,NY Clinton 26
+1,NY Clinton 29
+1,NY Columbia 11
+1,NY Columbia 17
+1,NY Columbia 20
+1,NY Columbia 21
+1,NY Columbia 21B
+1,NY Columbia 21C
+1,NY Columbia 29
+1,NY Columbia 61
+1,NY Cortland 111
+1,NY Cortland 131
+1,NY Delaware 11
+1,NY Delaware 17
+1,NY Delaware 20
+1,NY Delaware 21
+1,NY Delaware 29
+1,NY Delaware 67
+1,NY Dutchess 111
+1,NY Dutchess 17
+1,NY Dutchess 20
+1,NY Dutchess 21
+1,NY Dutchess 24
+1,NY Dutchess 29
+1,NY Dutchess 31
+1,NY Dutchess 33
+1,NY Dutchess 36
+1,NY Dutchess 37
+1,NY Dutchess 41
+1,NY Dutchess 44
+1,NY Dutchess 54
+1,NY Dutchess 61
+1,NY Dutchess 63
+2,NY Dutchess 65
+1,NY Dutchess 67
+1,NY Dutchess 67A
+1,NY Dutchess 69
+1,NY Dutchess 71
+1,NY Dutchess 79
+1,NY Dutchess 81
+1,NY Dutchess 86
+1,NY Erie 11
+1,NY Erie 111
+1,NY Erie 21
+1,NY Erie 303
+1,NY Erie 33
+1,NY Erie 336
+1,NY Erie 41
+1,NY Erie 44
+2,NY Erie 65
+1,NY Erie 67
+1,NY Essex 11
+1,NY Essex 17
+1,NY Essex 21
+1,NY Essex 29
+1,NY Essex 41
+1,NY Essex 71
+1,NY Essex 81
+1,NY Franklin 17
+1,NY Franklin 26
+1,NY Franklin 31
+1,NY Franklin 54
+1,NY Fulton 111
+1,NY Fulton 131
+1,NY Genesee 11
+1,NY Genesee 20
+1,NY Genesee 21
+1,NY Genesee 41
+1,NY Genessee 17
+1,NY Genessee 36
+1,NY Greene 23B
+1,NY Greene 26
+1,NY Greene 31
+1,NY Greene 36
+1,NY Greene 41
+1,NY Greene 61
+2,NY Greene 65
+1,NY Greene 67
+1,NY Greene 67A
+1,NY Hamilton 21
+1,NY Herkimer 21
+1,NY Herkimer 26
+2,NY Herkimer 65
+1,NY Herkimer 71
+1,NY Herkimer 79
+1,NY Herkimer 91
+1,NY Jefferson 111
+1,NY Jefferson 26
+1,NY Jefferson 36
+1,NY Jefferson 54
+2,NY Jefferson 65
+1,NY Jefferson 69
+1,NY Lewis 11
+1,NY Lewis 21
+1,NY Lewis 33
+1,NY Lewis 44
+1,NY Lewis 54
+1,NY Livingston 20
+2,NY Livingston 26
+1,NY Livingston 31
+1,NY Livingston 36
+1,NY Livingston 36A
+1,NY Livingston 41
+1,NY Livingston 63
+2,NY Livingston 65
+1,NY Livingston 71
+1,NY Madison 11
+1,NY Madison 17
+1,NY Madison 28
+1,NY Madison 41
+1,NY Madison 61
+1,NY Madison 65
+1,NY Madison 76
+1,NY Madison 79
+1,NY Madison 81
+1,NY Monmouth 33
+1,NY Monroe 11
+2,NY Monroe 266
+1,NY Monroe 63
+1,NY Monroe 65
+1,NY Monroe 67
+1,NY Monroe 75
+1,NY Monroe 77
+1,NY Monroe 79
+3,NY Monroe 81
+1,NY Monroe 82
+1,NY Monroe 83
+1,NY Monroe 85
+1,NY Monroe 86
+1,NY Monroe 91
+1,NY Montgomery 131
+1,NY Montgomery 24
+1,NY Montgomery 31
+1,NY Montgomery 36
+1,NY Montgomery 71
+1,NY Montgomery 76
+1,NY Montgomery 79
+1,NY Montgomery 81
+1,NY Montgomery 86
+1,NY Nassau 63
+1,NY Niagara 11
+1,NY Niagara 111
+1,NY Niagara 131
+1,NY Niagara 17
+1,NY Niagara 20
+1,NY Niagara 24
+1,NY Niagara 26
+1,NY Niagara 31
+1,NY Niagara 36
+1,NY Niagara 67
+1,NY Niagara 76
+1,NY Niagara 91
+1,NY Oneida 11
+1,NY Oneida 17
+1,NY Oneida 21
+1,NY Oneida 29
+2,NY Oneida 65
+1,NY Oneida 67
+1,NY Oneida 67A
+1,NY Oneida 71
+1,NY Oneida 76
+1,NY Oneida 81
+1,NY Oneida 91
+1,NY Onondaga 131
+1,NY Onondaga 24
+1,NY Onondaga 33
+1,NY Onondaga 41
+1,NY Onondaga 61
+1,NY Onondaga 63
+1,NY Onondaga 67
+1,NY Onondaga 91
+1,NY Ontario 11
+1,NY Ontario 17
+1,NY Ontario 20
+1,NY Ontario 21
+1,NY Ontario 24
+1,NY Ontario 26
+1,NY Ontario 29
+1,NY Ontario 33
+1,NY Ontario 36
+1,NY Ontario 41
+1,NY Orange 11
+1,NY Orange 17
+1,NY Orange 20
+1,NY Orange 21
+1,NY Orange 26
+1,NY Orange 29
+1,NY Orange 33
+1,NY Orange 36
+1,NY Orange 54
+1,NY Orange 61
+2,NY Orange 65
+1,NY Orange 67
+1,NY Orange 69
+1,NY Orange 76
+1,NY Orleans 31
+1,NY Orleans 41
+1,NY Orleans 63
+1,NY Oswego 17
+1,NY Oswego 20
+1,NY Oswego 21
+1,NY Oswego 24
+1,NY Oswego 33
+1,NY Oswego 54
+1,NY Otsego 11
+1,NY Otsego 17
+1,NY Otsego 20
+1,NY Otsego 21
+1,NY Otsego 26
+1,NY Otsego 29
+1,NY Otsego 31
+1,NY Otsego 33
+1,NY Otsego 54
+1,NY Putnam 11
+1,NY Putnam 17
+1,NY Putnam 20
+1,NY Putnam 21
+1,NY Putnam 24
+1,NY Putnam 33
+1,NY Putnam 36
+1,NY Putnam 41
+1,NY Putnam 44
+1,NY Putnam 54
+1,NY Putnam 61
+1,NY Putnam 63
+2,NY Putnam 65
+1,NY Putnam 67
+1,NY Putnam 71
+1,NY Rensselaer 20
+1,NY Rensselaer 21
+1,NY Rensselaer 26
+1,NY Rensselaer 29
+1,NY Rensselaer 36
+1,NY Rensselaer 41
+1,NY Rensselaer 44
+1,NY Rensselaer 54
+1,NY Rensselaer 63
+2,NY Rensselaer 65
+1,NY Rensselaer 67
+1,NY Rensselaer 76
+1,NY Rensselaer 79
+1,NY Rensselaer 91
+1,NY Rockland 11
+1,NY Rockland 17
+1,NY Rockland 20
+1,NY Rockland 26
+1,NY Rockland 29
+1,NY Rockland 33
+1,NY Rockland 36
+1,NY Rockland 41
+1,NY Rockland 44
+2,NY Rockland 65
+1,NY Rockland 67
+1,NY Rockland 69
+1,NY Rockland 71
+1,NY Rockland 76
+1,NY Rockland 81
+1,NY Rockland 86
+1,NY Saratoga 21
+1,NY Saratoga 29
+1,NY Saratoga 33
+1,NY Saratoga 339
+1,NY Saratoga 36
+1,NY Saratoga 54
+2,NY Saratoga 65
+1,NY Saratoga 71
+1,NY Saratoga 76
+1,NY Schenectady 131
+1,NY Schenectady 24
+1,NY Schenectady 33
+1,NY Schenectady 36
+1,NY Schenectady 69
+1,NY Schenectady 71
+1,NY Schenectady 91
+1,NY Schoharie 11
+1,NY Schoharie 17
+1,NY Schoharie 21
+1,NY Schoharie 24
+1,NY Schoharie 26
+1,NY Schoharie 33
+1,NY Schoharie 41
+1,NY Schoharie 44
+1,NY Schoharie 54
+1,NY Schoharie 61
+2,NY Schoharie 65
+1,NY Schuyler 11
+1,NY Schuyler 17
+1,NY Schuyler 24
+1,NY Schuyler 26
+1,NY St. Lawrence 17
+1,NY St. Lawrence 24
+1,NY St. Lawrence 41
+1,NY St. Lawrence 44
+1,NY St. Lawrence 54
+1,NY Steuben 11
+1,NY Steuben 111
+1,NY Steuben 17
+1,NY Steuben 24
+1,NY Steuben 26
+1,NY Steuben 36
+1,NY Steuben 41
+1,NY Steuben 44
+1,NY Steuben 67
+1,NY Steuben 76
+1,NY Suffolk 11
+1,NY Suffolk 111
+1,NY Suffolk 17
+1,NY Suffolk 20
+1,NY Suffolk 21
+1,NY Suffolk 24
+1,NY Suffolk 26
+1,NY Suffolk 31
+1,NY Suffolk 33
+1,NY Suffolk 36
+1,NY Suffolk 41
+1,NY Suffolk 44
+1,NY Suffolk 54
+1,NY Suffolk 61
+1,NY Suffolk 63
+2,NY Suffolk 65
+1,NY Suffolk 67
+1,NY Suffolk 67A
+1,NY Suffolk 69
+1,NY Suffolk 71
+1,NY Suffolk 76
+1,NY Suffolk 79
+1,NY Suffolk 79A
+1,NY Suffolk 81
+1,NY Suffolk 86
+1,NY Suffolk 91
+1,NY Sullivan 11
+1,NY Sullivan 111
+1,NY Sullivan 21
+1,NY Sullivan 24
+1,NY Sullivan 26
+1,NY Sullivan 33
+1,NY Sullivan 41
+1,NY Sullivan 61
+2,NY Sullivan 65
+1,NY Sullivan 71
+1,NY Sullivan 81
+1,NY Sullivan 91
+1,NY Tioga 11
+1,NY Tioga 17
+1,NY Tioga 29
+1,NY Tioga 33
+1,NY Tioga 41
+1,NY Tioga 54
+1,NY Tompkins 131
+1,NY Ulster 11
+1,NY Ulster 20
+1,NY Ulster 21
+1,NY Ulster 24
+1,NY Ulster 29
+1,NY Ulster 31
+1,NY Ulster 33
+1,NY Ulster 41
+1,NY Ulster 54
+2,NY Ulster 65
+1,NY Warren 11
+1,NY Warren 17
+1,NY Warren 44
+1,NY Warren 63
+1,NY Warren 69
+1,NY Warren 71
+1,NY Warren 79
+1,NY Washington 17
+1,NY Washington 20
+1,NY Washington 21
+1,NY Washington 24
+1,NY Washington 26
+1,NY Washington 44
+1,NY Washington 54
+1,NY Washington 61
+1,NY Washington 67
+1,NY Westchester 112
+1,NY Westchester 131
+1,NY Westchester 134
+1,NY Westchester 15
+1,NY Westchester 151
+1,NY Westchester 152
+1,NY Westchester 155
+1,NY Westchester 21
+1,NY Westchester 24
+1,NY Westchester 26
+1,NY Westchester 303
+1,NY Westchester 38
+1,NY Westchester 43
+1,NY Westchester 54
+1,NY Westchester 63
+1,NY Westchester 65
+1,NY Westchester 7
+1,NY Westchester 70
+1,NY Westchester 71
+1,NY Westchester 73
+1,NY Westchester 75i
+1,NY Westchester 81
+1,NY Westchester 92
+1,NY Wyoming 11
+1,NY Wyoming 21
+1,NY Wyoming 26
+1,NY Wyoming 29
+1,NY Wyoming 31
+1,NY Wyoming 44
+1,NY Wyoming 54
+1,NY Yates 17
+1,NY Yates 20
+1,NY Yates 21
+1,NY Yates 29
+1,NY Yates 33
 1,NY-111
+1,NY-120
+1,NY-125
+1,NY-127
 1,NY-13
+1,NY-131
 2,NY-15A
-3,NY-17
+4,NY-17
+1,NY-172
+1,NY-17K
+1,NY-17M
 2,NY-201
+1,NY-206
+1,NY-21
 1,NY-210
 1,NY-216
-3,NY-22
+4,NY-22
+1,NY-223
 1,NY-23
+1,NY-24
 2,NY-242
+1,NY-247
 2,NY-251
 5,NY-252
 2,NY-253
 2,NY-259
-2,NY-26
+3,NY-26
 2,NY-263
+1,NY-29
 2,NY-298
-2,NY-32
+1,NY-303
+1,NY-31
+1,NY-31F
+3,NY-32
+1,NY-326
+1,NY-33
+1,NY-336
+1,NY-339
 2,NY-33A
 2,NY-343
+1,NY-36
+1,NY-391
+1,NY-41
 2,NY-417
+1,NY-420
+1,NY-431
 2,NY-434
+1,NY-495
 2,NY-52
+1,NY-54
 3,NY-55
-1,NY-67
-4,NY-7
-2,NY-79
+1,NY-61
+1,NY-63
+2,NY-65
+2,NY-67
+1,NY-69
+5,NY-7
+1,NY-71
+1,NY-76
+3,NY-79
+1,NY-81
 2,NY-82
+1,NY-86
+1,NY-890
 1,NY-9
+1,NY-900G
+1,NY-907
 2,NY-907K
+1,NY-907L
+1,NY-907P
+1,NY-907V
 1,NY-907W
+1,NY-908
+1,NY-91
+1,NY-912
 1,NY-92
 1,NY-93
 2,NY-96B
+1,NY-981
+1,NY-982
 1,NY-982L
+1,NY-983
 1,NY-984J
+1,NY-9A
 3,NY-9G
 1,NY-9H
-1,Nassau 108
-1,Nassau 115
-1,Nassau 121
-1,Nassau 15a
-1,Niagara 111
+1,OH-10
+1,OH-11
 1,OH-111
+1,OH-131
+1,OH-14
 1,OH-16
 1,OH-161
+1,OH-17
+1,OH-172
 1,OH-204
+1,OH-206
+1,OH-21
 1,OH-216
+1,OH-239
+1,OH-247
 1,OH-256
+1,OH-26
+1,OH-29
+1,OH-303
+1,OH-31
 1,OH-310
 1,OH-317
+1,OH-32
+1,OH-326
+1,OH-339
+1,OH-41
+1,OH-420
+1,OH-44
+1,OH-446
 1,OH-529
+1,OH-54
+1,OH-554
 1,OH-605
-1,OH-621
+1,OH-61
+1,OH-611
+2,OH-621
+1,OH-63
+1,OH-633
 1,OH-637
-1,OH-67
-1,OK-67
+2,OH-65
+2,OH-67
+1,OH-732
+1,OH-735
+1,OH-79
+1,OH-8
+1,OH-81
+1,OH-86
+1,OH-87
+1,OH-91
+1,OK-11
+1,OK-131
+1,OK-17
+1,OK-20
+1,OK-24
+1,OK-26
+1,OK-31
+1,OK-32
+1,OK-33
+1,OK-36
+1,OK-44
+1,OK-54
+1,OK-63
+1,OK-65
+2,OK-67
+1,OK-71
+1,OK-76
+1,OK-79
+1,OK-81A
+1,OK-86
+1,OK-91
+1,OR NH 29
+1,OR-11
+1,OR-131
+1,OR-206
 1,OR-210
 1,OR-216
-1,Ocean 111
-1,Ocean 50
-1,Ocean 603
-3,Ocean 621
-1,Ocean 623
-1,Ocean 637
-4,Ocean 638
-1,Ocean 639
-1,Ocean 640
-1,Ocean 641
-3,PA-118
+1,OR-223
+1,OR-31
+1,OR-339
+1,OR-36
+1,OR-86
+2,PA Blair 4015
+1,PA Bucks 2020
+1,PA Bucks 2022
+1,PA Bucks 2025
+1,PA Bucks 2027
+1,PA Bucks 2029
+1,PA Bucks 2033
+1,PA Bucks 2037
+1,PA Bucks 2044
+1,PA Bucks 2047
+1,PA Bucks 2049
+1,PA Bucks 2050
+1,PA Bucks 2058
+1,PA Bucks 2069
+1,PA Bucks 2071
+2,PA Centre 793
+1,PA Chester 3001
+1,PA Chester 3016
+1,PA Chester 3026
+1,PA Chester 3035
+1,PA Chester 3044
+1,PA Chester 3085
+1,PA Chester 3089
+1,PA Chester 3192
+1,PA Chester 3195
+1,PA Chester 3196
+1,PA Chester 3198
+1,PA Chester 3199
+1,PA Cumberland 2002
+1,PA Dauphin 3032
+1,PA Delaware 1003
+1,PA Delaware 1005
+1,PA Delaware 1008
+1,PA Delaware 2003
+1,PA Delaware 2005
+1,PA Delaware 2007
+1,PA Delaware 2009
+1,PA Delaware 2016
+1,PA Delaware 2026
+1,PA Delaware 3007
+1,PA Delaware 3027
+1,PA Delaware 3029
+1,PA Delaware 3036
+1,PA Delaware 3101
+1,PA Delaware 4005
+1,PA Delaware 4009
+1,PA Delaware 4015
+1,PA Delaware 4019
+1,PA Delaware 4020
+1,PA Delaware 4022
+2,PA Lehigh 2044
+2,PA Luzerne 1049
+2,PA Luzerne 18
+2,PA Luzerne 3034
+2,PA Luzerne 38
+1,PA Mercer 3012
+2,PA Montgomery 2017
+1,PA Montgomery 3043
+1,PA Montgomery 3044
+1,PA Montgomery 3045
+1,PA Montgomery 3061
+1,PA Philadelphia 1001
+1,PA Philadelphia 1002
+1,PA Philadelphia 1003
+1,PA Philadelphia 1005
+1,PA Philadelphia 1008
+1,PA Philadelphia 1009
+1,PA Philadelphia 1011
+1,PA Philadelphia 1014
+1,PA Philadelphia 1016
+1,PA Philadelphia 1018
+1,PA Philadelphia 2009
+2,PA Philadelphia 3003
+3,PA Philadelphia 3005
+1,PA Philadelphia 3007
+1,PA Philadelphia 3009
+1,PA Philadelphia 3012
+1,PA Philadelphia 3015
+1,PA Philadelphia 3017
+1,PA Philadelphia 3018
+1,PA Philadelphia 4001
+1,PA Philadelphia 4003
+1,PA Philadelphia 4005
+1,PA Philadelphia 4006
+1,PA Philadelphia 4007
+1,PA Philadelphia 4009
+1,PA Pike 2013
+2,PA Schuylkill 682
+2,PA Schuylkill 690
+2,PA Schuylkill 691
+2,PA Schuylkill 692
+2,PA Schuylkill 988
+1,PA-10
+4,PA-118
 2,PA-145
-3,PA-148
-3,PA-15
-1,PA-150
+4,PA-148
+4,PA-15
+2,PA-150
 2,PA-153
 1,PA-16
-3,PA-183
+1,PA-17
+4,PA-183
 3,PA-2014
+1,PA-21
 1,PA-210
+1,PA-213
 1,PA-216
-3,PA-230
-3,PA-233
-4,PA-255
-3,PA-29
-3,PA-290
-4,PA-3
-1,PA-305
-3,PA-309
-2,PA-32
-4,PA-34
-3,PA-347
-3,PA-352
-1,PA-36
-3,PA-378
-3,PA-39
+1,PA-223
+1,PA-23
+4,PA-230
+4,PA-233
+1,PA-239
+1,PA-24
+1,PA-247
+1,PA-252
+5,PA-255
+2,PA-26
+5,PA-29
+4,PA-290
+5,PA-3
+2,PA-305
+4,PA-309
+1,PA-31
+4,PA-32
+1,PA-320
+1,PA-326
+1,PA-33
+1,PA-339
+5,PA-34
+4,PA-347
+4,PA-352
+3,PA-36
+4,PA-378
+4,PA-39
 1,PA-392
-3,PA-401
-3,PA-430
-3,PA-441
-4,PA-443
-3,PA-452
+4,PA-401
+2,PA-41
+1,PA-413
+1,PA-420
+4,PA-430
+1,PA-44
+4,PA-441
+5,PA-443
+1,PA-446
+4,PA-452
 1,PA-465
-1,PA-484
-3,PA-51
-3,PA-518
-2,PA-54
+1,PA-471
+2,PA-484
+4,PA-51
+1,PA-513
+4,PA-518
+1,PA-52
+1,PA-532
+3,PA-54
+1,PA-554
 1,PA-581
-4,PA-61
-5,PA-611
-3,PA-63
+6,PA-61
+7,PA-611
+5,PA-63
+1,PA-632
+1,PA-633
 1,PA-641
 2,PA-642
+2,PA-65
+1,PA-655
 2,PA-662
-3,PA-718
-4,PA-74
-3,PA-760
+1,PA-69
+4,PA-718
+1,PA-729
+5,PA-74
+4,PA-760
 2,PA-770
-3,PA-780
+4,PA-780
+1,PA-79
+1,PA-796
+1,PA-82
+1,PA-841
+1,PA-848
+1,PA-857
+1,PA-86
+1,PA-861
+1,PA-890
 2,PA-895
+1,PA-896
 2,PA-901
-1,PA-915
-3,PA-93
+2,PA-915
+4,PA-93
 2,PA-970
 2,PA-997
-1,Palm Beach 706
-1,Palm Beach 792
-1,Palm Beach 794
-1,Palm Beach 806a
-1,Palm Beach 808
-3,Passaic 621
-1,Passaic 637
-2,Philadelphia 3003
-2,Philadelphia 3005
-1,Pike 2013
-1,RI-12
-1,Richland 1274
-1,Richland 52
-1,Richland 53
-1,Richland 955
-1,Richmond 85
+1,RI Washington BIA 405
+1,RI Washington BIA 411
+1,RI-10
+1,RI-102
+1,RI-103
+1,RI-108
+1,RI-11
+1,RI-110
+1,RI-112
+1,RI-113
+2,RI-114
+1,RI-117
+2,RI-12
+2,RI-122
+2,RI-126
+1,RI-138
+1,RI-146
+1,RI-15
+1,RI-152
+1,RI-2
+1,RI-216
+1,RI-24
+1,RI-246
+1,RI-3
+1,RI-33
+1,RI-37
+1,RI-401
+1,RI-402
+1,RI-403
+1,RI-5
+1,RI-78
+1,RI-81
+1,RI-91
+1,RI-99
+1,SC Aiken 105
+1,SC Aiken 1223
+1,SC Aiken 1305
+1,SC Aiken 1469
+1,SC Aiken 151
+1,SC Aiken 154
+1,SC Aiken 155
+1,SC Aiken 1693
+1,SC Aiken 1725
+1,SC Aiken 1902
+1,SC Aiken 1904
+1,SC Aiken 207
+1,SC Aiken 209
+1,SC Aiken 2190
+1,SC Aiken 2313
+1,SC Aiken 25
+1,SC Aiken 26
+1,SC Aiken 283
+1,SC Aiken 29
+1,SC Aiken 438
+1,SC Aiken 439
+1,SC Aiken 513
+1,SC Aiken 521
+1,SC Aiken 524
+1,SC Aiken 529
+1,SC Aiken 530
+1,SC Aiken 533
+1,SC Aiken 540
+1,SC Aiken 548
+1,SC Aiken 549
+1,SC Aiken 555
+1,SC Aiken 556
+1,SC Aiken 563
+1,SC Aiken 566
+1,SC Aiken 589
+1,SC Aiken 67
+1,SC Aiken 70
+1,SC Aiken 706
+1,SC Aiken 80
+1,SC Aiken 81
+1,SC Chesterfield 1088
+1,SC Chesterfield 143
+1,SC Chesterfield 188
+1,SC Chesterfield 20
+1,SC Chesterfield 204
+1,SC Chesterfield 229
+1,SC Chesterfield 247
+1,SC Chesterfield 29
+1,SC Chesterfield 296
+1,SC Chesterfield 31
+1,SC Chesterfield 326
+1,SC Chesterfield 36
+1,SC Chesterfield 380
+1,SC Chesterfield 388
+1,SC Chesterfield 406
+1,SC Chesterfield 426
+1,SC Chesterfield 46
+1,SC Chesterfield 491
+1,SC Chesterfield 534
+1,SC Chesterfield 538
+1,SC Chesterfield 581
+1,SC Chesterfield 606
+1,SC Chesterfield 607
+1,SC Chesterfield 63
+1,SC Chesterfield 69
+1,SC Chesterfield 81
+1,SC Chesterfield 86
+1,SC Kershaw 100
+1,SC Kershaw 111
+1,SC Kershaw 113
+1,SC Kershaw 130
+1,SC Kershaw 131
+1,SC Kershaw 132
+1,SC Kershaw 133
+1,SC Kershaw 139
+1,SC Kershaw 145
+1,SC Kershaw 15
+1,SC Kershaw 169
+1,SC Kershaw 185
+1,SC Kershaw 21
+1,SC Kershaw 213
+1,SC Kershaw 26
+1,SC Kershaw 304
+1,SC Kershaw 306
+1,SC Kershaw 313
+1,SC Kershaw 318
+1,SC Kershaw 338
+1,SC Kershaw 348
+1,SC Kershaw 350
+1,SC Kershaw 353
+1,SC Kershaw 356
+1,SC Kershaw 357
+1,SC Kershaw 36
+1,SC Kershaw 368
+1,SC Kershaw 38
+1,SC Kershaw 406
+1,SC Kershaw 407
+1,SC Kershaw 42
+1,SC Kershaw 440
+1,SC Kershaw 45
+1,SC Kershaw 48
+1,SC Kershaw 51
+1,SC Kershaw 512
+1,SC Kershaw 52
+1,SC Kershaw 530
+1,SC Kershaw 535
+1,SC Kershaw 547
+1,SC Kershaw 549
+1,SC Kershaw 551
+1,SC Kershaw 552
+1,SC Kershaw 564
+1,SC Kershaw 571
+1,SC Kershaw 59
+1,SC Kershaw 592
+1,SC Kershaw 600
+1,SC Kershaw 700
+1,SC Kershaw 711
+1,SC Kershaw 731
+1,SC Kershaw 746
+1,SC Kershaw 756
+1,SC Kershaw 808
+1,SC Kershaw 81
+1,SC Kershaw 82
+1,SC Kershaw 820
+1,SC Kershaw 835
+1,SC Kershaw 89
+1,SC Kershaw 894
+1,SC Kershaw 910
+1,SC Kershaw 916
+1,SC Kershaw 96
+1,SC Kershaw 989
+1,SC Lexington 1063
+1,SC Lexington 1065
+1,SC Lexington 1082
+1,SC Lexington 113
+1,SC Lexington 115
+1,SC Lexington 124
+1,SC Lexington 1265
+1,SC Lexington 1537
+1,SC Lexington 158
+1,SC Lexington 1612
+1,SC Lexington 167
+1,SC Lexington 169
+1,SC Lexington 172
+1,SC Lexington 204
+1,SC Lexington 24
+1,SC Lexington 274
+1,SC Lexington 277
+1,SC Lexington 278
+1,SC Lexington 30
+1,SC Lexington 301
+1,SC Lexington 31
+1,SC Lexington 34
+1,SC Lexington 357
+1,SC Lexington 386
+1,SC Lexington 47
+1,SC Lexington 54
+1,SC Lexington 70
+1,SC Lexington 71
+1,SC Lexington 77
+1,SC Lexington 86
+1,SC Lexington 879
+1,SC Lexington 880
+1,SC Lexington 897
+1,SC Lexington 91
+1,SC Lexington 921
+1,SC Lexington 955
+1,SC Marlboro 113
+1,SC Marlboro 133
+1,SC Marlboro 262
+1,SC Marlboro 266
+1,SC Marlboro 267
+1,SC Marlboro 312
+1,SC Marlboro 36
+1,SC Marlboro 97
+1,SC Richland 1274
+1,SC Richland 52
+1,SC Richland 53
+1,SC Richland 955
 1,SC-102
+1,SC-11
 1,SC-118
 1,SC-12
 1,SC-121
 1,SC-126
 1,SC-151
 1,SC-16
+1,SC-172
 1,SC-177
 1,SC-19
 1,SC-191
+1,SC-20
 1,SC-210
 1,SC-216
+1,SC-223
 1,SC-23
 1,SC-230
+1,SC-24
 1,SC-245
+1,SC-247
 1,SC-254
+1,SC-303
+1,SC-31
+1,SC-33
+1,SC-336
 1,SC-34
 1,SC-341
 1,SC-39
-1,SC-391
+2,SC-391
 1,SC-392
+1,SC-41
+1,SC-420
 1,SC-421
 1,SC-48
 1,SC-6
-1,SC-67
+1,SC-61
+1,SC-63
+2,SC-65
+2,SC-67
+1,SC-71
+1,SC-79
+1,SC-81
+1,SC-86
 2,SC-9
-2,Salem 621
-1,Salem 637
-2,Schuylkill 682
-2,Schuylkill 690
-2,Schuylkill 691
-2,Schuylkill 692
-2,Schuylkill 988
-1,Somerset 601
-1,Somerset 604
-1,Somerset 608
-1,Somerset 609
-1,Somerset 620
-2,Somerset 621
-1,Somerset 626
-1,Somerset 630
-1,Somerset 637
-1,Somerset 639
-1,Somerset 652
-1,Somerset 661
-2,Somerset 665
-1,St. Johns 16a
-1,St. Johns 204
-1,St. Johns 210
-1,St. Johns 214
-1,St. Johns 312
-1,St. Johns 5a
-1,St. Lucie 605
-1,St. Lucie 611
-1,St. Lucie 614
-1,St. Lucie 615
-1,St. Lucie 68
-1,Steuben 111
-1,Suffolk 111
-1,Sullivan 111
-1,Sussex 248
-1,Sussex 249
-1,Sussex 603
-1,Sussex 604
-1,Sussex 607
-1,Sussex 611
-1,Sussex 618
-3,Sussex 621
-1,Sussex 626
-1,Sussex 630
-1,Sussex 633
-1,Sussex 636
-1,Sussex 637
-1,Sussex 645
-1,Sussex 650
-1,Sussex 652
-1,Sussex 653
-1,Sussex 654
-1,Sussex 656
-1,Sussex 669
-1,Sussex 675
+1,SD-11
+1,SD-17
+1,SD-20
+1,SD-21
+1,SD-239
+1,SD-247
+1,SD-26
+1,SD-32
+1,SD-36
+1,SD-391
+1,SD-44
+1,SD-471
+1,SD-63
+2,SD-65
+1,SD-71
+1,SD-79
+1,TN-11
 1,TN-111
+1,TN-131
+1,TN-17
+1,TN-172
+1,TN-20
+1,TN-206
+1,TN-21
 1,TN-210
 1,TN-216
-1,TN-67
+1,TN-223
+1,TN-239
+1,TN-24
+1,TN-247
+1,TN-26
+1,TN-29
+1,TN-303
+1,TN-31
+1,TN-32
+1,TN-326
+1,TN-33
+1,TN-336
+1,TN-36
+1,TN-391
+1,TN-41
+1,TN-420
+1,TN-431
+1,TN-44
+1,TN-54
+1,TN-61
+1,TN-63
+2,TN-65
+2,TN-67
+1,TN-69
+1,TN-71
+1,TN-76
+1,TN-79
+1,TN-81
+1,TN-86
+1,TN-91
+1,TX FM 11
+1,TX FM 131
+1,TX FM 17
+1,TX FM 20
+1,TX FM 21
+1,TX FM 24
+1,TX FM 247
+1,TX FM 26
+1,TX FM 29
+1,TX FM 303
+1,TX FM 31
+1,TX FM 326
+1,TX FM 33
+1,TX FM 36
+1,TX FM 41
+1,TX FM 420
+1,TX FM 431
+1,TX FM 44
+1,TX FM 471
+1,TX FM 61
+1,TX FM 632
+1,TX FM 633
+2,TX FM 65
+1,TX FM 655
+1,TX FM 67
+1,TX FM 676
+1,TX FM 71
+1,TX FM 727
+1,TX FM 729
+1,TX FM 732
+1,TX FM 76
+1,TX FM 79
+1,TX FM 794
+1,TX FM 797
+1,TX FM 81
+1,TX FM 810
+1,TX FM 813
+1,TX FM 848
+1,TX FM 857
+1,TX FM 86
+1,TX FM 861
+1,TX FM 91
+1,TX FM 976
+1,TX Loop 11
+1,TX Loop 172
+1,TX Loop 20
+1,TX Loop 21
+1,TX Loop 239
+1,TX Loop 336
+1,TX Loop 36
+1,TX Loop 44
+1,TX Loop 471
+1,TX Loop 71
+1,TX Loop 76
+1,TX Loop 79
+1,TX Park 11
+1,TX Park 17
+1,TX Park 20
+1,TX Park 21
+1,TX Park 24
+1,TX Park 29
+1,TX Park 31
+1,TX Park 32
+1,TX Park 33
+1,TX Park 36
+1,TX Park 41
+1,TX Park 44
+1,TX Park 54
+1,TX Park 61
+1,TX Park 63
+2,TX Park 65
+1,TX Park 67
+1,TX Park 69
+1,TX Park 71
+1,TX Park 76
+1,TX RE 11
+1,TX RM 32
+1,TX Spur 131
+1,TX Spur 17
+1,TX Spur 172
+1,TX Spur 206
+1,TX Spur 239
+1,TX Spur 24
+1,TX Spur 247
+1,TX Spur 26
+1,TX Spur 31
+1,TX Spur 326
+1,TX Spur 33
+1,TX Spur 471
+1,TX Spur 63
+2,TX Spur 65
+1,TX Spur 67
+1,TX Spur 69
+1,TX Spur 86
+1,TX Spur 91
+1,TX-11
 1,TX-111
 1,TX-1111
 1,TX-114
+1,TX-131
+1,TX-17
+1,TX-172
 1,TX-183
+1,TX-20
+1,TX-206
+1,TX-21
+1,TX-223
+1,TX-239
+1,TX-24
+1,TX-26
+1,TX-29
+1,TX-303 Spur
+1,TX-31
+1,TX-326
+1,TX-33
+1,TX-336
+1,TX-339
+1,TX-36
+1,TX-41
+1,TX-44
 1,TX-529
+1,TX-54
 1,TX-557
+1,TX-61
+1,TX-63
 1,TX-637
-1,TX-67
-1,Toombs 334
+2,TX-65
+2,TX-67
+1,TX-71
+1,TX-79
+1,TX-81
+1,TX-86
+1,TX-91
 1,US-10
 2,US-101
-5,US-11
-2,US-113
+6,US-11
+3,US-113
 1,US-117
 3,US-119
 5,US-13
-5,US-130
+6,US-130
+1,US-131
 5,US-15
-2,US-17
+4,US-17
+1,US-189
 1,US-192
-1,US-2
-2,US-20
-1,US-201
-6,US-202
+3,US-2
+4,US-20
+2,US-201
+8,US-202
 4,US-209
+1,US-21
 4,US-219
 6,US-22
 5,US-220
 5,US-222
-1,US-23
+1,US-223
+3,US-23
+1,US-24
 1,US-25
 1,US-258
+1,US-26
+1,US-264
 1,US-278
 1,US-287
-1,US-29
+2,US-29
 1,US-290
-2,US-3
-6,US-30
-1,US-301
+3,US-3
+7,US-30
+4,US-301
+1,US-31
 1,US-319
+1,US-31E
+1,US-31W
 7,US-322
+1,US-33
 1,US-341
-1,US-36
-2,US-360
+2,US-36
+3,US-360
 1,US-4
 8,US-40
-1,US-41
-3,US-422
-4,US-44
+1,US-401
+2,US-41
+1,US-420
+4,US-422
+1,US-431
+5,US-44
 6,US-46
-1,US-460
+2,US-460
 4,US-5
 2,US-50
 1,US-501
 1,US-52
 2,US-522
-3,US-58
-3,US-6
+1,US-54
+4,US-58
+4,US-6
 2,US-60
-1,US-61
+2,US-61
 4,US-62
+1,US-63
 1,US-64
-1,US-65
-1,US-67
+3,US-65
+2,US-67
+1,US-69
 3,US-7
 1,US-70
+1,US-71
 1,US-730
 2,US-74
+1,US-76
 2,US-78
+1,US-79
 2,US-80
+1,US-81
 1,US-82
-1,US-90
+1,US-89
+2,US-90
+1,US-91
 1,US-92
+1,US-95
 1,US-98
 1,US-9W
 1,UT-111
+1,UT-114
+1,UT-131
+1,UT-154
+1,UT-17
+2,UT-172
+1,UT-176
+1,UT-20
+1,UT-201
+1,UT-21
 1,UT-210
-1,UT-67
-1,Union 610
-1,Union 612
-3,Union 618
-3,Union 621
-1,Union 623
-2,Union 630
-1,Union 637
-1,Union 638
+1,UT-215 (UT)
+1,UT-24
+1,UT-26
+1,UT-265
+1,UT-29
+1,UT-303
+1,UT-31
+1,UT-32
+1,UT-36
+1,UT-44
+1,UT-51
+1,UT-52
+1,UT-54
+1,UT-61
+1,UT-63
+2,UT-65
+2,UT-67
+2,UT-71
+1,UT-75
+1,UT-76
+1,UT-77
+1,UT-79
+1,UT-81
+1,UT-85
+1,UT-86
+1,VA SR 611
+1,VA SR 621
+1,VA SR 632
+1,VA SR 633
 1,VA-111
+1,VA-12
+1,VA-131
+1,VA-153
 1,VA-164
 1,VA-168
+1,VA-172
+1,VA-20
+1,VA-206
+1,VA-207
 1,VA-210
 1,VA-216
-1,VA-288
+1,VA-223
+1,VA-239
+1,VA-24
+1,VA-247
+2,VA-288
 1,VA-3
-1,VA-33
-1,VA-621
+1,VA-303
+1,VA-31
+1,VA-32
+1,VA-326
+2,VA-33
+1,VA-336
+1,VA-339
+1,VA-36
+1,VA-391
+1,VA-41
+1,VA-420
+1,VA-46
+1,VA-5
+1,VA-54
+1,VA-61
+1,VA-63
 1,VA-637
-1,VA-67
-1,VA-76
+2,VA-65
+2,VA-67
+1,VA-69
+1,VA-71
+3,VA-76
+1,VA-79
+1,VA-86
+1,VA-91
 3,VT-100
+1,VT-11
 1,VT-111
+1,VT-131
+1,VT-17
+1,VT-26
 3,VT-279
-1,VT-67
+1,VT-31
+1,VT-36
+1,VT-44
+1,VT-63
+2,VT-65
+2,VT-67
+1,VT-67A
 3,VT-9
-1,Volusia 2813
-1,Volusia 2820
-1,Volusia 3
-1,Volusia 4019
-1,Volusia 4040
-1,Volusia 4050
-1,Volusia 4068
-1,Volusia 4072
-1,Volusia 4079
-1,Volusia 4093
-1,Volusia 4135
-1,Volusia 4136
-1,Volusia 4147
-1,Volusia 4164
-1,Volusia 421
-1,Volusia 430
-1,Volusia a1a
+1,WA-11
 1,WA-111
+1,WA-131
+1,WA-17
+1,WA-172
+1,WA-20
+1,WA-206
+1,WA-21
+1,WA-223
+1,WA-24
+1,WA-26
+1,WA-303
+1,WA-31
+1,WA-339
+1,WA-41
+1,WA-431
 1,WA-529
+1,WI-11
 1,WI-111
-1,WI-67
+1,WI-131
+1,WI-17
+1,WI-172
+1,WI-20
+1,WI-21
+1,WI-24
+1,WI-26
+1,WI-29
+1,WI-31
+1,WI-32
+1,WI-33
+1,WI-36
+1,WI-44
+1,WI-54
+2,WI-65
+2,WI-67
+1,WI-69
+1,WI-71
+1,WI-76
+1,WI-79
+1,WI-794
+1,WI-81
+1,WI-86
+1,WI-91
+1,WV Jackson 21
+1,WV Kanawha 21
+1,WV Wirt 21
+1,WV Wood 21
+1,WV-131
+1,WV-17
+1,WV-20
 1,WV-210
-1,WV-67
+1,WV-24
+1,WV-26
+1,WV-29
+1,WV-31
+1,WV-32
+1,WV-33
+1,WV-36
+1,WV-41
+1,WV-44
+1,WV-54
+1,WV-61
+1,WV-63
+2,WV-65
+2,WV-67
+1,WV-69
+1,WV-71
+1,WV-76
+1,WV-79
+1,WV-86
+1,WY Hot Springs 6
+1,WY-11
 1,WY-111
+1,WY-131
 1,WY-210
 1,WY-216
-1,Ware 42
-1,Ware 94
-1,Warren 621
-1,Warren 627
-1,Warren 632
-1,Warren 637
-1,Warren 678
-2,cr 506
-3,cr 508
-5,cr 510
-2,cr 513
-2,cr 514
-1,cr 516
-2,cr 517
-3,cr 519
-6,cr 520
-3,cr 522
-3,cr 524
-5,cr 526
-8,cr 527
-3,cr 528
-1,cr 529
-2,cr 530
-3,cr 533
-4,cr 535
-2,cr 536
-7,cr 537
-1,cr 538
-3,cr 539
-1,cr 546
-3,cr 547
-1,cr 549
-2,cr 551
-4,cr 553
-2,cr 561
-1,cr 571
-2,cr 577
-3,cr 583
+1,WY-223
+1,WY-239
+1,WY-24
+1,WY-26
+1,WY-31
+1,WY-32
+1,WY-33
+1,WY-336
+1,WY-339
+1,WY-36
+1,WY-391
+1,WY-431
+1,WY-71
+1,WY-76
+1,WY-789
+1,WY-91
+1,ΝJ-63
+1,ΝΕ-63
+1,ΝΗ-63
