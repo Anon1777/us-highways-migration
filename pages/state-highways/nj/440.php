@@ -200,6 +200,6 @@
                     <td class="content text-dark small">40.22 km<br><h4 class="small incr">+ 3.35 km</h4></td>
                     <td class="content text-dark"><a href="../../us-highways/1.php/#njus1localuneshu">US-1 Local</a> (concurrent with <a href="../../us-highways/9.php/#njus9localuneshu">US-9 Local</a>) (WB & NB)<br><a href="../../secondary-roads/nj/hu/612.php">Hudson CR 612 - Communipaw Ave</a>, Jersey City, New Jersey 07304</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route<br>End NJ-440 in New Jersey<br>End Hudson County</td>
+                    <td class="content text-dark">End NJ-440 in New Jersey<br>End Hudson County<br>End of Route</td>
                 </tr>
                 <?php include "../../../static/bottom.php"; ?>

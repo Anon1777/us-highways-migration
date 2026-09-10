@@ -11,7 +11,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="../../us-highways/50.php">US-50 - Ocean Gtwy</a>, Ocean City, Maryland 21842</td>
                     <td class="content text-dark">Philadelphia Ave (SB) / Baltimore Ave (NB), Ocean City, Maryland 21842</td>
-                    <td class="content text-dark">Start of Route<br>Start concurrency with MD-378</td>
+                    <td class="content text-dark">Start of Route<br>Start Worcester County<br>Start concurrency with MD-378</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.62 mi<br><h4 class="small incr">+ 0.62 mi</h4></td>
@@ -52,7 +52,7 @@
                     <td class="content text-dark small">8.55 mi<br><h4 class="small incr">+ 4.65 mi</h4></td>
                     <td class="content text-dark small">13.78 km<br><h4 class="small incr">+ 7.48 km</h4></td>
                     <td class="content text-dark"><a href="../de/1.php">DE-1 - Coastal Hwy</a>, Fenwick Island, Delaware 19944</td>
-                    <td class="content text-dark">Coastal Hwy, Fenwick Island, Delaware 19944</td>
-                    <td class="content text-dark">End of Route</td>
+                    <td class="content text-dark"></td>
+                    <td class="content text-dark">End Worcester County<br>End of Route</td>
                 </tr>
                 <?php include "../../../static/bottom.php"; ?>

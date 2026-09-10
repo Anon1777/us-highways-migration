@@ -11,7 +11,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="../../interstates/95.php">I-95 - New Jersey Tpke</a>, East Windsor, New Jersey 08520</td>
                     <td class="content text-dark">Hightstown Byp, East Windsor, New Jersey 08520</td>
-                    <td class="content text-dark">Start of Route</td>
+                    <td class="content text-dark">Start of Route<br>Start Mercer County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.52 mi<br><h4 class="small incr">+ 0.52 mi</h4></td>
@@ -46,6 +46,6 @@
                     <td class="content text-dark small">6.66 km<br><h4 class="small incr">+ 2.62 km</h4></td>
                     <td class="content text-dark"><a href="../../secondary-roads/nj/571.php">US-130</a>, East Windsor, New Jersey 08520</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route</td>
+                    <td class="content text-dark">End Mercer County<br>End of Route</td>
                 </tr>
                 <?php include "../../../static/bottom.php"; ?>

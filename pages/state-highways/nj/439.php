@@ -11,7 +11,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="../../interstates/auxiliary/njny-278.php">I-278 (EB) - Goethals Brg</a>, Elizabeth, New Jersey 07202</td>
                     <td class="content text-dark">Bayway, Elizabeth, New Jersey 07202</td>
-                    <td class="content text-dark">Start of Route</td>
+                    <td class="content text-dark">Start of Route<br>Start Union County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.14 mi<br><h4 class="small incr">+ 0.14 mi</h4></td>
@@ -137,6 +137,6 @@
                     <td class="content text-dark small">6.58 km<br><h4 class="small incr">+ 0.49 km</h4></td>
                     <td class="content text-dark"><a href="27.php">NJ-27 - Newark Ave</a>, Elizabeth, New Jersey </td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route</td>
+                    <td class="content text-dark">End Union County<br>End of Route</td>
                 </tr>
 <?php include "../../../static/bottom.php"; ?>

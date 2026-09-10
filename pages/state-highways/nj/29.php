@@ -277,6 +277,6 @@
                     <td class="content text-dark small">55.87 km<br><h4 class="small incr">+ 1.02 km</h4></td>
                     <td class="content text-dark"><a href="12.php">NJ-12 - Bridge St (WB) / Race St (EB)</a>, Frenchtown, New Jersey 08825</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route</td>
+                    <td class="content text-dark">End Hunterdon County<br>End of Route</td>
                 </tr>
 <?php include "../../../static/bottom.php"; ?>

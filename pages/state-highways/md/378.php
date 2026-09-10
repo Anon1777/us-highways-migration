@@ -11,7 +11,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="../../us-highways/50.php">US-50 - Ocean Gtwy</a>, Ocean City, Maryland 21842</td>
                     <td class="content text-dark">Philadelphia Ave (SB) / Baltimore Ave (NB), Ocean City, Maryland 21842</td>
-                    <td class="content text-dark">Start of Route<br>Start concurrency with MD-528</td>
+                    <td class="content text-dark">Start of Route<br>Start Worcester County<br>Start concurrency with MD-528</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.62 mi<br><h4 class="small incr">+ 0.62 mi</h4></td>
@@ -39,6 +39,6 @@
                     <td class="content text-dark small">3.63 km<br><h4 class="small incr">+ 0.09 km</h4></td>
                     <td class="content text-dark"><a href="528.php">MD-528 - Philadelphia Ave</a>, Ocean City, Maryland 21842</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route</td>
+                    <td class="content text-dark">End Worcester County<br>End of Route</td>
                 </tr>
                 <?php include "../../../static/bottom.php"; ?>

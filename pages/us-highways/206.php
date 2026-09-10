@@ -1175,7 +1175,7 @@
                     <td class="content text-dark small">211.78 km<br><h4 class="small incr">+ 0.73 km</h4></td>
                     <td class="content text-dark"><a href="6.php">US-6 - W Hartford Rd (WB)</a>, Milford, Pennsylvania 18337<br><a href="209.php">US-209 - Grand Army of the Republic Hwy (EB)</a> (concurrent with <a href="6.php">US-6</a>), Milford, Pennsylvania, 18337</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End concurrency with US-209<br>End of Route</td>
+                    <td class="content text-dark">End US-206 in Pennsylvania<br>End Pike County<br>End concurrency with US-209<br>End of Route</td>
                 </tr>
                 </tbody>
 <?php include "../../static/endtable.php"; ?>

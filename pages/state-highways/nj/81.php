@@ -11,13 +11,13 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="../../interstates/95.php">I-95 - New Jersey Tpke</a>, Elizabeth, New Jersey 07201</td>
                     <td class="content text-dark">NJ-81, Elizabeth, New Jersey 07201</td>
-                    <td class="content text-dark">Start of Route</td>
+                    <td class="content text-dark">Start of Route<br>Start Union County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">1.12 mi<br><h4 class="small incr">+ 1.12 mi</h4></td>
                     <td class="content text-dark small">1.80 km<br><h4 class="small incr">+ 1.80 km</h4></td>
                     <td class="content text-dark"></td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route</td>
+                    <td class="content text-dark">End Union County<br>End of Route</td>
                 </tr>
                 <?php include "../../../static/bottom.php"; ?>

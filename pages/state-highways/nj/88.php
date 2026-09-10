@@ -11,7 +11,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="../../us-highways/9.php">US-9 - Madison Ave</a> (concurrent with <a href="../../secondary-roads/nj/547.php">Monmouth CR 547</a>), Lakewood, New Jersey 08701</td>
                     <td class="content text-dark">Main St, Lakewood, New Jersey 08701</td>
-                    <td class="content text-dark">Start of Route</td>
+                    <td class="content text-dark">Start of Route<br>Start Ocean County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.45 mi<br><h4 class="small incr">+ 0.45 mi</h4></td>
@@ -88,6 +88,6 @@
                     <td class="content text-dark small">15.76 km<br><h4 class="small incr">+ 3.90 km</h4></td>
                     <td class="content text-dark"><a href="35.php">NJ-35 - Sea Ave</a>, Point Pleasant Beach, New Jersey 08742</td>
                     <td class="content text-dark">Ocean Rd, Point Pleasant Beach, New Jersey 08742</td>
-                    <td class="content text-dark">End of Route</td>
+                    <td class="content text-dark">End Ocean County<br>End of Route</td>
                 </tr>
             <?php include "../../../static/bottom.php"; ?>

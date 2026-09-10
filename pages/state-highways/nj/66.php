@@ -11,7 +11,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="33.php">NJ-33 (EB)</a>, Tinton Falls, New Jersey 07712</td>
                     <td class="content text-dark">NJ-66, Tinton Falls, New Jersey 07712</td>
-                    <td class="content text-dark">Start of Route</td>
+                    <td class="content text-dark">Start of Route<br>Start Monmouth County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.12 mi<br><h4 class="small incr">+ 0.12 mi</h4></td>
@@ -67,6 +67,6 @@
                     <td class="content text-dark small">6.03 km<br><h4 class="small incr">+ 1.10 km</h4></td>
                     <td class="content text-dark"><a href="35.php">NJ-35 (SB)</a>, Neptune Township, New Jersey 07753</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route</td>
+                    <td class="content text-dark">End Monmouth County<br>End of Route</td>
                 </tr>
 <?php include "../../../static/bottom.php"; ?>

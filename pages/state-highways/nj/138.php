@@ -10,7 +10,7 @@
                     <td class="content text-dark small">0.00 km</td>
                     <td class="content text-dark"><a href="../../interstates/auxiliary/nj-195.php">I-195 - Central Jersey Expy</a>, Wall Township, New Jersey 07727 (EB)<br><a href="34.php">NJ-34</a>, Wall Township, New Jersey 07727 (SB/NB)</td>
                     <td class="content text-dark">NJ-138, Wall Township, New Jersey 07727</td>
-                    <td class="content text-dark">Start of Route</td>
+                    <td class="content text-dark">Start of Route<br>Start Monmouth County</td>
                 </tr>
                 <tr>
                     <td class="content text-dark small">0.28 mi<br><h4 class="small incr">+ 0.28 mi</h4></td>
@@ -45,6 +45,6 @@
                     <td class="content text-dark small">5.14 km<br><h4 class="small incr">+ 2.19 km</h4></td>
                     <td class="content text-dark"><a href="35.php">NJ-35</a>, Wall Township, New Jersey 07727</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route</td>
+                    <td class="content text-dark">End Monmouth County<br>End of Route</td>
                 </tr>
             <?php include "../../../static/bottom.php"; ?>

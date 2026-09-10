@@ -739,6 +739,6 @@
                     <td class="content text-dark small">203.08 km<br><h4 class="small incr">+ 0.85 km</h4></td>
                     <td class="content text-dark"><a href="../../secondary-roads/pa/ce/1001.php">Centre QR 1001 - Howard Divide Rd (NB)</a>, Howard, Pennsylvania 16841<br><a href="150.php">PA-150 - N Eagle Valley Rd (WB/EB)</a>, Howard, Pennsylvania 16841</td>
                     <td class="content text-dark"></td>
-                    <td class="content text-dark">End of Route</td>
+                    <td class="content text-dark">End Centre County<br>End of Route</td>
                 </tr>
                 <?php include '../../../static/bottom.php'; ?>
