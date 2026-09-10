@@ -3871,6 +3871,34 @@
                             <td class="content text-dark">Frank Koenig Blvd, Ulster, New York 12401</td>
                             <td class="content text-dark"></td>
                         </tr>
+                        <tr>
+                            <td class="content text-dark small">85.62 mi<br><h4 class="small incr">+ 0.06 mi</h4></td>
+                            <td class="content text-dark small">137.82 km<br><h4 class="small incr">+ 0.10 km</h4></td>
+                            <td class="content text-dark">US-9W - Flatbush Rd (concurrent with <a href="../state-highways/ny/32.php">NY-32</a>), Ulster, New York 12401 (WB)<br><a href="../state-highways/ny/32.php">NY-32 - Flatbush Rd</a>, Ulster, New York 12401 (EB)</td>
+                            <td class="content text-dark">Flatbush Rd, Ulster, New York 12401</td>
+                            <td class="content text-dark">Start concurrency with NY-32</td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">85.86 mi<br><h4 class="small incr">+ 0.24 mi</h4></td>
+                            <td class="content text-dark small">138.21 km<br><h4 class="small incr">+ 0.39 km</h4></td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark">Flatbush Rd, Kingston, New York 12401</td>
+                            <td class="content text-dark"></td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">85.90 mi<br><h4 class="small incr">+ 0.04 mi</h4></td>
+                            <td class="content text-dark small">138.27 km<br><h4 class="small incr">+ 0.06 km</h4></td>
+                            <td class="content text-dark">US-9W - E Chester St, Kingston, New York 12401</td>
+                            <td class="content text-dark">E Chester St, Kingston, New York 12401</td>
+                            <td class="content text-dark">End concurrency with NY-32</td>
+                        </tr>
+                        <tr>
+                            <td class="content text-dark small">86.03 mi<br><h4 class="small incr">+ 0.13 mi</h4></td>
+                            <td class="content text-dark small">138.48 km<br><h4 class="small incr">+ 0.21 km</h4></td>
+                            <td class="content text-dark"></td>
+                            <td class="content text-dark">E Chester St, Ulster, New York 12401</td>
+                            <td class="content text-dark"></td>
+                        </tr>
                     </tbody>
                 </section>
                 </section>
